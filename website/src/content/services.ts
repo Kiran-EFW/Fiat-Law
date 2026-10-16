@@ -36,14 +36,14 @@ export const services: Service[] = [
     strapline: "Branch or subsidiary, incorporation, identity verification, registered office, company secretarial",
     problem: "We need a UK company. We are not sure what kind, where, or what it commits us to.",
     reality: [
-      "Incorporation itself is a commodity — a formation agent will do it for under two hundred pounds and their interface is better than any law firm's. What is not a commodity is the set of decisions taken in the ten minutes before you press submit, because several of them are expensive to reverse and one or two of them are not reversible at all.",
+      "Incorporation itself is a commodity. A formation agent will do it for under two hundred pounds and their interface is better than any law firm's. What is not a commodity is the set of decisions taken in the ten minutes before you press submit, because several of them are expensive to reverse and one or two of them are not reversible at all.",
       "Branch or subsidiary is the first. A UK establishment of an Indian company files the Indian parent's accounts at Companies House, where any customer, competitor or counterparty can read them; a subsidiary does not. Share structure is the second: a single ordinary class is fine until the moment you want to give a UK managing director equity without giving them votes, and by then you are amending articles and filing forms.",
-      "Then there is the address. Section 86 of the Companies Act 2006 requires an appropriate address — one where a document delivered by hand or post would come to the attention of someone acting for the company, and where delivery can be acknowledged. PO boxes no longer qualify. If the company is later sponsoring a visa, a Home Office compliance officer may attend that address unannounced under paragraph L8.20 of the sponsor guidance. An address that cannot survive that visit is worse than no address.",
+      "Then there is the address. Section 86 of the Companies Act 2006 requires an appropriate address, one where a document delivered by hand or post would come to the attention of someone acting for the company and where delivery can be acknowledged. PO boxes no longer qualify. If the company is later sponsoring a visa, a Home Office compliance officer may attend that address unannounced under paragraph L8.20 of the sponsor guidance. An address that cannot survive that visit is worse than no address.",
     ],
     traps: [
       {
-        title: "A UK-resident director is not required — and a nominee cannot be your Authorising Officer",
-        body: "Section 155 of the Companies Act 2006 requires at least one director who is a natural person. It does not require a UK resident. Anyone selling you a resident director on the basis that the law demands one is selling you something you do not need. And if you intend to sponsor a visa, note that paragraph L4.33 of the sponsor guidance requires the Authorising Officer to be a paid member of your staff or an office holder — you cannot appoint a representative from another organisation to that role. A nominee arrangement will not carry the licence.",
+        title: "A UK-resident director is not required, and a nominee cannot be your Authorising Officer",
+        body: "Section 155 of the Companies Act 2006 requires at least one director who is a natural person. It does not require a UK resident. Anyone selling you a resident director on the basis that the law demands one is selling you something you do not need. And if you intend to sponsor a visa, note that paragraph L4.33 of the sponsor guidance requires the Authorising Officer to be a paid member of your staff or an office holder. You cannot appoint a representative from another organisation to that role. A nominee arrangement will not carry the licence.",
       },
       {
         title: "Identity verification is now a dated obligation, not a formality",
@@ -55,7 +55,7 @@ export const services: Service[] = [
       },
     ],
     work: [
-      { title: "Structure advice", body: "Branch versus subsidiary, share classes, articles, shareholder and parent arrangements — decided before incorporation, not after." },
+      { title: "Structure advice", body: "Branch versus subsidiary, share classes, articles, shareholder and parent arrangements, decided before incorporation." },
       { title: "Incorporation", body: "The company formed on the structure agreed, with articles that reflect it." },
       { title: "Identity verification", body: "ECCTA verification for directors and PSCs resident in India, coordinated end to end.", requires: "acspRegistered" },
       { title: "Registered office", body: "A real, staffed, inspectable London address that satisfies section 86 and survives a Home Office visit.", requires: "tcspSupervised" },
@@ -85,24 +85,24 @@ export const services: Service[] = [
       },
       {
         title: "Service Supplier requires the UK client to be the A-rated sponsor",
-        body: "Paragraphs 5.2 to 5.4 of the Service Supplier route require the UK party receiving the service to hold the A-rated sponsor licence — not the Indian supplier. A good deal of published commentary states the opposite. If your UK counterparty is not a sponsor, this route is not open to you and the mobility provisions of the trade agreement will not fix it.",
+        body: "Paragraphs 5.2 to 5.4 of the Service Supplier route require the UK party receiving the service to hold the A-rated sponsor licence, not the Indian supplier. A good deal of published commentary states the opposite. If your UK counterparty is not a sponsor, this route is not open to you and the mobility provisions of the trade agreement will not fix it.",
       },
       {
         title: "The Immigration Skills Charge was uplifted",
         body: "From 16 December 2025 the charge is £480 per twelve months for small and charitable sponsors and £1,320 for all others. The £364 and £1,000 figures still circulating in competitor material are out of date, and a licence budget built on them will be materially wrong.",
       },
       {
-        title: "The Double Contribution Convention runs 60 months — but the first year was already free",
+        title: "The Double Contribution Convention runs 60 months, and the first year was already free",
         body: "The convention was extended from 36 to 60 months by SI 2026/794. The genuinely valuable period is months 13 to 60, because regulations 145(2) and 146 of the Social Security (Contributions) Regulations 2001 already gave a unilateral 52-week exemption. There is also a transitional trap: an employee already on a UK assignment on 15 July 2026 is not a detached worker for the purposes of Article 7(2).",
       },
     ],
     work: [
-      { title: "Route selection", body: "An honest assessment of which route fits — including telling you when you do not need a sponsor licence at all.", requires: "immigrationAdvice" },
+      { title: "Route selection", body: "An honest assessment of which route fits, including telling you when you do not need a sponsor licence at all.", requires: "immigrationAdvice" },
       { title: "Sponsor licence", body: "Application, supporting evidence, Authorising Officer and Key Personnel structure, and the systems a compliance visit will ask to see.", requires: "immigrationAdvice" },
       { title: "UK Expansion Worker", body: "The route into the market, planned alongside incorporation so the Companies House number arrives when the application needs it.", requires: "immigrationAdvice" },
       { title: "Senior or Specialist Worker", body: "Intra-group transfers, and the conversion off the Expansion Worker licence before the two-year cliff.", requires: "immigrationAdvice" },
-      { title: "Global Talent and Innovator Founder", body: "For founders and individuals — routes that need no sponsor, no UK entity and no job offer.", requires: "immigrationAdvice" },
-      { title: "Compliance", body: "Right to work, reporting duties, record keeping and audit readiness — before the visit, not after it.", requires: "immigrationAdvice" },
+      { title: "Global Talent and Innovator Founder", body: "For founders and individuals, on routes that need no sponsor, no UK entity and no job offer.", requires: "immigrationAdvice" },
+      { title: "Compliance", body: "Right to work, reporting duties, record keeping and audit readiness, settled before the visit rather than after it.", requires: "immigrationAdvice" },
     ],
     capacity: "solicitor",
     segments: ["bridgehead", "establisher", "principal"],
@@ -116,7 +116,7 @@ export const services: Service[] = [
     strapline: "Shareholders' agreements, share purchase, distribution and agency, commercial contracts",
     problem: "We need the documents that hold the UK business together, drafted so they work here.",
     reality: [
-      "English law is chosen as the governing law of a very large share of the world's cross-border commercial contracts, and Indian parties choose it constantly — often without appreciating that the reason it is chosen is that English courts hold parties to what they wrote. There is limited scope for arguing that the commercial substance was different from the drafting.",
+      "English law is chosen as the governing law of a very large share of the world's cross-border commercial contracts, and Indian parties choose it constantly, often without appreciating that the reason it is chosen is that English courts hold parties to what they wrote. There is limited scope for arguing that the commercial substance was different from the drafting.",
       "That cuts both ways. A well-drafted English law agreement is a reliable instrument. A contract adapted from an Indian template, or a UK precedent bought online and filled in, tends to fail at the points that matter most: limitation of liability, termination, intellectual property ownership, and what happens when a shareholder wants out.",
       "The shareholders' agreement is the one most often skipped and most expensive to skip. Two founders who agree about everything do not need one until they disagree about one thing, and by then the negotiating leverage has already been allocated by the articles they never read.",
     ],
@@ -131,7 +131,7 @@ export const services: Service[] = [
       },
     ],
     work: [
-      { title: "Shareholders' agreements", body: "Control, reserved matters, deadlock, vesting, leavers, exit — negotiated before they are needed." },
+      { title: "Shareholders' agreements", body: "Control, reserved matters, deadlock, vesting, leavers and exit, negotiated before they are needed." },
       { title: "Articles of association", body: "Drafted to match the agreement, not the default model articles." },
       { title: "Commercial contracts", body: "Supply, services, distribution, agency, licensing and framework agreements under English law." },
       { title: "Share purchase and subscription", body: "Investment rounds, transfers, buy-backs and reorganisations." },
@@ -152,7 +152,7 @@ export const services: Service[] = [
     reality: [
       "Acquiring an established UK business is frequently faster and cheaper than building one: the customers, the accreditations, the staff and the trading history already exist, and the trading history is what the bank wanted to see before it would open the account. For an Indian corporate with capital and no UK footprint, it is a serious alternative to organic entry rather than a separate strategy.",
       "The work that determines whether the deal was a good one is done before signing, and most of it is unglamorous. Reading the disclosure letter against the warranties line by line. Establishing what the employees are actually entitled to. Finding the change-of-control clause in the largest customer contract. Checking whether the pension scheme has a deficit and who is on the hook for it.",
-      "Then there is screening. The National Security and Investment Act 2021 makes notification mandatory for acquisitions in seventeen sensitive sectors, and the definitions are considerably broader than the sector names suggest — advanced materials, computing hardware, data infrastructure and critical suppliers to government catch businesses that do not think of themselves as sensitive at all. Completing without clearance where clearance was required makes the transaction void.",
+      "Then there is screening. The National Security and Investment Act 2021 makes notification mandatory for acquisitions in seventeen sensitive sectors, and the definitions are considerably broader than the sector names suggest. Advanced materials, computing hardware, data infrastructure and critical suppliers to government catch businesses that do not think of themselves as sensitive at all. Completing without clearance where clearance was required makes the transaction void.",
     ],
     traps: [
       {
@@ -194,7 +194,7 @@ export const services: Service[] = [
     traps: [
       {
         title: "For a non-established taxable person the VAT threshold is nil",
-        body: "The £90,000 registration threshold applies to businesses established in the UK. If your business is not established here — selling into the UK from India without a fixed establishment — you must register for VAT from your first taxable supply. There is no threshold at all. This is the single most common and most expensive misunderstanding among Indian exporters entering the UK.",
+        body: "The £90,000 registration threshold applies to businesses established in the UK. If your business is not established here, selling into the UK from India without a fixed establishment, you must register for VAT from your first taxable supply. There is no threshold at all. This is the single most common and most expensive misunderstanding among Indian exporters entering the UK.",
       },
       {
         title: "A UK subsidiary of an Indian parent may not qualify as small",
@@ -202,7 +202,7 @@ export const services: Service[] = [
       },
     ],
     work: [
-      { title: "Registrations", body: "Corporation tax, PAYE, VAT and the Construction Industry Scheme where relevant — in the right order." },
+      { title: "Registrations", body: "Corporation tax, PAYE, VAT and the Construction Industry Scheme where relevant, taken in the right order." },
       { title: "Payroll", body: "Monthly payroll, Real Time Information submissions, pension auto-enrolment, P60s and P11Ds." },
       { title: "VAT", body: "Registration including for non-established taxable persons, returns, and Making Tax Digital compliance." },
       { title: "Statutory accounts", body: "Annual accounts prepared and filed, and the corporation tax return." },
@@ -221,18 +221,18 @@ export const services: Service[] = [
     strapline: "Rules of origin, self-certification, tariff preference, customs, CBAM readiness",
     problem: "The trade agreement is in force. We want the tariff benefit and we do not want it clawed back.",
     reality: [
-      "The India–UK Comprehensive Economic and Trade Agreement entered into force on 15 July 2026. On the UK side the tariff reductions took effect immediately, with no phase-in — which is unusual, and which means the benefit is available on the next shipment rather than in five years.",
+      "The India–UK Comprehensive Economic and Trade Agreement entered into force on 15 July 2026. On the UK side the tariff reductions took effect immediately, with no phase-in. That is unusual, and it means the benefit is available on the next shipment rather than in five years.",
       "Preference is not automatic. It has to be claimed, and the claim has to be supported by origin. Getting origin right is a documentary discipline that starts at your supplier, not at the border: you need to know the tariff classification of the finished good, the origin status of every material input, and which of the applicable origin rules you are satisfying. Self-certification puts that responsibility on the exporter, and the records have to be retained and produced if the claim is verified years later.",
       "There is also a live drafting conflict worth knowing about between condition 3 of DGFT Public Notice 19/2026-27 and Rule 16(1)(b) of Notification 62/2026-Customs (N.T.). Where two instruments do not sit together cleanly, the safe course is to build the file that satisfies both.",
     ],
     traps: [
       {
         title: "A preference claim that fails verification is recovered with interest",
-        body: "Customs authorities verify. If the origin evidence does not support the claim, the duty is recovered — from the importer, with interest, and potentially across every prior consignment within the retention period. The saving is real, but it is a saving on a documented claim, not on an assumed one.",
+        body: "Customs authorities verify. If the origin evidence does not support the claim, the duty is recovered from the importer, with interest, and potentially across every prior consignment within the retention period. The saving is real, but it is a saving on a documented claim rather than an assumed one.",
       },
       {
         title: "The agreement contains no carbon border provision at all",
-        body: "The UK's Carbon Border Adjustment Mechanism starts on 1 January 2027, covering aluminium, cement, fertiliser, hydrogen and iron and steel. There is no India exemption in CETA — the agreement is silent on the subject. Exporters in those five sectors should be modelling the effect on their landed cost now, because the tariff advantage and the carbon charge move in opposite directions.",
+        body: "The UK's Carbon Border Adjustment Mechanism starts on 1 January 2027, covering aluminium, cement, fertiliser, hydrogen and iron and steel. There is no India exemption in CETA; the agreement is silent on the subject. Exporters in those five sectors should be modelling the effect on their landed cost now, because the tariff advantage and the carbon charge move in opposite directions.",
       },
       {
         title: "Procurement is open but not enforceable yet",

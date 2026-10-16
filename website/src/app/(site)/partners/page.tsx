@@ -17,7 +17,7 @@ export const metadata = pageMeta({
 const referrers = [
   {
     title: "Indian law firms",
-    body: "You hold the client relationship and the Indian law. We take the English law elements — entity, contracts, immigration, acquisitions — and hand them back with the client relationship intact. We do not advise on Indian law and we do not compete for your mandate.",
+    body: "You hold the client relationship and the Indian law. We take the English law elements, being entity, contracts, immigration and acquisitions, and hand them back with the client relationship intact. We do not advise on Indian law and we do not compete for your mandate.",
   },
   {
     title: "Chartered accountants and CA firms",
@@ -62,7 +62,7 @@ export default function PartnersPage() {
       <PageHero
         eyebrow="Partners and referrals"
         title="A boutique is only useful if it knows where its edges are."
-        lede="Fiat Law does one corridor. Everything outside it — Indian law, audit, transfer pricing, specialist tax, property, recruitment — is done by people who do that for a living, either yours or ours. This page is how that works in practice."
+        lede="Fiat Law does one corridor. Everything outside it, being Indian law, audit, transfer pricing, specialist tax, property and recruitment, is done by people who do that for a living, either yours or ours. This page is how that works in practice."
         aside={
           <div className="border-l-2 border-crimson-600 pl-5">
             <p className="text-[0.6875rem] font-medium uppercase tracking-[0.14em] text-stone-500">Already advising</p>
@@ -178,7 +178,7 @@ export default function PartnersPage() {
                 <Link href="/uk-entry-brief" className="text-crimson-600 underline underline-offset-4">
                   UK Entry Brief
                 </Link>{" "}
-                is faster — it produces a written position your client can read before anyone speaks.
+                is faster, because it produces a written position your client can read before anyone speaks.
               </p>
             </div>
             <div>

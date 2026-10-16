@@ -25,7 +25,7 @@ export function Footer() {
               <h2 className="text-display-sm sm:text-display-md">Tell us where you are, and we will tell you what happens next.</h2>
               <p className="mt-5 text-[1.0625rem] leading-relaxed text-bone/65">
                 Six questions. Four minutes. You receive a written UK Entry Brief setting out the route that fits, the
-                sequence, the realistic timeline and the specific obstacles your position will hit — before you speak to
+                sequence, the realistic timeline and the specific obstacles your position will hit, before you speak to
                 anyone.
               </p>
             </div>

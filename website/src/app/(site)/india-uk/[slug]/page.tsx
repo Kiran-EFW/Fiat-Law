@@ -101,7 +101,7 @@ export default async function CetaArticlePage({ params }: { params: Promise<{ sl
                   Apply this to your position
                 </p>
                 <p className="mt-3 text-[0.9375rem] leading-relaxed text-stone-600">
-                  Six questions. You get the route, the sequence and the obstacles specific to you — including the ones
+                  Six questions. You get the route, the sequence and the obstacles specific to you, including the ones
                   on this page that actually bite.
                 </p>
                 <Link
@@ -140,7 +140,7 @@ export default async function CetaArticlePage({ params }: { params: Promise<{ sl
         <Container width="narrow" className="text-center">
           <h2 className="text-display-sm sm:text-display-md">Take the next step with someone accountable for it.</h2>
           <p className="measure mx-auto mt-6 text-[1.0625rem] leading-relaxed text-bone/65">
-            {firm.principal.name} — solicitor, admitted {firm.principal.admitted} — reads every brief personally
+            {firm.principal.name}, solicitor, admitted {firm.principal.admitted}, reads every brief personally
             before the call.
           </p>
           <div className="mt-9 flex flex-wrap justify-center gap-4">

@@ -30,7 +30,7 @@ const PATH = "/india-uk/tariff-lookup";
 
 const TITLE = "CETA tariff and origin lookup";
 const DESCRIPTION =
-  "Enter a commodity code and read the United Kingdom's actual commitment on it under the India–UK trade agreement — duty-free, quota, or excluded — alongside the rule of origin the goods must satisfy. Quoted from Appendix 2A-b and Annex 3A.";
+  "Enter a commodity code and read the United Kingdom's actual commitment on it under the India–UK trade agreement, being duty-free, quota or excluded, alongside the rule of origin the goods must satisfy. Quoted from Appendix 2A-b and Annex 3A.";
 
 export async function generateMetadata({ searchParams }: { searchParams: Promise<{ code?: string }> }) {
   const { code } = await searchParams;
@@ -45,7 +45,7 @@ export async function generateMetadata({ searchParams }: { searchParams: Promise
   // one page, not a page of its own, and a few hundred thousand query URLs in
   // the index would be worth nothing to anyone.
   return pageMeta({
-    title: `HS ${pretty} — ${verdict}`,
+        title: `HS ${pretty}: ${verdict}`,
     description: `The United Kingdom's tariff commitment on commodity code ${pretty} for originating goods of India under CETA, and the Annex 3A rule of origin that applies. ${DESCRIPTION}`,
     path: PATH,
     eyebrow: "Tariff lookup",
@@ -93,7 +93,7 @@ function Result({ input }: { input: string }) {
   if (!parsed) {
     return (
       <Note title="That is not a commodity code.">
-        A commodity code is between two and ten digits. Enter at least the two-digit chapter — <Ex code="61" /> for
+        A commodity code is between two and ten digits. Enter at least the two-digit chapter, <Ex code="61" /> for
         knitted apparel, <Ex code="8703" /> for passenger cars, <Ex code="0904" /> for pepper and spices.
       </Note>
     );
@@ -141,7 +141,7 @@ function Result({ input }: { input: string }) {
             <dl className="mt-6 border-t border-stone-300/70 pt-5 text-[0.875rem] leading-relaxed">
               <dt className="text-[0.6875rem] uppercase tracking-[0.12em] text-stone-500">Schedule line</dt>
               <dd className="mt-1.5 text-stone-700">
-                <span className="font-mono text-ink">{tariff.matched.code}</span> — {tariff.matched.description}
+                <span className="font-mono text-ink">{tariff.matched.code}</span>: {tariff.matched.description}
               </dd>
             </dl>
             {tariff.broader ? (
@@ -155,7 +155,7 @@ function Result({ input }: { input: string }) {
         ) : (
           <Note title="Appendix 2A-b does not list this line.">
             <p>
-              Six chapters — meat, dairy, cereals, meat preparations, sugar and vehicles — are scheduled heading by
+              Six chapters, being meat, dairy, cereals, meat preparations, sugar and vehicles, are scheduled heading by
               heading rather than chapter-wide, so within them a code that is not listed has no commitment attached to
               it at all.
             </p>
@@ -176,7 +176,7 @@ function Result({ input }: { input: string }) {
           <p className="measure-wide mt-4 text-[0.9375rem] font-medium leading-relaxed text-ink">
             {quotaOpen
               ? `The quota is open. This is agreement year ${year}.`
-              : `There is no quota yet. This is agreement year ${year}, and the table below begins at year ${ukTrq.firstYear} — ${ukTrq.firstCalendarYear}. Until then an originating electric or hybrid car from India entering the United Kingdom pays the full UK Global Tariff rate, because paragraph 2(c) provides no out-of-quota preference.`}
+              : `There is no quota yet. This is agreement year ${year}, and the table below begins at year ${ukTrq.firstYear}, ${ukTrq.firstCalendarYear}. Until then an originating electric or hybrid car from India entering the United Kingdom pays the full UK Global Tariff rate, because paragraph 2(c) provides no out-of-quota preference.`}
           </p>
 
           <div className="mt-7 overflow-x-auto">
@@ -229,13 +229,13 @@ function Result({ input }: { input: string }) {
         <p className="eyebrow mb-4">The rule of origin</p>
         <p className="measure-wide mb-6 text-[0.9375rem] leading-relaxed text-stone-600">
           A commitment applies only to an <em>originating</em> good. Goods shipped from India are not automatically
-          originating in India — they qualify by satisfying the rule below, and by the exporter being able to show it.
+          originating in India. They qualify by satisfying the rule below, and by the exporter being able to show it.
         </p>
 
         {sectionNote ? (
           <div className="mb-6 border-l-2 border-gold bg-bone p-7 sm:p-8">
             <p className="text-[0.6875rem] uppercase tracking-[0.12em] text-stone-500">
-              Annex 3A, Section {sectionNote.section} — {sectionNote.title} · chapters{" "}
+              Annex 3A, Section {sectionNote.section}: {sectionNote.title} · chapters{" "}
               {sectionNote.chapters[0]}–{sectionNote.chapters[sectionNote.chapters.length - 1]}
             </p>
             <p className="mt-3 font-display text-xl leading-snug text-ink">
@@ -272,8 +272,8 @@ function Result({ input }: { input: string }) {
                 {match.partial ? (
                   <p className="mt-5 text-[0.875rem] leading-relaxed text-crimson-700">
                     This rule is prefixed <strong>Ex</strong>. It reaches only the part of the {match.level} that the
-                    description above covers — so the description is operative, not a convenience. If your goods are
-                    not what it describes, this is not your rule.
+                    description above covers, so the description is operative rather than a convenience. If your goods
+                    are not what it describes, this is not your rule.
                   </p>
                 ) : null}
                 {match.sharedWith ? (
@@ -335,7 +335,7 @@ function Result({ input }: { input: string }) {
         <ol className="space-y-4 text-[0.9375rem] leading-relaxed text-stone-600">
           <li>
             <strong className="font-medium text-ink">The duty rate.</strong> The schedule records what the United
-            Kingdom committed to do — eliminate, quota or exclude. The rate a category A elimination is measured
+            Kingdom committed to do, being eliminate, quota or exclude. The rate a category A elimination is measured
             against is the UK Global Tariff rate, which is not part of the agreement and is not reproduced here.
           </li>
           <li>
@@ -346,7 +346,7 @@ function Result({ input }: { input: string }) {
           <li>
             <strong className="font-medium text-ink">Whether the claim would survive verification.</strong> Meeting the
             rule is one half. The other is the origin declaration, the supporting records and the ability to produce
-            them when HMRC asks — sometimes years later.{" "}
+            them when HMRC asks, sometimes years later.{" "}
             <Link href="/india-uk/rules-of-origin" className="text-crimson-600 underline underline-offset-4">
               We have written about that
             </Link>
@@ -371,7 +371,7 @@ function Result({ input }: { input: string }) {
             <EphemeralLeadNotice className="mb-8" />
             <EnquiryForm
               context={`Tariff lookup: ${pretty}`}
-              defaultSubject={`Commodity code ${pretty}${tariff.matched ? ` — category ${tariff.matched.staging}` : ""}`}
+              defaultSubject={`Commodity code ${pretty}${tariff.matched ? `, category ${tariff.matched.staging}` : ""}`}
             />
           </div>
         </div>
@@ -433,7 +433,7 @@ export default async function TariffLookupPage({
       <PageHero
         eyebrow="Tariff tool"
         title="What did the United Kingdom actually commit to on your commodity code?"
-        lede="Enter a code and read the commitment and the rule of origin, quoted from the two annexes that govern them. Nothing here is generated, estimated or summarised — it is the schedule, looked up."
+        lede="Enter a code and read the commitment and the rule of origin, quoted from the two annexes that govern them. Nothing here is generated, estimated or summarised. It is the schedule, looked up."
         aside={
           <div className="border-l-2 border-crimson-600 pl-5">
             <p className="text-[0.6875rem] font-medium uppercase tracking-[0.14em] text-stone-500">The data</p>
@@ -514,7 +514,7 @@ export default async function TariffLookupPage({
               </div>
               <p className="measure-wide mt-10 text-[0.9375rem] leading-relaxed text-stone-600">
                 Of the {tariffRowCount} lines the United Kingdom scheduled, {chapters.length} chapters carry a
-                chapter-wide commitment and six — meat, dairy, cereals, meat preparations, sugar and vehicles — are
+                chapter-wide commitment and six, being meat, dairy, cereals, meat preparations, sugar and vehicles, are
                 scheduled heading by heading. Only one tariff rate quota exists on the UK side, and it does not open
                 until {ukTrq.firstCalendarYear}.
               </p>
@@ -588,7 +588,7 @@ export default async function TariffLookupPage({
             {allSectionNotes.map((note) => (
               <details key={note.section} className="border border-stone-200 bg-parchment p-6">
                 <summary className="cursor-pointer text-[0.875rem] font-medium text-ink">
-                  <span className="text-gold">§</span> Section {note.section} — {note.title} · chapters{" "}
+                  <span className="text-gold">§</span> Section {note.section}: {note.title} · chapters{" "}
                   {note.chapters[0]}–{note.chapters[note.chapters.length - 1]}
                 </summary>
                 {splitSectionNote(note.note).map(({ label, name, body }) => (
@@ -616,7 +616,7 @@ export default async function TariffLookupPage({
                 </Link>
                 <div>
                   <p className="text-[0.875rem] leading-snug text-stone-600">
-                    {rule.partial ? <span className="text-stone-400">Ex — </span> : null}
+                    {rule.partial ? <span className="text-stone-400">Ex: </span> : null}
                     {rule.description}
                   </p>
                   <p className="mt-1 font-mono text-[0.75rem] text-ink">

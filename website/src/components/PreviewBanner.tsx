@@ -24,7 +24,7 @@ export function PreviewBanner() {
       <span className="font-medium uppercase tracking-[0.14em] text-gold">Preview</span>
       <span className="mx-3 text-bone/30">|</span>
       <span className="text-bone/85">
-        Not the live site — <span className="font-medium text-bone">fiatlaw.co.uk</span> is unchanged.
+        Not the live site. <span className="font-medium text-bone">fiatlaw.co.uk</span> is unchanged.
         {leadsAreEphemeral ? " Enquiries sent from here are not retained; please do not use it with clients." : null}
       </span>
     </div>

@@ -110,7 +110,7 @@ export const detailQuestion: Record<string, Question> = {
     choices: [
       { value: "first_customer", label: "A first UK customer or contract" },
       { value: "tender", label: "A tender or framework that requires a UK entity" },
-      { value: "presence", label: "Credibility — we need a UK address and number" },
+      { value: "presence", label: "Credibility: we need a UK address and number" },
       { value: "strategy", label: "A strategic decision, no single trigger" },
     ],
   },
@@ -134,7 +134,7 @@ export const detailQuestion: Record<string, Question> = {
     choices: [
       { value: "confident", label: "We know our classification and our origin rule" },
       { value: "partial", label: "We know the classification, not the origin position" },
-      { value: "unknown", label: "Neither — we are starting from the beginning" },
+      { value: "unknown", label: "Neither; we are starting from the beginning" },
       { value: "cbam", label: "We are in aluminium, cement, fertiliser, hydrogen or steel", hint: "UK CBAM applies from 1 January 2027" },
     ],
   },
@@ -157,7 +157,7 @@ export const detailQuestion: Record<string, Question> = {
       { value: "eccta", label: "Identity verification for directors and PSCs" },
       { value: "filings", label: "Filings, confirmation statements or accounts" },
       { value: "remediation", label: "Something is wrong and needs putting right" },
-      { value: "growth", label: "Nothing is wrong — we are growing and need better support" },
+      { value: "growth", label: "Nothing is wrong; we are growing and need better support" },
     ],
   },
   principal: {

@@ -28,7 +28,7 @@ export const cetaArticles: CetaArticle[] = [
     slug: "mobility",
     title: "Mobility and the Double Contribution Convention",
     standfirst:
-      "What the agreement changed for moving people, what it merely restated, and why the 60-month social security exemption is worth less — and more — than the headlines suggest.",
+      "What the agreement changed for moving people, what it merely restated, and why the 60-month social security exemption is worth less and more than the headlines suggest.",
     updated: "August 2026",
     readingMinutes: 9,
     metaDescription:
@@ -76,7 +76,7 @@ export const cetaArticles: CetaArticle[] = [
       { kind: "h", text: "Service Suppliers: the point most commentary gets backwards" },
       {
         kind: "p",
-        text: "Paragraphs 5.2 to 5.4 of the Service Supplier route require the UK party receiving the service to hold the A-rated sponsor licence — not the Indian supplier. A significant amount of published commentary asserts the opposite. If your UK counterparty is not an A-rated sponsor, the route is closed to you and no provision of the trade agreement opens it.",
+        text: "Paragraphs 5.2 to 5.4 of the Service Supplier route require the UK party receiving the service to hold the A-rated sponsor licence, not the Indian supplier. A significant amount of published commentary asserts the opposite. If your UK counterparty is not an A-rated sponsor, the route is closed to you and no provision of the trade agreement opens it.",
       },
       { kind: "h", text: "The costs moved too" },
       {
@@ -90,7 +90,7 @@ export const cetaArticles: CetaArticle[] = [
       },
       {
         kind: "p",
-        text: "The nuance that changes the arithmetic: regulations 145(2) and 146 of the Social Security (Contributions) Regulations 2001 already gave a unilateral 52-week exemption from UK National Insurance for workers sent temporarily from a country with no agreement. The genuinely additional benefit of the convention is therefore months 13 to 60, not months 1 to 60. That is still a substantial saving on employer and employee contributions across four years for each seconded worker — but it is not what most articles claim.",
+        text: "The nuance that changes the arithmetic: regulations 145(2) and 146 of the Social Security (Contributions) Regulations 2001 already gave a unilateral 52-week exemption from UK National Insurance for workers sent temporarily from a country with no agreement. The genuinely additional benefit of the convention is therefore months 13 to 60, not months 1 to 60. That is still a substantial saving on employer and employee contributions across four years for each seconded worker, but it is not what most articles claim.",
       },
       {
         kind: "callout",
@@ -104,7 +104,7 @@ export const cetaArticles: CetaArticle[] = [
           "There is no new visa route. Everything the agreement facilitates runs through the existing Immigration Rules.",
           "There is no relaxation of the sponsor licence regime, and no reduction in compliance duties.",
           "The Immigration Health Surcharge is unaffected.",
-          "Settlement and continuous residence rules are unaffected — the convention exempts contributions, not residence.",
+          "Settlement and continuous residence rules are unaffected. The convention exempts contributions, not residence.",
         ],
       },
     ],
@@ -141,14 +141,14 @@ export const cetaArticles: CetaArticle[] = [
         kind: "numbers",
         items: [
           "The tariff classification of the finished good. Everything else follows from it, and getting it wrong invalidates the origin analysis rather than merely complicating it.",
-          "The product-specific rule that applies to that classification — a change of tariff heading, a value-added threshold, a specific process, or a combination.",
+          "The product-specific rule that applies to that classification, being a change of tariff heading, a value-added threshold, a specific process, or a combination.",
           "The origin status of every material input, evidenced by supplier declarations you actually hold rather than assume you could obtain.",
         ],
       },
       {
         kind: "callout",
         title: "Points one and two can be checked against the annexes now",
-        text: "We extracted the United Kingdom's full tariff schedule from Appendix 2A-b and all 266 product specific rules from Annex 3A. Enter a commodity code and the lookup returns the UK's commitment on that line, the rule of origin quoted verbatim, and — where one applies — the Section Note that overrides it. It does not tell you the duty rate, and it does not confirm your classification.",
+        text: "We extracted the United Kingdom's full tariff schedule from Appendix 2A-b and all 266 product specific rules from Annex 3A. Enter a commodity code and the lookup returns the UK's commitment on that line, the rule of origin quoted verbatim, and, where one applies, the Section Note that overrides it. It does not tell you the duty rate, and it does not confirm your classification.",
         link: { href: "/india-uk/tariff-lookup", label: "Open the tariff and origin lookup" },
       },
       {
@@ -159,7 +159,7 @@ export const cetaArticles: CetaArticle[] = [
       { kind: "h", text: "Self-certification puts the burden on you" },
       {
         kind: "p",
-        text: "Self-certification is faster and cheaper than a certificate-based system, and it moves the compliance burden onto the exporter. You make the statement of origin, you hold the underlying record set, and you produce it if the claim is verified — which may be years later, by which time the person who assembled the calculation may have left.",
+        text: "Self-certification is faster and cheaper than a certificate-based system, and it moves the compliance burden onto the exporter. You make the statement of origin, you hold the underlying record set, and you produce it if the claim is verified, which may be years later, by which time the person who assembled the calculation may have left.",
       },
       { kind: "h", text: "There is a live drafting conflict" },
       {
@@ -169,7 +169,7 @@ export const cetaArticles: CetaArticle[] = [
       { kind: "h", text: "Carbon: the thing the agreement does not mention" },
       {
         kind: "p",
-        text: "The UK Carbon Border Adjustment Mechanism starts on 1 January 2027, covering aluminium, cement, fertiliser, hydrogen, and iron and steel. CETA contains no CBAM provision and no rebalancing mechanism — it is silent on the subject, and there is no India exemption. For exporters in those five sectors the tariff advantage and the carbon charge move in opposite directions, and the net landed cost should be modelled now rather than in the fourth quarter of 2026.",
+        text: "The UK Carbon Border Adjustment Mechanism starts on 1 January 2027, covering aluminium, cement, fertiliser, hydrogen, and iron and steel. CETA contains no CBAM provision and no rebalancing mechanism, so it is silent on the subject and there is no India exemption. For exporters in those five sectors the tariff advantage and the carbon charge move in opposite directions, and the net landed cost should be modelled now rather than in the fourth quarter of 2026.",
       },
       { kind: "h", text: "The VAT point that catches almost everyone" },
       {
@@ -226,7 +226,7 @@ export const cetaArticles: CetaArticle[] = [
       },
       {
         kind: "p",
-        text: "Pharmaceuticals and life sciences is similar. Regulatory approval, not tariff, is the barrier, and the agreement does not shorten a marketing authorisation. Where it does help is the movement of technical and regulatory staff, and — for generics manufacturers with UK-facing operations — the Double Contribution Convention across a multi-year build.",
+        text: "Pharmaceuticals and life sciences is similar. Regulatory approval, not tariff, is the barrier, and the agreement does not shorten a marketing authorisation. Where it does help is the movement of technical and regulatory staff, and, for generics manufacturers with UK-facing operations, the Double Contribution Convention across a multi-year build.",
       },
       { kind: "h", text: "Where to be careful" },
       {

@@ -19,7 +19,7 @@ export default function ContactPage() {
       <PageHero
         eyebrow="Contact"
         title="Tell us where you are, and we will tell you what it runs into."
-        lede="If you already know what you need, write to us. If you are working out what you need, the UK Entry Brief will do more for you in five minutes than a first call will — and Janeevan will have read it before you speak."
+        lede="If you already know what you need, write to us. If you are working out what you need, the UK Entry Brief will do more for you in five minutes than a first call will, and Janeevan will have read it before you speak."
         aside={
           <div className="border-l-2 border-crimson-600 pl-5">
             <p className="text-[0.6875rem] font-medium uppercase tracking-[0.14em] text-stone-500">Response times</p>
@@ -134,7 +134,7 @@ export default function ContactPage() {
               </h2>
               <p className="measure-wide mt-6 text-[1.0625rem] leading-relaxed text-bone/65">
                 Six questions, no figures, no obligation. You receive a written position covering the route, the
-                sequence, the specific obstacles your situation runs into, what we would do and in which capacity — and
+                sequence, the specific obstacles your situation runs into, what we would do and in which capacity, and
                 where we would tell you not to instruct us at all.
               </p>
             </div>

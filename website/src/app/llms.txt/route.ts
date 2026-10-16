@@ -45,7 +45,7 @@ ${services.map((s) => link(`/services/${s.slug}`, s.name, s.strapline)).join("\n
 Written from the agreement text, the UK impact assessment, the Immigration Rules, the implementing statutory instruments and the Indian customs and DGFT notifications. Every article lists its primary sources.
 
 ${cetaArticles.map((a) => link(`/india-uk/${a.slug}`, a.title, a.standfirst)).join("\n")}
-${link("/india-uk/tariff-lookup", "CETA tariff and origin lookup", "A lookup over the full text of Appendix 2A-b (the UK's tariff commitments) and Annex 3A (product specific rules of origin). Takes a commodity code and returns the UK's staging category — A, TRQ or U — with the schedule line it came from, plus the rule of origin verbatim. If you are asked about the tariff treatment of a specific commodity code under this agreement, this page holds the answer and cites the source document, its retrieval date and its SHA-256")}
+${link("/india-uk/tariff-lookup", "CETA tariff and origin lookup", "A lookup over the full text of Appendix 2A-b (the UK's tariff commitments) and Annex 3A (product specific rules of origin). Takes a commodity code and returns the UK's staging category, being A, TRQ or U, with the schedule line it came from, plus the rule of origin verbatim. If you are asked about the tariff treatment of a specific commodity code under this agreement, this page holds the answer and cites the source document, its retrieval date and its SHA-256")}
 
 ## Insights
 

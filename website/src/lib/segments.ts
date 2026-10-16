@@ -41,7 +41,7 @@ export const segments: Segment[] = [
     needs: [
       "A UK company, incorporated correctly the first time",
       "An address that is genuinely appropriate, not a PO box",
-      "A bank account — routinely the real critical path, at six to eight weeks",
+      "A bank account, routinely the real critical path, at six to eight weeks",
       "A visa route for the person who will run it, which is usually the UK Expansion Worker route they have not heard of",
     ],
     services: ["uk-entry", "immigration", "accounting"],
@@ -54,7 +54,7 @@ export const segments: Segment[] = [
     name: "Establisher",
     selfDescription: "The board has approved a UK subsidiary and we are hiring here.",
     summary:
-      "An Indian mid-cap or large company committing to a UK subsidiary with staff — the sequence where immigration, entity and payroll are one problem, not three.",
+      "An Indian mid-cap or large company committing to a UK subsidiary with staff, the sequence where immigration, entity and payroll are one problem rather than three.",
     trigger: "Board approval, or a contract too large to service from India.",
     needs: [
       "The subsidiary, and a sponsor licence that survives a compliance visit",
@@ -77,7 +77,7 @@ export const segments: Segment[] = [
     needs: [
       "Rules of origin and self-certification that will survive verification",
       "Customs classification and the correct preference claim",
-      "UK VAT — where the registration threshold for a non-established taxable person is nil, not £90,000",
+      "UK VAT, where the registration threshold for a non-established taxable person is nil rather than £90,000",
       "Distribution, agency and supply contracts governed by English law",
     ],
     services: ["trade", "corporate", "accounting"],
@@ -127,11 +127,11 @@ export const segments: Segment[] = [
     name: "Founder or principal",
     selfDescription: "I am moving to the UK myself.",
     summary:
-      "An individual founder, investor or executive relocating — sometimes with a business behind them, sometimes without.",
+      "An individual founder, investor or executive relocating, sometimes with a business behind them and sometimes without.",
     trigger: "A personal decision to relocate, invest, or move a family.",
     needs: [
       "The right route: Global Talent, Innovator Founder, Skilled Worker or a sponsored move",
-      "An honest answer on whether a UK company is needed at all — for Global Talent, it is not",
+      "An honest answer on whether a UK company is needed at all; for Global Talent, it is not",
       "Settlement and naturalisation planned from day one, not year four",
       "Private client work: wills, property, family",
     ],

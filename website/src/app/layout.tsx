@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     template: `%s — ${firm.name}`,
   },
   description:
-    "Fiat Law is the UK entry practice for Indian businesses. Entity, immigration and compliance handled as one instruction — incorporation, sponsor licences, corporate and commercial law, accounting and acquisitions.",
+    "Fiat Law is the UK entry practice for Indian businesses. Entity, immigration and compliance handled as one instruction: incorporation, sponsor licences, corporate and commercial law, accounting and acquisitions.",
   keywords: [
     "UK company formation for Indian businesses",
     "UK Expansion Worker visa",

@@ -145,7 +145,7 @@ export default async function InsightPage({ params }: { params: Promise<{ slug: 
         <Container width="narrow" className="text-center">
           <h2 className="text-display-sm sm:text-display-md">Where does this leave your position?</h2>
           <p className="measure mx-auto mt-6 text-[1.0625rem] leading-relaxed text-bone/65">
-            The UK Entry Brief returns the route, the sequence and the obstacles specific to you — with the capacity
+            The UK Entry Brief returns the route, the sequence and the obstacles specific to you, with the capacity
             each piece of work would be delivered in. No figures, no obligation.
           </p>
           <div className="mt-9 flex flex-wrap justify-center gap-4">

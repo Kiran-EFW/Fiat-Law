@@ -70,7 +70,7 @@ export function BriefResult({
           ))}
         </ul>
         <p className="mt-5 text-[0.8125rem] text-stone-500">
-          If any of that is wrong, tell us — the rest of this brief follows from it.
+          If any of that is wrong, tell us. The rest of this brief follows from it.
         </p>
       </BriefSection>
 
@@ -167,7 +167,7 @@ export function BriefResult({
             <strong className="font-medium text-ink">{firm.principal.name}, solicitor</strong> means work carried out by
             him through {firm.regulatedFirm.legalName}, an SRA-authorised firm.{" "}
             <strong className="font-medium text-ink">Coordinated</strong> means scoped and project-managed by us and
-            delivered by named, independently regulated partner firms — you are told who before it starts.
+            delivered by named, independently regulated partner firms, and you are told who before it starts.
           </p>
         </div>
       </BriefSection>
@@ -201,7 +201,7 @@ export function BriefResult({
         <p className="measure-wide mt-4 text-[1.0625rem] leading-relaxed text-stone-700">
           We do not publish figures, because there is no standard matter and a published number would either be a
           commodity price that tells you nothing or an invented one designed to be beaten on the call. What you get
-          instead is a written proposal, priced to exactly the scope above, within two working days — fixed wherever the
+          instead is a written proposal, priced to exactly the scope above, within two working days, fixed wherever the
           scope can be fixed, and at an agreed rate where it genuinely cannot. Nothing starts until you have approved
           the figure in writing.
         </p>

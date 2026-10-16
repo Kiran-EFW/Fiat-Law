@@ -137,7 +137,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
               {gatedCount > 0 ? (
                 <p className="mt-6 border-l-2 border-stone-300 pl-5 text-[0.8125rem] leading-relaxed text-stone-500">
                   Some services in this area are regulated activities that we do not offer until the corresponding
-                  registration is confirmed — trust or company service provider supervision under the Money Laundering
+                  registration is confirmed, namely trust or company service provider supervision under the Money Laundering
                   Regulations 2017, or Authorised Corporate Service Provider registration at Companies House. We would
                   rather show you nothing than offer something we cannot yet lawfully provide.{" "}
                   <Link href="/contact" className="underline underline-offset-4 hover:text-ink">

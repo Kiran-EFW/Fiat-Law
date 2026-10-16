@@ -21,7 +21,7 @@ const principles = [
   {
     n: "02",
     title: "The capacity is stated before the work starts",
-    body: "Some of what we do is corporate services. Some of it is reserved legal work that only a solicitor may carry out. You are told which is which — on the service page, in your brief, and in the engagement letter — because a client who does not know which regulator stands behind a piece of work cannot make an informed decision about it.",
+    body: "Some of what we do is corporate services. Some of it is reserved legal work that only a solicitor may carry out. You are told which is which on the service page, in your brief and in the engagement letter, because a client who does not know which regulator stands behind a piece of work cannot make an informed decision about it.",
   },
   {
     n: "03",
@@ -31,7 +31,7 @@ const principles = [
   {
     n: "04",
     title: "The detail is checked against the source",
-    body: "Salary thresholds, charge rates, statutory deadlines and treaty provisions on this site are taken from the Immigration Rules, the statutory instruments, the agreement text and the official notifications — not from secondary commentary, a material amount of which is out of date or simply wrong.",
+    body: "Salary thresholds, charge rates, statutory deadlines and treaty provisions on this site are taken from the Immigration Rules, the statutory instruments, the agreement text and the official notifications, not from secondary commentary, a material amount of which is out of date or simply wrong.",
   },
 ];
 
@@ -164,8 +164,8 @@ export default function AboutPage() {
             </div>
             <div className="prose-fiat">
               <p>
-                There are now around 1,912 Indian-owned companies trading in the United Kingdom — roughly 60% more than
-                a year earlier — with combined turnover of about £105.8 billion and 203,549 employees. India was the
+                There are now around 1,912 Indian-owned companies trading in the United Kingdom, roughly 60% more than
+                a year earlier, with combined turnover of about £105.8 billion and 203,549 employees. India was the
                 second largest source of inward investment projects into the UK in 2025-26. None of that was caused by
                 the Comprehensive Economic and Trade Agreement, which only entered into force on 15 July 2026.
               </p>

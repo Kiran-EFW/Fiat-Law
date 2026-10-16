@@ -7,7 +7,7 @@ import { cetaArticles } from "@/content/ceta";
 export const metadata = pageMeta({
   title: "India–UK CETA",
   description:
-    "A working briefing on the India–UK Comprehensive Economic and Trade Agreement in force from 15 July 2026 — what changed for mobility, tariffs, social security and market access, and what did not.",
+    "A working briefing on the India–UK Comprehensive Economic and Trade Agreement in force from 15 July 2026, covering what changed for mobility, tariffs, social security and market access, and what did not.",
   path: "/india-uk",
   eyebrow: "The briefing",
 });
@@ -27,7 +27,7 @@ const changed = [
   },
   {
     title: "Procurement, on paper",
-    body: "UK contracts above SDR 130,000 for goods and services are opened — but Article 15.23 makes the chapter unenforceable state to state until 15 July 2030.",
+    body: "UK contracts above SDR 130,000 for goods and services are opened, but Article 15.23 makes the chapter unenforceable state to state until 15 July 2030.",
   },
 ];
 
@@ -132,7 +132,7 @@ export default function IndiaUkPage() {
               {
                 n: "03",
                 title: "The DCC saving starts at month thirteen",
-                body: "A unilateral 52-week National Insurance exemption already existed under the 2001 Contributions Regulations. The convention's additional value is months 13 to 60 — real, but not what is usually claimed.",
+                body: "A unilateral 52-week National Insurance exemption already existed under the 2001 Contributions Regulations. The convention's additional value is months 13 to 60, which is real but not what is usually claimed.",
               },
             ].map((item) => (
               <div key={item.n} className="bg-ink p-8 md:p-9">
@@ -192,7 +192,7 @@ export default function IndiaUkPage() {
               </h2>
               <p className="measure-wide mt-5 text-[1rem] leading-relaxed text-stone-600">
                 We extracted Appendix 2A-b and Annex 3A from the treaty text laid before Parliament. Enter a code and
-                you get the United Kingdom&rsquo;s commitment on that line — duty-free, quota, or excluded — and the
+                you get the United Kingdom&rsquo;s commitment on that line, being duty-free, quota or excluded, and the
                 rule of origin the goods have to satisfy, quoted rather than summarised. It is the same lookup we run
                 internally before advising on a shipment.
               </p>

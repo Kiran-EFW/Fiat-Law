@@ -14,7 +14,7 @@ export default function RegulatoryPage() {
   return (
     <LegalLayout
       title="Regulatory information"
-      lede="Two legal persons deliver the work described on this site, under two different regimes. This page sets out which is which, so that you can tell — before you instruct anyone — who is accountable, to whom, and with what insurance behind them."
+      lede="Two legal persons deliver the work described on this site, under two different regimes. This page sets out which is which, so that before you instruct anyone you can tell who is accountable, to whom, and with what insurance behind them."
       updated="August 2026"
       current="/legal/regulatory"
     >
@@ -53,12 +53,12 @@ export default function RegulatoryPage() {
       </p>
       <ul>
         <li>
-          <strong>Fiat Law — corporate services.</strong> Entity and company secretarial support, UK entry planning and
+          <strong>Fiat Law, corporate services.</strong> Entity and company secretarial support, UK entry planning and
           sequencing, trade and origin work, project management and compliance calendars. Contractual duties only; no
           SRA regulation, no Legal Ombudsman jurisdiction.
         </li>
         <li>
-          <strong>Solicitor — reserved and regulated legal work.</strong> Corporate and commercial drafting and
+          <strong>Solicitor, reserved and regulated legal work.</strong> Corporate and commercial drafting and
           negotiation, share and asset acquisitions, immigration advice and representation, and any other reserved
           activity. Delivered by {firm.principal.name} through {firm.regulatedFirm.legalName} and regulated by the SRA.
         </li>
@@ -80,7 +80,7 @@ export default function RegulatoryPage() {
       <h2>Anti-money laundering supervision</h2>
       <p>
         Certain services in this market are supervised business under the Money Laundering, Terrorist Financing and
-        Transfer of Funds (Information on the Payer) Regulations 2017 — in particular, forming companies for others and
+        Transfer of Funds (Information on the Payer) Regulations 2017, in particular forming companies for others and
         providing a registered office, business address or correspondence address to third parties by way of business,
         which is trust or company service provider activity within regulation 12(2).
       </p>

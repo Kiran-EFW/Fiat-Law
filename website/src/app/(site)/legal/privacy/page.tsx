@@ -85,7 +85,7 @@ export default function PrivacyPage() {
           </thead>
           <tbody>
             {[
-              ["Responding to your enquiry and preparing a proposal", "Legitimate interests — answering someone who has asked us to; and steps at your request prior to a contract"],
+              ["Responding to your enquiry and preparing a proposal", "Legitimate interests: answering someone who has asked us to; and steps at your request prior to a contract"],
               ["Conflict and identity checks before accepting instructions", "Legal obligation, and legitimate interests in not acting where we should not"],
               ["Carrying out the work once instructed", "Performance of a contract"],
               ["Anti-money laundering and record-keeping obligations", "Legal obligation"],
@@ -112,7 +112,7 @@ export default function PrivacyPage() {
         <li>We do not make decisions producing legal effects about you by automated means alone.</li>
       </ul>
       <p>
-        Your UK Entry Brief result <em>is</em> generated automatically from your answers — that is what makes it
+        Your UK Entry Brief result <em>is</em> generated automatically from your answers, which is what makes it
         immediate. It is a document, not a decision about you: it recommends a route and identifies obstacles, and
         nothing follows from it until a person has read it. {firm.principal.name} reads every brief before any
         conversation. We also record an internal priority score derived from your answers, which affects only how
@@ -133,7 +133,7 @@ export default function PrivacyPage() {
           carried out by {firm.principal.name} as a solicitor.
         </li>
         <li>
-          <strong>Partner professional firms</strong> — accountants, auditors, specialist tax or local counsel — but
+          <strong>Partner professional firms</strong>, being accountants, auditors, specialist tax or local counsel, but
           only where you have asked us to introduce you or have agreed to it, and we will tell you who they are first.
         </li>
         <li>
@@ -157,7 +157,7 @@ export default function PrivacyPage() {
         </li>
         <li>
           <strong>Matters we are instructed on:</strong> the file is retained for the period set out in the engagement
-          letter for that matter — commonly six years from the end of the matter, and longer for transactional files
+          letter for that matter, commonly six years from the end of the matter, and longer for transactional files
           where a longer limitation period may apply.
         </li>
         <li>
@@ -187,7 +187,7 @@ export default function PrivacyPage() {
 
       <h2>Complaints</h2>
       <p>
-        If you are unhappy with how we have handled your data, please tell us first — see the{" "}
+        If you are unhappy with how we have handled your data, please tell us first. See the{" "}
         <Link href="/legal/complaints">complaints procedure</Link>. You may also complain to the{" "}
         {firm.ico.name} at any time:{" "}
         <a href={firm.ico.url} target="_blank" rel="noreferrer noopener">

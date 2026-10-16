@@ -38,8 +38,8 @@ export default function HomePage() {
 
               <p className="measure-wide mt-8 text-lg leading-relaxed text-stone-700">
                 The visa route, the entity and the compliance are the same transaction. Sponsor guidance GBM3.4 says a
-                Companies House number is enough to show the UK footprint an Expansion Worker application requires — so
-                the company and the visa are one file, and buying them from two firms costs you weeks you do not have.
+                Companies House number is enough to show the UK footprint an Expansion Worker application requires, so
+                the company and the visa are one file. Buying them from two firms costs you weeks you do not have.
               </p>
 
               <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
@@ -95,7 +95,7 @@ export default function HomePage() {
             <SectionHead
               eyebrow="What we do"
               title="Six practice areas, one instruction."
-              lede="Each is delivered in a stated capacity — by Fiat Law, or by our principal as a solicitor through Taylor Rose. You are told which before the work starts."
+              lede="Each is delivered in a stated capacity: by Fiat Law, or by our principal as a solicitor through Taylor Rose. You are told which before the work starts."
             />
             <Link href="/services" className="inline-flex shrink-0 items-center gap-2 text-sm font-medium text-crimson-600 hover:text-crimson-500">
               All services
@@ -135,7 +135,7 @@ export default function HomePage() {
               <div className="measure-wide mt-7 space-y-4 text-[1.0625rem] leading-relaxed text-stone-700">
                 <p>
                   The Department for Business and Trade has trained every inbound Indian corporate to expect a free first
-                  consultation. Rather than pretend otherwise, we deliver it before you have spent it — in writing, at
+                  consultation. Rather than pretend otherwise, we deliver it before you have spent it, in writing, at
                   no cost, at three in the morning in Bengaluru if that is when you are working.
                 </p>
                 <p>
@@ -152,7 +152,7 @@ export default function HomePage() {
                 href="/uk-entry-brief"
                 className="mt-9 inline-flex items-center gap-2.5 bg-crimson-600 px-8 py-4 text-[0.9375rem] font-medium text-bone transition-colors hover:bg-crimson-700"
               >
-                Begin — four minutes
+                Begin, four minutes
                 <ArrowRight className="h-4 w-4" />
               </Link>
             </div>
@@ -174,7 +174,7 @@ export default function HomePage() {
       <section className="border-y border-stone-200 bg-parchment">
         <Container width="wide">
           <div className="grid gap-10 py-12 sm:grid-cols-2 lg:grid-cols-4 lg:py-14">
-            <Statistic value="1,912" label="Indian-owned companies now trading in the UK — up 60% in a year" source="India Meets Britain Tracker 2026" />
+            <Statistic value="1,912" label="Indian-owned companies now trading in the UK, up 60% in a year" source="India Meets Britain Tracker 2026" />
             <Statistic value="£105.8bn" label="Combined UK turnover of Indian-owned companies" source="India Meets Britain Tracker 2026" />
             <Statistic value="203,549" label="People they employ in the United Kingdom" source="India Meets Britain Tracker 2026" />
             <Statistic value="15 Jul 2026" label="CETA in force. UK tariff cuts applied immediately, with no phase-in" source="Comprehensive Economic and Trade Agreement" />
@@ -272,7 +272,7 @@ export default function HomePage() {
           <SectionHead
             eyebrow="The practice"
             title="A practice, not a principal."
-            lede="Fiat Law is led by Janeevan John, who reads every brief personally before anyone speaks to you. Around him the practice brings specialist depth in each discipline — some in-house, some at named partner firms — so an entry is not one person guessing at four fields."
+            lede="Fiat Law is led by Janeevan John, who reads every brief personally before anyone speaks to you. Around him the practice brings specialist depth in each discipline, some in-house and some at named partner firms, so an entry is not one person guessing at four fields."
           />
 
           <div className="mt-14 grid gap-8 lg:grid-cols-[0.8fr_1.2fr] lg:gap-16">
@@ -332,7 +332,7 @@ export default function HomePage() {
               <p className="mt-6 text-[1.0625rem] leading-relaxed text-bone/65">
                 Our briefing on the Comprehensive Economic and Trade Agreement is written from the legal text, the impact
                 assessment, the Immigration Rules, the implementing statutory instruments and the Indian customs
-                notifications — a library of more than three hundred primary documents held on file. Every claim cites its
+                notifications. We hold a library of more than three hundred primary documents. Every claim cites its
                 source.
               </p>
               <p className="mt-4 text-[1.0625rem] leading-relaxed text-bone/65">
@@ -402,7 +402,7 @@ const briefSteps = [
     body: "So you can see we have understood it before you read a single recommendation.",
   },
   {
-    title: "The route that fits — named",
+    title: "The route that fits, named",
     body: "UK Expansion Worker, Senior or Specialist Worker, Global Talent, or no visa at all. Including when the honest answer is that you do not need us.",
   },
   {
@@ -469,7 +469,7 @@ const cetaFacts = [
 const pricingSteps = [
   {
     title: "Scope",
-    body: "The brief, then a conversation. We establish what is actually needed — which is regularly less than you were expecting, and occasionally more.",
+    body: "The brief, then a conversation. We establish what is actually needed, which is regularly less than you were expecting, and occasionally more.",
   },
   {
     title: "Proposal",

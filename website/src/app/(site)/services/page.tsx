@@ -21,7 +21,7 @@ export default function ServicesPage() {
       <PageHero
         eyebrow="Practice"
         title="Six areas, one instruction, one person accountable."
-        lede="Each is delivered in a stated capacity — by Fiat Law as corporate services, by Janeevan as a solicitor through Taylor Rose, or coordinated with named partner firms. You are told which before anything starts, and the brief tells you again for your specific matter."
+        lede="Each is delivered in a stated capacity: by Fiat Law as corporate services, by Janeevan as a solicitor through Taylor Rose, or coordinated with named partner firms. You are told which before anything starts, and the brief tells you again for your specific matter."
         aside={
           <div className="border-l-2 border-crimson-600 pl-5">
             <p className="text-[0.6875rem] font-medium uppercase tracking-[0.14em] text-stone-500">Not sure which</p>
@@ -106,7 +106,7 @@ export default function ServicesPage() {
                 down on the call. Neither helps you.
               </p>
               <p className="mt-4 text-[1.0625rem] leading-relaxed text-bone/65">
-                Instead: the brief, then a conversation, then a written proposal priced to the scope we agreed — fixed
+                Instead: the brief, then a conversation, then a written proposal priced to the scope we agreed, fixed
                 where the scope can be fixed, at an agreed rate where it genuinely cannot. You approve the figure in
                 writing before any work begins.
               </p>

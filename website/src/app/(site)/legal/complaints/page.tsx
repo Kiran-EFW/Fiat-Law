@@ -43,7 +43,7 @@ export default function ComplaintsPage() {
           understanding of it, and tell you who is handling it.
         </li>
         <li>
-          We will investigate — normally by reviewing the file and speaking to anyone involved — and we may ask you for
+          We will investigate, normally by reviewing the file and speaking to anyone involved, and we may ask you for
           further information.
         </li>
         <li>
@@ -79,8 +79,8 @@ export default function ComplaintsPage() {
 
       <h2>The Legal Ombudsman</h2>
       <p>
-        If your complaint concerns regulated legal services and you are not satisfied with our final response — or if
-        eight weeks have passed since you first complained — you may refer the matter to the Legal Ombudsman. The
+        If your complaint concerns regulated legal services and you are not satisfied with our final response, or if
+        eight weeks have passed since you first complained, you may refer the matter to the Legal Ombudsman. The
         service is free to consumers and to most small businesses, charities, clubs and trusts.
       </p>
       <ul>
@@ -107,7 +107,7 @@ export default function ComplaintsPage() {
 
       <h2>The Solicitors Regulation Authority</h2>
       <p>
-        The Legal Ombudsman deals with service. The Solicitors Regulation Authority deals with conduct — dishonesty,
+        The Legal Ombudsman deals with service. The Solicitors Regulation Authority deals with conduct, meaning dishonesty,
         discrimination, taking money improperly, or a serious failure to meet its Standards and Regulations. If your
         concern is of that kind, you can report it to the SRA directly at{" "}
         <a href="https://www.sra.org.uk/consumers/problems/" target="_blank" rel="noreferrer noopener">

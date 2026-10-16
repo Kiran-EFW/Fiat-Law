@@ -14,7 +14,7 @@ export default function TermsPage() {
   return (
     <LegalLayout
       title="Terms of use"
-      lede="These terms govern your use of fiatlaw.co.uk. They are not the terms on which we act for clients — those are set out in an engagement letter, which you will have read and accepted before any work begins."
+      lede="These terms govern your use of fiatlaw.co.uk. They are not the terms on which we act for clients, which are set out in an engagement letter you will have read and accepted before any work begins."
       updated="August 2026"
       current="/legal/terms"
     >
@@ -28,8 +28,8 @@ export default function TermsPage() {
 
       <h2>2. Nothing here is advice</h2>
       <p>
-        The content of this site — including the service pages, the India–UK briefing, the insights and the output of
-        the UK Entry Brief — is general information about the law and practice as we understand it at the dates shown.
+        The content of this site, including the service pages, the India–UK briefing, the insights and the output of
+        the UK Entry Brief, is general information about the law and practice as we understand it at the dates shown.
         It is not legal advice, it is not tax advice, and it is not advice on your particular facts.
       </p>
       <p>
@@ -97,7 +97,7 @@ export default function TermsPage() {
       <h2>9. Liability</h2>
       <p>
         To the fullest extent permitted by law, we exclude liability for any loss or damage arising from use of, or
-        reliance on, this site or its content — including loss of profit, loss of business, loss of anticipated savings
+        reliance on, this site or its content, including loss of profit, loss of business, loss of anticipated savings
         or any indirect or consequential loss.
       </p>
       <p>
@@ -111,8 +111,8 @@ export default function TermsPage() {
       <p>
         We will never tell you by email that our bank details have changed. If you receive any message appearing to come
         from us with payment instructions, telephone us on{" "}
-        <a href={`tel:${firm.contact.telephone}`}>{firm.contact.telephoneDisplay}</a> — using the number on this site,
-        not one in the message — and confirm it before sending money. We accept no responsibility for funds sent on the
+        <a href={`tel:${firm.contact.telephone}`}>{firm.contact.telephoneDisplay}</a>, using the number on this site
+        rather than one in the message, and confirm it before sending money. We accept no responsibility for funds sent on the
         strength of an instruction you have not verified with us by telephone.
       </p>
 
@@ -131,7 +131,7 @@ export default function TermsPage() {
       <h2>13. Law and jurisdiction</h2>
       <p>
         These terms, and any dispute arising out of them or out of your use of this site, are governed by the law of
-        England and Wales, and the courts of England and Wales have exclusive jurisdiction — save that a consumer
+        England and Wales, and the courts of England and Wales have exclusive jurisdiction, save that a consumer
         resident elsewhere in the United Kingdom may bring proceedings in the courts of their own jurisdiction.
       </p>
 

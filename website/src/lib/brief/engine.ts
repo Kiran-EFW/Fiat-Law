@@ -26,7 +26,7 @@ const OBSTACLES: Record<string, Obstacle> = {
   },
   residentDirector: {
     title: "You do not need a UK-resident director",
-    body: "Section 155 of the Companies Act 2006 requires at least one director who is a natural person. It says nothing about residence. Providers selling a resident director on the basis that UK law requires one are selling a product the statute does not ask for. There are commercial reasons you might still want a UK-based director — banking, credibility, practicality — but a legal requirement is not one of them.",
+    body: "Section 155 of the Companies Act 2006 requires at least one director who is a natural person. It says nothing about residence. Providers selling a resident director on the basis that UK law requires one are selling a product the statute does not ask for. There are commercial reasons you might still want a UK-based director, such as banking, credibility and practicality, but a legal requirement is not one of them.",
     source: "Companies Act 2006, s.155",
   },
   nomineeAO: {
@@ -36,7 +36,7 @@ const OBSTACLES: Record<string, Obstacle> = {
   },
   address: {
     title: "The registered office must be an appropriate address, and it may be visited",
-    body: "Section 86 of the Companies Act 2006 requires an address at which a document delivered by hand or by post would come to the attention of a person acting for the company, and where delivery can be recorded. PO boxes no longer qualify. If the company sponsors a visa, a Home Office compliance officer may attend unannounced under paragraph L8.20 of the sponsor guidance — including at the registered office.",
+    body: "Section 86 of the Companies Act 2006 requires an address at which a document delivered by hand or by post would come to the attention of a person acting for the company, and where delivery can be recorded. PO boxes no longer qualify. If the company sponsors a visa, a Home Office compliance officer may attend unannounced under paragraph L8.20 of the sponsor guidance, including at the registered office.",
     source: "Companies Act 2006, s.86; sponsor guidance L8.20",
   },
   eccta: {
@@ -46,12 +46,12 @@ const OBSTACLES: Record<string, Obstacle> = {
   },
   expansionCliff: {
     title: "The Expansion Worker licence is a bridge with a hard end",
-    body: "A UK Expansion Worker licence lasts four years and cannot be renewed. Under paragraph GBM3.38 of the sponsor guidance, if the business has not established a full UK trading presence within two years the allocation of Certificates of Sponsorship is reduced to zero. Converting to a standard Skilled Worker or Senior or Specialist Worker licence is not an afterthought — it is the plan.",
+    body: "A UK Expansion Worker licence lasts four years and cannot be renewed. Under paragraph GBM3.38 of the sponsor guidance, if the business has not established a full UK trading presence within two years the allocation of Certificates of Sponsorship is reduced to zero. Converting to a standard Skilled Worker or Senior or Specialist Worker licence is the plan, not an afterthought.",
     source: "Sponsor guidance, GBM3.38",
   },
   twelveMonths: {
     title: "India did not obtain the twelve-month waiver",
-    body: "Japan and Australia negotiated away the requirement that an Expansion Worker has been employed by the overseas business for twelve months before applying. India did not. A recently hired candidate — however senior — cannot be moved on this route until they have twelve months with the group behind them.",
+    body: "Japan and Australia negotiated away the requirement that an Expansion Worker has been employed by the overseas business for twelve months before applying. India did not. A recently hired candidate, however senior, cannot be moved on this route until they have twelve months with the group behind them.",
     source: "Immigration Rules, Appendix Global Business Mobility",
   },
   thresholds: {
@@ -65,7 +65,7 @@ const OBSTACLES: Record<string, Obstacle> = {
     source: "The Immigration Skills Charge (Amendment) Regulations 2025",
   },
   dcc: {
-    title: "The Double Contribution Convention runs 60 months — but the first year was already free",
+    title: "The Double Contribution Convention runs 60 months, and the first year was already free",
     body: "SI 2026/794 extended the convention from 36 to 60 months. The genuinely additional benefit is months 13 to 60, because regulations 145(2) and 146 of the Social Security (Contributions) Regulations 2001 already gave a unilateral 52-week exemption from UK National Insurance for workers sent temporarily from a non-agreement country. The saving is real and substantial; it is not what most articles say it is.",
     source: "SI 2026/794; Social Security (Contributions) Regulations 2001, regs 145(2) and 146",
   },
@@ -76,7 +76,7 @@ const OBSTACLES: Record<string, Obstacle> = {
   },
   vatNil: {
     title: "For a non-established business, the VAT threshold is nil",
-    body: "The £90,000 registration threshold applies only to businesses established in the UK. A business with no fixed establishment here — selling into the UK from India — must register from its first taxable supply. There is no threshold, no grace period, and this is the single most common and most expensive misunderstanding among Indian exporters entering the market.",
+    body: "The £90,000 registration threshold applies only to businesses established in the UK. A business with no fixed establishment here, selling into the UK from India, must register from its first taxable supply. There is no threshold, no grace period, and this is the single most common and most expensive misunderstanding among Indian exporters entering the market.",
     source: "Value Added Tax Act 1994, Sch. 1A",
   },
   groupSize: {
@@ -96,12 +96,12 @@ const OBSTACLES: Record<string, Obstacle> = {
   },
   cbam: {
     title: "CETA contains no carbon border provision at all",
-    body: "The UK Carbon Border Adjustment Mechanism starts on 1 January 2027 for aluminium, cement, fertiliser, hydrogen, and iron and steel. There is no India exemption and no rebalancing mechanism in the agreement — it is silent on the subject. For exporters in those sectors the tariff advantage and the carbon charge move in opposite directions, and the net position should be modelled now.",
+    body: "The UK Carbon Border Adjustment Mechanism starts on 1 January 2027 for aluminium, cement, fertiliser, hydrogen, and iron and steel. There is no India exemption and no rebalancing mechanism in the agreement, which is silent on the subject. For exporters in those sectors the tariff advantage and the carbon charge move in opposite directions, and the net position should be modelled now.",
     source: "India–UK CETA (no CBAM provision); UK CBAM from 1 January 2027",
   },
   nsia: {
     title: "National security screening is mandatory in seventeen sectors, and the definitions are broad",
-    body: "The National Security and Investment Act 2021 requires notification and clearance before completion in seventeen sensitive areas. Advanced materials, computing hardware, data infrastructure and critical suppliers to government catch a great many businesses that do not consider themselves sensitive. Completing without clearance where clearance was required makes the transaction void — not fineable, void.",
+    body: "The National Security and Investment Act 2021 requires notification and clearance before completion in seventeen sensitive areas. Advanced materials, computing hardware, data infrastructure and critical suppliers to government catch a great many businesses that do not consider themselves sensitive. Completing without clearance where clearance was required makes the transaction void rather than fineable.",
     source: "National Security and Investment Act 2021",
   },
   disclosure: {
@@ -121,7 +121,7 @@ const OBSTACLES: Record<string, Obstacle> = {
   },
   strikeOff: {
     title: "Strike-off action moves faster than most people expect",
-    body: "Once the registrar has begun the process, the first gazette notice runs on a short clock, and dissolution transfers the company's assets to the Crown as bona vacantia — including the bank balance. If a first gazette notice has been published, this is measured in weeks, not months.",
+    body: "Once the registrar has begun the process, the first gazette notice runs on a short clock, and dissolution transfers the company's assets to the Crown as bona vacantia, including the bank balance. If a first gazette notice has been published, this is measured in weeks rather than months.",
     source: "Companies Act 2006, ss.1000–1002",
   },
   fca: {
@@ -259,7 +259,7 @@ function buildBridgehead(a: BriefAnswers): Built {
     title: "Open the bank account",
     detail:
       "Start the day the company number is issued. With overseas directors this is six to eight weeks and it gates payroll, VAT recovery and your first properly issued invoice. Nothing else on this list should be scheduled independently of it.",
-    elapsed: "6–8 weeks — start immediately",
+    elapsed: "6–8 weeks, start immediately",
     capacity: "fiat-law",
     criticalPath: true,
   });
@@ -281,7 +281,7 @@ function buildBridgehead(a: BriefAnswers): Built {
   }
   sequence.push({
     title: "Tax registrations",
-    detail: "Corporation tax, PAYE before the first payroll runs, and VAT — in that order, and timed against when you want to recover input tax on set-up costs.",
+    detail: "Corporation tax, PAYE before the first payroll runs, and VAT, in that order and timed against when you want to recover input tax on set-up costs.",
     elapsed: "2–6 weeks depending on the registration",
     capacity: "coordinated",
   });
@@ -302,7 +302,7 @@ function buildBridgehead(a: BriefAnswers): Built {
     route: {
       name: moving ? "Incorporation, then a sponsor licence on the UK Expansion Worker route" : "Incorporation and registration only",
       why: moving
-        ? "The Expansion Worker route exists precisely for a business with no UK trading presence. Paragraph GBM3.4 of the sponsor guidance treats a Companies House reference number as sufficient evidence of the footprint it requires — which is why the entity and the visa are one file rather than two."
+        ? "The Expansion Worker route exists precisely for a business with no UK trading presence. Paragraph GBM3.4 of the sponsor guidance treats a Companies House reference number as sufficient evidence of the footprint it requires, which is why the entity and the visa are one file rather than two."
         : "With nobody moving from India, there is no sponsorship question. The work is the entity, the address, the registrations and the contracts, and it is considerably cheaper than a route involving a licence.",
       alternatives: moving
         ? "If the person moving already has the right to work in the UK, or would qualify for Global Talent, no sponsor licence is needed at all and the plan gets materially shorter and cheaper. We check this before recommending a licence."
@@ -331,7 +331,7 @@ function buildBridgehead(a: BriefAnswers): Built {
       ...(moving ? ["Employment history evidencing twelve months with the group for the person you intend to move"] : []),
     ],
     candour:
-      "If all you need is a company number and an address, a formation agent will do it for under two hundred pounds and we will tell you so. Instruct us when the sequence matters — when a visa, a bank, a customer contract and a filing deadline all have to land in the right order.",
+      "If all you need is a company number and an address, a formation agent will do it for under two hundred pounds and we will tell you so. Instruct us when the sequence matters, when a visa, a bank, a customer contract and a filing deadline all have to land in the right order.",
   };
 }
 
@@ -355,12 +355,12 @@ function buildEstablisher(a: BriefAnswers): Built {
     title: "Bank account and treasury",
     detail:
       "Started immediately, because it will take six to eight weeks and it gates payroll and VAT recovery. Intercompany funding arrangements documented at the same time so the money can move cleanly.",
-    elapsed: "6–8 weeks — the true critical path",
+    elapsed: "6–8 weeks, the true critical path",
     capacity: "fiat-law",
     criticalPath: true,
   });
   sequence.push({
-    title: "Sponsor licence — and the choice of which one",
+    title: "Sponsor licence, and the choice of which one",
     detail: bigPlans
       ? "At your intended headcount the Expansion Worker route is a bridge you will outgrow quickly. We would normally apply for the Expansion Worker licence to get people in, with the conversion to a standard Skilled Worker licence planned and dated from the outset rather than left to year two."
       : "The Expansion Worker route gets your first people in without a UK trading presence. The application covers the Authorising Officer and Key Personnel structure, the HR systems a compliance visit will inspect, and the evidence of the overseas business.",
@@ -405,7 +405,7 @@ function buildEstablisher(a: BriefAnswers): Built {
 
   return {
     headline:
-      "A committed UK subsidiary, where the licence, the entity and the payroll are one sequence with one owner — and the conversion off the Expansion Worker route is dated from the start.",
+      "A committed UK subsidiary, where the licence, the entity and the payroll are one sequence with one owner, and the conversion off the Expansion Worker route is dated from the start.",
     route: {
       name: "UK Expansion Worker, converting to a standard Skilled Worker or Senior or Specialist Worker licence",
       why: "The Expansion Worker route is the only sponsored route that works before you have a UK trading presence, and paragraph GBM3.4 lets a Companies House number carry that requirement. But it is explicitly temporary, and the value of doing this properly is almost entirely in planning the conversion at the outset.",
@@ -424,20 +424,20 @@ function buildEstablisher(a: BriefAnswers): Built {
     ],
     scope: [
       scopeLine("uk-entry", ["Subsidiary incorporation and articles", "Registered office and company secretarial", "ECCTA identity verification", "Intercompany and parent documentation"]),
-      scopeLine("immigration", ["Licence strategy — Expansion Worker versus standard", "Sponsor licence application and compliance systems", "Certificates of Sponsorship and visa applications", "Conversion planning and execution"]),
+      scopeLine("immigration", ["Licence strategy: Expansion Worker versus standard", "Sponsor licence application and compliance systems", "Certificates of Sponsorship and visa applications", "Conversion planning and execution"]),
       scopeLine("accounting", ["PAYE, VAT and corporation tax registration", "Monthly payroll and auto-enrolment", "DCC certificates of coverage", "Statutory accounts and management reporting"]),
       scopeLine("corporate", ["UK employment contracts and covenants", "Equity or incentives for UK management", "Commercial contracts under English law"]),
     ],
     needFromYou: [
       "Group structure chart and the Indian parent's constitutional documents",
       "The intended UK headcount and roles over 24 months",
-      "Employment history for each person you intend to move — twelve months with the group is a hard condition",
+      "Employment history for each person you intend to move; twelve months with the group is a hard condition",
       "Proposed UK salaries, so they can be tested against the current thresholds",
       "Who will be the Authorising Officer: a paid member of staff or an office holder, not a representative",
       "Details of anyone already on UK assignment before 15 July 2026",
     ],
     candour:
-      "If your two-year plan is one or two people, a sponsor licence may be more machinery than the situation needs — an existing right to work, or a Global Talent endorsement, can achieve the same outcome without the compliance burden. We would rather tell you that now than sell you a licence you have to maintain.",
+      "If your two-year plan is one or two people, a sponsor licence may be more machinery than the situation needs. An existing right to work, or a Global Talent endorsement, can achieve the same outcome without the compliance burden. We would rather tell you that now than sell you a licence you have to maintain.",
   };
 }
 
@@ -449,7 +449,7 @@ function buildExporter(a: BriefAnswers): Built {
 
   return {
     headline:
-      "Tariff preference is available on your next shipment — but only on a claim you can evidence, and the VAT position catches almost everyone.",
+      "Tariff preference is available on your next shipment, but only on a claim you can evidence, and the VAT position catches almost everyone.",
     route: {
       name: "Claim preference under CETA, register for UK VAT from the first supply, and contract properly with your route to market",
       why: "UK tariff reductions applied in full on 15 July 2026 with no phase-in, so the benefit is available immediately rather than over a decade. What stands between you and it is origin evidence, and what stands behind it is a VAT registration obligation with no threshold.",
@@ -466,7 +466,7 @@ function buildExporter(a: BriefAnswers): Built {
       {
         title: "Build the origin file",
         detail:
-          "Supplier declarations, the calculation, and the retained records — assembled to satisfy both DGFT PN 19/2026-27 and Notification 62/2026-Customs (N.T.), which do not sit together cleanly.",
+          "Supplier declarations, the calculation, and the retained records, assembled to satisfy both DGFT PN 19/2026-27 and Notification 62/2026-Customs (N.T.), which do not sit together cleanly.",
         elapsed: "2–4 weeks, then maintained per product",
         capacity: "fiat-law",
         criticalPath: true,
@@ -481,7 +481,7 @@ function buildExporter(a: BriefAnswers): Built {
       {
         title: "Contract with the route to market",
         detail:
-          "Distributor or agent — a legal decision rather than a label, because the Commercial Agents Regulations attach compensation rights to one of them regardless of what the contract says.",
+          "Distributor or agent, a legal decision rather than a label, because the Commercial Agents Regulations attach compensation rights to one of them regardless of what the contract says.",
         elapsed: "3–5 weeks",
         capacity: "solicitor",
       },
@@ -521,7 +521,7 @@ function buildExporter(a: BriefAnswers): Built {
       "Product list with HS classifications, or the product specifications if classification is not settled",
       "Bill of materials with the origin of each input",
       "Existing supplier declarations, if you hold any",
-      "Your intended UK route to market — direct, distributor, agent or marketplace",
+      "Your intended UK route to market: direct, distributor, agent or marketplace",
       "Expected first shipment date and annual volume",
     ],
     candour:
@@ -540,7 +540,7 @@ function buildAcquirer(a: BriefAnswers): Built {
       : "An acquisition, approached so that screening and diligence are settled before price is.",
     route: {
       name: "Share or asset purchase, with National Security and Investment Act screening assessed at the outset",
-      why: "Acquiring an established UK business gives you the customers, the accreditations, the staff and — importantly for an Indian parent — the trading history a UK bank wants to see. The variable that decides the outcome is the quality of the diligence and the disclosure position, not the headline price.",
+      why: "Acquiring an established UK business gives you the customers, the accreditations, the staff and, importantly for an Indian parent, the trading history a UK bank wants to see. The variable that decides the outcome is the quality of the diligence and the disclosure position, not the headline price.",
       alternatives:
         "An asset purchase can leave historic liabilities behind, but it triggers TUPE for the employees and requires contracts and consents to be novated. Which is right depends on what the diligence finds, which is why the structure decision comes after the first pass rather than before it.",
     },
@@ -549,7 +549,7 @@ function buildAcquirer(a: BriefAnswers): Built {
         title: "Screening assessment",
         detail:
           "Test the target against the seventeen mandatory sectors before anything is signed. The definitions are wider than the sector names, and completing without clearance where clearance was required renders the transaction void.",
-        elapsed: "Days — do it first",
+        elapsed: "Days, do it first",
         capacity: "solicitor",
         criticalPath: true,
       },
@@ -602,7 +602,7 @@ function buildAcquirer(a: BriefAnswers): Built {
       "Your timetable, and any exclusivity period already running",
     ],
     candour:
-      "Corporate finance — arranging the deal, advising on the investment itself — is a regulated activity under the Financial Services and Markets Act 2000, and it is not what we do. Our work is legal advice on the transaction and its documents. Where a regulated adviser is needed you are introduced to an authorised firm and told so in writing.",
+      "Corporate finance, arranging the deal or advising on the investment itself, is a regulated activity under the Financial Services and Markets Act 2000, and it is not what we do. Our work is legal advice on the transaction and its documents. Where a regulated adviser is needed you are introduced to an authorised firm and told so in writing.",
   };
 }
 
@@ -655,7 +655,7 @@ function buildOperator(a: BriefAnswers): Built {
 
   return {
     headline: eccta
-      ? "Identity verification is a dated statutory obligation with directors sitting in India — it is a project, not a form."
+      ? "Identity verification is a dated statutory obligation with directors sitting in India; it is a project rather than a form."
       : broken
         ? "An existing UK company that needs putting right, then kept right."
         : "An established UK operation that deserves company secretarial and compliance support that does not need chasing.",
@@ -689,10 +689,10 @@ function buildPrincipal(a: BriefAnswers): Built {
 
   return {
     headline: talent
-      ? "If Global Talent is open to you, it is the cleanest route into the UK there is — and it needs no company at all."
+      ? "If Global Talent is open to you, it is the cleanest route into the UK there is, and it needs no company at all."
       : founder
         ? "A founder route, where the visa and the business plan are the same document."
-        : "A personal move, where the route determines everything that follows — including whether you need a UK company.",
+        : "A personal move, where the route determines everything that follows, including whether you need a UK company.",
     route: {
       name: talent
         ? "Global Talent"
@@ -765,14 +765,14 @@ function buildPrincipal(a: BriefAnswers): Built {
       scopeLine("corporate", ["UK company where the route requires one", "Founder and shareholder documentation"]),
     ],
     needFromYou: [
-      "CV, and evidence of recognition in your field — awards, publications, funding, press, senior appointments",
+      "CV, and evidence of recognition in your field: awards, publications, funding, press, senior appointments",
       "Details of any business you intend to run in the UK",
       "Family members who would come with you",
       "Any previous UK visas, refusals or immigration history",
       "Your intended arrival date",
     ],
     candour:
-      "If you qualify for Global Talent, you do not need a UK company, a sponsor or us to build you a structure — you need a well-prepared endorsement application and nothing else. We will tell you that even though the smaller instruction is the less profitable one.",
+      "If you qualify for Global Talent, you do not need a UK company, a sponsor or us to build you a structure. You need a well-prepared endorsement application and nothing else. We will tell you that even though the smaller instruction is the less profitable one.",
   };
 }
 
@@ -786,7 +786,7 @@ function buildPartner(a: BriefAnswers): Built {
     route: {
       name: "Referral, with the professional boundary agreed in writing before the first introduction",
       why: isLaw
-        ? "Indian advocates cannot practise English law and UK solicitors have no reciprocal access in India — the trade agreement bound nothing on India's side for legal services. That asymmetry makes a clean referral arrangement the only workable structure, and it works well when both sides know exactly where the line is."
+        ? "Indian advocates cannot practise English law and UK solicitors have no reciprocal access in India, and the trade agreement bound nothing on India's side for legal services. That asymmetry makes a clean referral arrangement the only workable structure, and it works well when both sides know exactly where the line is."
         : "You hold the client relationship and the domestic work. We take the UK instruction, in a named capacity, and report to you as well as to the client if that is what you want.",
     },
     sequence: [
@@ -812,7 +812,7 @@ function buildPartner(a: BriefAnswers): Built {
       {
         title: "Materials for your clients",
         detail:
-          "Briefings, checklists and — where it is useful — joint sessions for your clients on UK entry, so the relationship produces something visible to them.",
+          "Briefings, checklists and, where it is useful, joint sessions for your clients on UK entry, so the relationship produces something visible to them.",
         elapsed: "Ongoing",
         capacity: "fiat-law",
       },

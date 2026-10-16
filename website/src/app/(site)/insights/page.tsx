@@ -8,7 +8,7 @@ import { cetaArticles } from "@/content/ceta";
 export const metadata = pageMeta({
   title: "Insights",
   description:
-    "Notes on UK company law, business immigration, compliance and transactions for Indian businesses entering the United Kingdom — written from primary sources and dated.",
+    "Notes on UK company law, business immigration, compliance and transactions for Indian businesses entering the United Kingdom, written from primary sources and dated.",
   path: "/insights",
   eyebrow: "Insights",
 });
@@ -76,7 +76,7 @@ export default function InsightsPage() {
               <p className="eyebrow mb-5">Also published</p>
               <h2 className="text-display-sm">The India–UK CETA briefing.</h2>
               <p className="mt-6 text-[0.9375rem] leading-relaxed text-bone/60">
-                A longer, three-part working note on the agreement in force since 15 July 2026 — what changed, what
+                A longer, three-part working note on the agreement in force since 15 July 2026, covering what changed, what
                 did not, and the provisions that are widely reported the wrong way round.
               </p>
               <Link

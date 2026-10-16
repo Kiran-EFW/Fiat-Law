@@ -182,7 +182,7 @@ export function serviceSchema({ name, description, path, serviceType, offers }: 
       ? {
           hasOfferCatalog: {
             "@type": "OfferCatalog",
-            name: `${name} — scope`,
+            name: `${name}: scope`,
             itemListElement: offers.map((item) => ({
               "@type": "Offer",
               itemOffered: { "@type": "Service", name: item },

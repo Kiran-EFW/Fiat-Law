@@ -34,7 +34,7 @@ export default function NotFound() {
               </h1>
               <p className="measure mt-7 text-lg leading-relaxed text-stone-700">
                 The address may have changed, or the link that brought you here may be out of date. If you were looking
-                for something specific, the quickest route is the brief — it will point you at the right part of the
+                for something specific, the quickest route is the brief. It will point you at the right part of the
                 practice in a few minutes.
               </p>
               <div className="mt-9 flex flex-wrap gap-4">

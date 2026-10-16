@@ -267,7 +267,7 @@ export function BriefFlow({ initialSegment, notice }: { initialSegment?: string;
                 Where should we send it?
               </h1>
               <p className="measure-wide mt-4 text-[1.0625rem] text-stone-600">
-                Your brief is ready. Give us an address and it appears on the next screen and in your inbox — followed
+                Your brief is ready. Give us an address and it appears on the next screen and in your inbox, followed
                 within one working day by a written proposal priced to it.
               </p>
 
@@ -281,7 +281,7 @@ export function BriefFlow({ initialSegment, notice }: { initialSegment?: string;
                 <Field label="Company" name="company" autoComplete="organization" />
                 <Field label="Email" name="email" type="email" required error={errors.email} autoComplete="email" />
                 <Field label="Telephone" name="phone" type="tel" hint="Include the country code" autoComplete="tel" />
-                <Field label="City in India" name="originCity" hint="Optional — it tells us which clock you are on" />
+                <Field label="City in India" name="originCity" hint="Optional: it tells us which clock you are on" />
               </div>
 
               <div className="mt-6">
