@@ -1,0 +1,2450 @@
+{
+  "00-research-reports/ceta-agent-report-a2b57aa.md": {
+    "bytes": 25569,
+    "note": "CETA research thread.",
+    "retrieved": "2026-08-04",
+    "sha256": "80b43a71f28711b1fe0b89b2c7d453012ee452bbce4d434c30427927170ade35",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/ceta-agent-report-a3ebe39.md": {
+    "bytes": 34720,
+    "note": "CETA research thread.",
+    "retrieved": "2026-08-04",
+    "sha256": "7f5ca33d2524ec99643325fa0bed3d6472d6400ed4fafda4dfde26d5c661795f",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/ceta-agent-report-a498f1b.md": {
+    "bytes": 28582,
+    "note": "CETA research thread.",
+    "retrieved": "2026-08-04",
+    "sha256": "7ab002b23f21dcdae3b7f397aca1752418849cd7322580abba7f54ff1dab6660",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/ceta-agent-report-a5e8200.md": {
+    "bytes": 34234,
+    "note": "CETA research thread.",
+    "retrieved": "2026-08-04",
+    "sha256": "a2bc5aaf5510640a047c7f9e0d0684e360eabdd42c4fb859aa8332854ad9db61",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/ceta-agent-report-a8cdb93.md": {
+    "bytes": 59181,
+    "note": "CETA research thread.",
+    "retrieved": "2026-08-04",
+    "sha256": "d6d494739107e8386180a7cd689eff7a02f34e637c5f8682e17ad5ce23265d61",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/ceta-agent-report-a948162.md": {
+    "bytes": 37467,
+    "note": "CETA research thread.",
+    "retrieved": "2026-08-04",
+    "sha256": "d4df4a5364427f64d5df3b14ef798ef0fa2f1343e43dc4911097463e58fcb388",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/ceta-agent-report-ac79781.md": {
+    "bytes": 48410,
+    "note": "CETA research thread.",
+    "retrieved": "2026-08-04",
+    "sha256": "64a91d73e423532c4b4f417196ac923425469d4eaaba57a7415ee1a6165c2576",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/ceta-agent-report-acc869f.md": {
+    "bytes": 29599,
+    "note": "CETA research thread.",
+    "retrieved": "2026-08-04",
+    "sha256": "6119e7fad9d317073722dde4e5802f9526373a0157a80e3fd0551014c2095e09",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/ceta-agent-report-af95ed6.md": {
+    "bytes": 34284,
+    "note": "CETA research thread.",
+    "retrieved": "2026-08-04",
+    "sha256": "51e55a1c176cf39b4638bd4186f37ddf6912f549510007a267b4069e069d4656",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/ceta-procurement-and-investment.md": {
+    "bytes": 39869,
+    "note": "CETA Chapter 15 procurement and the absence of an investment chapter/ISDS; 1994 BIPA sunset.",
+    "retrieved": "2026-08-04",
+    "sha256": "3a741b6a56a432d6996d72cfca390d20282ffaf6474bed72568b2408b38bde21",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/competitive-landscape-6-tiers.md": {
+    "bytes": 50492,
+    "note": "Competitive landscape: Big4/mid-tier India desks, 35 law firms, Indian firms with UK arms, CSPs with published prices, boutiques, government. Contains the only published price points in the corridor.",
+    "retrieved": "2026-08-04",
+    "sha256": "fc63c28eb39ad6612523392a13e14b1413eef8737268b355ff333edc77b358e5",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/free-and-subsidised-alternatives-WTP.md": {
+    "bytes": 58616,
+    "note": "Free/subsidised competition (DBT, L&P, 6 regional agencies, Innovate UK, BBB, UKIBC, CII, FICCI, ASSOCHAM, NASSCOM, TiE) and the willingness-to-pay compression analysis by layer.",
+    "retrieved": "2026-08-04",
+    "sha256": "c29d689cff1a6ad400793400884e12b1ba242eabe77c285dd9424cb2584e0853",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/indian-trade-bodies-uk-presence.md": {
+    "bytes": 21652,
+    "note": "Indian trade bodies with UK presence - membership fee ladders and what they actually deliver.",
+    "retrieved": "2026-08-04",
+    "sha256": "cefae035a0df6379ec384a71ed0d446cde404be43403f5a11ef6a47e276a178d",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/innovate-uk-and-visa-endorsing-bodies.md": {
+    "bytes": 17757,
+    "note": "Innovate UK, British Business Bank, Global Talent and Innovator Founder endorsing bodies - fees and eligibility.",
+    "retrieved": "2026-08-04",
+    "sha256": "fe760db6cb5adea505dd8e959b265548f55a7639229c3ba69b8e7256413f61de",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "00-research-reports/london-and-partners-and-regional-IPAs.md": {
+    "bytes": 30914,
+    "note": "London & Partners and regional inward-investment agencies: what is free, verbatim disclaimers, India offices, partner directories.",
+    "retrieved": "2026-08-04",
+    "sha256": "ce9862c5e02cbe1b5f6cad06e4ff3b9756bacad8a5aa4c4fd1fab651b33b0b01",
+    "url": "(derived: research agent report, this session)",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/CETA-Annex8A-professional-services.pdf": {
+    "bytes": 182411,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "376fde679b0549270d5f356a621ebbafe5caf683b4373d632db74f335ce3ec44",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/CETA-Annex8B-India-services-schedule.pdf": {
+    "bytes": 480541,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "bad6dbd80a3a56aa96c261422cc7101f2eda9ecea62954b541b5ac9979bae8f4",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/CETA-Annex8B-UK-services-schedule.pdf": {
+    "bytes": 503919,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "b2d5f8ddf37258f838731a9d7c9d1e150667fc656bca6f3f1c0a0eeba859631a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/CETA-Annex8C-MFN.pdf": {
+    "bytes": 193941,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "a34c194a6007e92bec60190b29637e495f4e688656247c9125879d6ffaefe905",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_1of4.pdf": {
+    "bytes": 6759454,
+    "note": "Command Paper CP1496 CS India No.1/2026 - treaty laid under CRaG",
+    "retrieved": "2026-08-04",
+    "sha256": "36e1031bd9597f5753e66cf05ead45f046a7ff7166ae487e879c149ddc3e3a6c",
+    "url": "https://assets.publishing.service.gov.uk/media/696e3eb362bfa46d3881a275/CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_1of4.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_2of4.pdf": {
+    "bytes": 5622009,
+    "note": "Command Paper CP1496 CS India No.1/2026 - treaty laid under CRaG",
+    "retrieved": "2026-08-04",
+    "sha256": "1419345adf02d578c0e710080426258cc153c42daa293222fbb63133eb4123f8",
+    "url": "https://assets.publishing.service.gov.uk/media/696e3eba62bfa46d3881a276/CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_2of4.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_3of4.pdf": {
+    "bytes": 5613997,
+    "note": "Command Paper CP1496 CS India No.1/2026 - treaty laid under CRaG",
+    "retrieved": "2026-08-04",
+    "sha256": "256fcaa0403d6d57de65268d0e96f65cc4e73af71992b0c2a486125037cd8192",
+    "url": "https://assets.publishing.service.gov.uk/media/696e3ebf091f0cc41e81a273/CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_3of4.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_4of4.pdf": {
+    "bytes": 7540646,
+    "note": "Command Paper CP1496 CS India No.1/2026 - treaty laid under CRaG",
+    "retrieved": "2026-08-04",
+    "sha256": "83eb948440bc2c57183a2870b2c9a19b7f281793c2e2a763d5677f9329080e9e",
+    "url": "https://assets.publishing.service.gov.uk/media/696e3ec05a37ab534a9e23a3/CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_4of4.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/EM_CS_India_1.2026_Comprehensive_Economic_Trade_Agreement.odt": {
+    "bytes": 418966,
+    "note": "Command Paper CP1496 CS India No.1/2026 - treaty laid under CRaG",
+    "retrieved": "2026-08-04",
+    "sha256": "0bb9bcdef8e1416b0f8883bdedb49ff53eaf848e33506e5ded2f15190b9cc079",
+    "url": "https://assets.publishing.service.gov.uk/media/696e57f9a426b80193afc832/EM_CS_India_1.2026_Comprehensive_Economic_Trade_Agreement.odt",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_1of4.pdf": {
+    "bytes": 7139437,
+    "note": "Treaty Series No.30/2026 - in-force text",
+    "retrieved": "2026-08-04",
+    "sha256": "92a53c7f7397b66580ff600f1a1323163f371983bd0dd200b9715ff57e2627a1",
+    "url": "https://assets.publishing.service.gov.uk/media/6a6b6c7c8319ab05f7caa25f/TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_1of4.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_2of4.pdf": {
+    "bytes": 6008769,
+    "note": "Treaty Series No.30/2026 - in-force text",
+    "retrieved": "2026-08-04",
+    "sha256": "7f7e4f6ec147eae13362669e7bd2dafbbec4957eeb7dac90a6b039dab5b824e7",
+    "url": "https://assets.publishing.service.gov.uk/media/6a6b6c868319ab05f7caa260/TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_2of4.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_3of4.pdf": {
+    "bytes": 5810449,
+    "note": "Treaty Series No.30/2026 - in-force text",
+    "retrieved": "2026-08-04",
+    "sha256": "14879f5ccd45d172731ca1dc2ecea8566badbe1c66d37af129727c2aa86fd56a",
+    "url": "https://assets.publishing.service.gov.uk/media/6a6b6c8f862aaf18d9c62a6e/TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_3of4.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_4of4.pdf": {
+    "bytes": 7707224,
+    "note": "Treaty Series No.30/2026 - in-force text",
+    "retrieved": "2026-08-04",
+    "sha256": "c5901fe7dcc2003ccf62cd6014e30112aa90b0f42a7d0fdc244b8e97be620b5e",
+    "url": "https://assets.publishing.service.gov.uk/media/6a6b6c8fbf4a7aca8f897745/TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_4of4.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/india_ip_side_letter1.pdf": {
+    "bytes": 898144,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d19a91201924c89aac8ad2c00af0060b371db4bd2e9bd339803a3786462381ad",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/india_ip_side_letter2.pdf": {
+    "bytes": 581174,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "5cdef8b6158cd58eee036c57a43ebbdd52a6bad87fceff27b710199e693c41a6",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/india_ip_side_letter3.pdf": {
+    "bytes": 500832,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "0c4d6dc217bd725db5fc2a9df77cd6e82f781f96802e84fad6dc06457877ebde",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/india_ip_side_letter4.pdf": {
+    "bytes": 3946378,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "39138aba6dd49d7ccdec4123631f07a9f81cc951a63d0e1a0467569c0df72c84",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/india_side_letter_agreeing_negotiate_double_contributions_convention.pdf": {
+    "bytes": 554768,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d4fcec63b99bbe5ff36aceb8fa378b10e60edf02a6391792c4c68f69ccf3764f",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/india_side_letter_territorial_extension_crown_dependencies.pdf": {
+    "bytes": 400437,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "182c2f932ad363f4d6e7d60608fb499e71be844dbafb979ab283e1f9447199f3",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/modalities-of-the-authentication-process-for-origin-declarations.pdf": {
+    "bytes": 1630806,
+    "note": "Ch3 Rules of Origin + Annex 3A PSR",
+    "retrieved": "2026-08-04",
+    "sha256": "25412b362590fa2f7f90749bed97b56db06ebc3b254c3de295ee74307e649a81",
+    "url": "https://assets.publishing.service.gov.uk/media/6a561263822fbe6b8245c8ba/modalities-of-the-authentication-process-for-origin-declarations.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-in-ceta-origin-declaration-template-for-uk-traders.docx": {
+    "bytes": 42475,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d464bcb5f7055b683301d89c10ecee3dcc1ddfa3a78dda3b365398ff5e131dce",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-10ai-schedules-of-specific-commitments-on-temporary-movement-of-natural-persons-schedule-of-india.pdf": {
+    "bytes": 300392,
+    "note": "Ch10 Mobility - KEY",
+    "retrieved": "2026-08-04",
+    "sha256": "d2e762e66affc2cde10f3bd50b56eff45515dc863db45ab57b82869f4913240d",
+    "url": "https://assets.publishing.service.gov.uk/media/687f5e0a88c74f0fd15c9742/uk-india-ceta-annex-10ai-schedules-of-specific-commitments-on-temporary-movement-of-natural-persons-schedule-of-india.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-10aii-schedules-of-specific-commitments-on-temporary-movement-of-natural-persons-schedule-of-the-united-kingdom.pdf": {
+    "bytes": 252369,
+    "note": "Ch10 Mobility - KEY",
+    "retrieved": "2026-08-04",
+    "sha256": "8afb953b0b29c4f8fc2c191b0c8133dafc184d054e600b3f7904d762105111fa",
+    "url": "https://assets.publishing.service.gov.uk/media/687f5e68ae8555bab409a0e5/uk-india-ceta-annex-10aii-schedules-of-specific-commitments-on-temporary-movement-of-natural-persons-schedule-of-the-united-kingdom.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-13a-13b-13c-geographical-indications.pdf": {
+    "bytes": 180367,
+    "note": "Ch13 IP",
+    "retrieved": "2026-08-04",
+    "sha256": "233ec9a9c5178e6975335a1b10646318ee9d54b149590d09056f77fcd8c428f6",
+    "url": "https://assets.publishing.service.gov.uk/media/687fb2c4f2ecaeb756d0e25d/uk-india-ceta-annex-13a-13b-13c-geographical-indications.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-15ai-government-procurement-schedules-schedule-of-india.pdf": {
+    "bytes": 235058,
+    "note": "Ch15 Government Procurement",
+    "retrieved": "2026-08-04",
+    "sha256": "46301259ed0ff8dbf3d0aaf5c5a53716470921de9c1a5684a5fe31b9fce7dd4d",
+    "url": "https://assets.publishing.service.gov.uk/media/687fb8c8f2ecaeb756d0e265/uk-india-ceta-annex-15ai-government-procurement-schedules-schedule-of-india.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-15aii-government-procurement-schedules-schedule-of-the-united-kingdom.pdf": {
+    "bytes": 280412,
+    "note": "Ch15 Government Procurement",
+    "retrieved": "2026-08-04",
+    "sha256": "283e31f2f1156f50e54da3215670838dfd85606c8555267317c9633139d5999e",
+    "url": "https://assets.publishing.service.gov.uk/media/687fb8db37c38e28f38468db/uk-india-ceta-annex-15aii-government-procurement-schedules-schedule-of-the-united-kingdom.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-7a-product-sectors.pdf": {
+    "bytes": 178985,
+    "note": "Ch7 TBT",
+    "retrieved": "2026-08-04",
+    "sha256": "483484d0035cba706ed59ea6ce20a2efdd8d838a8921ee024b0babf8c0f00aad",
+    "url": "https://assets.publishing.service.gov.uk/media/6880ba0ef47abf78ca1d3529/uk-india-ceta-annex-7a-product-sectors.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-8a-professional-services.pdf": {
+    "bytes": 182411,
+    "note": "Ch8 Trade in Services",
+    "retrieved": "2026-08-04",
+    "sha256": "376fde679b0549270d5f356a621ebbafe5caf683b4373d632db74f335ce3ec44",
+    "url": "https://assets.publishing.service.gov.uk/media/687e52d992957f2ec567c608/uk-india-ceta-annex-8a-professional-services.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-8b-schedule-of-india.pdf": {
+    "bytes": 480541,
+    "note": "Ch8 Trade in Services",
+    "retrieved": "2026-08-04",
+    "sha256": "bad6dbd80a3a56aa96c261422cc7101f2eda9ecea62954b541b5ac9979bae8f4",
+    "url": "https://assets.publishing.service.gov.uk/media/687f6a9477a3acd9f4d0e1cd/uk-india-ceta-annex-8b-schedule-of-india.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-8b-schedule-of-united-kingdom.pdf": {
+    "bytes": 503919,
+    "note": "Ch8 Trade in Services",
+    "retrieved": "2026-08-04",
+    "sha256": "b2d5f8ddf37258f838731a9d7c9d1e150667fc656bca6f3f1c0a0eeba859631a",
+    "url": "https://assets.publishing.service.gov.uk/media/687f6be828f29c99778a743a/uk-india-ceta-annex-8b-schedule-of-united-kingdom.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-8c-most-favoured-nation-treatment-sectoral-coverage.pdf": {
+    "bytes": 193941,
+    "note": "Ch8 Trade in Services",
+    "retrieved": "2026-08-04",
+    "sha256": "a34c194a6007e92bec60190b29637e495f4e688656247c9125879d6ffaefe905",
+    "url": "https://assets.publishing.service.gov.uk/media/6891ca2f25ba7325501b0a1f/uk-india-ceta-annex-8c-most-favoured-nation-treatment-sectoral-coverage.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-9a-schedule-of-india.pdf": {
+    "bytes": 272928,
+    "note": "Ch9 Financial Services",
+    "retrieved": "2026-08-04",
+    "sha256": "bf3506188cbb9fe4d062c58b888edce854119790d2196446f1e4b12b9f1ff610",
+    "url": "https://assets.publishing.service.gov.uk/media/687f71a377a3acd9f4d0e1d6/uk-india-ceta-annex-9a-schedule-of-india.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-annex-9a-schedule-of-the-united-kingdom.pdf": {
+    "bytes": 213785,
+    "note": "Ch9 Financial Services",
+    "retrieved": "2026-08-04",
+    "sha256": "cca0e577ca0c29ec52e020a3d0e234e411853afadfdb08324b6d89fe7a3d4137",
+    "url": "https://assets.publishing.service.gov.uk/media/687f71b7fdc190fb6b846861/uk-india-ceta-annex-9a-schedule-of-the-united-kingdom.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-10-temporary-movement-of-natural-persons.pdf": {
+    "bytes": 178493,
+    "note": "Ch10 Mobility - KEY",
+    "retrieved": "2026-08-04",
+    "sha256": "6a17a9fe2f45a7d5216942e2134d160975582ac53e6e1385b563aa6e059bb22c",
+    "url": "https://assets.publishing.service.gov.uk/media/687f5d4b791bb4d8c309a0bb/uk-india-ceta-chapter-10-temporary-movement-of-natural-persons.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-11-telecommunications.pdf": {
+    "bytes": 252900,
+    "note": "Ch11 Telecoms",
+    "retrieved": "2026-08-04",
+    "sha256": "80c7cbab332db7480efcbd3b4fca1066ff03d3da76b1bf3d468eb4a33084afdd",
+    "url": "https://assets.publishing.service.gov.uk/media/687f6e2df2ecaeb756d0e1d0/uk-india-ceta-chapter-11-telecommunications.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-12-digital-trade.pdf": {
+    "bytes": 361750,
+    "note": "Ch12 Digital Trade",
+    "retrieved": "2026-08-04",
+    "sha256": "81003d1eda8e264db27af05d377dea0d344a5d5234c410e25b9d8c190fadb77d",
+    "url": "https://assets.publishing.service.gov.uk/media/687f763b77a3acd9f4d0e1e1/uk-india-ceta-chapter-12-digital-trade.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-13-intellectual-property-rights.pdf": {
+    "bytes": 644698,
+    "note": "Ch13 IP",
+    "retrieved": "2026-08-04",
+    "sha256": "db1584c2c0a322e774216e914986b50284e1af62512a561bc5ef4911e2d2cbc5",
+    "url": "https://assets.publishing.service.gov.uk/media/687fb25337c38e28f38468d6/uk-india-ceta-chapter-13-intellectual-property-rights.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-14-innovation.pdf": {
+    "bytes": 206240,
+    "note": "Ch14 Innovation",
+    "retrieved": "2026-08-04",
+    "sha256": "550b9bd94524fc114705aa0b0dd851fc4eeeb1c803510c6f89e0cebb568cf9ab",
+    "url": "https://assets.publishing.service.gov.uk/media/687fb6b377a3acd9f4d0e25c/uk-india-ceta-chapter-14-innovation.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-15-government-procurement.pdf": {
+    "bytes": 352981,
+    "note": "Ch15 Government Procurement",
+    "retrieved": "2026-08-04",
+    "sha256": "dd03c8139fc671c55b7e2fd261adafca38953565ac48616eb5b80faf1043a51b",
+    "url": "https://assets.publishing.service.gov.uk/media/687fb885f2ecaeb756d0e264/uk-india-ceta-chapter-15-government-procurement.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-30-final-provisions.pdf": {
+    "bytes": 108544,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "a805458357484c5638adb8445cf5f6db68442c9e33f3ffb29951cef4180fdbe0",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-4-trade-remedies.pdf": {
+    "bytes": 228300,
+    "note": "Ch4 Trade Remedies",
+    "retrieved": "2026-08-04",
+    "sha256": "bf372fbb10dd2db1f61f718970e4b40a2b46f2b011105940e1a8381be802f293",
+    "url": "https://assets.publishing.service.gov.uk/media/687e3e9fae8555bab409a045/uk-india-ceta-chapter-4-trade-remedies.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-5-customs-and-trade-facilitation.pdf": {
+    "bytes": 259675,
+    "note": "Ch5 Customs",
+    "retrieved": "2026-08-04",
+    "sha256": "fb182678dda4e9a4df9058c582f86d62c799fcee02375074b8c77b751f24299a",
+    "url": "https://assets.publishing.service.gov.uk/media/687e456b8adf4250705c96bd/uk-india-ceta-chapter-5-customs-and-trade-facilitation.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-6-sanitary-and-phytosanitary-measures.pdf": {
+    "bytes": 291095,
+    "note": "Ch6 SPS",
+    "retrieved": "2026-08-04",
+    "sha256": "f8cd19170bdd32fee46236e96377c4b39ebdf897bb4c5f111a5657d83eb63bfd",
+    "url": "https://assets.publishing.service.gov.uk/media/687e479592957f2ec567c5f8/uk-india-ceta-chapter-6-sanitary-and-phytosanitary-measures.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-7-technical-barriers-to-trade.pdf": {
+    "bytes": 259271,
+    "note": "Ch7 TBT",
+    "retrieved": "2026-08-04",
+    "sha256": "30779e93e07c3c6c457ab69d0514b95508acad2a9b4311760a6b1db4a4e0a43b",
+    "url": "https://assets.publishing.service.gov.uk/media/6880b9e82b6fd60b7c160f0a/uk-india-ceta-chapter-7-technical-barriers-to-trade.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-8-trade-in-services.pdf": {
+    "bytes": 307286,
+    "note": "Ch8 Trade in Services",
+    "retrieved": "2026-08-04",
+    "sha256": "e8d325753822eed85059480f41e60bcd4e1dbc2dbacd9a616d5f00db928b4984",
+    "url": "https://assets.publishing.service.gov.uk/media/687e51d488c74f0fd15c96cd/uk-india-ceta-chapter-8-trade-in-services.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-chapter-9-financial-services.pdf": {
+    "bytes": 285001,
+    "note": "Ch9 Financial Services",
+    "retrieved": "2026-08-04",
+    "sha256": "6687fa6a28b6d7c2649ed5dd555e8655d5e2131b1ff085567f64a8836db23bcf",
+    "url": "https://assets.publishing.service.gov.uk/media/687e5cf7ae8555bab409a078/uk-india-ceta-chapter-9-financial-services.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk-india-ceta-origin-declaration-template-for-uk-traders.xlsx": {
+    "bytes": 30297,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "e5b11b38f880eb33e5e174ca97518b350bf3461b467306a029483d4db23b0e40",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/uk_india_ceta_annex2a_a_schedules_tariff_commitments_of_india.pdf": {
+    "bytes": 17931786,
+    "note": "Ch2 Trade in Goods + Annex 2A schedules",
+    "retrieved": "2026-08-04",
+    "sha256": "9afb676ced87634f148b2330cd7eda1d72651a817c73f5ca990595c15577d1d3",
+    "url": "https://assets.publishing.service.gov.uk/media/687f696b8adf4250705c9773/uk_india_ceta_annex2a_a_schedules_tariff_commitments_of_india.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_annex2a_b_schedules_tariff_commitments_of_united_kingdom.pdf": {
+    "bytes": 398968,
+    "note": "Ch2 Trade in Goods + Annex 2A schedules",
+    "retrieved": "2026-08-04",
+    "sha256": "a58bc70379825b5f08aa577bf518d7a954c2de238c719ce72e55e71e1202c61d",
+    "url": "https://assets.publishing.service.gov.uk/media/687f69a177a3acd9f4d0e1cc/uk_india_ceta_annex2a_b_schedules_tariff_commitments_of_united_kingdom.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_annex2a_schedules_tariff_commitments_for_goods.pdf": {
+    "bytes": 387008,
+    "note": "Ch2 Trade in Goods + Annex 2A schedules",
+    "retrieved": "2026-08-04",
+    "sha256": "3a5df932d49598a01f0ca386dff4b565ee80102a6ff03030f3333e346c326762",
+    "url": "https://assets.publishing.service.gov.uk/media/687f692d92957f2ec567c6ad/uk_india_ceta_annex2a_schedules_tariff_commitments_for_goods.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_annex3C_certificate_of_origin_template.pdf": {
+    "bytes": 218965,
+    "note": "Ch3 Rules of Origin + Annex 3A PSR",
+    "retrieved": "2026-08-04",
+    "sha256": "dbbbd079839ad98b082a406b63993dff688a23b0744c8bbdd12c87f41c07c288",
+    "url": "https://assets.publishing.service.gov.uk/media/687e5e758adf4250705c96dc/uk_india_ceta_annex3C_certificate_of_origin_template.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_annex3a_product_specific_rules_of_origin.pdf": {
+    "bytes": 420940,
+    "note": "Ch3 Rules of Origin + Annex 3A PSR",
+    "retrieved": "2026-08-04",
+    "sha256": "118428ed17b861cc0c9dad90dc2fa03bdd4f89f212423e43c8036ddf4fb250f9",
+    "url": "https://assets.publishing.service.gov.uk/media/687e5e378adf4250705c96db/uk_india_ceta_annex3a_product_specific_rules_of_origin.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_annex3b_origin_declaration_template.pdf": {
+    "bytes": 220183,
+    "note": "Ch3 Rules of Origin + Annex 3A PSR",
+    "retrieved": "2026-08-04",
+    "sha256": "7167deed4941a5284517420ad95648287a402bd448220b1ec4b373afdd88e0d6",
+    "url": "https://assets.publishing.service.gov.uk/media/687e5e56791bb4d8c309a068/uk_india_ceta_annex3b_origin_declaration_template.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_annex3d_framework_for_authentication_process_of_origin_declaration.pdf": {
+    "bytes": 97301,
+    "note": "Ch3 Rules of Origin + Annex 3A PSR",
+    "retrieved": "2026-08-04",
+    "sha256": "4b30bdfa8f554f03a84b04f20daa2340de51144cb7eb7b1b84476e86d3262f47",
+    "url": "https://assets.publishing.service.gov.uk/media/687e5ea6791bb4d8c309a069/uk_india_ceta_annex3d_framework_for_authentication_process_of_origin_declaration.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_annex3e_data_protection_and_processing_of_personal_information.pdf": {
+    "bytes": 199757,
+    "note": "Ch3 Rules of Origin + Annex 3A PSR",
+    "retrieved": "2026-08-04",
+    "sha256": "7f51431b0997962fccc3cd4086858f4ac1c32d3bfe57b82c12b32238b5d8635c",
+    "url": "https://assets.publishing.service.gov.uk/media/687e5ec488c74f0fd15c96e0/uk_india_ceta_annex3e_data_protection_and_processing_of_personal_information.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_annex_29a_rules_of_procedure.pdf": {
+    "bytes": 754389,
+    "note": "Ch29 Dispute Settlement",
+    "retrieved": "2026-08-04",
+    "sha256": "590683b31ab534a0efe8d0c3afdd146fd01d49f762eb8e8b7f3057d82e462bc3",
+    "url": "https://assets.publishing.service.gov.uk/media/687f68ed8adf4250705c9772/uk_india_ceta_annex_29a_rules_of_procedure.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_annex_29b_code_of_conduct.pdf": {
+    "bytes": 204920,
+    "note": "Ch29 Dispute Settlement",
+    "retrieved": "2026-08-04",
+    "sha256": "d4a87194a844b2c7e3cb112b1f30747f7be12f12993f5784fad35ed1ecbdb5bf",
+    "url": "https://assets.publishing.service.gov.uk/media/687f696e77a3acd9f4d0e1cb/uk_india_ceta_annex_29b_code_of_conduct.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_16_competition_and_consumer_protection_policy.pdf": {
+    "bytes": 182842,
+    "note": "Ch16 Competition",
+    "retrieved": "2026-08-04",
+    "sha256": "accf3679ee4bb2d308c2db601d0faccf7f8df7a0c51c762e48dde865303eb556",
+    "url": "https://assets.publishing.service.gov.uk/media/6880ad0f901d5f8d471204e2/uk_india_ceta_chapter_16_competition_and_consumer_protection_policy.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_17_state_owned_enterprises.pdf": {
+    "bytes": 188118,
+    "note": "Ch17 SOEs",
+    "retrieved": "2026-08-04",
+    "sha256": "441b3689755d22d786a5bf028a4b3053cbf9671cb567a2e305303014c92d7eea",
+    "url": "https://assets.publishing.service.gov.uk/media/6880af08b288edb3615ff604/uk_india_ceta_chapter_17_state_owned_enterprises.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_18_subsidies.pdf": {
+    "bytes": 684162,
+    "note": "Ch18 Subsidies",
+    "retrieved": "2026-08-04",
+    "sha256": "27b26ef92059f17047f48ac690438f6c653f8668dacb9f82978ffc3e550decbd",
+    "url": "https://assets.publishing.service.gov.uk/media/6880b074b288edb3615ff60b/uk_india_ceta_chapter_18_subsidies.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_19_small_and_medium_sized_enterprises.pdf": {
+    "bytes": 165452,
+    "note": "Ch19 SMEs",
+    "retrieved": "2026-08-04",
+    "sha256": "d4797bc6e095fd68e4c623a516debf3751af955aab5ee998c6c1a682589f702f",
+    "url": "https://assets.publishing.service.gov.uk/media/687e54d18adf4250705c96d3/uk_india_ceta_chapter_19_small_and_medium_sized_enterprises.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_1_initial_provisions_definitions.pdf": {
+    "bytes": 243127,
+    "note": "Ch1 Initial Provisions",
+    "retrieved": "2026-08-04",
+    "sha256": "e765eb795e29bcbcafe4bde445be67c44d4b7cd48cabed371af3e3842a650066",
+    "url": "https://assets.publishing.service.gov.uk/media/687e542d88c74f0fd15c96d3/uk_india_ceta_chapter_1_initial_provisions_definitions.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_20_labour.pdf": {
+    "bytes": 240630,
+    "note": "Ch20 Labour",
+    "retrieved": "2026-08-04",
+    "sha256": "1e1cb11afe0da9c4d30f69f68a47772166f4930a6d4b56039a9d07fd7023c4d5",
+    "url": "https://assets.publishing.service.gov.uk/media/687e542a92957f2ec567c60c/uk_india_ceta_chapter_20_labour.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_21_environment.pdf": {
+    "bytes": 331125,
+    "note": "Ch21 Environment",
+    "retrieved": "2026-08-04",
+    "sha256": "24941d7de1ff7551a56ad6f728bf816de0e043100dbea8bcde61317eb02b8fde",
+    "url": "https://assets.publishing.service.gov.uk/media/687e56fd791bb4d8c309a056/uk_india_ceta_chapter_21_environment.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_22_trade_and_development_cooperation.pdf": {
+    "bytes": 156396,
+    "note": "Ch22 Development",
+    "retrieved": "2026-08-04",
+    "sha256": "04011c7547ff9e7722d30369d2bea94ff29ad5cc8f35228aa2ef1640ce2e2138",
+    "url": "https://assets.publishing.service.gov.uk/media/688204636a7ea0e1ce1d35cc/uk_india_ceta_chapter_22_trade_and_development_cooperation.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_23_trade_and_gender_equality.pdf": {
+    "bytes": 226477,
+    "note": "Ch23 Gender",
+    "retrieved": "2026-08-04",
+    "sha256": "d67bd1c00a2b788625760901eee881aee53d7f890ec3ee36dfbb6450df0916eb",
+    "url": "https://assets.publishing.service.gov.uk/media/687e5e5492957f2ec567c61b/uk_india_ceta_chapter_23_trade_and_gender_equality.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_24_good_regulatory_practice.pdf": {
+    "bytes": 173306,
+    "note": "Ch24 GRP",
+    "retrieved": "2026-08-04",
+    "sha256": "d94fc4354bbeb5596eaadb2106694472d6551ba36d10b8fb8a02635df4e6acba",
+    "url": "https://assets.publishing.service.gov.uk/media/687f5c4f791bb4d8c309a0b1/uk_india_ceta_chapter_24_good_regulatory_practice.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_25_transparency.pdf": {
+    "bytes": 179464,
+    "note": "Ch25 Transparency",
+    "retrieved": "2026-08-04",
+    "sha256": "fa0695547cdfa5baf93be665b143752ae153a578a6b283bacca5f6563e507646",
+    "url": "https://assets.publishing.service.gov.uk/media/687f5e1788c74f0fd15c9743/uk_india_ceta_chapter_25_transparency.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_26_anti_corruption.pdf": {
+    "bytes": 754310,
+    "note": "Ch26 Anti-Corruption",
+    "retrieved": "2026-08-04",
+    "sha256": "f804798b1d5b3400f17e5c0bb0b02203373ff65192f855b6aa0bf73823647488",
+    "url": "https://assets.publishing.service.gov.uk/media/687f5f9cae8555bab409a100/uk_india_ceta_chapter_26_anti_corruption.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_27_administrative_and_institutional_provisions.pdf": {
+    "bytes": 162260,
+    "note": "Ch27 Institutional",
+    "retrieved": "2026-08-04",
+    "sha256": "ff370a8e834f4365066ca99d6b0313aa24b3a94209f0957d7ef6466d2924343b",
+    "url": "https://assets.publishing.service.gov.uk/media/687f619892957f2ec567c6a5/uk_india_ceta_chapter_27_administrative_and_institutional_provisions.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_28_general_provisions_and_exceptions.pdf": {
+    "bytes": 262179,
+    "note": "Ch28 General Exceptions",
+    "retrieved": "2026-08-04",
+    "sha256": "eb339a13cb1196c5beb70691db97d07786718134038dd0cf69651bc9ba2f6acb",
+    "url": "https://assets.publishing.service.gov.uk/media/687f632eae8555bab409a11b/uk_india_ceta_chapter_28_general_provisions_and_exceptions.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_29_dispute_settlement.pdf": {
+    "bytes": 281636,
+    "note": "Ch29 Dispute Settlement",
+    "retrieved": "2026-08-04",
+    "sha256": "065ad8bab77853712c22e75f3a2b7af66e66518c8800c250eace369004a9d0f1",
+    "url": "https://assets.publishing.service.gov.uk/media/687f652e9914d1f63267c6ac/uk_india_ceta_chapter_29_dispute_settlement.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_2_trade_in_goods.pdf": {
+    "bytes": 219053,
+    "note": "Ch2 Trade in Goods + Annex 2A schedules",
+    "retrieved": "2026-08-04",
+    "sha256": "3054fd9f1c3da4d69847b600bbb34c434349deefa06aed77c39f2e32927c5298",
+    "url": "https://assets.publishing.service.gov.uk/media/687e518d9914d1f63267c605/uk_india_ceta_chapter_2_trade_in_goods.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_chapter_3_rules_of_origin.pdf": {
+    "bytes": 399342,
+    "note": "Ch3 Rules of Origin + Annex 3A PSR",
+    "retrieved": "2026-08-04",
+    "sha256": "32a8f51ce7947d64e94f1d419bb3a804873d2b02d4dc8a0f437e6d5e0c6086e0",
+    "url": "https://assets.publishing.service.gov.uk/media/687e58acae8555bab409a070/uk_india_ceta_chapter_3_rules_of_origin.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_contents.pdf": {
+    "bytes": 92494,
+    "note": "Title page, ToC, Preamble",
+    "retrieved": "2026-08-04",
+    "sha256": "960ce4bc6f3d7c2b2c8dfbe64e1aced0c9a1a8243a4fd5aecddeaa0bdd70cf7f",
+    "url": "https://assets.publishing.service.gov.uk/media/687e4c0e92957f2ec567c5fe/uk_india_ceta_contents.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_preamble.pdf": {
+    "bytes": 135509,
+    "note": "Title page, ToC, Preamble",
+    "retrieved": "2026-08-04",
+    "sha256": "b6a4a2bc718066bceb3c166f9a43b85916880f97e80f58023d76594d7728df40",
+    "url": "https://assets.publishing.service.gov.uk/media/687e4c2c9914d1f63267c600/uk_india_ceta_preamble.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_india_ceta_title.pdf": {
+    "bytes": 51911,
+    "note": "Title page, ToC, Preamble",
+    "retrieved": "2026-08-04",
+    "sha256": "1f6031e2e5e6c03eb7be0032f91afa56ce4ca206464247f97830c5c1ecc15b47",
+    "url": "https://assets.publishing.service.gov.uk/media/687e4beb8adf4250705c96c7/uk_india_ceta_title.pdf",
+    "via_proxy": false
+  },
+  "01-ceta-legal-text/uk_ip_side_letter1.pdf": {
+    "bytes": 1069535,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "f82861c2de8f436f6430a7ae943d4be870eb337f8e8e35e587c03a4b59e56110",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/uk_ip_side_letter2.pdf": {
+    "bytes": 598587,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "392da46d48a21d675b19286abd9a541274ae38d0523ee6821261eec64c7685b4",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/uk_ip_side_letter3.pdf": {
+    "bytes": 469915,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "6eda8205211c45929ef306fa2dbaa1c6694272165a69ed6638e9e43ca7ca6436",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/uk_ip_side_letter4.pdf": {
+    "bytes": 227588,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "2f52a6b66d5eef80bb3838a3f9c71b6d0e6c1e470ccc120a94085d3bcdd3d6dd",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/uk_side_letter_agreeing_negotiate_double_contributions_convention.pdf": {
+    "bytes": 490013,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "4f2d3e00acf9fbbc9d21d35aef0a99dd12b898fa9eb6a637967c7340bf50fcf6",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "01-ceta-legal-text/uk_side_letter_territorial_extension_crown_dependencies.pdf": {
+    "bytes": 736612,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "c2ba1adc430e5346a39764ab315b1a15b3e6c05c5527eecc40ed007d43da71f6",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "02-ceta-official-analysis/DBT-DCC-explainer.json": {
+    "bytes": 13623,
+    "note": "DBT explainer on the Double Contribution Convention",
+    "retrieved": "2026-08-04",
+    "sha256": "01a42a54343119b78ee8ea7661bf50d4c5bfdb54b01e0886fcf8647811f8302d",
+    "url": "https://www.gov.uk/api/content/government/publications/uk-india-trade-deal-double-contributions-convention-explainer",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/DBT-business-mobility-explainer.json": {
+    "bytes": 12303,
+    "note": "DBT business mobility explainer - NOTE: salary figures on this page are stale, use the Immigration Rules",
+    "retrieved": "2026-08-04",
+    "sha256": "3a02e358d3eb7bf9df66a34cf7295fa46188fc074df310fc2fa39d57ee245e48",
+    "url": "https://www.gov.uk/api/content/government/publications/uk-india-free-trade-agreement-business-mobility-explainer",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/DBT-conclusion-summary.json": {
+    "bytes": 16291,
+    "note": "DBT conclusion summary of the CETA negotiation outcome",
+    "retrieved": "2026-08-04",
+    "sha256": "c966a6e384042f8d9ff01ebbaa88f0f6ed96570f3855366f7a277df311836bca",
+    "url": "https://www.gov.uk/api/content/government/publications/uk-india-trade-deal-conclusion-summary",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/DBT-technical-note.json": {
+    "bytes": 22528,
+    "note": "DBT technical note - chapter-by-chapter summary",
+    "retrieved": "2026-08-04",
+    "sha256": "dd2f6201b4285a4a0874de08513e3e43ba643205cfc68acb549aabdb873574cb",
+    "url": "https://www.gov.uk/api/content/government/publications/uk-india-free-trade-agreement-technical-note",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/NTCAB-conformity-assessment-india.json": {
+    "bytes": 13781,
+    "note": "National treatment of conformity assessment bodies with India",
+    "retrieved": "2026-08-04",
+    "sha256": "fe8708143c42f33d85f053f11cece0133b1427bef65fce34cf0a22a1da676d0a",
+    "url": "https://www.gov.uk/api/content/government/publications/national-treatment-of-conformity-assessment-bodies-ntcabs-with-india",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/Roadmap-2030-UK-India.json": {
+    "bytes": 24324,
+    "note": "2021 Roadmap 2030 - the political frame the CETA sits in",
+    "retrieved": "2026-08-04",
+    "sha256": "bbc7f1c90c9d494848cc5a80fe6c8eff12808811b3f041bcc9a48f46337ace84",
+    "url": "https://www.gov.uk/api/content/government/publications/india-uk-virtual-summit-may-2021-roadmap-2030-for-a-comprehensive-strategic-partnership",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/advice-to-the-secretary-of-state-for-business-and-trade-on-the-uk-india-free-trade-agreement.pdf": {
+    "bytes": 912045,
+    "note": "Trade and Agriculture Commission advice",
+    "retrieved": "2026-08-04",
+    "sha256": "9942020a5946b31b43545731426557d0b5e616a66f70463ab490cbc4bbb66a0a",
+    "url": "https://assets.publishing.service.gov.uk/media/6903891dcc6b3272b391317c/advice-to-the-secretary-of-state-for-business-and-trade-on-the-uk-india-free-trade-agreement.pdf",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/impact-assessment-of-the-free-trade-agreement-between-the-uk-and-india.pdf": {
+    "bytes": 2518792,
+    "note": "Official Impact Assessment 129pp - CGE modelling, +\u00a34.8bn UK GDP",
+    "retrieved": "2026-08-04",
+    "sha256": "516c0a4a8599eadad67b12ce2d232fedcb590eca53b3af0e68830e64e8dd971b",
+    "url": "https://assets.publishing.service.gov.uk/media/69a57aecb346998e6646b582/impact-assessment-of-the-free-trade-agreement-between-the-uk-and-india.pdf",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/report-persuant-to-section-42-of-the-agriculture-act-2020.pdf": {
+    "bytes": 899519,
+    "note": "s42 Agriculture Act report + FSA/FSS Annex A - SPS border checks",
+    "retrieved": "2026-08-04",
+    "sha256": "e9d4752059efdc96efcbac37e784d13a045cafb1dc43fbc121cd5db255d786a6",
+    "url": "https://assets.publishing.service.gov.uk/media/6920697525317fc65a5cfdb6/report-persuant-to-section-42-of-the-agriculture-act-2020.pdf",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/s42-joint-advice-FSA-FSS.json": {
+    "bytes": 8742,
+    "note": "Joint FSA/FSS s42 Agriculture Act advice",
+    "retrieved": "2026-08-04",
+    "sha256": "30e3106f03c62b60b3fb5dcc272442bb678a129642189c9462cef8a97a5c1fbd",
+    "url": "https://www.gov.uk/api/content/government/publications/joint-section-42-advice-uk-india-free-trade-agreement",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/uk-india-ceta-draft-explanatory-memorandum.pdf": {
+    "bytes": 330995,
+    "note": "Draft explanatory memorandum",
+    "retrieved": "2026-08-04",
+    "sha256": "344d696281c1da422a59ab72b9e756abb3da56b639f4c026ca8a7f3e2cf43ca9",
+    "url": "https://assets.publishing.service.gov.uk/media/6881f4d5901d5f8d47120586/uk-india-ceta-draft-explanatory-memorandum.pdf",
+    "via_proxy": false
+  },
+  "02-ceta-official-analysis/uk_india_fta_impact_on_industrial_strategy_sectors.pdf": {
+    "bytes": 2914394,
+    "note": "Impact on industrial strategy sectors",
+    "retrieved": "2026-08-04",
+    "sha256": "0ff0189ca40a7f76a965dec8c731e09baa4bda245770fd4a57cf3e7c55faa5f8",
+    "url": "https://assets.publishing.service.gov.uk/media/6880f8ccf47abf78ca1d359c/uk_india_fta_impact_on_industrial_strategy_sectors.pdf",
+    "via_proxy": false
+  },
+  "03-india-government/IN-DGFT-TradeNotice-11-2026-eCoO.pdf": {
+    "bytes": 2984708,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "e03baa8ef21d32d8a10b0de2594a721773d7f74dae66b51b553bf52fe9413ffa",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-LokSabha-Q45-FTAs-3Feb2026.pdf": {
+    "bytes": 408561,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "bc33074d16f83d52fcfe83913a3789f2bf4c9fb4bc141fbe88a9dfdeb4e6505a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-Notification-29-2026-Customs-tariff-concessions.pdf": {
+    "bytes": 4186485,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "4ad60980fb9c0dd5a5f675df76984f87fdea1a8af354b04443613aa9be5ddfcd",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-PDEXCIL-CETA-advisory.pdf": {
+    "bytes": 196336,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "6cb460aecb72bf8e25fe467d15960802ed17d99af427d67bd766c171b8ccb53d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-PIB-2147805-CETA-signed-24Jul2025.html": {
+    "bytes": 99899,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "505a24bcaf791cdf7e30c15820cad298f6b1e6544a33e725d7fffe1cae499ad4",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-PIB-2273817-Modi-Starmer-G7-17Jun2026.html": {
+    "bytes": 70764,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "0a60cb00a431bb376d7018ab61d95150f47d85eef11e2d59135e08b8606a5616",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-PIB-2274280-EIF-announcement-17Jun2026.html": {
+    "bytes": 148631,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "e28acd7ee4303ab788f794a59ccd20ce2ded01126fc69a359a723e1b0048d379",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-PIB-2277503-Goyal-UK-visit-Jun2026.html": {
+    "bytes": 93329,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "f6f217b76e0736be6146af2206a3066337482702fa22c3f03a9c1e0b9f4e5d47",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-PIB-2278276-1000-advisory-personnel.html": {
+    "bytes": 87956,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "7c2fe152fb04df8db62a66e3ab1520e148956f7394c9968fdd31ce193b3d1154",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-PIB-2285085-CETA-enters-into-force-15Jul2026.html": {
+    "bytes": 141298,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "2ea606c1997089236bff5314b1a71747e42839348084d923b57db44eb68954ca",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-PIB-CETA-backgrounder-15Jul2026.pdf": {
+    "bytes": 1031432,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "5a30243fa8721c8b0f4ce4f5038b0073f7b89979d9b971191ea80557af73983d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/IN-PIB-CETA-backgrounder-15Jul2026.txt": {
+    "bytes": 30780,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "ffa033cec50591de3cb0ebe75322cfe718b4d1f38da169edec62c788c8d352dc",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "03-india-government/India-UK-Vision-2035.pdf": {
+    "bytes": 1426957,
+    "note": "India-UK Vision 2035",
+    "retrieved": "2026-08-04",
+    "sha256": "554995b3e313a44bc17a876ab502fb3d26af9ec999817a09f352c97ac933ec5a",
+    "url": "https://assets.publishing.service.gov.uk/media/688200f0901d5f8d47120592/India-UK-Vision-2035.pdf",
+    "via_proxy": false
+  },
+  "03-india-government/UK-India-BIPA-1994-Cm2797.pdf": {
+    "bytes": 819088,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "551cd1dc0e9e9f0ecdbf1b0ef02e58201a0199c56df301ace232889a64b827ca",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "04-uk-guidance/limited-company-formation.json": {
+    "bytes": 71936,
+    "note": "gov.uk limited company formation",
+    "retrieved": "2026-08-04",
+    "sha256": "0175dc95de1739f1ac9f68b34937b4d6da662786e9c7e861bf990f1df2d0d47f",
+    "url": "https://www.gov.uk/api/content/limited-company-formation",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/APP-GBM-all-five-routes.json": {
+    "bytes": 195652,
+    "note": "Immigration Rules Appendix GBM - ALL FIVE ROUTES in one document. THE authority for salary thresholds: Senior/Specialist and Expansion Worker GBP52,500, Graduate Trainee GBP27,300, high earner GBP73,900. Also SSU 3.3/5.2-5.4 Service Supplier rules.",
+    "retrieved": "2026-08-04",
+    "sha256": "c98f74dd7d2753162823866a30b7dc03a715d87d2040fecb2b0ed868acd6d333",
+    "url": "https://www.gov.uk/api/content/guidance/immigration-rules/immigration-rules-appendix-global-business-mobility-routes",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/APP-Skilled-Occupations-going-rates.json": {
+    "bytes": 337378,
+    "note": "Appendix Skilled Occupations - going rates by SOC code",
+    "retrieved": "2026-08-04",
+    "sha256": "55994c629af6adf2c802dec417db151c6253ee6b35f2b6dbf038e2abb703870c",
+    "url": "https://www.gov.uk/api/content/guidance/immigration-rules/immigration-rules-appendix-skilled-occupations",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/CETA-Annex10A-i-India-schedule.pdf": {
+    "bytes": 300392,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d2e762e66affc2cde10f3bd50b56eff45515dc863db45ab57b82869f4913240d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "05-mobility-immigration/CETA-Annex10A-ii-UK-schedule.pdf": {
+    "bytes": 252369,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "8afb953b0b29c4f8fc2c191b0c8133dafc184d054e600b3f7904d762105111fa",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "05-mobility-immigration/CETA-Ch10-temporary-movement-natural-persons.pdf": {
+    "bytes": 178493,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "6a17a9fe2f45a7d5216942e2134d160975582ac53e6e1385b563aa6e059bb22c",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "05-mobility-immigration/Fees_Table_-__4_Oct_23_-_Final.ods": {
+    "bytes": 108716,
+    "note": "Home Office fees table attachment",
+    "retrieved": "2026-08-04",
+    "sha256": "c57f0d1829a84f5302d755fb8cf5789a8c656b9eeb2a48ab2b2dfbc727f63e5a",
+    "url": "https://assets.publishing.service.gov.uk/media/65ca4734103de2000eb8f325/Fees_Table_-__4_Oct_23_-_Final.ods",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/Fees_Table_13_April_2023_v1.0.ods": {
+    "bytes": 65473,
+    "note": "Home Office fees table attachment",
+    "retrieved": "2026-08-04",
+    "sha256": "b419da53afbb7060b04e850f3b8ee3c69b8a217aa36fb11c6dae803600bcad29",
+    "url": "https://assets.publishing.service.gov.uk/media/64270c98fbe620000f17daa4/Fees_Table_13_April_2023_v1.0.ods",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/Fees_table_25.10.23.ods": {
+    "bytes": 181111,
+    "note": "Home Office fees table attachment",
+    "retrieved": "2026-08-04",
+    "sha256": "3c29f2c7dad467a9d3b55e6b891a4b0b62e203ac7c95d3126fdf7deeafe740d1",
+    "url": "https://assets.publishing.service.gov.uk/media/65c5e8e8cc433b0011a90ad7/Fees_table_25.10.23.ods",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/Fees_tables_-_September_2023.ods": {
+    "bytes": 75119,
+    "note": "Home Office fees table attachment",
+    "retrieved": "2026-08-04",
+    "sha256": "aea8292c4af87ab98125d9ceb68258a1aa7f44bcdabe960b6c0df23c653a25b9",
+    "url": "https://assets.publishing.service.gov.uk/media/64de448f3fde61000d4a546a/Fees_tables_-_September_2023.ods",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/Fees_tables_and_unit_costs_29_June_23.ods": {
+    "bytes": 70224,
+    "note": "Home Office fees table attachment",
+    "retrieved": "2026-08-04",
+    "sha256": "d8d798a41ac061a6b23259cc08cf9688be5bb49c935438ae705bdef02f6dd0ea",
+    "url": "https://assets.publishing.service.gov.uk/media/64b5245c71749c001389ec6c/Fees_tables_and_unit_costs_29_June_23.ods",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/Global_Business_Mobility_routes_guidance.pdf": {
+    "bytes": 801384,
+    "note": "GBM caseworker guidance attachment",
+    "retrieved": "2026-08-04",
+    "sha256": "f82b63e1baf6996290f1eeb7aa8527ebb8cd1a0e4acf90f6cd7ea5618dc42a13",
+    "url": "https://assets.publishing.service.gov.uk/media/6a6b26b0862aaf18d9c62a17/Global_Business_Mobility_routes_guidance.pdf",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/Sponsor-Global-Business-Mobility-worker-04-26-v1.0_.pdf": {
+    "bytes": 1306444,
+    "note": "Sponsor a GBM Worker guidance attachment",
+    "retrieved": "2026-08-04",
+    "sha256": "12a4f97246e7a95c7f2cc9fee6e3a72fe4bc81796f6122a09ae00f20a1f47574",
+    "url": "https://assets.publishing.service.gov.uk/media/69d901c696c86b7513170235/Sponsor-Global-Business-Mobility-worker-04-26-v1.0_.pdf",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/Sponsor_guidance-part-2-sponsor-a-worker-08-26-v1.0.pdf": {
+    "bytes": 919763,
+    "note": "Sponsor guidance Part 2 attachment - Immigration Skills Charge S5.3-5.10",
+    "retrieved": "2026-08-04",
+    "sha256": "eb09bc3d24be06f381529aa56cc64e77fe2ee8df62a8e342d4b3bdb1464487cd",
+    "url": "https://assets.publishing.service.gov.uk/media/6a69bab6229c578debc1a7d1/Sponsor_guidance-part-2-sponsor-a-worker-08-26-v1.0.pdf",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/fees_table_-_January_2024.ods": {
+    "bytes": 109983,
+    "note": "Home Office fees table attachment",
+    "retrieved": "2026-08-04",
+    "sha256": "e6f82c1786c7afb07f7de101882cc7da33cfb434ecce9cb1b757574c3a94e8f5",
+    "url": "https://assets.publishing.service.gov.uk/media/660c05c838f66c001e84a910/fees_table_-_January_2024.ods",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/gbm-caseworker-guidance-pub.json": {
+    "bytes": 14036,
+    "note": "GBM caseworker guidance publication page",
+    "retrieved": "2026-08-04",
+    "sha256": "bbf6cf6d5f43f0f74be1f9324604dfb15cbc286ea16e3c92dd24c86ebc36f7a8",
+    "url": "https://www.gov.uk/api/content/government/publications/global-business-mobility-routes-caseworker-guidance",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/gbm-routes-caseworker-guidance.json": {
+    "bytes": 52456,
+    "note": "GBM routes caseworker guidance",
+    "retrieved": "2026-08-04",
+    "sha256": "50a219377d3cba82c16bb45609e600795cbf2ffe0548e8cb5bb952a895ba6384",
+    "url": "https://www.gov.uk/api/content/government/publications/global-business-mobility-routes",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/home-office-fees-table.json": {
+    "bytes": 133140,
+    "note": "Home Office fees table - sponsor licence, CoS, visa fees",
+    "retrieved": "2026-08-04",
+    "sha256": "3998588fc9dbe886233806f5318318028bc5a636f2570d4998741c08760fd3bd",
+    "url": "https://www.gov.uk/api/content/government/publications/visa-regulations-revised-table",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/immigration-rules-index.json": {
+    "bytes": 51687,
+    "note": "Immigration Rules index",
+    "retrieved": "2026-08-04",
+    "sha256": "4c186ef4365acff1599b1cc9804f1609c127c7f4dd9a673f54484fe972ef7cb0",
+    "url": "https://www.gov.uk/api/content/guidance/immigration-rules/immigration-rules-index",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/india-young-professionals-ballot.json": {
+    "bytes": 12213,
+    "note": "India Young Professionals Scheme ballot - 3,000 places/yr, pre-dates CETA",
+    "retrieved": "2026-08-04",
+    "sha256": "22c781ab03b7073b06cc6e132f7294b07b3e9747684a40093f53ba8d16ba1ef8",
+    "url": "https://www.gov.uk/api/content/guidance/india-young-professionals-scheme-visa-ballot-system",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/skilled-worker-visa.json": {
+    "bytes": 111019,
+    "note": "Skilled Worker - salary thresholds",
+    "retrieved": "2026-08-04",
+    "sha256": "83dec6bcf08c9bd1eca7a86607c16314ddaee7424a6c00446a6df7f03c8540b3",
+    "url": "https://www.gov.uk/api/content/skilled-worker-visa",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/sponsor-a-GBM-worker-guidance.json": {
+    "bytes": 19056,
+    "note": "Sponsor a GBM Worker guidance - GBM3.4 UK footprint test, GBM3.26 CoS cap, GBM3.29 provisional rating, GBM3.37/3.38 the 2-year cliff",
+    "retrieved": "2026-08-04",
+    "sha256": "dd7d8744dfd00ed8b59c3a981dffaf5c7c50f994aea4366552074f858a53a82e",
+    "url": "https://www.gov.uk/api/content/government/publications/sponsor-a-global-business-mobility-worker",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/sponsor-guidance-part1.json": {
+    "bytes": 14895,
+    "note": "Sponsor guidance Part 1",
+    "retrieved": "2026-08-04",
+    "sha256": "a87aec6b0dcc2ca0402704fac5f15f1c212b7983cf5d3ec79c67ec58d2b0b0fd",
+    "url": "https://www.gov.uk/api/content/government/publications/workers-and-temporary-workers-guidance-for-sponsors-part-1-apply-for-a-licence",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/sponsor-guidance-part2.json": {
+    "bytes": 16648,
+    "note": "Sponsor guidance Part 2 - S5.3/5.4 Immigration Skills Charge GBP480 small / GBP1,320 large; S5.10 not payable on Expansion Worker",
+    "retrieved": "2026-08-04",
+    "sha256": "1751e1d2be9053483171168f40a4b263c3bbfff537821490d073169a3bf01f61",
+    "url": "https://www.gov.uk/api/content/government/publications/workers-and-temporary-workers-guidance-for-sponsors-part-2-sponsor-a-worker",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/sponsor-licence-employers.json": {
+    "bytes": 80153,
+    "note": "Sponsor licence - fees and process",
+    "retrieved": "2026-08-04",
+    "sha256": "ba95921a3e7064617cd01934cf9825a05ab490c7adae61389b85f6eaa4425f80",
+    "url": "https://www.gov.uk/api/content/uk-visa-sponsorship-employers",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/uk-expansion-worker-visa.json": {
+    "bytes": 64646,
+    "note": "Expansion Worker - 2yr cap, no settlement",
+    "retrieved": "2026-08-04",
+    "sha256": "41a2aa266e2591ca3789d50c0998396a57b5db255e70d6cbac73243ae88a4bd7",
+    "url": "https://www.gov.uk/api/content/uk-expansion-worker-visa",
+    "via_proxy": false
+  },
+  "05-mobility-immigration/uk-visa-sponsorship-employers-fees.json": {
+    "bytes": 80153,
+    "note": "Sponsor licence fees and process",
+    "retrieved": "2026-08-04",
+    "sha256": "ba95921a3e7064617cd01934cf9825a05ab490c7adae61389b85f6eaa4425f80",
+    "url": "https://www.gov.uk/api/content/uk-visa-sponsorship-employers",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/Companies-Act-2006.md": {
+    "bytes": 2621582,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "0ec9c466ebfeeb19b9fb2ad0328c4d4b07eba98b0ba53c25021e24a4eee5928d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "06-uk-regulatory/ECCTA-2023.md": {
+    "bytes": 953919,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "592ad953119975114ba8cf29c8a6a335b362cb58ee81434f10a90ba1943321b0",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "06-uk-regulatory/FSMA-2000.md": {
+    "bytes": 2814595,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "75229ad32dd27d70e4cd4b7683dc9cb372ff1ed414a1c28150ed470343bba54a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "06-uk-regulatory/Immigration-Asylum-Act-1999.md": {
+    "bytes": 602715,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "f5c238176ce55c5361722d95651db891f70fa409c4e283db18c1ed7ef73469bb",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "06-uk-regulatory/Legal-Services-Act-2007.md": {
+    "bytes": 1063657,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "f72d430f0eb4741a14e53481fd7e40a3e8ed2d53b5e90ba88100dfcc3202bc54",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "06-uk-regulatory/MLR-2017-money-laundering-regs.md": {
+    "bytes": 583543,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "69487550d86f0cbfc2566d7f1cf6e3d2a6bd0b30233c46203c60fd43fa559b03",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "06-uk-regulatory/Procurement-Act-2023.md": {
+    "bytes": 427838,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "fa7ade882b00aa0b37d5adccc3a54840bcf3e1cd7f0469f21f55356e51bfd64d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "06-uk-regulatory/RAO-2001-regulated-activities-order.md": {
+    "bytes": 757379,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "5cc7add3595236869a2ee136d03f332434aa587cd59d9e112c259f136919afae",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "06-uk-regulatory/Solicitors-Act-1974.md": {
+    "bytes": 342894,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "39ef3269c69ac77e00e3b8078ce778a6f18a643821898aa0143b0254607da61b",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "06-uk-regulatory/ch-OS-IN01-register-uk-establishment.json": {
+    "bytes": 21057,
+    "note": "OS IN01 - register a UK establishment of an overseas company, GBP124 paper only",
+    "retrieved": "2026-08-04",
+    "sha256": "e76a99cdc8b866d04c64916fd768b5abd8dc185147cd02358a4653a3e90643f1",
+    "url": "https://www.gov.uk/api/content/government/publications/register-a-uk-establishment-of-an-overseas-company-os-in01",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/ch-acsp-register-authorised-agent.json": {
+    "bytes": 52456,
+    "note": "ACSP registration - AML supervision precondition",
+    "retrieved": "2026-08-04",
+    "sha256": "50a219377d3cba82c16bb45609e600795cbf2ffe0548e8cb5bb952a895ba6384",
+    "url": "https://www.gov.uk/api/content/guidance/register-as-a-companies-house-authorised-agent",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/ch-changes-to-company-law.json": {
+    "bytes": 52456,
+    "note": "ECCTA implementation timeline",
+    "retrieved": "2026-08-04",
+    "sha256": "50a219377d3cba82c16bb45609e600795cbf2ffe0548e8cb5bb952a895ba6384",
+    "url": "https://www.gov.uk/api/content/guidance/changes-to-uk-company-law",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/ch-directors-and-secretaries.json": {
+    "bytes": 52456,
+    "note": "Director requirements - NO UK residency requirement",
+    "retrieved": "2026-08-04",
+    "sha256": "50a219377d3cba82c16bb45609e600795cbf2ffe0548e8cb5bb952a895ba6384",
+    "url": "https://www.gov.uk/api/content/guidance/company-directors-and-secretaries",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/ch-fees.json": {
+    "bytes": 16833,
+    "note": "Companies House fee schedule",
+    "retrieved": "2026-08-04",
+    "sha256": "34d5868c599a004839ffa51e23713a2d1c9fb0e51c27361e952fcf1d9302bcd7",
+    "url": "https://www.gov.uk/api/content/government/publications/companies-house-fees",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/ch-identity-verification.json": {
+    "bytes": 52456,
+    "note": "IDV mandatory from 18 Nov 2025",
+    "retrieved": "2026-08-04",
+    "sha256": "50a219377d3cba82c16bb45609e600795cbf2ffe0548e8cb5bb952a895ba6384",
+    "url": "https://www.gov.uk/api/content/guidance/identity-verification-at-companies-house",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/ch-registered-office-rules.json": {
+    "bytes": 52456,
+    "note": "CA2006 s86 appropriate address - PO boxes banned",
+    "retrieved": "2026-08-04",
+    "sha256": "50a219377d3cba82c16bb45609e600795cbf2ffe0548e8cb5bb952a895ba6384",
+    "url": "https://www.gov.uk/api/content/guidance/registered-office-address-rules-for-limited-companies",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/ch-when-verify-identity.json": {
+    "bytes": 19740,
+    "note": "ECCTA identity verification - who must verify and when",
+    "retrieved": "2026-08-04",
+    "sha256": "07ec812bb4ee733cb3771092966ed57da8b7e88c5c56db252bbfbac7a847484a",
+    "url": "https://www.gov.uk/api/content/guidance/when-you-need-to-verify-your-identity-for-companies-house",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/hmrc-fit-and-proper.json": {
+    "bytes": 52456,
+    "note": "Fit and proper test",
+    "retrieved": "2026-08-04",
+    "sha256": "50a219377d3cba82c16bb45609e600795cbf2ffe0548e8cb5bb952a895ba6384",
+    "url": "https://www.gov.uk/api/content/guidance/money-laundering-regulations-apply-for-the-fit-and-proper-test-or-approval",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/hmrc-mlr-fees.json": {
+    "bytes": 23781,
+    "note": "MLR fees from 1 Dec 2025 - 300 app, 400 premises, 500 fit-and-proper",
+    "retrieved": "2026-08-04",
+    "sha256": "ad90ee7350d882f58bb95e8911e74d59bece6fa69b78457155708eb419fb40a9",
+    "url": "https://www.gov.uk/api/content/guidance/money-laundering-regulations-registration-fees",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/hmrc-mlr-tcsp-who-registers.json": {
+    "bytes": 34454,
+    "note": "HMRC MLR - TCSP definition: forming companies, registered office, acting as director, nominee shareholder",
+    "retrieved": "2026-08-04",
+    "sha256": "fd114e887b9387c895d3ac8f3d37e0e1a25c00451274e136ca7224cb7787fbec",
+    "url": "https://www.gov.uk/api/content/guidance/money-laundering-regulations-who-needs-to-register",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/hmrc-mlr-who-must-register.json": {
+    "bytes": 34454,
+    "note": "Who must register - TCSP scope",
+    "retrieved": "2026-08-04",
+    "sha256": "fd114e887b9387c895d3ac8f3d37e0e1a25c00451274e136ca7224cb7787fbec",
+    "url": "https://www.gov.uk/api/content/guidance/money-laundering-regulations-who-needs-to-register",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/immigration-advice-authority.json": {
+    "bytes": 17598,
+    "note": "IAA - the renamed OISC; registration required to give immigration advice",
+    "retrieved": "2026-08-04",
+    "sha256": "d68f4bd03a46b444e5631981c52fecd87f5f3fba6fcd179938663df96fefad3f",
+    "url": "https://www.gov.uk/api/content/government/organisations/immigration-advice-authority",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/limited-company-formation.json": {
+    "bytes": 71936,
+    "note": "Company formation",
+    "retrieved": "2026-08-04",
+    "sha256": "0175dc95de1739f1ac9f68b34937b4d6da662786e9c7e861bf990f1df2d0d47f",
+    "url": "https://www.gov.uk/api/content/limited-company-formation",
+    "via_proxy": false
+  },
+  "06-uk-regulatory/uk-conformity-assessment-bodies.json": {
+    "bytes": 52456,
+    "note": "UKCA / conformity",
+    "retrieved": "2026-08-04",
+    "sha256": "50a219377d3cba82c16bb45609e600795cbf2ffe0548e8cb5bb952a895ba6384",
+    "url": "https://www.gov.uk/api/content/guidance/uk-market-conformity-assessment-bodies",
+    "via_proxy": false
+  },
+  "07-market-data/CompaniesHouse-register-activities.ods": {
+    "bytes": 176448,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "338186c857edbe622638569a40240e490c2be24ffb3d839e60677bbf6efa98ff",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "07-market-data/DBT-India-trade-and-investment-factsheet.pdf": {
+    "bytes": 8248962,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "13bcf5a319968044697bcd61b37a35ec99034d0161e813c5da667a6188ecd42e",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "07-market-data/DBT-inward-investment-2022.ods": {
+    "bytes": 86663,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d2f06f47ff683c0d195e4aaa94b7ae3e72256e500fdab2db8e79f47e19ddeb91",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "07-market-data/DBT-inward-investment-results-2024-25.ods": {
+    "bytes": 41,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "0b415cc71d8a42571af3b6537615822e067c7284ef660ee77828a9fd63cc70a9",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "07-market-data/DBT-inward-investment-results.ods": {
+    "bytes": 91006,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "3c36b5ee0bde60242e6082d10d2ba99905fd00c1cbaeca2178621751f19d26fb",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "07-market-data/GT-India-Meets-Britain-Tracker-2025.pdf": {
+    "bytes": 1678138,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "c21417b391ef71b9812d53faa0e65805a07853fad01ea1932afa11be8e9d351a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "07-market-data/GT-India-Meets-Britain-Tracker-2026.pdf": {
+    "bytes": 22695743,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "f83ee016020eca829c54e29b9071661c34425396a9852b10abbddf2baeff6bff",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "08-tax-customs/1993_India_-_UK_Double_Taxation_Agreement__as_amended_in_2013_-_in_force.pdf": {
+    "bytes": 577504,
+    "note": "India-UK double taxation convention",
+    "retrieved": "2026-08-04",
+    "sha256": "b3b883e76e56ff717b1a25771abfc3a1356bf70e38ff58e17c80fb4bfbc8455c",
+    "url": "https://assets.publishing.service.gov.uk/media/5b853e67e5274a4a8fbf169d/1993_India_-_UK_Double_Taxation_Agreement__as_amended_in_2013_-_in_force.pdf",
+    "via_proxy": false
+  },
+  "08-tax-customs/2013-uk-india-dta-protocol_-_in_force.pdf": {
+    "bytes": 42436,
+    "note": "India-UK double taxation convention",
+    "retrieved": "2026-08-04",
+    "sha256": "705c730912f844a4ba6281d3b80f372f17ec797fb669769795fa3e936e015e37",
+    "url": "https://assets.publishing.service.gov.uk/media/5a80a19c40f0b62305b8c423/2013-uk-india-dta-protocol_-_in_force.pdf",
+    "via_proxy": false
+  },
+  "08-tax-customs/SI-2026-274-DCC-order-in-council.md": {
+    "bytes": 54645,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "645481fc6b368f2bcd5ca5e2c18cf0c0de1a377094ea82479033b1fcafbefdd8",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "08-tax-customs/SI-2026-297-procurement-treaty-state.md": {
+    "bytes": 12617,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "a86c0c3d440e391ba67600cf7653a97a9ac2f5e0fc95cf8eea344012c355e903",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "08-tax-customs/SI-2026-36-customs-tariff-CETA.md": {
+    "bytes": 6502,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "6451ba1936cc4b81fb0da425cf0710bb4effb1b362171dcdde945bb02908c58f",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "08-tax-customs/SI-2026-703-steel-quota.md": {
+    "bytes": 17315,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "badb64e0de1603a1c797ef26652f641cc5ebe267fa878ddffef6b6fddd10d105",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "08-tax-customs/SI-2026-794-DCC-36-to-60-months.md": {
+    "bytes": 10056,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "754f3a924413400a5d96ca4a814e9a1e9e915dbbecc5dd3a9cf2bd4b78e23eb2",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "08-tax-customs/Social-Security-Contributions-Regs-2001.md": {
+    "bytes": 923734,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "149d77178fc0371dcff11b243490300898f69758703bf0bf014c79dc17af7c31",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "08-tax-customs/dcc-social-security-india.json": {
+    "bytes": 52456,
+    "note": "DCC operational guidance",
+    "retrieved": "2026-08-04",
+    "sha256": "50a219377d3cba82c16bb45609e600795cbf2ffe0548e8cb5bb952a895ba6384",
+    "url": "https://www.gov.uk/api/content/guidance/social-security-contributions-for-workers-coming-to-the-uk-from-india",
+    "via_proxy": false
+  },
+  "08-tax-customs/hmrc-preference-agreements.json": {
+    "bytes": 28069,
+    "note": "HMRC preference agreements - how to claim CETA preferential duty",
+    "retrieved": "2026-08-04",
+    "sha256": "ca9812499a5fdc0af0ecd31fd947f2a378460503612799700cb78d6ef2eed1aa",
+    "url": "https://www.gov.uk/api/content/guidance/import-and-export-goods-using-preference-agreements",
+    "via_proxy": false
+  },
+  "08-tax-customs/hmrc-register-origin-declarations.json": {
+    "bytes": 13216,
+    "note": "HMRC exporter registration - EORI, CBIC email mechanics",
+    "retrieved": "2026-08-04",
+    "sha256": "99e8db9beef01f73ce1dc5254ae9ff6d99b9dd1186e5d58ceb35c9d871e790ba",
+    "url": "https://www.gov.uk/api/content/guidance/register-to-complete-origin-declarations-under-the-uk-india-free-trade-agreement",
+    "via_proxy": false
+  },
+  "08-tax-customs/india-dtc_-_in_force.pdf": {
+    "bytes": 214522,
+    "note": "India-UK double taxation convention",
+    "retrieved": "2026-08-04",
+    "sha256": "1927e82f7149a2c5a8df84cf8504683f426ca538d7904e49933fb9c629ba1968",
+    "url": "https://assets.publishing.service.gov.uk/media/5a750f1940f0b6397f35d57c/india-dtc_-_in_force.pdf",
+    "via_proxy": false
+  },
+  "08-tax-customs/uk-cbam-policy-summary.json": {
+    "bytes": 11043,
+    "note": "UK CBAM from 1 Jan 2027 - no India exemption",
+    "retrieved": "2026-08-04",
+    "sha256": "6aaf33bd902d5ad2c35533cb178bc37102b9dab46339dbb9705320d72c40009c",
+    "url": "https://www.gov.uk/api/content/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary",
+    "via_proxy": false
+  },
+  "08-tax-customs/uk-india-ceta-origin-declaration.json": {
+    "bytes": 14189,
+    "note": "UK-India CETA origin declaration - the self-certification template",
+    "retrieved": "2026-08-04",
+    "sha256": "266f6ba52faa980c0045a8b886c9ac2ebc7165182deb6dae7aa9d4f827112a36",
+    "url": "https://www.gov.uk/api/content/government/publications/uk-india-ceta-origin-declaration",
+    "via_proxy": false
+  },
+  "08-tax-customs/uk-india-mou-map_-_in_force.pdf": {
+    "bytes": 32044,
+    "note": "India-UK double taxation convention",
+    "retrieved": "2026-08-04",
+    "sha256": "0c30516db51af19692db0d9ce74b871cf4c4c8ec520f2a3539c3502c6ac6f42f",
+    "url": "https://assets.publishing.service.gov.uk/media/5a80298640f0b62302691e2a/uk-india-mou-map_-_in_force.pdf",
+    "via_proxy": false
+  },
+  "08-tax-customs/uk-steel-trade-measure-2026.json": {
+    "bytes": 15636,
+    "note": "Steel trade measure - 51pc quota cut, 50pc out-of-quota",
+    "retrieved": "2026-08-04",
+    "sha256": "1e2799f72971814f68cfce69a58fde43a4eecd3d14dac35d05e7e87875d4cf34",
+    "url": "https://www.gov.uk/api/content/government/publications/uks-steel-trade-measure-from-1-july-2026",
+    "via_proxy": false
+  },
+  "08-tax-customs/vat-overseas-businesses-NETP.json": {
+    "bytes": 52456,
+    "note": "NETP nil VAT threshold - register from first supply",
+    "retrieved": "2026-08-04",
+    "sha256": "50a219377d3cba82c16bb45609e600795cbf2ffe0548e8cb5bb952a895ba6384",
+    "url": "https://www.gov.uk/api/content/guidance/vat-registration-for-overseas-businesses",
+    "via_proxy": false
+  },
+  "08-tax-customs/vat-registration.json": {
+    "bytes": 20273,
+    "note": "VAT registration",
+    "retrieved": "2026-08-04",
+    "sha256": "6eb3bc0bc732198710db0c99949460f16f29794967649fdf43e410f85b2d1017",
+    "url": "https://www.gov.uk/api/content/guidance/register-for-vat",
+    "via_proxy": false
+  },
+  "99-extracted-text/01-ceta-legal-text__CETA-Annex8A-professional-services.txt": {
+    "bytes": 6065,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "100ff3ce87b20fd904916a46b708b95024a11020c0e4b6ba29834bec2781205e",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__CETA-Annex8B-India-services-schedule.txt": {
+    "bytes": 64772,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "26db7a2f4cb4d57a63b96938221e76b52b216b12582d2657906aa730bcef2df9",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__CETA-Annex8B-UK-services-schedule.txt": {
+    "bytes": 67433,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "fbe1364bd72993e07f042d0e7453cbf47f0e9e17b0a1d9b2147c35ef69885449",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__CETA-Annex8C-MFN.txt": {
+    "bytes": 17538,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "6c6fb9f9710de5a2e4bbcca46bc511c1437e54386f45e08298d62064baee5dcb",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_1of4.txt": {
+    "bytes": 647715,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "dfb2f2070cab7163440f1770df7b36c8a646ebdbf96d5c46903acad2b0bb6044",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_2of4.txt": {
+    "bytes": 613987,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "6d940d9922d002ede16c60eea3fb7afb0d652b6e8d50fef6936337640877af1d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_3of4.txt": {
+    "bytes": 660225,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "e43f94e60170099ec23a1e0c1b6018ef7cfc80c7043d0d6eb949c15f8462f5dd",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__CS_India_1.2026_Comprehensive_Economic_Trade_Agreement_4of4.txt": {
+    "bytes": 993757,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "96057c4f3f2078084096a9cc261a9e3013f02846c5d7006a9aa784f09078b768",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_1of4.txt": {
+    "bytes": 648202,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "927df609a5cee5df9f2ea36db184ab7ca35d64710620949df5521ee870ebbed9",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_2of4.txt": {
+    "bytes": 613800,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "53ae34dd0482319aceb8ffeb0f5bc2eee1701444a5212b302a472a668cca7bc3",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_3of4.txt": {
+    "bytes": 660055,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d219dd92defaaae4964f3f2408a98d09598387c963b0ae1fed89261db78189ea",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__TS_30.2026_UK_India_Comprehensive_Economic_Trade_Agreement_4of4.txt": {
+    "bytes": 1002538,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "58b882cf713ceccfc96b79e8862fabc4306f0266671dce34a29e8358124ecd7f",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__india_ip_side_letter1.txt": {
+    "bytes": 8006,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "465f2aeb46d0470a70594d16ca6edb981a873224145559eb86d2995918286104",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__india_ip_side_letter2.txt": {
+    "bytes": 4889,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "bcceb092b2e0d27615dec37b31d7632a948deecd7729841d958619a4c661a5b8",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__india_ip_side_letter3.txt": {
+    "bytes": 3615,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "41b760ffeb7280d753fe150303367dbe2a5854337ec8d20600311b973594fd32",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__india_ip_side_letter4.txt": {
+    "bytes": 8911,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "62cefe34d055bfb6368eff6b1647bbe29a64a4f6ba37906c99de78b60589a371",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__india_side_letter_agreeing_negotiate_double_contributions_convention.txt": {
+    "bytes": 4025,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "641a6d399e6463acaf0056f84a6133a0af2dacf7182b3040765a47bf1e720e38",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__india_side_letter_territorial_extension_crown_dependencies.txt": {
+    "bytes": 2712,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "adbabcbd70b72c1d04693e42a3706183cd422d1ccb734b474bd52270da6e0c1d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__modalities-of-the-authentication-process-for-origin-declarations.txt": {
+    "bytes": 9659,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "f167bdfa23bb5d374edff5992d4528277afbe906fe6441ba3b6735b451423af5",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-10ai-schedules-of-specific-commitments-on-temporary-movement-of-natural-persons-schedule-of-india.txt": {
+    "bytes": 14517,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "838d321186894f5bafc21a210ce6230779f589a14a46afe8e6902db246f315fd",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-10aii-schedules-of-specific-commitments-on-temporary-movement-of-natural-persons-schedule-of-the-united-kingdom.txt": {
+    "bytes": 23154,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "8c4002bf73ebdd2006dc67fb4f85936b484d895f4905f9d492330899e92cd5d2",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-13a-13b-13c-geographical-indications.txt": {
+    "bytes": 1216,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d44e09f2ce0ee3c896e2995d5010f8d3fd06787c724df23a22564b2919e8731f",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-15ai-government-procurement-schedules-schedule-of-india.txt": {
+    "bytes": 11612,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d9744dc776fa7eaf850accba800073a8186dff8a2ab4612ff9ba48dd819e3a77",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-15aii-government-procurement-schedules-schedule-of-the-united-kingdom.txt": {
+    "bytes": 25657,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "5bbd7f51eb56bebde7045534afdaf5a876a6956f7a8b42b4a25d06f71bbd99ea",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-7a-product-sectors.txt": {
+    "bytes": 2028,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "e57f3785c666a41a5e95365ac377a2b3206866bb7d64e6d14bdd93ac2b3abe6a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-8a-professional-services.txt": {
+    "bytes": 6075,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "7bba0f808222ccfdfa36c3a49d4ba21c86349f42e1687d028703f8546e7ea56b",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-8b-schedule-of-india.txt": {
+    "bytes": 64776,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "a7e03739c2d4c4f9db73b6cc6e524f2ea42ed6c722355cfc39a34daa56b72ba8",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-8b-schedule-of-united-kingdom.txt": {
+    "bytes": 67449,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d3713479a2a5674035f1286ab113b0d474270c60d1e441deac082fbddd2b5b88",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-8c-most-favoured-nation-treatment-sectoral-coverage.txt": {
+    "bytes": 17593,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "0b75020884f54185b5d47b5bda473fe11f51ce059acbc0f77d2ace995ea1f11d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-9a-schedule-of-india.txt": {
+    "bytes": 27208,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "415aa449182584e9be586bacc5601b87ff14133ddf1bfa1a4c1077b6e34362c2",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-annex-9a-schedule-of-the-united-kingdom.txt": {
+    "bytes": 13169,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "fc875be66e5578fe65e4688bc91ca47519bc03ddca104f321a27f9180bbbfdc1",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-10-temporary-movement-of-natural-persons.txt": {
+    "bytes": 11226,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "059bd61f900b407566f5e3f074317a8cc585a09353a6b8180878aa546d64e39d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-11-telecommunications.txt": {
+    "bytes": 28024,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "9cd453931477e0f14e0ff86b07008a69e537577a23239653e303477244856100",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-12-digital-trade.txt": {
+    "bytes": 33715,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "a57690ea061b724d0fdd2a8cec700ea42251be0061defa2defeb0eab0f72507d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-13-intellectual-property-rights.txt": {
+    "bytes": 114682,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "7ce53c4fde3ab477da5645729bb958f374015b1f9fce9ea2c65d69b1d11dfeb6",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-14-innovation.txt": {
+    "bytes": 7382,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "ba820fa24e6279c5652e8d98e7c2a4ba8578dc2cebc28f74dd0d9f3d9cbaa864",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-15-government-procurement.txt": {
+    "bytes": 72319,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "f4d041d7a613c1413bf5bf8e200913a47e13eacb0b3daf816550f503246734ef",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-30-final-provisions.txt": {
+    "bytes": 4582,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "df13108dc1a9da5a6588996c909fba0ff24279a900b1ad0fac11bb5dd4f74138",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-4-trade-remedies.txt": {
+    "bytes": 17794,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "bcfb6608d8db3cd05850ea53b3163ee6f2adb4c087fa6dc1104492a6819eac1a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-5-customs-and-trade-facilitation.txt": {
+    "bytes": 27113,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "1e17364430ada3de6ad05293ac578deb3eed933eb33e0d702c62fceee48982d7",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-6-sanitary-and-phytosanitary-measures.txt": {
+    "bytes": 37086,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "eb6940a24de2b0fe07629f4223e707317125894bc52eae42d536500a04ec4ba9",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-7-technical-barriers-to-trade.txt": {
+    "bytes": 24858,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "220a9efce171645455ecfdc12534542b2156fb39b05511150a856be2b2d20d1f",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-8-trade-in-services.txt": {
+    "bytes": 42189,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "54f84b277014989b6ad22cdc557b215302b84a81a55f4d02361f9f1db8cce6b5",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk-india-ceta-chapter-9-financial-services.txt": {
+    "bytes": 44721,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "7577fd76e845ee03c526c435e74b44ebdeae9527e1d1b1d9889666a3ca9a113e",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_annex2a_a_schedules_tariff_commitments_of_india.txt": {
+    "bytes": 1673211,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d64b09b674d911439dccbc03d42330f16aa0ac6788e9bc9d6b672c41a7dc31e3",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_annex2a_b_schedules_tariff_commitments_of_united_kingdom.txt": {
+    "bytes": 33403,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "388990ba3b7cf486b01f98368f3dc44bf5fbfd13068372270b38ea5668cee276",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_annex2a_schedules_tariff_commitments_for_goods.txt": {
+    "bytes": 22119,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "33a7c76d6a5dbb0d579a9e5134817905b8da8e207489221723ebf9bfd1e4221f",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_annex3C_certificate_of_origin_template.txt": {
+    "bytes": 6375,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "ad639e1601846454cec438a838795760616d5341e30568ef2ce7626e21259e2a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_annex3a_product_specific_rules_of_origin.txt": {
+    "bytes": 48494,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "26b41d634378d86f001ea07c7c2e2ecd90fa4eec533394550c86b8e3803ffa20",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_annex3b_origin_declaration_template.txt": {
+    "bytes": 5701,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "3788364b66159a9508d6e11da9f363e17bf81f974fd29576fb4f8846cbcab5d5",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_annex3d_framework_for_authentication_process_of_origin_declaration.txt": {
+    "bytes": 4170,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "9eaba047a4710acdc14c5eded8d6ff60bd870fab6c56fb98fe289b087df77989",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_annex3e_data_protection_and_processing_of_personal_information.txt": {
+    "bytes": 22504,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "3d1bc73aecf3bfed76d1a2c0143ec70f8b36c8ee3c5cce355458360d017a78ad",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_annex_29a_rules_of_procedure.txt": {
+    "bytes": 31039,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "2ecc3f8edb1d6f3b62cb98a8f687e8bf87b6b964376563d80cd582f92c5c762b",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_annex_29b_code_of_conduct.txt": {
+    "bytes": 13074,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "06c3dfd3d01527a16369340549a68f301ec9c2d2dc2de9c5da350d03a6256945",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_16_competition_and_consumer_protection_policy.txt": {
+    "bytes": 6366,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "6d7aaeaf0e0a9b5abfc123893fa767d18dbe747d0f42af08bba5928816665402",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_17_state_owned_enterprises.txt": {
+    "bytes": 12275,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "7a975528b630f59d2d93e5e2cb1bfc0a45778132d9f486169bd660f96b9f06e4",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_18_subsidies.txt": {
+    "bytes": 6666,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "c2ea1a5fe41e4e55512282304f193c73a9df6304419b00949a6f52a20f356865",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_19_small_and_medium_sized_enterprises.txt": {
+    "bytes": 7679,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "faa6b3806aecfc2dfc874d581d3c25a62a7691857d1cbe2429094433afab6d8a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_1_initial_provisions_definitions.txt": {
+    "bytes": 13290,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "4299a593464ab54d322f15c913c8f460b3dbc218fecb6e5534a4e49bef5abccd",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_20_labour.txt": {
+    "bytes": 19311,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "c665a286be522f70ac04cac42da9cd37d0aa645432f949f6d04ed5cb2765c786",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_21_environment.txt": {
+    "bytes": 31570,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "2ef3b5f9b9d964d744bc86ed515640b798eb88147e67f128255573c9f0d8a920",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_22_trade_and_development_cooperation.txt": {
+    "bytes": 4581,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "d2833ee072120c6b265d8af1619ef40a26dd31827b11febb3825caf3a3591b44",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_23_trade_and_gender_equality.txt": {
+    "bytes": 9519,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "fa36641b5aacfdd765426df27bd4ddc28b86899701d05e3fdffbc50111b23f75",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_24_good_regulatory_practice.txt": {
+    "bytes": 8120,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "cb380d35511498112d2f0c6d1c3a4691a09344664808cc8aadd507b634a583d1",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_25_transparency.txt": {
+    "bytes": 6322,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "c2c066e675408f6fe844adf5ea0264b4e990041ce55075bde806f3ab38113913",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_26_anti_corruption.txt": {
+    "bytes": 21241,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "ee19bf3fc16686a87e5bc5a0e3079cc119963e0b28a82d6bcc1de5dd808a88a1",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_27_administrative_and_institutional_provisions.txt": {
+    "bytes": 6631,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "631e8984bedb0a8c60a4c7ab67dc2282999cf61e6e365763a619c8e3195ec3d1",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_28_general_provisions_and_exceptions.txt": {
+    "bytes": 10295,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "2f47dc1e1379ad43461d97cd6dd5c0a6c9b89327168e0121e0687a09fca0324d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_29_dispute_settlement.txt": {
+    "bytes": 36114,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "bd0fb385d579ad2d54dc7155a51631823a324c2bc99e7ef4c2616874fb6d0d0b",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_2_trade_in_goods.txt": {
+    "bytes": 17610,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "6697fcfcc84ad6343006e2be285adfe399a4a617f445e5775c5fcd19f4e959cd",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_chapter_3_rules_of_origin.txt": {
+    "bytes": 62376,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "a729ebaefea616bdaa68725bafac4ae50d87fef0b871a181a7110b3452c4d658",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_contents.txt": {
+    "bytes": 2886,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "4ec4735fee6688b85f11d075a2099608d03ffeb73499510c01998c2c7ede1537",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_preamble.txt": {
+    "bytes": 3663,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "afedae5cf8dfe82e82a74a8b8e15d1efae921f3425cab5269299711d86915ed9",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_india_ceta_title.txt": {
+    "bytes": 253,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "a6c91bcd92e2faa94e2961e2651d1e9d24fd57294d985ffb176eb79da8ed2424",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_ip_side_letter1.txt": {
+    "bytes": 7355,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "c04e973d94aa68d02333668f576000603a29542304137ac4d25792478168a1ee",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_ip_side_letter2.txt": {
+    "bytes": 3901,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "4ac0ed3ead398d8effe87aa760b9f0cc6275b77a549f3fb5cbff5a7593cd818a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_ip_side_letter3.txt": {
+    "bytes": 2634,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "8cc83adde3909567dd0f75391d0c9e908c634a84e1af7f394078919c746bd09a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_ip_side_letter4.txt": {
+    "bytes": 8421,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "879abc14b27cf28b7b6faeb3588a780fdc414c1a8c23733b7296282e8f64a313",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_side_letter_agreeing_negotiate_double_contributions_convention.txt": {
+    "bytes": 3063,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "cff5d75f698fabb91ee62bda67031496b46aa13ff41640ca17df5a2dd352a1a9",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/01-ceta-legal-text__uk_side_letter_territorial_extension_crown_dependencies.txt": {
+    "bytes": 2079,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "7cfaf17c17f0e5a333349eb2be444d20ebdf99ea312e8519394673f4ca3d444a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/02-ceta-official-analysis__advice-to-the-secretary-of-state-for-business-and-trade-on-the-uk-india-free-trade-agreement.txt": {
+    "bytes": 172661,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "073ff1d2c0b21b011d944140104a5217919e843b2145c8ed874ccf91e5c662f2",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/02-ceta-official-analysis__impact-assessment-of-the-free-trade-agreement-between-the-uk-and-india.txt": {
+    "bytes": 369240,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "0d4a7df6ef0b1f34d94feb4ffe3c3ec2cfd8ea1025bc3d9c784b7f01a6447a91",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/02-ceta-official-analysis__report-persuant-to-section-42-of-the-agriculture-act-2020.txt": {
+    "bytes": 130047,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "e0510142a3a58a26ccb558157f1cc54607f5f1830bf09fb1a23dfb14913edded",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/02-ceta-official-analysis__uk-india-ceta-draft-explanatory-memorandum.txt": {
+    "bytes": 42925,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "a5642c0ce2d9586b23465f6ac3bf17ae529af649043119e8e87c3150fc645f97",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/02-ceta-official-analysis__uk_india_fta_impact_on_industrial_strategy_sectors.txt": {
+    "bytes": 16816,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "bb4f50fea2cdd30bd2268a5befc03d68537ca1309b600dde39a788cf71a2df41",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/03-india-government__IN-DGFT-TradeNotice-11-2026-eCoO.txt": {
+    "bytes": 6656,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "b99c68a9766183bcea93aee39547f21586999038eb7ac435a7b06246d7e37a2e",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/03-india-government__IN-LokSabha-Q45-FTAs-3Feb2026.txt": {
+    "bytes": 10345,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "9e9b50af941657d3c095a08752335d348c274eb72e54f41eebb4c89a794354ec",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/03-india-government__IN-Notification-29-2026-Customs-tariff-concessions.txt": {
+    "bytes": 469154,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "a86e8a2d4d3e0d352b40addb842394db6355f165ce0e9b5aa108bd5faaab255b",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/03-india-government__IN-PDEXCIL-CETA-advisory.txt": {
+    "bytes": 7578,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "ab7e6ee116d861f0efc2ea936fe55b7aacb50f2b2d1616024be92be2d20f3f16",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/03-india-government__IN-PIB-CETA-backgrounder-15Jul2026.txt": {
+    "bytes": 30870,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "1fc3586ba2dca099616bc9b8cc68c95f77706bcda292b04e2c3d1ff47f876428",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/03-india-government__India-UK-Vision-2035.txt": {
+    "bytes": 22275,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "8d8d3362db34ad609923cbcf870d56faef3bec14e3530ffb29c0dddd77c7ae66",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/05-mobility-immigration__CETA-Annex10A-i-India-schedule.txt": {
+    "bytes": 14435,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "f346e9f70ddb409a882a336a0f75240cfe0dec9e6a5115aa93228569ae6af243",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/05-mobility-immigration__CETA-Annex10A-ii-UK-schedule.txt": {
+    "bytes": 23056,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "6202c005b2ee77acab0ac13113da4a48c03e1eab4e5d8549644070631b6f21f8",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/05-mobility-immigration__CETA-Ch10-temporary-movement-natural-persons.txt": {
+    "bytes": 11213,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "2551f160b81a7a07c62f811d9d532234dcfe4e3feee78138a41576a6864739af",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/05-mobility-immigration__Global_Business_Mobility_routes_guidance.txt": {
+    "bytes": 160446,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "7b61fd59d902137ddbe271c26857cc2c3fc7fe0dfe3d37d7671b0df87557b483",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/05-mobility-immigration__Sponsor-Global-Business-Mobility-worker-04-26-v1.0_.txt": {
+    "bytes": 135357,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "7185f1625c5d5c0614ce7869cd207596f2214cf99a201a8f77ba1acf9f0fd045",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/05-mobility-immigration__Sponsor_guidance-part-2-sponsor-a-worker-08-26-v1.0.txt": {
+    "bytes": 174681,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "340528cf4284b083913431e08e4cd83ae044447bd8d13d5823c6f31e2559d74a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/07-market-data__DBT-India-trade-and-investment-factsheet.txt": {
+    "bytes": 42608,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "1bf3822e6843fc396ebcc236cb7f39a367d63c8283bc9edaa3dc82c32670ce4a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/07-market-data__GT-India-Meets-Britain-Tracker-2025.txt": {
+    "bytes": 58833,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "6026d05f9b157cb296cbf55f092e21d01a6822e8179916f48236a2151bd1f61c",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/07-market-data__GT-India-Meets-Britain-Tracker-2026.txt": {
+    "bytes": 77914,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "82d8f760745e07a23e7d2d988be9d68e295852671348e4d64e7f20370a1f4fe3",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/08-tax-customs__1993_India_-_UK_Double_Taxation_Agreement__as_amended_in_2013_-_in_force.txt": {
+    "bytes": 83866,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "1b75d2b164de912c77b7d1d5b18f46999630ea1596099280733e5be64d6a045d",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/08-tax-customs__2013-uk-india-dta-protocol_-_in_force.txt": {
+    "bytes": 24495,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "522a2480a03723f9bce5f16a9376990dfbc5f84e127fff7f82d490209d27222a",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/08-tax-customs__india-dtc_-_in_force.txt": {
+    "bytes": 75462,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "ae1a571a7fcb9235cc7fec2b94fe4d69276cd9024be5cf9f5a11c6736f4d8709",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/08-tax-customs__uk-india-mou-map_-_in_force.txt": {
+    "bytes": 17964,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "3ac0e25aa3acab266871cb46b95e771d0a964d0556b461e526cd79bb32afe8b1",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/GT-India-Meets-Britain-Tracker-2025.txt": {
+    "bytes": 59298,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "26ca8f4537bbb2533f8110413e2c17dd90d0f13989f47cc40492c93ae1b1ea73",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  },
+  "99-extracted-text/GT-India-Meets-Britain-Tracker-2026.txt": {
+    "bytes": 78539,
+    "note": "",
+    "retrieved": "2026-08-04",
+    "sha256": "38d2e60db1a45e1825aec25a7a393de6959e593cdf8e559928a50b2207fb087f",
+    "url": "(recorded during reconcile; concurrent batch lost the URL)",
+    "via_proxy": null
+  }
+}

@@ -1,0 +1,582 @@
+# SOURCE: library/07-market-data/DBT-India-trade-and-investment-factsheet.pdf
+# pages: 20
+
+India
+This factsheet provides the latest statistics on trade and investment between the UK and India.
+Date of release: 31 July 2026; Date of next planned release: 24 September 2026
+Total trade in goods and services (exports plus imports) between the UK and India 1 was £48.4 billion in the four quarters
+to the end of Q1 2026, an increase of 5.7% or £2.6 billion in current prices from the four quarters to the end of Q1 2025. Of
+this £48.4 billion:
+• T otal UKexports to India amounted to £20.2 billion in the four quarters to the end of Q1 2026 (an increase of 14.1%
+or £2.5 billion in current prices, compared to the four quarters to the end of Q1 2025);
+• T otal UKimports from India amounted to £28.2 billion in the four quarters to the end of Q1 2026 (an increase of 0.4%
+or £112 million in current prices, compared to the four quarters to the end of Q1 2025).
+India was the UK’s 11 th largest trading partner in the four quarters to the end of Q1 2026 accounting for 2.5% of total UK
+trade.2
+At the end of 2024, the stock of FDI from the UK in India was £19.1 billion, 10.0% or £1.7 billion higher than the end of
+2023. At the end of 2024, India accounted for 1.0% of the total UK outward FDI stock.
+At the end of 2024, the stock of FDI from India in the UK was £6.1 billion, 49.8% or £6.1 billion lower than the end of 2023.
+At the end of 2024, India accounted for 0.3% of the total UK inward FDI stock. 3
+1‘the four quarters to the end of Q1 2026’ refers to the 12 months to the end of March 2026
+2Trade data sourced from the latest ONS publication of UK total trade: all countries seasonally adjusted data.
+3ONS data source for FDI statistics: Foreign Direct Investment involving UK companies .
+1
+Contents
+About these statistics 3
+Summary trade and investment statistics for India 4
+Trade with India, in current prices (ONS) 6
+Trade in goods by commodity, in current prices (ONS) 8
+Trade in services by service type, in current prices (ONS) 10
+Trade in goods by UK countries and English regions, in current prices (HMRC) 11
+Trade in services by mode of supply, in current prices (ONS) 12
+UK Market Share (ONS and UNCTAD) 13
+Number of VAT-registered businesses trading goods (HMRC) 14
+Trade in Value Added (OECD) 15
+Foreign Direct Investment with India (ONS) 16
+Economic statistics (as reported by India) 18
+Background Notes 20
+2
+About these statistics
+This factsheet presents the latest statistics on trade and investment between the UK and India. It summarises a wide
+range of publicly available data, from data providers such as the Office for National Statistics (ONS) and HM Revenue and
+Customs (HMRC), as well as international data providers.
+This factsheet is part of a wider range produced by the Department for Business and Trade which draws together many data
+sources into one single compendium document for each individual trade and investment partner. The full set of factsheets
+for different individual partners can be found on the Trade and Investment Factsheets website on GOV.UK.
+Where data are available, these factsheets contain metrics on:
+• Headline trade statistics between the UK and each trading partner for the latest four quarters.
+• Trade statistics by commodity and service type.
+• Trade in goods between the UK and each trading partner, broken down by UK country and English region.
+• Trade in services between the UK and each trading partner, broken down by mode of supply.
+• UK’s market share as a total of all imports for each trading partner.
+• Number of VAT-registered businesses trading goods.
+• UK’s Foreign Direct Investment (FDI) with each investment partner.
+• Summary trade and investment data as reported by each trade and investment partner, as well as economic data and
+projections.
+International statistics for goods traded with the world are published in the UN Comtrade database and services by ITC
+Trademap.
+All statistics are correct at the time of publication, with upcoming release dates available on the Government update schedule
+for Official Statistics . The Department for Business and Trade strongly recommends users download the latest factsheet to
+ensure the most up-to-date statistics are used. Please do not use previous factsheets to analyse earlier time periods than
+those shown in the most recent factsheets, as the data will have been revised and previous factsheets will no longer be
+correct. For analysis of earlier time periods, please use the published source data.
+For the most up to date snapshot of the UK’s trade and investment position with all partners, please see the UK trade in
+numbers publication or the trade and investment core statistics book . These statistics are based on the same data sources
+as this factsheet and therefore are comparable. A list of all Official Statistics publications from the Department for Business
+and Trade can be found online.
+Contact Details
+statistics@businessandtrade.gov.uk
+3
+Summary trade and investment statistics for India
+UK trade with India, in current prices (based on the latest four quarters) 4
+Trade Value in the four quarters to the
+end of Q1 2026
+Change from the four quarters to the
+end of Q1 2025
+Total trade £48.4 billion an increase of 5.7% or £2.6 billion
+Ranking out of all the UK’s trading
+partners 11th
+T otal goods trade (percentage of total
+trade with India) £17.3 billion (35.7%) a decrease of 4.1% or £730 million
+T otal services trade (percentage of total
+trade with India) £31.1 billion (64.3%) an increase of 12.0% or £3.3 billion
+Total UK exports £20.2 billion an increase of 14.1% or £2.5 billion
+Ranking out of all the UK’s export partners 12th
+UK exports of goods (percentage of total
+UK exports to India) £6.3 billion (31.4%) an increase of 0.4% or £26 million
+UK exports of services (percentage of
+total UK exports to India) £13.8 billion (68.6%) an increase of 21.8% or £2.5 billion
+Total UK imports £28.2 billion an increase of 0.4% or £112 million
+Ranking out of all the UK’s import partners 11th
+UK imports of goods (percentage of total
+UK imports from India) £10.9 billion (38.7%) a decrease of 6.5% or £756 million
+UK imports of services (percentage of
+total UK imports from India) £17.3 billion (61.3%) an increase of 5.3% or £868 million
+’the four quarters to the end of Q1 2026’ refers to the 12 months to the end of March 2026
+UK trade with India, in current prices (based on the latest calendar year) 5
+Trade Value in 2025 Change from 2024
+Total trade £48.0 billion an increase of 10.7% or £4.6 billion
+Ranking out of all the UK’s trading
+partners 11th
+T otal goods trade (percentage of total
+trade with India) £17.1 billion (35.6%) a decrease of 0.3% or £44 million
+T otal services trade (percentage of total
+trade with India) £30.9 billion (64.4%) an increase of 17.8% or £4.7 billion
+Total UK exports £19.3 billion an increase of 15.6% or £2.6 billion
+Ranking out of all the UK’s export partners 12th
+UK exports of goods (percentage of total
+UK exports to India) £5.9 billion (30.7%) a decrease of 3.6% or £221 million
+UK exports of services (percentage of
+total UK exports to India) £13.4 billion (69.3%) an increase of 26.8% or £2.8 billion
+4Trade data sourced from Office for National Statistics data on UK total trade (seasonally adjusted data) .
+5Trade data sourced from Office for National Statistics data on UK total trade (seasonally adjusted data) .
+4
+Trade Value in 2025 Change from 2024
+Total UK imports £28.7 billion an increase of 7.6% or £2.0 billion
+Ranking out of all the UK’s import partners 10th
+UK imports of goods (percentage of total
+UK imports from India) £11.2 billion (38.9%) an increase of 1.6% or £177 million
+UK imports of services (percentage of
+total UK imports from India) £17.6 billion (61.1%) an increase of 11.8% or £1.9 billion
+UK market share in India 6
+UK market share for total trade Value in 2024 Change from 2023
+Total UK market share 2.1% a change of less than 0.05 percentage
+points
+UK market share for goods only 1.1% an increase of 0.1 percentage points
+UK market share for services only 5.0% a decrease of 0.2 percentage points
+UK Foreign Direct Investment (FDI) with India 7
+UK FDI stock Value at the end of 2024 Change from the end of 2023
+T otal UK outward FDI stock £19.1 billion an increase of 10.0% or £1.7 billion
+T otal UK inward FDI stock £6.1 billion a decrease of 49.8% or £6.1 billion
+Economic statistics and projections using gross domestic product (GDP) for India 8
+Economic statistics 2024 2025 2026 2027
+Economic growth, using GDP in real
+terms, compared to the previous year 7.1% 7.6% 6.5% 6.5%
+GDP per capita in $USD (in thousands) 2.6 2.7 2.8 3.1
+GDP in current prices (billion $USD) 3,760.8 3,916.3 4,153.2 4,579.1
+Global GDP Ranking 5th 6th 6th 4th
+Figures for 2026 and 2027 are forecast projections.
+6UK market share data calculated using the methodology outlined in the market share section in the factsheet, based on data from the Office for
+National Statistics and United Nations Conference on Trade and Development.
+7ONS data source for FDI statistics: Foreign Direct Investment involving UK companies .
+8Economic data sourced from the International Monetary Fund World Economic Outlook data portal; Estimates and projections are given in italics;
+GDP rankings where provided are based on values in current prices (nominal terms) in $USD, where some partner values are based on estimates which
+may influence the rankings when revised.
+5
+Trade with India, in current prices (ONS) 9 10 11
+Trade definitions
+• UK exports - Goods and services that were produced or sourced in the UK, which were sold to India.
+• UK imports - Goods and services that were sold to the UK, which were produced or sourced by India.
+• Total or ’bilateral’ trade - The value of total trade between the UK and India (exports plus imports).
+• Trade balance - The difference between exports and imports, calculated by UK exports minus UK imports.
+• Trade surplus - This occurs when the value of UK exports to India is greater than the value of UK imports from India.
+• Trade deficit - This occurs when the value of UK exports to India is less than the value of UK imports from India.
+Headline trade statistics include trade in non-monetary gold (reported within the unspecified goods category),
+which can significantly affect trends for some partners. Please see the factsheet quality and methodology report
+for more information.
+These statistics are given on a balance of payments (change of ownership) basis.
+Note: UK trade statistics experienced higher levels of volatility between 2019 and 2022, due to the pandemic, global
+recession,supplychaindisruption,EUExit,Russia’sinvasionofUkraine,priceinflation,conflictintheMiddleEast,and
+datacollectionchanges. Allfiguresarereportedincurrentprices(notadjustedforinflation),unlessotherwisestated. We
+recognisethat some changesin UK trade valueswill be partlydue to price changes.
+Total trade in goods and services (exports plus imports) between the UK and India was £48.4 billion in the four quarters to
+the end of Q1 2026, an increase of 5.7% or £2.6 billion in current prices from the four quarters to the end of Q1 2025.
+In the four quarters to the end of Q1 2026, total UK exports to India amounted to £20.2 billion (an increase of 14.1% or
+£2.5 billion in current prices, compared to the four quarters to the end of Q1 2025).
+Of all UK exports to India in the four quarters to the end of Q1 2026, £6.3 billion (31.4%) were goods and £13.8 billion
+(68.6%) were services. In the four quarters to the end of Q1 2026, UK exports of goods to India increased by 0.4% or
+£26 million in current prices, compared to the four quarters to the end of Q1 2025. while UK exports of services to India
+increased by 21.8% or £2.5 billion in current prices, compared to the four quarters to the end of Q1 2025..
+In the four quarters to the end of Q1 2026, total UK imports from India were £28.2 billion (an increase of 0.4% or £112
+million in current prices, compared to the four quarters to the end of Q1 2025).
+Of all UK imports from India in the four quarters to the end of Q1 2026, £10.9 billion (38.7%) were goods and £17.3 billion
+(61.3%) were services. In the same period, UK imports of goods from India decreased by 6.5% or £756 million in current
+prices, compared to the four quarters to the end of Q1 2025. while UK imports of services from India increased by 5.3% or
+£868 million in current prices, compared to the four quarters to the end of Q1 2025..
+This means the UK reported a total trade deficit of £8.0 billion with India, compared to a trade deficit of £10.4 billion in the
+four quarters to the end of Q1 2025. In the four quarters to the end of Q1 2026, the UK had a trade in goods deficit of £4.6
+billion with India, compared to a trade in goods deficit of £5.3 billion in the four quarters to the end of Q1 2025. Meanwhile,
+in the four quarters to the end of Q1 2026 the UK reported a trade in services deficit of £3.5 billion with India, compared to
+a trade in services deficit of £5.1 billion in the four quarters to the end of Q1 2025.
+9Office for National Statistics (ONS) data source for total trade: UK total trade data (seasonally adjusted) .
+10This factsheet contains data as reported by the UK, users are advised to use UK-reported data where possible for consistency between partners.
+These data are subject to asymmetries e.g. the value of UK exports to India (reported by the UK) may not match the value of India imports from the UK
+(reported by India).
+11Data are in current prices, meaning no adjustment has been made to account for changes in inflation or exchange rate. The totals may not exactly
+match the sum of their parts due to rounding.‘
+6
+The charts below present a time series for trade between the UK and India for each year between 2016 and 2025:
+The data that are presented in the charts above are given in the table below in £ billion:
+Year 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Value of total trade 16.8 18.7 21.9 24.7 20.9 26.2 37.9 40.5 43.4 48.0
+Value of exports 6.5 6.7 9.1 9.7 9.0 10.7 16.4 15.7 16.7 19.3
+Value of imports 10.2 12.0 12.7 14.9 11.9 15.5 21.5 24.7 26.7 28.7
+Trade balance -3.7 -5.3 -3.6 -5.2 -3.0 -4.7 -5.0 -9.0 -10.0 -9.4
+In the four quarters to the end of Q1 2026, India was the UK’s: 12
+• 11th largest trading partner (accounting for 2.5% of total UK trade).
+– 17th largest goods trading partner (1.7% of UK goods trade).
+– 8th largest services trading partner (3.5% of UK services trade).
+• 12th largest export market (accounting for 2.2% of total UK exports).
+– 17th largest goods export market (1.7% of UK goods exports).
+– 8th largest services export market (2.5% of UK services exports).
+• 11th largest import market (accounting for 2.9% of total UK imports).
+– 14th largest goods import market (1.7% of UK goods imports).
+– 4th largest services import market (5.0% of UK services imports).
+More timely data, for trade in goods only 13 is published by the ONS.
+12Rankings are based on the ONS dataset which contains data for all individual partners: UK total trade data (seasonally adjusted) .
+13ONS data source for trade in the latest 12 months up to May 2026: UK Trade data (seasonally adjusted) .
+7
+Trade in goods by commodity, in current prices (ONS) 14 15
+Pleasenote,thesedataarepresentedonanon-seasonallyadjustedbasisandarenotdirectlycomparabletoseasonally
+adjusteddata, includingthe headline tradestatistics presented before.
+The top 5 goods exported from the UK to India in the four quarters to the end of Q1 2026 were as follows: 16
+Commodity Exports in the four quarters
+to the end of Q1 2026
+Percentage of total
+goods exports
+Change from the four quarters
+to the end of Q1 2025
+68 - Non-ferrous metals £1.1 billion 17.5% an increase of 42.7%
+28 - Metal ores & scrap £823.0 million 13.0% a decrease of 9.8%
+71MI - Mechanical power generators
+(intermediate) £546.5 million 8.6% a decrease of 38.9%
+1 - Beverages & tobacco £313.8 million 4.9% an increase of 21.4%
+74K - General industrial machinery
+(capital) £283.1 million 4.5% an increase of 15.0%
+*= Percentages removedwhere these may totalover 100%, dueto total exports beingrounded to thenearest £million andcommodity values at agreater level of accuracy;
+†= Comparison unavailableas commodity wasnot traded inthefour quarters to theend of Q1 2025;
+‡= Not reported (over100%) to preventshowing small valuechanges from a lowbase as fast growing
+The top 5 goods imported to the UK from India in the four quarters to the end of Q1 2026 were as follows:
+Commodity Imports in the four quarters
+to the end of Q1 2026
+Percentage of total
+goods imports
+Change from the four quarters
+to the end of Q1 2025
+84 - Clothing £975.9 million 9.0% an increase of 8.1%
+71MI - Mechanical power generators
+(intermediate) £897.0 million 8.2% an increase of 15.3%
+33R - Refined oil £884.0 million 8.1% a decrease of 34.4%
+54 - Medicinal & pharmaceutical
+products £693.4 million 6.4% a decrease of 1.8%
+51 - Organic chemicals £548.1 million 5.0% a decrease of 21.3%
+*= Percentages removedwhere these may totalover 100%, dueto total imports beingrounded to the nearest£million andcommodity values at agreater level of accuracy;
+†= Comparison unavailableas commodity wasnot traded in thefour quarters to theend of Q1 2025;
+‡= Not reported (over100%) to preventshowing small valuechanges from a lowbase as fast growing
+The chart below shows the top 5 goods exported from the UK to India and the top 5 goods imported to the UK from India, by
+value, in the four quarters to the end of Q1 2026. All data shown in the chart are provided in the text above.
+14Data on trade in goods by commodity are sourced from data by the ONS: UK trade release (non-seasonally adjusted) . These statistics for exports
+and imports present the latest data from the ONS publication which are given on a monthly basis.
+15Commodity classifications as reported by the ONS, derived from Standard International Trade Classifications (SITC)
+16‘the four quarters the four quarters to the end of Q1 2026’ refers to the 12 months to the end of March 2026
+8
+9
+Trade in services by service type, in current prices (ONS) 17 18 19
+Pleasenote,thesedataarepresentedonanon-seasonallyadjustedbasisandarenotdirectlycomparabletoseasonally
+adjusteddata, includingthe headline tradestatistics presented before.
+The top 3 service types exported from the UK to India in the four quarters to the end of Q1 2026 were as follows: 20
+Service type Exports in the four quarters
+to the end of Q1 2026
+Percentage of total
+services exports
+Change from the four quarters to
+the end of Q1 2025
+Travel £8.3 billion 60.3% an increase of 9.3%
+T elecommunications, computer
+and information services £1.7 billion 12.6% ‡
+Other Business Services £1.3 billion 9.5% an increase of 26.6%
+*= Comparison unavailabledue to datasuppressions in eitherthe four quarterstothe end of Q12025, the four quartersto the end ofQ1 2026, or both;
+**=At least oneof the last fourquarters is suppressedso trade values andpercentages may beunderreported;
+†= Comparison unavailableas trade inthe four quarters tothe end of Q12025 was below£500 thousand;
+‡= Not reported toprevent showing smallvalue changes froma low base asfast growing
+The top 3 service types imported to the UK from India in the four quarters to the end of Q1 2026 were as follows: 21
+Service type Imports in the four quarters
+to the end of Q1 2026
+Percentage of total
+services imports
+Change from the four quarters to
+the end of Q1 2025
+Other Business Services £11.3 billion 65.5% an increase of 6.4%
+T elecommunications, computer
+and information services £2.4 billion 13.7% an increase of 0.8%
+Travel £2.3 billion 13.3% an increase of 3.6%
+*= Comparison unavailabledue to datasuppressions in eitherthe four quarterstothe end of Q12025, the four quartersto the end ofQ1 2026, or both;
+**=At least oneof the last fourquarters is suppressedso trade values andpercentages may beunderreported;
+†= Comparison unavailableas trade inthe four quarters tothe end of Q12025 was below£500 thousand;
+‡= Not reported toprevent showing smallvalue changes froma low base asfast growing
+The chart below shows the top 3 service types exported from the UK to India and the top 3 service types imported to the UK
+from India, by value, in the four quarters to the end of Q1 2026. All data shown in the chart are provided in the text above.
+17Trade in services by service type is sourced from data by the ONS: UK trade in services by partner country (non-seasonally adjusted) .
+18Data are classified on the EBOPS 2010 basis. ‘Other business services’ include: Research and development, professional and management
+consulting services, technical services and trade related services. A full description of all service types can be found on the UN Statistics Division website .
+19Service type data may be unavailable for some quarters, due to the suppression of figures for the confidentiality of individual traders.
+20‘the four quarters the four quarters to the end of Q1 2026’ refers to the 12 months to the end of March 2026
+21There are some countries where three service types are not available for reporting, due to values of zero or less than £500,000, or ONS data
+suppressions.
+10
+Trade in goods by UK countries and English regions, in current prices (HMRC) 22
+23
+Regional trade definitions
+• UK regions - The UK is categorised into 12 regions based on the International T erritorial level 1 (ITL1). This level includes
+9 regions in England, as well as Wales, Scotland and Northern Ireland.
+• Regional trade data - The data are compiled by merging HM Revenues & Customs (HMRC) trade data with employment
+data from the Interdepartmental Business Register (IDBR) so a business’ trade can be allocated to a UK region based on
+the proportion of its employees employed in that region. Where a trader is not matched with the IDBR, its trade is matched
+with ONS postcode data to obtain the UK region in which the Head Office of the VAT-registered business is based.
+The maps below show the value of UK goods exports and imports between each UK region and India in 2025. The
+maps are shaded with the 3 UK regions with the highest amount of trade as the darkest colour, and the 3 UK regions with
+the lowest amount of trade as the lightest colour.
+The data that are presented in the maps above for 2025 in £ billion are also given in the table below:
+UK country or English
+region
+North East North West
+Yorkshire and
+The Humber
+East
+Midlands
+West
+Midlands
+East London South East South West Wales Scotland
+Northern
+Ireland
+Value of goods exports
+to India
+0.1 0.5 0.3 0.3 0.6 0.7 2.0 0.7 0.5 0.3 0.5 0.0
+Percentage of total
+goods exports to India
+1.9% 6.7% 4.3% 3.6% 8.5% 8.9% 27.2% 9.3% 6.4% 4.6% 7.3% 0.6%
+Value of goods imports
+from India
+0.3 0.8 0.7 0.7 1.1 1.2 1.7 1.4 0.5 0.6 0.5 0.1
+Percentage of total
+goods imports from
+India
+3.3% 8.2% 6.4% 6.7% 10.7% 11.7% 16.8% 13.3% 4.8% 6.1% 5.2% 1.2%
+Note that these figures from HMRC are reported on a physical movement basis and are not directly comparable to trade
+data from ONS which are reported on a change of ownership basis. Percentages will not total 100% as data not allocated
+to a single UK country or English region are not presented.
+22HMRC data source for regional UK trade data: HMRC Regional Trade Statistics (data extracted from the spreadsheet download using the HMRC
+interactive tables).
+23T otals presented here will differ from overall HMRC trade figures due to the exclusion of trade in non-monetary gold and non-response estimates and
+the exclusion of data not allocated to a UK country or region. Figures for 2025 are provisional and subject to change.
+11
+Trade in services by mode of supply, in current prices (ONS) 24
+Trade in Services by Mode of Supply definitions
+• Modes of Supply define the way services trade is conducted. The World Trade Organisation’s General Agreement on
+Services categorises methods for trade in services into four different modes of supply, which depend upon on the territorial
+presence of the supplier and the consumer at the time of transaction.
+• Mode 1 - Remote trade (a supplier in one country sells a service to a customer in another, without the movement of people).
+• Mode 2 - Consumption abroad (the person receiving the service travels to the supplier’s country).
+• Mode 3 - Commercial presence (e.g. a company subsidiary) - this mode is not counted as part of UK services trade on a
+balance of payments basis and is not reported in this release. This means that total figures are only the total of Modes 1, 2
+and 4.
+• Mode 4 - Presence of natural persons (a supplier sends its personnel to the customer’s country to provide service).
+UK services exports to India by mode of supply in 2023 :
+• £2.9 billion of services exports to India were delivered by Mode 1 (27.6%).
+• £7.0 billion of services exports were delivered by Mode 2 (67.9%).
+• £471 million of services exports were delivered by Mode 4 (4.5%).
+UK services imports from India by mode of supply in 2023 :
+• £9.5 billion of services imports from India were delivered by Mode 1 (67.4%).
+• £2.8 billion of services imports were delivered by Mode 2 (19.6%).
+• £1.8 billion of services imports were delivered by Mode 4 (13.0%).
+24ONS data source for UK Trade in Services by Mode of Supply: ONS Imports and exports of services by country, by modes of supply, UK
+12
+UK Market Share (ONS and UNCTAD) 25 26
+Market Share definitions
+• UK market share – Imports from the UK as a percentage of all the goods and services imported by India. Market share is
+provided for total imports from the UK, as well as for goods and services separately.
+• Market share methodology – These UK market share statistics are derived by the Department for Business and Trade,
+using publicly available data from the Office for National Statistics (ONS) and the United Nations Conference on Trade and
+Development (UNCTAD). These new statistics allows users to estimate the importance of UK trade on imports to each
+trading partner. Market share is calculated as the value of imports from the UK using data from ONS, divided by the value
+of total imports using data from UNCTAD. Data from UNCTAD are converted from US dollars into pounds sterling by using
+the annual average spot exchange rate 27.
+The UK’s market share for India in 2024 was as follows:
+• The total UK market share in India was 2.1% in 2024 for goods and services . This is a change of less than 0.05
+percentage points from 2023.
+• The UK market share in India was 1.1% in 2024 for goods only. This is an increase of 0.1 percentage points from
+2023.
+• The UK market share in India was 5.0% in 2024 for services only. This is a decrease of 0.2 percentage points from
+2023.
+The table below presents the UK’s market share for India between 2015 and 2024. Values presented in italics are based on
+UNCTAD estimates of imports.
+Year 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+T otal goods and services 1.9% 1.7% 1.4% 1.8% 1.9% 2.2% 1.9% 2.1% 2.1% 2.1%
+Goods only 1.3% 1.3% 1.1% 1.2% 1.3% 1.3% 1.2% 1.3% 1.0% 1.1%
+Services only 3.9% 2.9% 2.3% 3.3% 3.3% 4.3% 3.9% 4.2% 5.2% 5.0%
+25ONS data source for market share: UK total trade data (seasonally adjusted) .
+26UNCTAD data source for market share: Goods and Services (BPM6): Exports and imports of goods and services, annual . Some UNCTAD data may
+be based on estimates.
+27Annual average spot exchange rates for $USD to £GBP are sourced from the Bank of England
+13
+Number of VAT-registered businesses trading goods (HMRC) 28 29 30
+Business counts definition (Regional Trade in Goods Statistics)
+• Business counts report UK VAT-registered business exporting and importing goods. Data is collected primarily from
+customs declarations (using the Intrastat survey and VAT returns for Northern Ireland businesses trading with the EU) .
+• Counts exclude businesses trading below the statistical value thresholds for customs declarations and exclude trade in
+non-monetary gold.
+Businesses trading goods with India in 2025 :
+• In 2025, around 8,800 UK VAT-registered businesses exported goods to India.
+• In 2025, around 16,600 UK VAT-registered businesses imported goods from India.
+28HMRC data source for Regional Trade Statistics business counts data: UK trade in goods statistics .
+29Data for UK businesses engaged in trade of services with India are not available. A single business may trade with multiple trading partners abroad,
+so care should be taken when adding figures for multiple trading partners.
+30HMRC does not receive partner country information for customs declarations with commodity line values that fall under the statistical value threshold
+of £873 (in value) and 1,000kg (in net mass). Therefore, these counts of exporting/importing businesses only capture those businesses with exports/imports
+(respectively) above the statistical value threshold. The number of businesses has been rounded to the nearest 100.
+14
+Trade in Value Added (OECD) 31
+Trade in Value Added definitions
+• Trade in Value Added (TiVA) - TiVA is a statistical approach to examine supply chains, which is not possible with
+conventional (‘gross’) trade statistics. This is because TiVA treats international trade flows as flows of value added rather
+than gross flows of final goods and services.
+• Domestic and foreign value added - In TiVA, gross exports are decomposed into domestic and foreign value added.
+Domestic value added measures the value added generated by the domestic economy in the production of its exports (e.g.
+the value added by UK car manufacturers and their UK supply chains in car exports). Foreign value added measures the
+value added contribution that foreign suppliers make to these exports (e.g. the import of foreign car parts).
+• TiVA statistics - Although TiVA offers advantages over traditional ways of measuring trade, these statistics are not fully
+developed. These results are estimates which should be considered complementary to conventional trade statistics and
+not be over-interpreted. In addition, the geographical detail is limited for developing countries. More information on TiVA
+can be found in a recent research report by the Department for Business and Trade and Cambridge Econometrics.
+• UK forward linkages for exports - Measures the reliance of foreign exporters on UK value added (inputs).
+• UK backward linkages for exports - Measures the reliance of UK exporters on foreign value added (inputs).
+• Employment supported by exports - This provides an estimate of the number of employees in exporting industries, and
+their domestic supply chains that are supported by exporting activity.
+UK forward linkages for exports:
+• In 2022, 0.5% of the total value added in gross exports from India originated in the UK.
+• In 2022, 25.7% of the value added content in gross exports from India reflected foreign imports from abroad. The
+largest sources of foreign value added for gross exports from India were China (2.3%), United States (2.2%), and
+Saudi Arabia (2.0%).
+UK backward linkages for exports:
+• In 2022, 0.5% of the total value added in gross exports from the UK originated in India.
+• In 2022, 19.6% of the value added content in gross exports from the UK reflected foreign imports from abroad. The
+largest sources of foreign value added for gross exports from the UK were United States (3.2%), Norway (2.4%), and
+China (1.5%).
+Employment supported by exports: 32
+• Exporting activity in India supported 66.7 million jobs in 2022 (12.2% of total India employment). Exports to the UK
+supported 2.5 million jobs in India in 2022.
+• Exporting activity in the UK supported 7.9 million jobs in 2022 (24.0% of total UK employment). Exports to India
+supported around 164,400 jobs in the UK in 2022.
+31The estimates in this factsheet are based on Trade in Value Added statistics published by the Organisation for Economic Co-operation and Development
+(OECD): a) Trade in Value Added database (origin of value added in gross exports), January 2026 ; and b) Trade in employment (TiM) database, March
+2026, indicators EXGR_DEM.
+32These estimates measure employees directly and indirectly supported by exports i.e. workers employed in exporting businesses and in other
+domestic businesses supplying inputs to the exporting businesses. The estimates should be interpreted as employment supported by exports, rather than
+employmentcreated by exports, as the jobs may have previously existed to serve the domestic market. Employees may also be supported by exports
+from a multiple number of trading partners. As with the core TiVA data, these estimates are based on a number of assumptions and modelling, so should
+be interpreted with caution.
+15
+Foreign Direct Investment with India (ONS) 33 34 35
+Foreign direct investment definitions
+• Foreign direct investment (FDI) - Investment made by a firm or individual in one economy (’direct investor’) to acquire a
+’lasting interest’ in an enterprise operating in another economy. The lasting interest is deemed to exist if the direct investor
+acquires at least 10% of equity, or equivalently 10% of the voting rights, of the company.
+• FDI stock - The accumulated value of all previous investments at the end of a reference period. Figures are net, that is
+the value of investment minus disinvestment. UK outward FDI stock provides the total value of FDI by UK investors in
+economies abroad (investment of a UK parent company in India), while UK inward FDI stock provides the total value of
+FDI by non-UK investors in the UK (investment of a India parent company in the UK).
+• Data disclosure - It can happen that FDI is coming from only a few investors. In that case, figures are suppressed by the
+ONS to avoid disclosure of information relating to individual enterprises.
+Note: The FDI data for 2020 have been affected by changes in sampling methodology. Improvements have been made to
+thepopulationwhichhasbeensampledandthewaythatbusinessesaresampledfromthepopulation,capturingawider
+rangeofbusinesses. Thismeansdatafrom2020andonwardaremorerepresentativeofUKFDIwithoverseaspartners
+andare comparable.
+Moreinformation about themethodology changescan be found ontheONSwebsite.
+UK outward FDI stock:
+• At the end of 2024, the stock of FDI from the UK in India was £19.1 billion, 10.0% or £1.7 billion higher than the end
+of 2023. At the end of 2024, India accounted for 1.0% of the total UK outward FDI stock.
+UK inward FDI stock:
+• At the end of 2024, the stock of FDI from India in the UK was £6.1 billion, 49.8% or £6.1 billion lower than the end of
+2023. At the end of 2024, India accounted for 0.3% of the total UK inward FDI stock.
+33ONS data source for FDI statistics: Foreign Direct Investment involving UK companies .
+34Data are presented on a directional basis which means they are not directly comparable to the asset/liability report prepared by ONS as part of the
+Balance of Payments statistical release. Figures are on net basis (investments minus disinvestments) and are given in nominal terms. Negative FDI values
+occur when disinvestments are greater than investments. Data are on an immediate destination/source basis and not an ultimate destination/source,
+which is likely to overstate financial centres such as the Netherlands and Luxembourg.
+35This factsheet contains data as reported by the UK and are subject to asymmetries e.g. UK outward FDI to India (reported by the UK) may not match
+India inward FDI from the UK (reported by India). For consistency when comparing between partners, users are advised to use UK-reported data as far as
+possible.
+16
+The chart below shows FDI between the UK and India between 2015 and 2024: 36
+The table below presents the stock of FDI to and from India and the UK between 2015 and 2024 in £ billion:
+Year 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+UK outward FDI stock 12.1 13.2 13.6 14.5 15.7 18.1 18.8 20.1 17.4 19.1
+UK inward FDI stock 2.6 1.8 2.2 11.6 9.2 9.7 9.4 10.2 12.2 6.1
+low= denotes zero orvalue below £0.5million;
+c= denotes values whichhave been suppressedto mitigate disclosure.
+36ONS data source for FDI statistics: Foreign Direct Investment involving UK companies .
+17
+Economic statistics (as reported by India)
+Trade and investment data for India (UNCTAD) 37 38 39
+The following data are reported by India and are for reference only. Whenever possible use data from UK sources for trade
+and investment. All data below are presented in $USD in billions.
+Year 2018 2019 2020 2021 2022 2023 2024 2025
+Nominal exports 537.0 546.0 484.0 643.3 766.9 773.2 818.0 -
+Nominal imports 695.3 668.2 529.4 775.6 975.1 927.8 996.3 -
+Nominal trade
+balance -158.3 -122.2 -45.4 -132.2 -208.2 -154.6 -178.3 -
+Inward FDI stock 386.2 427.0 480.1 514.1 510.7 537.0 547.2 559.0
+Outward FDI stock 166.6 179.7 190.9 208.1 222.6 236.5 260.8 296.4
+37United Nations Conference on Trade and Development (UNCTAD) data sources for trade: Goods and Services (BPM6): Exports and imports of
+goods and services, annual ; and for investment: Foreign direct investment: Inward and outward flows and stock, annual .
+38Estimates are given in italics. Historic data pre-2018 can be found on the UNCTAD website.
+39All trade data are on a Balance of Payments basis. The FDI data are on a directional and net (investment minus disinvestment) basis. These figures
+are given in current prices and are rounded to the nearest $0.1 billion, with missing data represented by dashes.
+18
+Economic data and projections for India (IMF) 40 41
+The following table presents economic statistics for India. Figures from 2026 onwards are forecast projections.
+Note: Some of the data below are not given in calendar years. For example, some countries in India report data from April
+to March, where ‘2023’ represents April 2022 to March 2023.
+Year 2023 2024 2025 2026 2027 2028 2029 2030 2031
+Change in exports
+(%) 0.4 5.3 4.3 4.2 4.3 4.9 4.0 3.8 3.8
+Change in imports
+(%) -1.0 5.3 4.6 2.3 4.6 4.8 5.2 5.7 5.3
+Current account balance
+(% of GDP) -0.7 -0.6 -0.9 -2.0 -1.6 -1.5 -1.5 -1.7 -1.9
+Global GDP ranking
+(current prices) 5th 5th 6th 6th 4th 4th 4th 4th 3rd
+GDP in current prices
+(billion $USD) 3,500.9 3,760.8 3,916.3 4,153.2 4,579.1 5,058.8 5,599.4 6,173.4 6,792.4
+Change in real GDP
+(%) 7.2 7.1 7.6 6.5 6.5 6.5 6.5 6.5 6.5
+GDP per capita
+(1,000 $USD) 2.4 2.6 2.7 2.8 3.1 3.4 3.7 4.0 4.4
+GDP PPP
+(Int’l $billion) 14,207.4 15,593.8 17,257.9 18,902.3 20,578.6 22,276.0 24,150.4 26,193.7 28,403.6
+Inflation, year average
+(CPI %) 5.4 4.6 2.1 4.7 4.0 4.0 4.0 4.0 4.0
+Unemployment rate
+(% of total labour force) 4.9 4.9 4.9 4.9 4.9 4.9 4.9 4.9 4.9
+Population
+(million) 1,438.1 1,450.9 1,463.9 1,476.6 1,489.2 1,501.4 1,513.4 1,525.1 1,536.5
+T otal investment
+(% of GDP) 34.5 34.3 33.9 34.0 34.0 34.0 34.1 34.1 34.1
+Gross national savings
+(% of GDP) 33.8 33.7 32.9 31.9 32.3 32.6 32.6 32.4 32.2
+General government net
+lending/borrowing
+(% of GDP)
+-8.4 -7.9 -7.4 -7.4 -7.3 -7.1 -6.9 -6.7 -6.6
+General government
+gross debt
+(% of GDP)
+85.0 84.8 84.1 83.4 82.5 81.7 80.6 79.5 77.7
+40International Monetary Fund (IMF) provide economic commentary in their World Economic Outlook reports . The latest data presented here can be
+found in the IMF Data Portal .
+41Projections and estimates are given in italics. More information for each metric and each partner, as well as historic data pre-2023, can be found on
+the IMF Data Portal .
+19
+Background Notes
+This document is one of a wider set of factsheets between the UK and its individual trade and investment partners which
+can be found on the Trade and Investment Factsheets website . All of these factsheets are published as Official Statistics as
+defined by the UK Statistics Authority .
+Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness,
+quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are
+welcome to contact us directly with any comments about how we meet these standards. Alternatively, you can contact OSR
+by emailing regulation@statistics.gov.uk or via the OSR website.
+The publication of these factsheets as Official Statistics was agreed by the Chief Statistician at the Department for Business
+and Trade, who monitors these factsheets to ensure they continue to adhere to the Code of Practice for Statistics . These
+factsheets have not been formally assessed by the Office for Statistics Regulation and are therefore not designated as
+Accredited Official Statistics .
+As a requisite of publishing as Official Statistics, a quality and methodology report has been produced which outlines the
+quality of these factsheets, as well as providing more information on the methodology of the data sources presented here.
+This report contains hyperlinks to information on the strengths and weaknesses for each data source. Statistics contained
+in the factsheets from UK data providers all come from Official Statistics publications, with some sources also being from
+National Statistics publications.
+Future updates of these factsheets can be found on the Government update schedule for Official Statistics . These scheduled
+updates are in line with significant updates from UK data providers when they release new data. Unscheduled releases of
+the factsheets may also be necessary to accommodate data updates where little or no advanced notice are given, such
+as in the case of international data updates. Please see the data update schedule and revisions policy in the quality and
+methodology report for more information. Please note that there may be occasions where more recent data than is provided
+here can be found directly from the data providers.
+The Department for Business and Trade welcome any feedback or comments on these factsheets, please send these to
+statistics@businessandtrade.gov.uk.
+© Crown copyright 2026
+This publication is licensed under the terms of the Open Government Licence 3.0 except where otherwise stated.
+Where the Department for Business and Trade have identified any third party copyright information, users will need to obtain
+permission from the copyright holders concerned.
+This publication is available on the GOV.UK website.
+Any media enquiries regarding this publication should be directed to the Department for Business and Trade website or by
+phoning 0207 215 2000.
+20

@@ -1,0 +1,683 @@
+# SOURCE: library/01-ceta-legal-text/uk-india-ceta-chapter-8-trade-in-services.pdf
+# pages: 17
+
+8 - 1 
+Chapter 8 
+TRADE IN SERVICES 
+Article 8.1 
+Definitions 
+For the purposes of this Chapter: 
+“aircraft repair and maintenance services” means those activities when undertaken 
+on an aircraft or a part thereof while the aircraft or part is withdrawn from service and 
+does not include line maintenance; 
+“airport operation services ” means any service for operation or management of 
+airport infrastructure, including terminals, runways, taxiways and aprons, parking 
+facilities, and intra-airport transportation systems, for any kind of remuneration. Airport 
+operation services do not include air navigation services, security services and ground 
+handling services; 
+“commercial presence ” means any type of business or professional establishment, 
+including through: 
+(a) the constitution, acquisition, or maintenance of a juridical person; or 
+(b) the creation or maintenance of a branch or a representative office, 
+within the territory of a Party for the purpose of supplying a service; 
+“computer reservation system services ” means services provided by computerised 
+systems that contain information about air carriers’ schedules, availability, fares and 
+fare rules, through which reservations can be made or tickets may be issued; 
+“ground handling services ” means the supply of the following services, on a fee or 
+contract basis: ramp handling, aircraft servicing, aircraft cleaning, loading or unloading, 
+cargo and mail handling services, baggage handling, administrative support services, 
+representational services, passenger handling, flight operations and surface transport. 
+Ground handling services do not include: fixed intra-airport transport systems, security 
+functions and self-handling; 
+“juridical person of a Party” means a juridical person which is either: 
+(a) constituted or otherwise organised under the law of that Party, and is 
+engaged in substantive business operations in the territory of that Party; 
+or 
+(b) in the case of the supply of a service through commercial presence, 
+owned or controlled by: 
+(i) natural persons of that Party; or 
+(ii) juridical persons of that Party identified under subparagraph (a); 
+a juridical person is: 
+8 - 2 
+(a) “owned” by persons of a Party if more than fifty per cent of the equity 
+interest in it is beneficially owned by persons of that Party; 
+(b) “controlled” by persons of a Party if such persons have the power to 
+name a majority of its directors or otherwise to legally direct its actions; 
+(c) “affiliated” with another person when it controls, or is controlled by, 
+that other person, or when it and the other person are both controlled by 
+the same person; 
+“line maintenance services ” means any maintenance services that are carried out 
+before flight to ensure that the aircraft is fit for the intended flight. It includes minor 
+repairs and modifications which do not require extensive disassembly and can be 
+accomplished by simple means; 
+“measures by a Party affecting trade in services” includes measures in respect of: 
+(a) the purchase or use of, or payment for, a service; 
+(b) the access to and use of, in connection with the supply of a service, 
+services which are required by a Party to be offered to the public 
+generally; and 
+(c) the presence, including commercial presence, of persons of a Party for 
+the supply of a service in the territory of the other Party; 
+“monopoly supplier of a service ” means any person, public or private, which in the 
+relevant market of the territory of a Party is authorised or established formally or in 
+effect by that Party as the sole supplier of that service; 
+“natural person of a Party ” means a national of a Party as defined in Article 1.4 
+(General Definitions – Initial Provisions and General Definitions); 
+“sector” of a service means: 
+(a) with reference to a specific commitment, one or more, or all, subsectors 
+of that service, as specified in the respective Schedules of the Parties in 
+Annex 8B (Schedules of Specific Commitments); 
+(b)  otherwise, the whole of that service sector, including all of its 
+subsectors; 
+“selling and marketing of air transport services ” means opportunities for the air 
+carrier concerned to sell and market freely its air transport services including all aspects 
+of marketing such as market research, advertising and distribution. These activities do 
+not include the pricing of air transport services nor the applicable conditions; 
+“service consumer” means any person that receives or uses a service; 
+“service of the other Party” means a service which is supplied: 
+(a) from or in the territory of that other Party, or in the case of maritime 
+transport, by a vessel  registered under the laws and regulations of that 
+8 - 3 
+other Party, or by a person of that other Party which supplies the service 
+through the operation of a vessel or its use in whole or in part; or 
+(b) in the case of the supply of a service through commercial presence or 
+through the presence of natural persons, by a service supplier of that 
+other Party; 
+“service supplied in the exercise of governmental authority ” means any service 
+which is supplied neither on a commercial basis nor in competition with one or more 
+service suppliers; 
+“service supplier” means a person that supplies a service;1 
+“services” includes any service in any sector except services supplied in the exercise 
+of governmental authority; 
+“supply of a service ” includes the production, distribution, marketing, sale and 
+delivery of a service;  
+“trade in services” means the supply of a service: 
+(a) from the territory of a Party into the territory of the other Party; 
+(b) in the territory of a Party to a service consumer of the other Party;  
+(c) by a service supplier of a Party, through commercial presence in the 
+territory of the other Party; 
+(d) by a service supplier of a Party, through presence of natural persons of 
+that Party in the territory of the other Party; and 
+“traffic rights” means the rights for scheduled and non -scheduled services to operate 
+or carry passengers, cargo, and mail for remuneration or hire from, to, within, or over 
+the territory of a Party, including points to be served, routes to be operated, types of 
+traffic to be carried, capacity to be provided, tariffs to be charged, and their conditions, 
+and criteria for designation of airlines, including such criteria as number, ownership, 
+and control. 
+ 
+Article 8.2 
+Scope 
+1. This Chapter shall apply to measures by a Party affecting trade in services. 
+2. For the purposes of this Chapter, “measures by a Party” means measures taken 
+by: 
+ 
+1 Where the service is not supplied directly by a juridical person but through other forms of commercial 
+presence such as a branch or a representative office, the service supplier (i.e. the juridical person) shall, 
+nonetheless, through such presence be acco rded the treatment provided for service suppliers under this 
+Chapter. Such treatment shall be extended to the presence through which the service is supplied and need 
+not be extended to any other parts of the supplier located outside the territory where the  service is 
+supplied. 
+8 - 4 
+(a) central, regional, or local governments and authorities of that Party; and 
+(b) non-governmental bodies in the exercise of powers delegated by central, 
+regional, or local governments or authorities of that Party. 
+ In fulfilling its obligations and commitments under this Chapter, each Party 
+shall take such reasonable measures as may be available to it to ensure their 
+observance by regional and local governments and authorities and non -
+governmental bodies within its territory. 
+3. This Chapter shall not apply to measures relating to: 
+(a) financial services as defined in Article 9.1 (Definitions – Financial 
+Services); 
+(b) government procurement; 
+(c) subsidies or grants provided by a Party, including government -
+supported loans, guarantees and insurance; 
+(d) audio-visual services; and 
+(e) cabotage2 in maritime transport services.3 
+4. This Chapter does not impose any obligation on a Party with respect to a natural 
+person of the other Party who seeks access to its employment market or who is 
+employed on a permanent basis in its territory, and does not confer any right on 
+that natural person with respect to that access or employment. For greater 
+certainty, this Chapter does not apply to measures regarding citizenship, 
+nationality or residence on a permanent basis. 
+5. In respect of air transport services, this Chapter shall not apply to measures 
+affecting traffic rights however granted, or measures affecting services directly 
+related to the exercise of traffic rights, other than measures affecting: 
+(a) aircraft repair and maintenance services; 
+ 
+2 For India, maritime cabotage is the transportation of passengers or goods between any port or place 
+located in India and any other port or place located in India and transportation of passengers or goods 
+originating or terminating in the same port or place located in  India, including  transportation of 
+passengers or goods between a port or a place located in India and another port, place, installation or 
+structure situated in the Exclusive Economic Zone  (EEZ) of India or on the continental shelf of India . 
+Maritime cabotage shall further include services such as floating storage , offloading, towing, anchor -
+handling, dredging, off-shore drilling/production, diving support, maintenance support, various types of 
+surveys, cable laying, sea-bed mining operations, pipe-laying, lighterage, salvage, marine construction, 
+hook-up, port and terminal related support services , provided those services are supplied in the above 
+areas by the vessels. 
+For the United Kingdom, maritime cabotage covers the transportation of passengers or goods between a 
+port or point located in the United Kingdom and another port or point located in the United Kingdom, 
+including on its continental shelf, as provided for in  the United Nations Convention on the Law of the 
+Sea, done in Montego Bay, Jamaica, on 10 December 1982, and traffic originating and terminating in 
+the same port or point located in the United Kingdom. 
+3 This exclusion shall not affect the additional commitments undertaken by a Party for International 
+Maritime Transport Services in its Schedule in Annex 8A (Schedules of Specific Commitments). 
+8 - 5 
+(b) line maintenance services; 
+(c) selling and marketing of air transport services; 
+(d) computer reservation system services; 
+(e) airport operation services; and 
+(f) ground handling services. 
+6. For greater certainty, Annex 8A (Professional Services) is an integral part of 
+this Chapter. 
+7. In the event of any inconsistency between this Chapter and a bilateral, 
+plurilateral, or multilateral air services agreement to which both Parties are 
+party, the air services agreement shall prevail in determining the rights and 
+obligations of the Parties. 
+8. Notwithstanding Article 29. 5 (Choice of Forum – Dispute Settlement), i f the 
+Parties have the same obligations under this Agreement and a bilateral, 
+plurilateral, or multilateral air services agreement, a Party may invoke the 
+dispute settlement procedures of this Agreement only after any dispute 
+settlement procedures in the other agreement have been exhausted. 
+ 
+Article 8.3 
+Market Access 
+1. With respect to market access through the modes of supply identified in the 
+definition of “trade in services”  in Article 8.1 (Definitions) , each Party shall 
+accord services and service suppliers of the other Party treatment no less 
+favourable than that provided for under the terms, limitations, and conditions 
+agreed and specified in its Schedule in Annex 8 B (Schedules of Specific 
+Commitments).4 
+2. In sectors where market -access commitments are undertaken, the measures 
+which a Party shall not maintain or adopt either on the basis of a regional 
+subdivision or on the basis of its entire territory, unless otherwise specified in 
+its Schedule in Annex 8B (Schedules of Specific Commitments), are defined as: 
+(a) limitations on the number of service suppliers whether in the form of 
+numerical quotas, monopolies, exclusive service suppliers or the 
+requirements of an economic needs test; 
+ 
+4 If a Party undertakes a market -access commitment in relation to the supply of a service through the 
+mode of supply referred to in subparagraph (a) of the definition “trade in services” in Article 8.1 
+(Definitions) and if the cross -border movement of capital is an essential part of the service itself, that 
+Party is thereby committed to allow such movement of capital. If a Party undertakes a market -access 
+commitment in relation to the supply of a service through the mode of supply referred to in subparagraph 
+(c) of the definition “trade in services” in Article 8.1 (Definitions), it is thereby committed to allow 
+related transfers of capital into its territory. 
+8 - 6 
+(b) limitations on the total value of service transactions or assets in the form 
+of numerical quotas or the requirement of an economic needs test; 
+(c) limitations on the total number of service operations or on the total 
+quantity of service output expressed in terms of designated numerical 
+units in the form of quotas or the requirement of an economic needs 
+test;5 
+(d) limitations on the total number of natural persons that may be employed 
+in a particular service sector or that a service supplier may employ and 
+who are necessary for, and directly related to, the supply of a specific 
+service in the form of numerical quota s or the requirement of an 
+economic needs test; 
+(e) measures which restrict or require specific types of legal entity or joint 
+venture through which a service supplier may supply a service; and 
+(f) limitations on the participation of foreign capital in terms of maximum 
+percentage limit on foreign shareholding or the total value of individual 
+or aggregate foreign investment.  
+3. If a Party undertakes a market-access commitment in relation to the supply of a 
+service through a mode of supply referred to in subparagraph (a), (b), or (d) of 
+the definition of “trade in services” in Article 8.1 (Definitions), that Party shall 
+not require a service supplier of the other Party to establish or maintain a 
+representative office, a branch, or any form of juridical person, or to be resident 
+in its territory as a condition for the supply of that service through the relevant 
+mode of supply, unles s otherwise specified in its Schedule in Annex 8B 
+(Schedules of Specific Commitments). 
+ 
+Article 8.4 
+National Treatment 
+1. Each Party shall, in the sectors inscribed in its Schedule in Annex 8B (Schedule 
+of Specific Commitments) and subject to any conditions and qualifications set 
+out therein, accord to services and service suppliers of the other Party, in respect 
+of all measures affecting the supply of services, treatment no less favourable 
+than that it accords to its own like services and service suppliers.6 
+2. A Party may meet the requirement under paragraph 1 by according to services 
+and service suppliers of the other Party, either formally identical treatment or 
+formally different treatment to that it accords to its own like services and service 
+suppliers. 
+3. Formally identical or formally different treatment shall be considered to be less 
+favourable if it modifies the conditions of competition in favour of services or 
+ 
+5 This subparagraph does not cover measures of a Party which limit inputs for the supply of services. 
+6 Specific commitments assumed under this Article shall not be construed to require any Party to 
+compensate for any inherent competitive disadvantages which result from the foreign character of the 
+relevant services or service suppliers. 
+8 - 7 
+service suppliers of the Party compared to like services or service suppliers of 
+the other Party. 
+ 
+Article 8.5 
+Additional Commitments 
+1. The Parties may negotiate commitments with respect to measures affecting 
+trade in services, including those regarding qualifications, standard or licensing 
+matters, not subject to scheduling, under Article 8.4 (National Treatment) or 
+Article 8.3 (Market Access). 
+2. A Party making additional commitments under paragraph 1 shall inscribe such 
+commitments in its Schedule in Annex 8B (Schedule s of Specific 
+Commitments). 
+ 
+Article 8.6 
+Schedules of Specific Commitments 
+1. Each Party shall set out in its Schedule in Annex 8B (Schedule s of Specific 
+Commitments), the specific commitments it undertakes under Article 8.4 
+(National Treatment), Article 8.3 (Market Access), and Article 8.5 (Additional 
+Commitments). With respect to sectors where such commitments are 
+undertaken, each Schedule in Annex 8B (Schedules of Specific Commitments) 
+shall specify: 
+(a) terms, limitations, and conditions on market access; 
+(b) conditions and qualifications on national treatment; 
+(c)  undertakings relating to additional commitments; and 
+(d) where appropriate, the time frame for implementation of such 
+commitments. 
+2. Measures inconsistent with both Article 8.4 (National Treatment) and Article 
+8.3 (Market Access) shall be inscribed in the column relating to Article 8.3 
+(Market Access). In this case, the inscription shall be considered to provide a 
+condition or qualification to Article 8.4 (National Treatment) as well. 
+3.  For greater certainty, Schedules of Specific Commitments shall be annexed to 
+this Chapter as Annex 8B (Schedules of Specific Commitments) and shall form 
+an integral part thereof. 
+ 
+8 - 8 
+Article 8.7 
+Most-Favoured-Nation Treatment7 
+1. Each Party shall, in respect of the sectors and subsectors set out in its Schedule 
+in Annex 8C (Most-Favoured-Nation Treatment Sectoral Coverage) and subject 
+to any terms, limitations, conditions and qualifications set out therein, accord to 
+services and service suppliers of the other Party treatment no less favourable 
+than that it accords to like services and service suppliers of a non-Party. 
+2. Notwithstanding paragraph 1, each Party reserves the right to adopt or maintain 
+any measure that accords differential treatment to services and service suppliers 
+of any non-Party under any bilateral or multilateral international agreement in 
+force at, or signed prior to, the date of entry into force of this Agreement. 
+3. If, after the date of entry into force of this Agreement, a Party enters into any 
+agreement with a non -Party in which it undertakes to provide treatment to 
+services or service suppliers of that non -Party in a sector or subsector not set 
+out in that Party’s Schedule in Annex 8C (Most-Favoured-Nation Treatment 
+Sectoral Coverage), more favourable than that it accords under this Agreement 
+to like services or service suppliers of the other Party, the other Party may 
+request consultations to discuss the possib ility of extending, under this 
+Agreement, treatment no less favourable than that provided for in the agreement 
+with the non-Party to services and service suppliers of the other Party. In such 
+circumstances, the Parties shall enter into consultations bearing in mind the 
+overall balance of benefits. 
+4. This Article shall not be construed as to prevent a Party from conferring or 
+according advantages to adjacent countries in order to facilitate exchanges 
+limited to contiguous frontier zones of services that are both locally produced 
+and consumed. 
+ 
+Article 8.8 
+Domestic Regulation 
+1. For the purposes of this Article: 
+“authorisation” means permission to supply a service, resulting from a 
+procedure to which a person of a Party must adhere in order to demonstrate 
+compliance with licensing requirements or qualification requirements; and 
+“competent authority” means a central, regional, or local government or 
+authority or non -governmental body in the exercise of powers delegated by a 
+central, regional, or local government or authority, which is entitled to take a 
+decision concerning authorisation for the supply of a service.  
+2. This Article shall: 
+ 
+7 For greater certainty, this Article does not cover treatment accorded by a Party to services and service 
+suppliers of territories for whose international relations that Party is responsible. 
+8 - 9 
+(a) apply to sectors where specific commitments are undertaken in a Party’s 
+Schedule in Annex 8B (Schedule of Specific Commitments); and 
+(b) not apply to any terms, limitations, conditions, or qualifications set out 
+in a Party’s Schedule pursuant to Articles 8.3 (Market Access) or 8.4 
+(National Treatment). 
+3. Each Party shall ensure that all measures of general application affecting trade 
+in services are administered in a reasonable, objective and impartial manner. 
+4. Each Party shall maintain or institute as soon as practicable judicial, arbitral, or 
+administrative tribunals or procedures which provide, on request of an affected 
+service supplier, for the prompt review of, and where justified, appropriate 
+remedies for, administrative decisions affecting trade in services.  Where such 
+procedures are not independent of the agency entrusted with the administrative 
+decision concerned, the Party shall ensure that the procedures in fact provide 
+for an objective and impartial review. 
+5. Nothing in paragraph 4 shall be construed to require a Party to institute such 
+tribunals or procedures where this would be inconsistent with its constitutional 
+structure or the nature of its legal system. 
+6. With a view to ensuring that measures relating to qualification requirements and 
+procedures, technical standards, and licensing requirements and procedures, do 
+not constitute unnecessary barriers to trade in services, the Parties shall jointly 
+review the result of the WTO negotiation on disciplines on such measures, 
+pursuant to Article VI.4 of GATS and shall amend this article, as appropriate, 
+after consultation among the Parties to bring the results of those negotiations 
+into effect under this Chapter. Such disciplines shall aim to ensure that such 
+requirements, inter alia: 
+(a) are based on objective and transparent criteria, such as competence and 
+the ability to supply the service; 
+(b) are not more burdensome than necessary to ensure the quality of the 
+service; and 
+(c) in the case of licensing and qualifications procedures, are not in 
+themselves a restriction on the supply of the service. 
+7. (a) In sectors in which a Party has undertaken commitments, pending the  
+entry into force of disciplines in these sectors pursuant to paragraph 6, 
+the Party shall not apply licensing and qualification requirements and 
+technical standards that nullify or impair such commitments in a manner 
+which: 
+(i) does not comply with the criteria outlined in subparagraphs 6(a), 
+(b), or (c); and 
+(ii) could not reasonably have been expected of that Party at the time 
+the commitments in those sectors were made. 
+8 - 10 
+(b) In determining whether a Party is in conformity with its obligations 
+under subparagraph 7(a), international standards of relevant 
+international organisations 8 applied by that Party shall be taken into 
+account. 
+8. If a Party requires authorisation for the supply of a service, the Party shall: 
+(a) promptly publish9 information necessary for obtaining an authorisation. 
+Where it exists, the information may include: 
+(i) the licensing and qualification requirements and procedures; 
+(ii) contact information of relevant competent authorities; 
+(iii) fees; 
+(iv) procedures for appeal or review of decisions concerning 
+applications; 
+(v) indicative or fixed timeframes for processing applications; and 
+(vi) the length of authorisations, and where relevant, dates for 
+renewal; 
+(b) endeavour to ensure that the information referred to in subparagraph (a) 
+is easily accessible through electronic means, and to the extent 
+practicable, is consolidated into a single online portal; and 
+(c)  encourage its competent authorities to respond, to the extent 
+practicable, to any reasonable request for information or assistance. 
+9. Each Party shall, to the extent practicable, avoid requiring an applicant to 
+approach more than one competent authority for each application for 
+authorisation for the supply of a service. If a service is within the jurisdiction of 
+multiple competent authorities, multiple applications for authorisation may be 
+required. 
+10. If a Party requires authorisation for the supply of a service, it shall ensure that 
+its competent authorities: 
+(a) to the extent practicable, permit the submission of an application at any 
+time throughout the year.10 If a specific time period for applying exists, 
+the Party shall ensure that its competent authorities allow a reasonable 
+period of time for the submission of an application; 
+(b) endeavour to  accept applications in electronic format under the 
+equivalent conditions of authenticity as paper submissions;  and 
+ 
+8 The term “relevant international organisations” refers to international bodies whose membership is open 
+to the relevant bodies of the Parties. 
+9 For the purposes of these disciplines, “publish” means to include in an official publication, such as an 
+official journal, or on an official website. 
+10 Competent authorities are not required to start considering applications outside of their official working 
+hours and working days. 
+8 - 11 
+endeavour to allow for the completion of any relevant authorisation 
+procedures without the physical presence of the applicant in the territory 
+of that Party; 
+(c) where they deem appropriate , accept copies of documents that are  
+authenticated in accordance with its laws and regulations, in place of 
+original documents; 
+(d) to the extent practicable, establish a fixed or indicative timeframe for the 
+processing of an application; 
+(e) to the extent practicable, confirm in writing 11 that an application has 
+been received; 
+(f) upon request of the applicant, provide without undue delay information 
+concerning the status of the application; 
+(g) within a reasonable period of time after the submission of an application 
+considered complete under its laws and regulations, ensure that the 
+processing of the application is completed and the applicant is informed 
+of the decision concerning the application, to the extent possible in 
+writing;12  
+(h) if they consider an application incomplete for processing under the 
+Party’s laws and regulations, within a reasonable period of time, to the 
+extent practicable: 
+(i) inform the applicant that the application is incomplete; 
+(ii) upon request of the applicant, identify the additional 
+information required to complete the application, or otherwise 
+provide guidance on why the application is considered 
+incomplete; and  
+(iii) provide the applicant with the opportunity 13 to correct 
+deficiencies in the application; and 
+(i) if an application is rejected: 
+(i) inform the applicant of the decision within a reasonable period 
+of time; and 
+(ii) to the extent practicable, either upon their own initiative or upon 
+request of the applicant, provide the applicant with the reasons 
+for rejection and with specific guidance to address the issues 
+identified in order to obtain an authorisation  The applicant will 
+ 
+11 References to “in writing" in subparagraphs (e) and (g) include in electronic format. 
+12 Competent authorities may meet this requirement by informing an applicant in advance, in writing, 
+including through a published measure, that the lack of a response after a specified period of time from 
+the date of submission of an application indicates either acceptance or rejection of the application. 
+13 The opportunity does not require a competent authority to provide extensions of deadlines. 
+8 - 12 
+have the possibility of resubmitting, at its discretion, a new 
+application. 
+11. Each Party shall  ensure, in accordance with its laws and regulations, that 
+authorisation for the supply of a service, once granted, enters into effect without 
+undue delay.14 
+12. Each Party shall ensure that the authorisation fees 15 charged by its competent 
+authorities are reasonable, transparent and do not in themselves restrict the 
+supply of a service. Each Party shall endeavour to accept the payment of those 
+authorisation fees by electronic means. 
+13. Each Party shall provide adequate procedures to verify the competence of 
+professionals of the other Party. 
+14. If a Party requires an examination for authorisation for the supply of a service, 
+it shall, to the extent practicable: 
+(a) provide a reasonable period of time prior to the examination to enable 
+interested persons to submit an application; 
+(b) ensure that the examination is scheduled at reasonably frequent 
+intervals; 
+(c) accept a request in electronic format to take the examination; and  
+(d) consider the use of electronic means for conducting the examination and 
+other aspects of the examination process. 
+15. Each Party may encourage its competent authorities to establish fast -track 
+procedures for service suppliers seeking to renew or extend their current 
+authorisations. 
+16. If a Party adopts or maintains measures  relating to authorisation for the supply 
+of a service, it shall ensure that its competent authorities reach and administer  
+their decisions in a manner independent from any supplier of a service for which 
+authorisation is required.16 
+ 
+Article 8.9 
+Recognition 
+1. For the purposes of the fulfilment, in whole or in part, of its standards or criteria 
+for the authorisation, licensing, or certification of service suppliers, and subject 
+to the requirements of paragraph 4, a Party may recognise the education or 
+experience obtained, requirements met, or licences or certifications granted in a 
+ 
+14 Competent authorities are not responsible for delays due to reasons outside their competence. 
+15 For the purposes of this paragraph, authorisation fees do not include fees for the use of natural 
+resources, payment for auction, tendering, or other non -discriminatory means of awarding concessions 
+or mandated contributions to universal services provision. 
+16 For greater certainty, this paragraph does not mandate a particular administrative structure. It refers to 
+the decision-making process and administering of decisions. 
+8 - 13 
+non-Party. That recognition, which may be achieved through harmonisation or 
+otherwise, may be based upon an agreement or arrangement with the non-Party 
+concerned, or may be accorded autonomously. 
+2. If a Party  recognises, autonomously or by agreement or arrangement, the 
+education or experience obtained, requirements met, or licences or certifications 
+granted, in the territory of a non-Party, nothing in Article 8.7 (Most-Favoured-
+Nation Treatment) shall be construed to require the Party to accord recognition 
+to the education or experience obtained, requirements met, or  licences or 
+certifications granted, in the territory of the other Party. 
+3. A Party that is party to an agreement or arrangement of the type referred to in 
+paragraph 1, whether existing or future, shall afford adequate opportunity for 
+the other Party, upon request, to negotiate its accession to that agreement or 
+arrangement, or to negotiate comparable ones with it. Where a Party accords 
+recognition autonomously, that Party shall afford adequate opportunity for the 
+other Party to demonstrate that education, experience, licences, or certifications 
+obtained or requirements met in t hat other Party’s territory should be 
+recognised. 
+4. A Party shall not accord recognition in a manner which would constitute a 
+means of discrimination between the other Party and non -Parties in the 
+application of its standards or criteria for the authorisation, licensing, or 
+certification of service suppliers, or a disguised restriction on trade in services. 
+5. As set out in Annex 8A (Professional Services), each Party shall endeavour to 
+facilitate trade in professional services, including through encouraging relevant 
+bodies in its territory that have expressed mutual interest for negotiating mutual 
+recognition agreements or similar arrangements for recognition of professional 
+qualifications to enter into those negotiations in accordance with that Annex. 
+Article 8.10 
+Denial of Benefits 
+1. A Party may deny the benefits of this Chapter: 
+(a) to the supply of any service, if it establishes that the service is supplied 
+from or in the territory of a non-Party; 
+(b) to a service supplier that is a juridical person, if it establishes that it is 
+not a service supplier of the other Party; or 
+(c) in the case of the supply of a maritime transport service, if it establishes 
+that the service is supplied: 
+(i)  by a vessel registered under the laws and regulations of a non -
+Party; and 
+(ii)  by a person of a non -Party which operates or uses the vessel in 
+whole or in part. 
+2. A Party may deny the benefits of this Chapter to a service supplier of the other 
+Party, if the service supplier is a juridical person owned or controlled by person 
+8 - 14 
+of a non-Party, and the denying Party adopts or maintains measures with respect 
+to the non-Party or a person of the non-Party that prohibit transactions with the 
+juridical person or that would be violated or circumvented if the benefits of this 
+Chapter were accorded to the juridical person. 
+ 
+Article 8.11 
+Transparency 
+1. The Parties recognise that transparent measures governing trade in services are 
+important in facilitating the ability of service suppliers to gain access to, and 
+operate in, each other’s markets. Each Party shall promote regulatory 
+transparency in trade in services. 
+2. Notwithstanding Article 25.7 (Non -Application of Dispute Settlement – 
+Transparency), a s far as measures of general application affecting trade in 
+services are concerned, the provisions of Article 25.2 (Publication  – 
+Transparency) shall be applicable for central, regional, and local governments 
+and authorities of a Party  and shall be subject to Chapter 29 (Dispute 
+Settlement). 
+3. Each Party shall publish promptly and, except in emergency situations, no later 
+than the time of their entry into force, all international agreements pertaining to 
+or affecting trade in services to which a Party is a signatory. 
+4. Each Party shall respond promptly to any request by the other Party for specific 
+information on any of its measures of general application, including any new, 
+or any changes to existing, laws, regulations or administrative guidelines, or its 
+international agreements, that the requesting Party considers may pertain to or 
+affect trade in services. 
+ 
+Article 8.12 
+Disclosure of Confidential Information 
+Nothing in this Chapter shall be construed as requiring a Party to provide to the other 
+Party confidential information the disclosure of which would impede law enforcement 
+or otherwise be contrary to the public interest or which would prejudice the legitim ate 
+commercial interests of particular juridical persons, public or private. 
+ 
+Article 8.13 
+Monopolies and Exclusive Service Suppliers 
+1. Each Party shall ensure that any monopoly supplier of a service in its territory 
+does not, in the supply of the monopoly service in the relevant market, act in a 
+manner inconsistent with that Party’s obligations under specific commitments.  
+2. Where a Party’s monopoly supplier of a service competes, either directly or 
+through an affiliated company, in the supply of a service outside the scope of its 
+8 - 15 
+monopoly rights and which is subject to that Party’s commitments, that Party 
+shall ensure that such a supplier does not abuse its monopoly position to act in 
+its territory in a manner inconsistent with such commitments. 
+3. If a Party has a reason to believe that a monopoly supplier of a service of the 
+other Party is acting in a manner inconsistent with paragraph 1 or 2, it  may 
+request the other Party establishing, maintaining, or authorising that supplier to 
+provide specific information concerning the relevant operations. 
+4. This Article shall also apply to cases of exclusive service suppliers, where a 
+Party, formally or in effect: 
+(a) authorises or establishes a small number of service suppliers; and 
+(b) substantially prevents competition among those suppliers in its territory. 
+ 
+Article 8.14 
+Business Practices 
+1. The Parties recognise that certain business practices of service suppliers, other 
+than those falling under Article 8.13 (Monopolies and Exclusive Service 
+Suppliers), may restrain competition and thereby restrict trade in services. 
+2. Each Party shall, on request of the other Party, enter into consultations with a 
+view to eliminating practices referred to in paragraph 1. The requested Party 
+shall accord full and sympathetic consideration to such request and shall 
+cooperate through the supply of publicly available non-confidential information 
+of relevance to the matter in question. The requested Party may also provide 
+other information available to the requesting Party, subject to its laws and 
+regulations and to the conclusion of a sat isfactory agreement concerning the 
+safeguarding of its confidentiality by the requesting Party. 
+ 
+Article 8.15 
+Payments and Transfers 
+1. Except under the circumstances envisaged in Article 28.3 (Measures to  
+Safeguard the Balance of Payments  – General Provisions and Exceptions ), a 
+Party shall not apply restrictions on international transfers or payments for 
+current transactions relating to its specific commitments. 
+2. Each Party shall permit international transfers or payments for current 
+transactions relating to its specific commitments  to be made in a freely 
+convertible currency at the market rate of exchange prevailing at the time of 
+transfer. 
+3. Nothing in this Chapter shall affect the rights and obligations of a Party as a 
+member of the International Monetary Fund (“IMF”) under the IMF Articles of 
+Agreement, as may be amended, including the use of exchange actions which 
+are in conformity with the IMF Articles of Agreement, as may be amended, 
+8 - 16 
+provided that the Party shall not impose restrictions on any capital transaction 
+inconsistently with its specific commitments under this Chapter regarding such 
+transactions, except under Article 28.3 (Measures to Safeguard the Balance of 
+Payments – General Provisions and Exceptions) or on request of the IMF. 
+ 
+Article 8.16 
+Safeguard Measures 
+1. The Parties note that Article X of GATS provides for multilateral negotiations 
+on the question of emergency safeguard measures based on the principle of non-
+discrimination. The Parties shall review the issue  of emergency safeguard 
+measures related to trade in services in light of any  provisions agreed under 
+Article X of GATS with a view to their incorporation into this Chapter. 
+2. In the event that a Party encounters difficulties in the implementation of its 
+commitments under this Chapter, that Party may request consultations with the 
+other Party to address those difficulties. 
+ 
+Article 8.17 
+Subsidies 
+1. Notwithstanding subparagraph 3(c) of Article 8.2 (Scope), the Parties shall 
+review the issue of disciplines on subsidies related to trade in services in light 
+of any disciplines agreed under Article XV of GATS with a view to their 
+incorporation into this Chapter. 
+2. A Party which considers that it is adversely affected by a subsidy of the other 
+Party related to trade in services may request consultations with the other Party 
+on such matters. On receipt of such a request, the requested Party shall enter 
+into consultations with the requesting Party, with a view to resolving the matter, 
+provided that the request includes an explanation of how the subsidy has 
+adversely affected trade in services between the Parties.  During the 
+consultations, the Party granting the subsidy may consider a request of the other 
+Party for information relating to the subsidy. 
+3. Neither Party shall have recourse to dispute settlement under  Chapter 29 
+(Dispute Settlement) for any request made or consultations held under this 
+Article or any other dispute arising under this Article. 
+ 
+Article 8.18 
+Cooperation 
+The Parties shall strengthen cooperation efforts in sectors, including sectors which are 
+not covered by current cooperation arrangements. The Parties shall discuss and agree 
+on the sectors for cooperation and develop cooperation programmes in these sectors in 
+order to  improve their domestic services capacity and their efficiency and 
+competitiveness. 
+8 - 17 
+ 
+Article 8.19 
+Subcommittee on Trade in Services 
+1. The Parties hereby establish a Subcommittee on Trade in Services  
+(“Subcommittee”) composed of relevant government representatives of each 
+Party.17 
+2. The Subcommittee shall: 
+(a) review and monitor the implementation and operation of this Chapter , 
+Chapter 9 (Financial Services) , Chapter 10 (Temporary Movement of 
+Natural Persons),  Chapter 11 (Telecommunications), and Chapter 12 
+(Digital Trade) (“the relevant Chapters”); 
+(b) consider ways to further enhance trade  between the Parties in the areas 
+covered by the relevant Chapters; 
+(c) consider any other matters related to this Chapter identified by either 
+Party; and 
+(d) facilitate the exchange of information between the Parties in relation to 
+the relevant Chapters. 
+3. The Subcommittee may: 
+(a) make recommendations, or refer matters, to the Joint Committee; and 
+(b) refer matters to any ad hoc or standing working group or any other 
+subsidiary body related to the relevant Chapters. 
+4. The Subcommittee shall meet one year after the date of entry into force of this 
+Agreement, and thereafter as agreed by both Parties. 
+5. The Subcommittee shall report to the Joint Committee as required. 
+ 
+17 Representatives of the authorities responsible for financial services a re specified in paragraph 2 of  
+Article 9.17 (Institutional Arrangements – Financial Services). 

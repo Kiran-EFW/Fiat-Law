@@ -1,0 +1,622 @@
+# SOURCE: library/01-ceta-legal-text/uk-india-ceta-chapter-6-sanitary-and-phytosanitary-measures.pdf
+# pages: 15
+
+ 
+6 - 1 
+CHAPTER 6 
+SANITARY AND PHYTOSANITARY MEASURES 
+ 
+Article 6.1 
+Definition 
+1. For the purposes of this Chapter: 
+“competent authorities” means those authorities within each Party recognised 
+by the national government as responsible for developing, implementing and 
+administering the sanitary and phytosanitary measures within that Party; 
+“emergency measure” means a sanitary or phytosanitary measure that is 
+applied by the importing Party to the exporting Party to address an urgent 
+problem of human, animal or plant life or health protection that arises or 
+threatens to arise in the Party applying the measure; 
+“relevant international organisations” means organisations referred to in 
+paragraph 3 of Annex A to the SPS Agreement; and 
+“SPS Subcommittee” means the Subcommittee on Sanitary and Phytosanitary 
+Measures established under paragraph 1 of Article 6.16 (SPS Subcommittee). 
+2. For the purposes of this Chapter, the following definitions shall apply:  
+(a) the definitions in Annex A to the SPS Agreement;  
+(b) the definitions adopted under the auspices of the Codex Alimentarius 
+Commission (the “Codex”);  
+(c) the definitions adopted under the auspices of the World Organisation for 
+Animal Health (the “WOAH”); and 
+(d) the definitions adopted under the auspices of the International Plant 
+Protection Convention (the “IPPC”).  
+3. Further to paragraph 2, in the event of an inconsistency between the definitions 
+set out in the SPS Agreement and the definitions adopted under the auspices of 
+the Codex, the WOAH and the IPPC, the definitions set out in the SPS 
+Agreement shall prevail.  
+ 
+Article 6.2 
+Objectives 
+1.  The objectives of this Chapter are to:  
+(a) protect human, animal and plant life and health in the territory of the 
+Parties while facilitating trade between them;  
+
+ 
+6 - 2 
+(b) ensure that the Parties’ sanitary and phytosanitary  measures do not 
+create unjustified barriers to trade;  
+(c) reinforce and support the implementation of the SPS Agreement, and 
+promote the implementation of the relevant international standards, 
+guidelines, and recommendations;  
+(d) ensure greater transparency and understanding on the application of 
+each Party’s sanitary and phytosanitary measures;  
+(e) strengthen communication and cooperation on relevant sanitary and 
+phytosanitary issues;  
+(f) promote resolution of sanitary and phytosanitary issues that may affect 
+trade between the Parties;  
+(g) enhance cooperation in the relevant international organisations to 
+develop international standards, guidelines , and recommendations on 
+animal health, food safety and plant health; and  
+(h) enhance cooperation between the Parties in areas of mutual interest in 
+the field of animal welfare and antimicrobial resistance. 
+ 
+Article 6.3 
+Scope 
+1. This Chapter shall apply to all sanitary and phytosanitary measures of a Party 
+that may, directly or indirectly, affect trade between the Parties.  
+2. This Chapter also includes separate provisions regarding animal welfare and 
+antimicrobial resistance. 
+ 
+Article 6.4 
+Rights and Obligations 
+1. The Parties affirm their rights and obligations under the SPS Agreement.  
+2. Nothing in this Agreement shall affect the rights and obligations of each Party 
+under the SPS Agreement.  
+ 
+Article 6.5 
+Adaptation to Regional Conditions, including Pest- or Disease-Free Areas and 
+Areas of Low Pest or Disease Prevalence 
+1. The Parties acknowledge that adaptation of sanitary and phytosanitary measures 
+to recognise regional conditions, including through the application of concepts 
+such as pest -free or disease -free areas, areas of low pest or low disease 
+prevalence, zoning, compartmentalisation, pest -free places of production, and 
+
+ 
+6 - 3 
+pest-free production sites, is an important means of facilitating trade. Each Party 
+shall ensure that its sanitary and phytosanitary measures are adapted to regional 
+conditions in accordance with the SPS Agreement. 
+2. Each Party shall take into account  relevant international standards, guidelines 
+and recommendations, and relevant guidance of the WTO SPS Committee, 
+when making determinations related to regional conditions.   
+3. The Parties shall cooperate on the recognition of regional conditions with the 
+objective of acquiring confidence in the procedures followed by each Party for 
+the recognition of regional conditions. In doing so, the Parties shall promote 
+information sharing in this area and on related matters. 
+4. On request of the exporting Party, the importing Party shall, without undue 
+delay, explain its process and plan for making the determination of regional 
+conditions. 
+5. When making an assessment of  the regional conditions established by the 
+exporting Party, the importing Party shall base its own determination of the 
+animal and plant health status of the exporting Party or parts thereof, on the 
+information provided by the exporting Party in accordanc e with the SPS 
+Agreement and relevant international standards, guidelines , and 
+recommendations. 
+6. With regard to animals and animal products, when establishing or maintaining 
+sanitary measures upon request of the exporting Party, the importing Party shall 
+take into consideration the disease-free areas, areas of low disease prevalence, 
+zones and compart ments established by the exporting Party in making a 
+determination to allow or maintain the import. The importing Party shall also 
+consider any relevant official disease status recognised by the WOAH when 
+making its determination. If requested by the im porting Party, the exporting 
+Party shall provide a n explanation and supporting data for the basis of these 
+regional conditions, based on the WOAH standards, or in other ways as deemed 
+appropriate by the Parties, based on the knowledge acquired through experience 
+of the exporting Party’s relevant authorities. 
+7. With regard to plants, plant products and other related objects, when 
+establishing or maintaining phytosanitary import conditions upon request of the 
+exporting Party, the importing Party shall take into consideration regional 
+conditions in the exporting Pa rty, including pest-free areas, pest-free places of 
+production, pest -free production sites, and areas of low pest prevalence 
+established by the exporting Party in making a determination to allow or 
+maintain the import , and where this information is prov ided to the importing 
+Party. If requested by the importing Party, the exporting Party shall provide an 
+explanation and supporting data for the basis of these regional conditions, based 
+on the relevant IPPC standards or in other ways as agreed by the Parties, based 
+on the knowledge acquired through experience of the exporting Party’s relevant 
+authorities. 
+8. If the importing Party determines that the information provided by the exporting 
+Party in its request is sufficient, it shall initiate an assessment and make a 
+decision as to whether it can accept the exporting Party’s determination of 
+regional conditions, within a reasonable period of time. 
+ 
+6 - 4 
+9. On request of the exporting Party, the importing Party shall inform the exporting 
+Party of the status of the assessment. 
+10. If the importing Party has accepted the exporting Party’s determination of 
+regional conditions, the exporting Party shall notify the importing Party of any 
+modification to those regional conditions. Following any such notification, the 
+importing Party shall continue to accept the exporting Party’s determination of 
+regional conditions and allow trade to continue, provided that the importing 
+Party is satisfied that its appropriate level of protection will be maintained.  
+11. If the importing Party adopts a measure that recognises specific regional 
+conditions of the exporting Party, the importing Party shall implement the 
+measure as soon as possible, and inform the exporting Party of the outcome and 
+when trade can commence without undue delay. 
+12. If the importing Party decides not to recognise the regional conditions of the 
+exporting Party, it shall provide the exporting Party with the rationale for its 
+determination and, to the extent practicable, indicate the required conditions for 
+which the process referred to in paragraphs 4 through 10  may be reinitiated. 
+Upon request, the importing Party shall hold consultations with the exporting 
+Party, within a reasonable period of time. 
+13. If there are circumstances that result in the importing Party modifying or 
+revoking a decision recognising the regional conditions of the exporting Party, 
+the Parties shall cooperate to assess whether the determination can be reinstated. 
+ 
+Article 6.6 
+Equivalence 
+1. The Parties acknowledge that recognition of equivalence of sanitary and 
+phytosanitary measures is an important means of facilitating trade. In 
+determining equivalence of an individual measure, group of measures, or 
+measures on a systems -wide basis, each Party shall consider the relevant 
+guidance of the WTO SPS Committee and relevant intern ational standards, 
+guidelines, and recommendations.  
+2. The importing Party shall recognise the equivalence of sanitary or phytosanitary 
+measures, even if the measures differ from its own, if the exporting Party 
+objectively demonstrates to the importing Party that the exporting Party’s 
+measures achieve the importing Party’s appropriate level of protection.  
+3. In determining equivalence, the importing Party shall take into account 
+available relevant knowledge, information , and experience as well as the 
+regulatory competence of the exporting Party. 
+4. A Party shall, upon request from the other Party, enter into bilateral 
+consultations with the aim of achieving recognition of  equivalence of an 
+individual measure, group of measures, or measures on a systems -wide basis.  
+For this purpose, reasonable access shall be given, upon request, to the 
+importing Party for inspection, testing and other relevant procedures. 
+ 
+6 - 5 
+5. As a part of such consultations on request by the exporting Party, the importing 
+Party shall explain and provide within a reasonable period of time: 
+(a) the rationale and objective of its measures; and  
+(b) the specific risks its measures are intended to address. 
+6. The exporting Party shall provide necessary information in order for the 
+importing Party to commence an equivalence assessment. Once the importing 
+Party determines that the information provided by the exporting  Party is 
+sufficient, it shall commence the assessment within a reasonable period of time. 
+The importing Party shall , upon request , explain the process and plan for 
+making an equivalence determination, without undue delay. 
+7. The consideration by a Party of a request from the other Party for recognition 
+of equivalence of its measures for a specific product, or group of products, shall 
+not be in and of itself a reason to disrupt or suspend ongoing imports from the 
+Party of the product or products in question, provided that the importing Party’s 
+appropriate level of protection continues to be met. 
+8. When the importing Party has concluded its assessment, it shall notify the 
+equivalence determination to the exporting Party, within a reasonable period of 
+time and in writing. If an equivalence determination result s in recognition by 
+the importing Party, the importing Party shall implement a measure recognising 
+equivalence within a reasonable period of time. If an equivalence determination 
+does not result in recognition by the importing Party, the importing Party shall 
+provide the exporting Party with the rationale for its decision. 
+9. If a Party proposes to modify, amend, repeal , or remove a sanitary or 
+phytosanitary measure which is the subject of an equivalence arrangement 
+between the Parties, it shall notify the other Party and ind icate its likely effect 
+on recognition of equivalence. Following such notification, the importing Party 
+shall continue to apply its determination of equivalence unless its appropriate 
+level of protection is not met. The Parties may use the SPS  Subcommittee as a 
+forum for further engagement on processes for possible withdrawal and 
+reinstatement of recognition of equivalence measures. 
+10. Compliance of a product with sanitary or phytosanitary measures that have been 
+accepted as equivalent to sanitary or phytosanitary measures of the other Party, 
+shall not remove the need for that product to comply with any other relevant 
+mandatory requirements.  
+11. The final determination of equivalence, and any subsequent withdrawal or 
+suspension of equivalence, rests with the importing Party, acting in accordance 
+with its administrative and legislative framework, taking into account 
+international standards, guidelines, and recommendations. 
+ 
+ 
+6 - 6 
+Article 6.7 
+Import Conditions 
+1. Without prejudice to the rights and obligations of each  Party under the SPS 
+Agreement and this Chapter, the import conditions of the importing Party shall 
+apply to the entire territory of the exporting Party in a consistent manner.  
+2. With regard to import conditions for animals, animal products, plants, plant 
+products, and other related objects, each Party, in accordance with Article 3 of 
+the SPS Agreement , shall set out  its import conditions for animals, animal 
+products, plants, plant products and other related objects , based upon the 
+principles set out in the relevant standards, guidelines , and recommendations 
+developed under the relevant international organisations. The Parties shall also 
+take into account  the decisions and recommendations of the WTO SPS 
+Committee, when setting out those import conditions. 
+3. The importing Party shall make publicly available its general sanitary and 
+phytosanitary import conditions related to goods. 
+4. The importing Party shall endeavour, within 30 days of receipt of a reasonable 
+request from the exporting Party, to make available to the exporting Party all 
+sanitary or phytosanitary import conditions relating to the import of specific 
+goods.  
+5. Paragraph 4 shall not apply if the information requested by the exporting Party 
+is publicly available. 
+6. For the purposes of establishing the specific sanitary or phytosanitary import 
+conditions, the exporting Party shall, on request of the importing Party:  
+(a) provide all relevant available information required by the importing 
+Party; and 
+(b) give reasonable access to the importing Party to conduct audits of the 
+relevant procedures undertaken by the exporting Party, in accordance 
+with Article 6.8 (Audit).  
+7. Each Party shall ensure that all sanitary and phytosanitary control, inspection, 
+assessment and approval procedures, including if needed audits, are undertaken 
+and completed without undue delay to authorise a good for import. Each Party 
+shall avoid unnecessary or unduly burdensome information requests and take 
+into account information already available to the importing Party, such as 
+information related to the legislative framework and audit reports of the 
+exporting Party. 
+8. Subject to its laws and regulations, if a risk assessment is required in the process 
+of determining import conditions, a Party shall, upon request, provide the other 
+Party with the outcomes of that risk assessment , within a reasonable period of 
+time of the risk assessment being finalised.  
+9. Without prejudice to Article 6.8 (Audit), Article 6.10 (Import Checks), and 
+Article 6.11 (Emergency Measures), and in accordance with its laws and 
+regulations or as otherwise agreed between the Parties, upon request of the 
+ 
+6 - 7 
+exporting Party, the importing Party shall approve an establishment or facility 
+situated in the territory of the exporting Party without prior inspection  if the 
+importing Party has: 
+(a) received all relevant information , including, if necessary , appropriate 
+assurances from the competent authorities of the exporting Party; and  
+(b) determined that the establishment or facility meets its relevant sanitary 
+and phytosanitary requirements.  
+The competent authority of the importing Party may suspend or withdraw the 
+approval of the establishment or facility if it no longer meets its relevant sanitary 
+and phytosanitary requirements.  
+10. On approval of an establishment or facility of the exporting Party under 
+paragraph 9, the importing Party shall take necessary measures to allow imports 
+from such establishments or facilities without undue delay.  
+11. If an approval is suspended or withdrawn by the competent authorities of the 
+importing Party , both the Parties shall consult with an aim to once again 
+reinstate the approval of the relevant establishment or facility of the exporting 
+Party. 
+12. Without prejudice to Article 6.11 (Emergency Measures), the importing Party 
+shall not refuse or prevent the importation of a good of the exporting Party 
+solely for the reason that it is undertaking a review of its sanitary or 
+phytosanitary measure, if the importing Party permitted the importation of that 
+good of the exporting Party when the review was initiated. 
+ 
+Article 6.8 
+Audit 
+1. For the purpose s of attaining and maintaining confidence in the exporting 
+Party’s regulatory control programme, and to comply with the sanitary and 
+phytosanitary import conditions and related control measures of the importing 
+Party, the importing Party shall have the right to carry out an audit of all or part 
+of the regulatory control programme of the exporting Party’s competent 
+authority.1  
+2. Each Party shall assist the other to carry out audit procedures.  
+3. Prior to the commencement of an audit, the competent authorities of the Parties 
+shall discuss the rationale for the audit and shall endeavour to agree on the 
+objectives and scope of the audit, the criteria or requirements against which the 
+exporting Party will be assessed, and any other relevant matters.  
+4. The Parties shall carry out those audits in accordance with the provisions of the 
+SPS Agreement, taking into account the relevant guidance of the WTO SPS 
+ 
+1 For greater certainty, for the purposes of this Chapter, an audit may include desk assessment and virtual, 
+remote, or physical audits. 
+ 
+6 - 8 
+Committee and the relevant international standards, guidelines, and 
+recommendations. 
+5. Each Party shall endeavour to limit the frequency and number of audit visits. 
+Only in justified circumstances shall the importing Party carry out a subsequent 
+audit related to the same product, and in those circumstances, the importing 
+Party shall provide the exporting Party with an explanation as to the reason for 
+the audit.  
+6. The importing Party may appoint a governmental body, in accordance with the 
+relevant international standards, guidelines, and recommendations, to carry out 
+all or part of an audit on its behalf.  
+7. The importing Party shall provide the exporting Party with the opportunity to 
+comment in writing on the findings of an audit. The importing Party shall take 
+these comments into account before reaching its conclusions and taking any 
+action thereon. The impo rting Party shall, within a reasonable period of time, 
+provide the exporting Party with a written report setting out its conclusions.  
+8. Measures taken by the importing Party as a consequence of its audit shall be 
+proportionate to the risk identified and supported by objective evidence, taking 
+into account the importing Party’s knowledge of, relevant experience with, and 
+confidence in the exporting Party, and shall not be more trade restrictive than 
+necessary to achieve the importing Party’s appropriate level of protection. 
+Nothing in this paragraph prevents a Party from taking an emergency measure 
+consistent with Article 6.11 (Emergency Measures).  
+9. The costs for an audit shall be borne by the importing Party unless the Parties 
+agree otherwise.   
+10. The Parties shall:  
+(a) each ensure, in accordance with its respective laws and regulations, that 
+procedures are in place to prevent the disclosure of confidential 
+information that is acquired during the audit process; and 
+(b) jointly determine how and to whom a report is made available.  
+ 
+Article 6.9 
+Certification 
+1. Where the importing Party requires official certificates, they shall be set in line 
+with the principles as laid down in the relevant international standards, 
+guidelines, and recommendations.  
+2. The Parties may agree to specify or implement further guidance, procedures , 
+and requirements in relation to export certification. 
+3. The Parties shall encourage the implementation of electronic certification and 
+other technologies to facilitate trade, as appropriate.  
+ 
+6 - 9 
+4. If a Party requires import certification, it shall ensure the sanitary or 
+phytosanitary requirement for certification is applied only to the extent 
+necessary to meet its appropriate level of protection.  
+5. Without prejudice to each Party’s right to check and ensure the fulfilment of its 
+import conditions, the importing Party shall accept certificates issued by the 
+exporting Party in compliance with the regulatory requirements of the importing 
+Party. 
+ 
+Article 6.10 
+Import Checks 
+1. The importing Party shall have the right to carry out import checks based on the 
+sanitary and phytosanitary risks associated with imports. These checks shall be 
+carried out without undue delay and with minimising trade disrupting effects.  
+Each Party shall ensure that its control, inspection and approval procedures are 
+in accordance with Annex C to the SPS Agreement. 
+2. If import checks reveal non-compliance with the relevant import conditions, the 
+action taken by the importing Party shall be based on an assessment of the risk 
+involved, and not be more trade-restrictive than required to achieve the Party’s 
+appropriate level of protection . The import checks shall be based on the 
+following: 
+(a) in carrying out physical sanitary and phytosanitary import checks, where 
+sampling takes place,  the importing Party shall ensure that plants and 
+plant products, animal products and other goods and their packaging are 
+sampled in a representative manner; and 
+(b) unless there is an identified risk, the importing Party shall, in accordance 
+with its domestic administrative and legislative framework, provide the 
+opportunity for the exporter or its authorised representative to take back 
+the consignment, where reasonably practicable. 
+3. The importing Party shall notify the importer or its representative, of a non -
+compliant consignment and of the reason for non -compliance and  shall 
+endeavour, subject to its domestic laws and regulations,  to provide them with 
+an opportunity for a review of the decision. If a review is undertaken, the 
+importing Party shall consider any relevant information submitted to assist it in 
+the review, and it shall carry out the review within a reasonable period of time.  
+4. The Parties reaffirm Article V of GATT 1994 and agree that there shall be 
+freedom of transit for goods in transit.  
+ 
+ 
+6 - 10 
+Article 6.11 
+Emergency Measures 
+1. If a Party adopts an emergency measure necessary for the protection of human, 
+animal or plant life or health, that Party shall notify the other Party of the 
+measure through its contact point as soon as possible.  
+2. On request of the other Party, a Party adopting an emergency measure shall 
+engage in technical consultations under Article 6.14 (Technical Consultations). 
+The Parties shall endeavour to hold technical consultations within 1 4 days of 
+the receipt of the request, and in any case, the Parties shall hold the consultations 
+as soon as possible following receipt of the request. The Party that adopts the 
+emergency measure shall take into consideration any information provided by 
+the other Party in response to the notification and during technical consultations. 
+These technical consultations shall be carried out in order to avoid unnecessary 
+disruptions to trade and the Parties may consider options for the facilitation of 
+the implementation of the measures. 
+3. If a consignment is being transported between the Parties at the time of the 
+adoption of the emergency measure, the importing Party shall, when it makes 
+its decision for that consignment, consider any information that has been 
+promptly provided by the exporting Party. The importing Party shall consider 
+the most suitable and proportionate solution to avoid unnecessary disruptions to 
+trade.  
+4. The importing Party shall ensure that any emergency measure taken on the 
+grounds referred to in paragraph 1 is in accordance with the SPS Agreement. 
+5. If a Party adopts an emergency measure, it shall commence a science-based 
+review of the measure within a reasonable period of time. The Party shall then 
+review the need for the emergency measure as required, and if it remains in 
+place provide, on request, the justification for maintaining the emergency 
+measure. If the exporting Party considers, on the basis of scientific evidence, 
+that an emergency measure is being maintained by the importing Party without 
+justification, it may provide that evidence to t he other Party and request the 
+other Party to review the measure or engage in technical consultations under 
+Article 6.14 (Technical Consultations). 
+ 
+Article 6.12 
+Animal Welfare 
+1. The Parties recognise the connection between the improved health of farmed 
+animals and the welfare of farmed animals.  
+2. The Parties recognise that the protection and improvement of animal welfare 
+may, in accordance with their WTO commitments, be an interest in the context 
+of a Party’s trade objectives.  
+3. The Parties affirm the right of each Party to set its policies and priorities for the 
+protection of animal welfare. Each Party shall take into account its relevant 
+ 
+6 - 11 
+international commitments on animal welfare, when the Party adopts or 
+modifies its law and policies.  
+4. The Parties shall exchange information, expertise, and experiences in the field 
+of animal welfare with a view to improving mutual understanding of their 
+respective laws and regulations.  
+5. The Parties shall cooperate in the field of animal welfare and on the WOAH 
+animal welfare standards.  
+ 
+Article 6.13 
+Antimicrobial Resistance 
+1. The Parties recognise that antimicrobial resistance is a problem and a global 
+threat to human and animal health.  
+2. The Parties acknowledge that the nature of the threat requires a One Health 
+approach, in line with the Global Action Plan  on Antimicrobial Resistance , 
+which the Parties support.  
+3. Each Party acknowledges that the threat of antimicrobial resistance requires 
+developing and implementing a National Action Plan in line with the Global 
+Action Plan on Antimicrobial Resistance. 
+4. The Parties shall endeavour to cooperate on areas of mutual interest in 
+antimicrobial resistance and exchange their experiences, relevant information, 
+expertise and data with each other.  
+5. The Parties affirm the right of each Party to set its policies, needs, and priorities 
+on antimicrobial resistance specific to their own sensitivities and to adopt or 
+modify its laws, regulations, and policies in this area, informed by the global 
+effect of antimicrobial resistance. 
+ 
+Article 6.14 
+Technical Consultations 
+1. If a Party has specific concerns regarding sanitary  or phytosanitary measures 
+proposed or implemented by the other Party, or any other measure within the 
+scope of this Chapter, it may request technical consultations through the 
+appropriate contact point or focal point, as identified in accordance with Article 
+6.18 (Competent Authorities and Contact Points). 
+2. Unless the Parties determine otherwise, the technical consultations shall be held 
+as soon as possible, and in any case, within 30 days of the request. Consultations 
+may be conducted by electronic or other means, as determined by the Parties.  
+3. The purpose of technical consultations is to share information and increase 
+understanding, with a view to resolving any concerns about the specific measure 
+that is the subject of the consultations, within a reasonable period of time.  
+ 
+6 - 12 
+4. If the Parties have already resorted to other mechanisms than those referred to 
+in this Article to address the concerns, they shall continue to make use of them 
+to avoid unnecessary duplication. A Party may request technical consultations 
+to address these  concerns, in accordance with paragraph 1, if such other 
+mechanisms do not result in a mutually satisfactory resolution, including if it is 
+not practicable to make use of those mechanisms within a reasonable period of 
+time. 
+ 
+Article 6.15 
+Notification and Information Exchange 
+1. Each Party shall promptly notify the other Party of a:  
+(a) significant change to disease status, such as the presence and evolution 
+of a disease listed in the WOAH list of terrestrial and aquatic animal 
+diseases;  
+(b) finding of epidemiological importance for an animal disease which is 
+not listed in the WOAH list of terrestrial and aquatic animal diseases, or 
+which is a new disease;  
+(c) occurrence, outbreak, or spread of plant pests in their territory in 
+accordance with the relevant IPPC standards; or 
+(d) significant food safety issue related to a product traded between the 
+Parties.  
+2. The Parties shall endeavour to exchange information on other relevant issues 
+including:  
+(a) changes to a Party’s sanitary and phytosanitary measures and approval 
+procedures that may affect trade between the Parties;  
+(b) on reasonable request, information on matters related to the 
+development and application of sanitary and phytosanitary measures, 
+that affect or may affect trade between the Parties, with a view to 
+minimising their negative effects; and  
+(c) information that may enhance mutual understanding of the Parties’ 
+sanitary and phytosanitary measures and their application.  
+3. Unless the SPS Subcommittee decides otherwise, when the information referred 
+to in paragraphs 1 or 2 has been made available via notification to the WTO, or 
+to the relevant international organisations in accordance with its relevant rules, 
+or on publicly available websites of the Parties, th e requirement in those 
+paragraphs is deemed to be fulfilled. 
+ 
+ 
+6 - 13 
+Article 6.16 
+SPS Subcommittee 
+1. The Parties hereby establish a Subcommittee on Sanitary and Phytosanitary 
+Measures, composed of government representatives of each Party responsible 
+for sanitary and phytosanitary matters.  
+2. The functions of the SPS Subcommittee shall include: 
+(a) monitoring implementation and considering any matter related to this 
+Chapter;  
+(b) providing an opportunity for the identification, prioritisation, 
+discussion, and resolution of sanitary and phytosanitary issues;  
+(c) facilitating the elimination of unnecessary sanitary and phytosanitary  
+barriers to trade between the Parties;  
+(d) recommending any agreed proposals to this Chapter to the Joint 
+Committee;  
+(e) agreeing a written record of the discussions between the Parties on their 
+work and decisions made by the SPS Subcommittee, within a reasonable 
+period of time;  
+(f) providing a forum to exchange information on each Party’s sanitary and 
+phytosanitary regulatory system; 
+(g) exchanging views, information and experiences related to  the 
+cooperation activities on protecting animal welfare and the threat of 
+antimicrobial resistance under Article 6.12 (Animal Welfare) and 
+Article 6.13 (Antimicrobial Resistance); and 
+(h)  any other function as agreed by the Parties. 
+3. The SPS Subcommittee may: 
+(a) identify opportunities for greater cooperation activities relevant to this 
+Chapter;  
+(b) provide opportunities to identify initiatives to strengthen bilateral 
+technical cooperation relevant to this Chapter;  
+(c) discuss, on reasonable request, a new sanitary or phytosanitary measure 
+being considered; 
+(d) facilitate improved understanding between the Parties on the 
+implementation of the SPS Agreement and promote cooperation 
+between the Parties on sanitary and phytosanitary issues in multilateral 
+fora, including the WTO SPS Committee, and relevant international 
+organisations, as appropriate; and 
+(e)  perform any other actions as agreed by the Parties. 
+ 
+6 - 14 
+4. The SPS Subcommittee may establish technical working groups comprising of 
+expert-level representatives of the competent authorities of the Parties to 
+address specific sanitary or phytosanitary issues, or any other issue arising from 
+this Chapter.  
+5. A Party may refer any sanitary or phytosanitary issue, or any other issue arising 
+under this Chapter, to the SPS Subcommittee and the SPS Subcommittee shall 
+consider the issue as expeditiously as possible. The SPS Subcommittee shall 
+report to the Joint Committee if it resolves the said  issue. If the SPS  
+Subcommittee is unable to resolve an issue it shall, on request of a Party, report 
+promptly to the Joint Committee. 
+6. The SPS Subcommittee shall meet within one year of the date of entry into force 
+of this Agreement, and thereafter on an annual basis, unless the Parties agree 
+otherwise. The SPS Subcommittee may decide to meet by electronic means, and 
+it may also address issues out of session by correspondence. Additional 
+meetings may be held upon request of a Party or the Joint Committee.  
+7. On entry into force of this Agreement, each Party shall designate and inform the 
+other Party, in writing, of a contact point  or focal point, as applicable,  to 
+coordinate the SPS Subcommittee meetings in accordance with Article 6.18 
+(Competent Authorities and Contact Points).  
+8. The SPS Subcommittee shall establish its rules of procedure within one year of 
+the date of entry into force of this Agreement, unless the Parties decide 
+otherwise. The SPS Subcommittee shall modify its own rules of procedure if 
+the SPS Subcommittee deems it appropriate.  
+9. The SPS  Subcommittee shall take decisions and make recommendations by 
+mutual agreement.  
+10. The SPS  Subcommittee shall report as needed on its activities to the Joint 
+Committee. 
+ 
+Article 6.17 
+Technical Working Groups 
+1. A technical working group, established by the SPS Subcommittee, shall meet 
+as agreed by the Parties and shall function on an ad hoc basis.  
+2. Technical working groups shall be co-chaired by expert-level representatives of 
+the competent authorities of the Parties, and shall identify, address and attempt 
+to resolve issues arising from this Chapter. If these issues are not able to be 
+resolved at the level of the established technical working group, they shall be 
+reported to the SPS Subcommittee in order to reach a mutually acceptable 
+resolution with the least disruption to trade.  
+3. A technical working group , when addressing an issue agreed  by the SPS 
+Subcommittee in accordance with paragraph 2, may:  
+ 
+6 - 15 
+(a) engage, at an early stage, in technical exchange and cooperation 
+regarding sanitary and phytosanitary  matters and other matters arising 
+from this Chapter;  
+(b) consider any sanitary or phytosanitary measure or set of measures 
+identified that is likely to affect bilateral trade, directly or indirectly, and 
+provide technical advice with a view to facilitating the resolution of 
+specific trade concerns relating to that measure or set of measures;  
+(c) serve as a forum to facilitate discussion and consideration of specific 
+risk assessments; and 
+(d) report to the SPS Subcommittee on progress of work.  
+4. The technical working group shall report its recommendation on a sanitary or 
+phytosanitary issue to the SPS  Subcommittee. The technical working group 
+shall also inform the SPS  Subcommittee of its recommendation that it be 
+continued, suspended or dissolved.  
+ 
+Article 6.18 
+Competent Authorities and Contact Points 
+1. Each Party shall notify to the other Party a list of its competent authorities on 
+entry into force of this Agreement. The notification shall include the respective 
+role, responsibilities, and contact information of these authorities. 
+2.  Upon entry into force of this Agreement, each Party shall also designate and 
+notify a single contact point that serves as the focal point to respond to enquiries 
+by the other Party about the appropriate contact point for any matter arising 
+from this Chapter, to facilitate any communication between the Parties relating 
+to this Chapter, and any other appropriate contact points for matters arising from 
+this Chapter. 
+3. Each Party shall promptly notify the other Party of any change of its competent 
+authorities, the contact information of its competent authorities, or its contact 
+point.  
+ 
+Article 6.19 
+Non-Application of Dispute Settlement 
+Neither Party shall have recourse to dispute settlement under Chapter 29 (Dispute 
+Settlement) for any matter arising under this Chapter. 

@@ -1,0 +1,1262 @@
+# SOURCE: library/01-ceta-legal-text/uk-india-ceta-chapter-15-government-procurement.pdf
+# pages: 32
+
+  
+15 - 1 
+CHAPTER 15 
+GOVERNMENT PROCUREMENT 
+ 
+Article 15.1 
+Definitions 
+For the purposes of this Chapter: 
+“commercial goods or services” means goods or services of a type generally sold or 
+offered for sale in the commercial marketplace to, and customarily purchased by, non-
+governmental buyers for non-governmental purposes; 
+“construction service ” means a service that has as its objective the reali sation by 
+whatever means of civil or building works, based on Division 51 of the United Nations 
+Provisional Central Product Classification (CPC Prov); 
+“electronic auction ” means an iterative process that involves the use of electronic 
+means for the presentation by suppliers of either new prices, or new values for 
+quantifiable non-price elements of the tender related to the evaluation criteria, or both, 
+resulting in a ranking or re‑ranking of tenders; 
+“in writing” or “written” means any worded or numbered expression that can be read, 
+reproduced and later communicated and may include electronically transmitted and 
+stored information; 
+“limited tendering ” means a procurement method whereby the procuring entity 
+contacts a supplier or suppliers of its choice; 
+“measure” means any law, regulation, procedure, administrative guidance or practice, 
+or any action of a procuring entity relating to a covered procurement; 
+“MII Order ” means the India Public Procurement (Preference to Make in India), 
+Order 2017, No. P-45021/2/2017-PP (BE-II), dated 16 September 2020;  
+“multi-use list” means a list of suppliers that a procuring entity has determined satisfy 
+the conditions for participation in that list, and that the procuring entity intends to use 
+more than once; 
+“notice of intended procurement ” means a notice published by a procuring entity 
+inviting interested suppliers to submit a request for participation, a tender, or both; 
+“offset” means any condition or undertaking that requires the use of domestic content, 
+a domestic supplier, the licensing of technology, technology transfer, investment, 
+counter-trade, or similar action to encourage local development or to improve a Party’s 
+balance-of-payments accounts; 
+“open tendering” means a procurement method whereby all interested suppliers may 
+submit a tender; 
+“procuring entity” means an entity listed in Annex 15A (Government Procurement 
+Schedules); 
+  
+15 - 2 
+“qualified supplier ” means a supplier that a procuring entity recogni ses as having 
+satisfied the conditions for participation; 
+“selective tendering” means a procurement method whereby only qualified suppliers 
+are invited by the procuring entity to submit a tender; 
+“services” includes construction services, unless otherwise provided in this Chapter; 
+“standard” means a document approved by a recogni sed body that provides for 
+common and repeated use, rules, guidelines or characteristics for goods or services, or 
+related processes and production methods, with which compliance is not mandatory. It 
+may also include or deal exclusively with terminology, sy mbols, packaging, marking 
+or labelling requirements as they apply to a good, service, process or production 
+method; 
+“supplier” means a person or group of persons that provides or could provide goods or 
+services; 
+“technical specification” means a tendering requirement that: 
+(a) lays down the characteristics of goods or services to be procured, 
+including quality, performance, safety and dimensions, or the processes 
+and methods for their production or provision; or 
+(b) addresses terminology, symbols, packaging, marking or labelling 
+requirements, as they apply to a good or service; and 
+“Working Group on Government Procurement ” means the Working Group on  
+Government Procurement as established under paragraph 1 of Article 15.21 (Working 
+Group on Government Procurement). 
+ 
+Article 15.2 
+Scope 
+Application of Chapter 
+1. This Chapter shall apply to any measure regarding covered procurement. 
+2. For the purposes of this Chapter, “covered procurement” means government 
+procurement: 
+(a) of goods, services, or any combination thereof  as specified in each 
+Party’s Schedule to Annex 15A (Government Procurement Schedules); 
+(b) by any contractual means, including: purchase; lease; and rental or hire 
+purchase, with or without an option to buy; 
+(c) for which the value,  as estimated in accordance with paragraphs 6 
+through 8, equals or exceeds the relevant threshold specified in a Party’s 
+Schedule to Annex 15A (Government Procurement Schedules) at the 
+  
+15 - 3 
+time of publication of a notice in accordance with Article 15.6 
+(Notices);1 
+(d) by a procuring entity; and 
+(e) that is not otherwise excluded from coverage under this Agreement. 
+Activities Not Covered 
+3. Unless otherwise provided in a Party ’s Schedule to Annex 15A (Government 
+Procurement Schedules), this Chapter shall not apply to: 
+(a) the acquisition or rental of land, existing buildings, or other immovable 
+property or the rights thereon; 
+(b) non-contractual agreements or any form of assistance that a Party 
+provides, including cooperative agreements, grants, loans, equity 
+infusions, guarantees, and fiscal incentives; 
+(c) the procurement or acquisition of fiscal agency or depository services, 
+liquidation and management services for regulated established financial 
+service suppliers  or services related to the sale, redemption , and 
+distribution of public debt, including loans and government bonds, 
+notes, and other securities; 
+(d) public employment contracts; or 
+(e) procurement conducted: 
+(i) for the specific purpose of providing international assistance 
+including development aid; 
+(ii) under the particular procedure or condition of an international 
+agreement relating to the stationing of troops or relating to the 
+joint implementation by the signatory countries of a project; or 
+(iii) under the particular procedure or condition of an international 
+organisation, or funded by international grants, loans , or other 
+assistance where the applicable procedure or condition would be 
+inconsistent with this Chapter. 
+Schedules 
+4. Each Party shall specify the following information in its Schedule to Annex 15A 
+(Government Procurement Schedules): 
+(a) in Section A , the central government entities whose procurement is 
+covered by this Chapter; 
+ 
+1 For the UK, the estimated value of the contract shall be inclusive of VAT. For India, the estimated 
+value of the contract shall be inclusive of all applicable taxes. 
+  
+15 - 4 
+(b) in Section B, the sub-central government entities whose procurement is 
+covered by this Chapter; 
+(c) in Section C , all other entities whose procurement is covered by this 
+Chapter; 
+(d)  in Section D, the goods covered by this Chapter; 
+(e)  in Section E, the services, other than construction services, covered by 
+this Chapter; 
+(f)  in Section F, the construction services covered by this Chapter; 
+(g)  in Section G, any general notes; 
+(h)  in Section H, the applicable threshold adjustment formula; and 
+(i) in Section I, the publication of information required under Article  15.5 
+(Information on the Procurement System). 
+Compliance 
+5. Where a procuring entity, in the context of covered procurement,  requires 
+persons not covered under a Party ’s Schedule to Annex  15A (Government 
+Procurement Schedules) to procure in accordance with particular requirements, 
+Article 15.4 (General Principles)  shall apply  mutatis mutandis  to such 
+requirements. 
+Valuation 
+6. In estimating the value of a procurement for the purpose of ascertaining whether 
+it is a covered procurement, a procuring entity shall: 
+(a) neither divide a procurement into separate procurements nor select or 
+use a particular valuation method for estimating the value of a 
+procurement with the intention of totally or partially excluding it from 
+the application of this Agreement; and  
+(b) include the estimated maximum total value of the procurement over its 
+entire duration, whether awarded to one or more suppliers, taking into 
+account all forms of remuneration, including: 
+(i) premiums, fees, commissions, and interest; and 
+(ii) where the procurement provides for the possibility of options, 
+the total value of those options. 
+7. Where an individual requirement for a procurement results in the award of more 
+than one contract, or in the award of contracts in separate  parts (hereinafter 
+referred to as “recurring contracts”), the calculation of the estimated maximum 
+total value shall be based on: 
+(a) the value of recurring contracts of the same type of good or service  
+awarded during the preceding 12 months or the procuring entity ’s 
+  
+15 - 5 
+preceding fiscal year, adjusted, where possible, to take into account  
+anticipated changes in the quantity or value of the good or service being 
+procured over the following 12 months; or 
+(b) the estimated value of recurring contracts of the same type of good  or 
+service to be awarded during the 12 months following the initial contract 
+award or the procuring entity’s fiscal year. 
+8. In the case of procurement by lease, rental or hire purchase of goods or services, 
+or procurement for which a total price is not specified, the  basis for valuation 
+shall be: 
+(a) in the case of a fixed-term contract: 
+(i) where the term of the contract is 12 months or less, the total  
+estimated maximum value for its duration; or 
+(ii) where the term of the contract exceeds 12 months, the total  
+estimated maximum value, including any estimated residual  
+value; 
+(b) where the contract is for an indefinite period, the estimated  monthly 
+instalment multiplied by 48; and 
+(c) where it is not certain whether the contract is to be a fixed-term contract, 
+the estimated monthly instalment multiplied by 48. 
+ 
+Article 15.3 
+General Exceptions 
+Subject to the requirement that such measures are not applied in a manner that would 
+constitute a means of arbitrary or unjustifiable discrimination between the Parties where 
+the same conditions prevail or a disguised restriction on international trade, nothing in 
+this Chapter shall be construed to prevent a Party, including its procuring entities, from 
+imposing or enforcing measures: 
+(a) necessary to protect public morals, order, or safety; 
+(b) necessary to protect human, animal or plant life, or health; 
+(c) necessary to protect intellectual property; or 
+(d) relating to goods or services of persons with disabilities, philanthropic 
+institutions, or prison labour. 
+ 
+  
+15 - 6 
+Article 15.4 
+General Principles 
+Non-Discrimination 
+1. With respect to any measure regarding covered procurement, each Party, 
+including its procuring entities, shall accord immediately and unconditionally 
+to the goods and services of the other Party and to the suppliers of the other 
+Party, treatment no less favourable than the treatment the Party, including its 
+procuring entities, accords to domestic goods, services, and suppliers. 
+2. With respect to any measure regarding covered procurement, a Party, including 
+its procuring entities, shall not: 
+(a) treat a locally established supplier less favourably than another locally 
+established supplier on the basis of the degree of foreign affiliation or 
+ownership; or 
+(b) discriminate against a locally established supplier on the basis that the 
+goods or services offered by that supplier for a particular procurement 
+are goods or services of the other Party. 
+Use of Electronic Means 
+3. When conducting covered procurement, a procuring entity shall use electronic 
+means: 
+(a) for the publication of notices; and 
+(b) to the widest extent practicable , for information exchange and 
+communication, the publication of tender documentation and the 
+submission of tenders. 
+4. When conducting covered procurement by electronic means2, a procuring entity 
+shall: 
+(a) ensure that the procurement is conducted using information technology 
+systems and software, including those related to authentication and 
+encryption of information, that are generally available and interoperable 
+with other generally available information t echnology systems and 
+software; and 
+(b) maintain mechanisms that ensure the integrity of requests for 
+participation and tenders, including establishment of the time of receipt 
+and the prevention of inappropriate access. 
+ 
+2 India shall ensure that its Government e-Market place (GeM) platform complies with this paragraph no 
+later than 12 months after the date of entry into force of this Agreement. 
+  
+15 - 7 
+Conduct of Procurement 
+5. A procuring entity shall conduct covered procurement in a transparent and 
+impartial manner that: 
+(a) is consistent with this Chapter, using methods such as open tendering, 
+selective tendering, and limited tendering; 
+(b) avoids conflicts of interest; and 
+(c) prevents corrupt practices. 
+Rules of Origin 
+6. For purposes of covered procurement, a Party shall not apply rules of origin to 
+goods or services imported from or supplied from the other Party that are 
+different from the rules of origin the Party applies at the same time in the normal 
+course of trade to imports or supplies of the same goods or services from the 
+same Party. 
+Offsets 
+7. With regard to covered procurement, a Party, including its procuring entities, 
+shall not seek, take account of, impose or enforce any offset  at any stage of a 
+procurement. 
+Make in India 
+8. Notwithstanding paragraphs 1, 2, and 7, India and its procuring entities shall be 
+entitled to seek, take account of, impose, or enforce the MII Order at any stage 
+of a covered procurement, provided that India and its procuring entities treat any 
+supplier of the United Kingdom  as a ‘Class-II local supplier ’ under the MII 
+Order where:  
+(a) that supplier offers goods or services having a country of origin as the 
+United Kingdom; and 
+(b) the goods or services have equal to or greater than the minimum ‘local 
+content’ prescribed for Class-II local suppliers in the MII Order where 
+‘local content’ means the amount of value added in the United Kingdom, 
+which shall be the total value of the goods or service procured (excluding 
+net domestic indirect taxes) minus the value of imported content in the 
+goods or service (including all customs duties) as a proportion of the 
+total value, expressed as a percentage.3 
+9. Nothing in this Article shall affect India ’s right to amend or modify the MII 
+Order provided that any such amendment or modification shall maintain 
+treatment to suppliers of the United Kingdom in a manner at least equivalent to 
+that described in paragraph 8. 
+ 
+3 For greater certainty, this provision shall not prevent a su pplier of the United Kingdom from 
+contributing towards the minimum local content in India. 
+  
+15 - 8 
+Social Value 
+10. The United Kingdom and its procuring entities may take into account  social 
+considerations, including the social value of a procurement, at any stage of a 
+covered procurement provided that: 
+(a) suppliers of India are treated no less favourably than suppliers of the 
+United Kingdom when evaluating any social considerations; 
+(b) any social considerations are based on objectively verifiable criteria; and 
+(c) if self-certification of the contribution towards any social consideration 
+by a supplier is permitted at any stage of a covered procurement, such 
+self-certification shall apply to suppliers of India. 
+11. Nothing in this Article shall affect the U nited Kingdom’s right to amend or 
+modify any of its procurement measures concerning social considerations, 
+including social value, provided that any such amendment or modification shall 
+maintain the treatment of  suppliers of India in a manner at least equivalent to 
+that described in paragraph 10. 
+Measures Not Specific to Procurement 
+12. Paragraphs 1 and 2 shall not apply to: customs duties and charges of any kind 
+imposed on, or in connection with, importation; the method of levying such 
+duties and charges; other import regulations or formalities and measures 
+affecting trade in services other than measures governing covered procurement. 
+Currency 
+13. For greater certainty, a procuring entity may, when calling for a tender, 
+designate any currency. 
+ 
+Article 15.5 
+Information on the Procurement System 
+1. Each Party shall: 
+(a) promptly publish any law, regulation, judicial decision, administrative 
+ruling of general application, standard contract clause mandated by law 
+or regulation and incorporated by reference in notices or tender 
+documentation and procedure regarding covered p rocurement, and any 
+modifications thereof, in an officially designated electronic or paper  
+medium that is widely disseminated and remains readily accessible to 
+the public; and 
+(b) provide an explanation thereof to the other Party, on request. 
+2. Each Party shall list  in Section I of its Schedule to Annex 15A (Government 
+Procurement Schedules): 
+  
+15 - 9 
+(a) the electronic or paper media in which the Party publishes the 
+information described in paragraph 1; 
+(b) the electronic media in which the Party publishes the notices required by 
+Article 15.6 (Notices) , paragraph 8 of Article 15.8 (Qualification of 
+Suppliers), and paragraph 2 of Article 15.16 (Transparency of 
+Procurement Information); and 
+(c) if applicable, the electronic media  where the Party publishes  its 
+procurement data pursuant to paragraph 6 of Article 15.16 
+(Transparency of Procurement Information). 
+3. Each Party shall promptly notify the other Party of any modification to the 
+Party’s information listed in Section I of its Schedule to Annex 15A 
+(Government Procurement Schedules). 
+ 
+Article 15.6 
+Notices 
+Electronic Publication of Procurement Notices 
+1. Notices of intended procurement and notice s of planned procurement shall be 
+directly accessible by electronic means, free of charge, through a single point of 
+access, as listed in Section I of each Party’s  Schedule to Annex 15A 
+(Government Procurement Schedules). 
+Notice of Intended Procurement 
+2. For each covered procurement, a procuring entity shall publish a notice of 
+intended procurement in the  electronic medium listed in A nnex 15A 
+(Government Procurement Schedules), except in the circumstances described in 
+Article 15.13 (Limited Tendering). The notice shall remain readily accessible to 
+the public, at least until expiration of the time period indicated in the notice.  
+3. Unless otherwise provided in this Chapter, each notice of intended procurement 
+shall include: 
+(a) information necessary to contact the procuring entity and obtain all 
+relevant documents relating to the procurement, and their cost and terms 
+of payment, if any; 
+(b) a description of the procurement, including the nature and the quantity 
+of the goods or services to be procured or, where the quantity is not 
+known, the estimated quantity; 
+(c) for recurring contracts, an estimate, if possible, of the timing of 
+subsequent notices of intended procurement; 
+(d) a description of any options; 
+  
+15 - 10 
+(e) the time frame for delivery of goods or services or the duration of the 
+contract; 
+(f) the procurement method that will be used and whether it will involve 
+negotiation4 or electronic auction;  
+(g) where applicable, the address and any final date for the submission of 
+requests for participation in the procurement; 
+(h) the address, which can be an electronic address, and the final date for the 
+submission of tenders; 
+(i) the language or languages in which tenders or requests for participation 
+may be submitted, if they may be submitted in a language other than an 
+official language of the Party of the procuring entity; 
+(j) a list and brief description of any conditions for participation of 
+suppliers, including any requirements for specific documents or 
+certifications to be provided by suppliers in connection therewith, unless 
+such requirements are included in tender document ation that is made 
+available to all interested suppliers at the same time as the notice of 
+intended procurement; and 
+(k) where, pursuant to Article 15.8 (Qualification of Suppliers), a procuring 
+entity intends to select a limited number of qualified suppliers to be 
+invited to tender, the criteria that will be used to select them, and where 
+applicable, any limitation on the number of suppliers that will be 
+permitted to tender. 
+Notice of Planned Procurement 
+4. Procuring entities are encouraged to publish in the electronic medium listed in  
+Section I of its Party’s Schedule to Annex 15A (Government Procurement  
+Schedules) as early as possible in each fiscal year a notice regarding their future 
+procurement plans (hereinafter referred to as “notice of planned procurement”). 
+The notice of planned procurement  may include the subject  matter of the 
+procurement and the planned date of the publication of the notice of intended 
+procurement. 
+5. A procuring entity covered under Section B or Section C of a Party’s Schedule 
+to Annex 15A (Government Procurement  Schedules) may use a notice of 
+planned procurement as a notice of intended procurement provided that the 
+notice of planned procurement includes as much of the information referred to 
+in paragraph 3 as is available to the entity and a statement that interested 
+suppliers should express their interest in the procurement to the procuring entity. 
+ 
+ 
+4 This subparagraph is without prejudice to a Party’s right to provide for its procuring entities to conduct 
+negotiations under subparagraphs 1(b) and 1(c) of Article 15.12 (Negotiation). 
+  
+15 - 11 
+Article 15.7 
+Conditions for Participation 
+1. A procuring entity shall limit any conditions for participation in a procurement 
+to those that are essential to ensure that a supplier has the legal and financial 
+capacities and the commercial and technical abilities to undertake the relevant 
+procurement. 
+2. In establishing the conditions for participation, a procuring entity: 
+(a) shall not impose the condition that, in order for a supplier to participate 
+in a procurement, the supplier has previously been awarded one or more 
+contracts by a procuring entity of the Party or that the supplier has prior 
+work experience in the territory of that Party; 
+(b) may require relevant prior experience where essential to meet the 
+requirements of the procurement; and 
+(c) shall not exclude a supplier of the other Party from participating in a 
+tendering procedure on the basis of a legal requirement according to 
+which the supplier must be a natural person or a legal person. 
+3. In assessing whether a supplier satisfies the conditions for participation, a 
+procuring entity shall: 
+(a) evaluate the financial capacity and the commercial and technical abilities 
+of a supplier on the basis of that supplier’s business activities both inside 
+and outside the territory of the Party of the procuring entity; and 
+(b) base its evaluation on the conditions that the procuring entity has 
+specified in advance in notices or tender documentation. 
+4. Where there is supporting evidence, a Party, including its procuring entities, 
+may exclude a supplier5 on grounds such as: 
+(a) bankruptcy; 
+(b) false declarations; 
+(c) significant or persistent deficiencies in performance of any substantive 
+requirement or obligation under a prior contract or contracts; 
+(d) final judgments in respect of serious crimes or other serious offences; 
+(e) professional misconduct or acts or omissions that adversely reflect on 
+the commercial integrity of the supplier; or 
+(f) failure to pay taxes. 
+ 
+5 For the purposes of this paragraph, a Party, including its procuring entities, may  exclude a supplier 
+where the grounds apply to a person that is a member of the administrative, management, or supervisory 
+body of the supplier or has powers of representation, decision, or control in the supplier. 
+  
+15 - 12 
+ 
+Article 15.8 
+Qualification of Suppliers 
+Registration Systems and Qualification Procedures 
+1. A Party, including its procuring entities, may maintain a supplier registration 
+system under which interested suppliers are required to register and provide 
+certain information. 
+2. A Party, including its procuring entities, shall not adopt or apply any registration 
+system or qualification procedure with the purpose or the effect of creating 
+unnecessary obstacles to the participation of suppliers of the other  Party in its 
+procurement. 
+3. If a Party or a procuring entity maintains a supplier registration system, it shall: 
+(a) ensure that interested suppliers have access to information on the 
+registration system through electronic means and that interested 
+suppliers may request registration at any time; and 
+(b) if a supplier makes a request to be listed on the registration system, give 
+fair consideration to the request and inform the supplier within a 
+reasonable period of time of the decision with respect to this request. 
+4. Each Party shall ensure that: 
+(a) its procuring entities make efforts to minimise differences in their 
+qualification procedures; and 
+(b) where its procuring entities maintain registration systems, the entities 
+make efforts to minimise differences in their registration systems. 
+Selective Tendering 
+5. Where a procuring entity intends to use selective tendering, the entity shall: 
+(a) include in the notice of intended procurement at least the information 
+specified in subparagraphs 3(a), 3(b), 3(f), 3(g), 3(j), and 3(k) of 
+Article 15.6 (Notices)  and invite suppliers to submit a request for 
+participation; and 
+(b) provide, by the commencement of the time period for tendering, at least 
+the information in subparagraphs 3(c), 3(d), 3(e), 3(h), and 3(i) of Article 
+15.6 (Notices) to the qualified suppliers invited to submit a tender.  
+6. A procuring entity shall allow all qualified suppliers to participate in a particular 
+procurement, unless the procuring entity states in the notice of intended 
+procurement any limitation on the number of suppliers that will be permitted to 
+tender and the criteria for selecting the limited number of suppliers. 
+7. Where the tender documentation is not made publicly available from the date of 
+publication of the notice referred to in paragraph 5, a procuring entity shall 
+  
+15 - 13 
+ensure that those documents are made available at the same time to all the 
+qualified suppliers selected in accordance with paragraph 6. 
+Multi-Use Lists 
+8. A Party, including its procuring entities, may establish or maintain a multi -use 
+list, provided that it makes continuously available in the electronic medium 
+listed in Section I of its Schedule to Annex 15A (Government Procurement  
+Schedules), a notice inviting interested suppliers to apply for inclusion on the 
+list. 
+9. The notice provided for in paragraph 8 shall include: 
+(a) a description of the goods or services, or categories thereof, for which 
+the list may be used; 
+(b) the conditions for participation to be satisfied by suppliers for inclusion 
+on the list and the methods that the procuring entity or other government 
+agency will use to verify that a supplier satisfies those conditions;  
+(c) the name and address of the procuring entity and other information  
+necessary to contact the entity and obtain all relevant documents relating 
+to the list; and 
+(d) the period of validity of the list and the means for its renewal or  
+termination, or where the period of validity is not provided, an indication 
+of the method by which notice will be given of the termination of use of 
+the list. 
+10. A procuring entity shall allow suppliers to apply at any time for inclusion on a 
+multi-use list and shall include on the list all qualified suppliers within a 
+reasonably short time.  
+11. Where a supplier that is not included on a multi -use list submits a request for 
+participation in a procurement based on a multi-use list and provides all required 
+documents within the time period provided for the submission of such request 
+for participation, a procuring entity shall examine the request. If the entity is not 
+able to complete the examination of the request within the time period allowed 
+for the submission of tenders, it may exclude the supplier from consideration in 
+respect of the procurement. 
+Section B and Section C Entities 
+12. A procuring entity covered under Section B or Section C of a Party’s Schedule 
+to Annex 15A (Government Procurement Schedules) may use a notice inviting 
+suppliers to apply for inclusion on a multi -use list as a notice of intended 
+procurement, provided that: 
+(a) the notice is published in accordance with paragraph 8 and includes the 
+information required under paragraph 9, as much of the information 
+required under paragraph 3 of Article 15.6 (Notices) as is available and 
+a statement that it constitutes a notice of intended procurement or that 
+  
+15 - 14 
+only the suppliers on the multi‑use list will receive further notices of 
+procurement covered by the multi-use list; and 
+(b) the entity promptly provides to suppliers that have expressed an interest 
+in a given procurement to the entity, sufficient information to permit 
+them to assess their interest in the procurement, including all remaining 
+information required in paragraph 3 of Article 15.6 (Notices) , to the 
+extent such information is available. 
+13. A procuring entity covered under Section B or Section C of a Party’s Schedule 
+to Annex 15A (Government Procurement Schedules) may allow a supplier that 
+has applied for inclusion on a multi-use list in accordance with paragraph 12 to 
+tender in a given procurement, where there is sufficient time for the procuring 
+entity to examine whether the supplier satisfies the conditions for participation. 
+Information on Procuring Entity Decisions 
+14. A procuring entity or other entity of a Party shall promptly inform any supplier 
+that submits a request for participation in a procurement or application for 
+inclusion on a multi -use list of the procuring entity ’s decision with respect to 
+the request or application. 
+15. Where a procuring entity  or other entity of a Party  rejects a supplier’s request 
+for participation in a procurement or application for inclusion on a multi -use 
+list, ceases to recognise a supplier as qualified, or removes a supplier from a 
+multi-use list, the entity shall promptly inform the supplier and, on request of 
+the supplier, promptly provide the supplier with a written explanation of the 
+reasons for its decision. 
+Article 15.9 
+Technical Specifications and Tender Documentation 
+Technical Specifications 
+1. A procuring entity shall not prepare, adopt or apply any technical specification 
+or prescribe any conformity assessment procedure with the purpose or the effect 
+of creating unnecessary obstacles to trade between the Parties. 
+2. In prescribing the technical specifications for the goods or services being
+ procured, a procuring entity shall, where appropriate: 
+(a) set out the technical specification in terms of performance and functional 
+requirements, rather than design or descriptive characteristics; and 
+(b) base the technical specification on international standards, or on national 
+technical regulations, recognised national standards, or building codes . 
+Where national standards are used in the technical specifications, a 
+procuring entity shall indicate that it will accept tenders that satisfy 
+standards equivalent to those national standards by including words such 
+as ‘or equivalent’ in the tender documentation. 
+3. Where design or descriptive characteristics are used in the technical 
+specifications, a procuring entity should indicate, where appropriate, that it will 
+
+  
+15 - 15 
+consider tenders of equivalent goods or services that demonstrably fulfil the 
+requirements of the procurement by including words such as ‘or equivalent’ in 
+the tender documentation. 
+4. A procuring entity shall not prescribe technical specifications that require or 
+refer to a particular trademark or trade name, patent, copyright, design, type, 
+specific origin, producer or supplier, unless there is no other sufficiently precise 
+or intelligible way of describing the procurement requirements and provided 
+that, in those cases, the entity includes words such as ‘or equivalent’ in the 
+tender documentation. 
+5. A procuring entity shall not seek or accept, in a manner that would have the 
+effect of precluding competition, advice that may be used in the preparation or 
+adoption of any technical specification for a specific procurement from a person 
+that may have a commercial interest in the procurement. 
+6. For greater certainty, a Party, including its procuring entities, may, in 
+accordance with this Article, prepare, adopt or apply technical specifications to 
+promote the conservation of natural resources or protect the environment. 
+7. For greater certainty, this Chapter is not intended to preclude a Party, or its 
+procuring entities, from preparing, adopting or applying technical specifications 
+required to protect sensitive government information, including specifications 
+that may affect or limit the storage, hosting or processing of that information 
+outside the territory of the Party. 
+Tender Documentation 
+8 A procuring entity shall make available to suppliers tender documentation that 
+includes all information necessary to permit suppliers to prepare and submit 
+responsive tenders. Unless already provided in the notice of intended 
+procurement, such documentation shall include a complete description of: 
+(a) the procurement, including the nature and the quantity of the goods or 
+services to be procured or, where the quantity is not known, the 
+estimated quantity and any requirements to be fulfilled, including any 
+technical specifications, conformity assessment c ertification, plans, 
+drawings or instructional materials; 
+(b) any conditions for participation of suppliers, including a list of 
+information and documents that suppliers are required to submit in 
+connection with the conditions for participation; 
+(c) all evaluation criteria the entity will apply in the awarding of the 
+contract, and, except where price is the sole criterion, the relative 
+importance of such criteria; 
+(d) where the procuring entity will conduct the procurement by electronic 
+means, any authentication and encryption requirements or other 
+requirements related to the submission of information by electronic 
+means; 
+  
+15 - 16 
+(e) where the procuring entity will hold an electronic auction, the rules, 
+including identification of the elements of the tender related to the 
+evaluation criteria, on which the auction will be conducted; 
+(f) where there will be a public opening of tenders, the date, time and place 
+for the opening and, if appropriate, the persons authorised to be present; 
+(g) any other terms or conditions, including terms of payment and any 
+limitation on the means by which tenders may be submitted, such as 
+whether on paper or by electronic means; and 
+(h) any dates for the delivery of goods or the supply of services. 
+9. In establishing any date for the delivery of goods or the supply of services being 
+procured, a procuring entity shall take into account such factors as the 
+complexity of the procurement, the extent of subcontracting anticipated and the 
+realistic time required for production, de-stocking and transport of goods from 
+the point of supply or for supply of services. 
+10. The evaluation criteria set out in the notice of intended procurement or tender 
+documentation may include, among others, price and other cost factors, quality, 
+technical merit, environmental characteristics and terms of delivery. 
+11. A procuring entity shall promptly: 
+(a) make available tender documentation to ensure that interested suppliers 
+have sufficient time to submit responsive tenders; 
+(b) provide, upon request, the tender documentation to any interested 
+supplier, if the same is not readily available electronically; and 
+(c) reply to any reasonable request for relevant information by any 
+interested or participating supplier, provided that such information does 
+not give that supplier an advantage over other suppliers. 
+Modifications 
+12. Where, prior to the award of a contract, a procuring entity modifies the criteria 
+or requirements set out in the notice of intended procurement or tender 
+documentation provided to participating suppliers, or amends or reissues a 
+notice or tender documentat ion, it shall transmit in writing all such 
+modifications or amended or re-issued notice or tender documentation: 
+(a)  to all suppliers that are participating at the time of the modification, 
+amendment or re‑issuance, where such suppliers are known to the entity, 
+and in all other cases, in the same manner as the original information 
+was made available; and 
+(b)  in adequate time to allow such  suppliers to modify and re -submit 
+amended tenders, as appropriate. 
+  
+15 - 17 
+Preliminary Market Research and Engagement 
+13. For greater certainty, a procuring entity may, prior to publication of a notice of 
+intended procurement, conduct market research and engagement with suppliers 
+with a view to informing and developing technical specifications and other 
+tender documentation for a particular procurement or informing suppliers of its 
+procurement plans and requirements. A procuring entity shall take appropriate 
+steps to ensure that suppliers participating in  such market research or 
+engagement do not gain an unfair advantage over other interested suppliers. 
+ 
+Article 15.10 
+Facilitation of Participation by SMEs 
+1. The Parties recognise the important contribution that SMEs can make to 
+economic growth and employment and the importance of facilitating the 
+participation of SMEs in government procurement. 
+2. Each Party shall endeavour to facilitate participation by SMEs in covered 
+procurement, and shall to the extent possible and appropriate: 
+(a) provide comprehensive procurement-related information that includes a 
+definition of SMEs in a single electronic portal;  
+(b) make all tender documentation available free of charge;  
+(c) conduct procurement by electronic means or through other new 
+information and communication technologies;  
+(d) consider the size, design, and structure of the procurement, including 
+dividing procurement opportunities into smaller lots and promoting the 
+use of joint bidding and subcontracting by SMEs;  
+(e) seek opportunities to simplify administrative processes; and 
+(f) require prompt payment by procuring entities  to their suppliers and by 
+suppliers to their subcontractors. 
+3. If a Party adopts or maintains a measure that provides preferential treatment for 
+SMEs, the Party shall ensure that the measure, including the criteria for 
+eligibility, is transparent. 
+4. The Parties shall: 
+(a) upon request, provide information on the measures designed to assist, 
+promote, encourage, or facilitate participation by SMEs in government 
+procurement covered by this Chapter; and 
+(b) cooperate and share best practice in relation to measures to facilitate 
+participation by SMEs in government procurement covered by this 
+Chapter. 
+ 
+  
+15 - 18 
+Article 15.11 
+Time Periods 
+1. A procuring entity shall, consistent with its own reasonable needs, provide 
+sufficient time for a supplier to prepare and submit a request for participation 
+and responsive tender, taking into account factors such as: 
+(a) the nature and complexity of the procurement; 
+(b) the extent of subcontracting anticipated; and 
+(c) the time necessary for transmitting tenders by non -electronic means 
+from foreign as well as domestic points where electronic means are not 
+used. 
+Such time periods, including any extension of the time periods, shall be the same 
+for all interested or participating suppliers. 
+Deadlines 
+2. The time period for the submission of requests for participation and tenders shall 
+be established by a procuring entity of a Party in accordance with the law of that 
+Party, provided those time periods are established in a manner consistent with 
+paragraph 1 and in accordance with the other provisions of this Chapter . For 
+procuring entities of the United Kingdom, such time periods may be established 
+in accordance with paragraphs 3 through 8. For greater certainty, paragraphs 3 
+through 8 shall not apply to procuring entities of India. 
+3. A procuring entity that uses selective tendering may establish that the final date 
+for the submission of requests for participation may not, in principle, be less 
+than 25 days from the date of publication of the notice of intended procurement. 
+Where a state of urgency duly substantiated by the procuring entity renders this 
+time period impracticable, the time period may be reduced. 
+4. Except as provided for in paragraphs 5  through 8, a procuring entity may 
+establish that the final date for the submission of tenders may not be less than 
+40 days from the date on which: 
+(a) in the case of open tendering, the notice of intended procurement is 
+published; or 
+(b) in the case of selective tendering, the entity notifies suppliers that they 
+will be invited to submit tenders, whether or not it uses a multi-use list. 
+5. A procuring entity may reduce the time  period for tendering established in 
+accordance with paragraph 4 where: 
+(a) the procuring entity has published a notice of planned procurement as 
+described in paragraph 4 of Article 15.6 (Notices) at least 40 days and 
+no more than 12 months in advance of the publication of the notice of 
+intended procurement, and the notice of planned procurement contains: 
+(i) a description of the procurement; 
+  
+15 - 19 
+(ii) the approximate final dates for the submission of tenders or 
+requests for participation; 
+(iii) a statement that interested suppliers should express their interest 
+in the procurement to the procuring entity; 
+(iv) the address from which documents relating to the procurement 
+may be obtained; and 
+(v) as much of the information that is required for the notice of 
+intended procurement under paragraph 3 of Article 15.6 
+(Notices), as is available; 
+(b) the procuring entity, for recurring contracts, indicates in an initial notice 
+of intended procurement that subsequent notices will provide time  
+periods for tendering based on this paragraph; or 
+(c) a state of urgency duly substantiated by the procuring entity renders the 
+time period for tendering established in accordance with paragraph 4 
+impracticable. 
+6. A procuring entity may reduce the time  period for tendering established in 
+accordance with paragraph 4 by five days for each one of the following 
+circumstances: 
+(a) the notice of intended procurement is published by electronic means; 
+(b) all the tender documentation is made available by electronic means from 
+the date of the publication of the notice of intended procurement; and 
+(c) the procuring entity accepts tenders by electronic means. 
+7. Notwithstanding any other provision in this Article, where a procuring entity 
+purchases commercial goods or services, or any combination thereof, it may 
+reduce the time period for tendering established in accordance with paragraph 
+4, provided that it publishes by electronic means, at the same time, both the 
+notice of intended procurement and the tender documentation. In addition, 
+where the entity accepts tenders for commercial goods or services by electronic 
+means, it may reduce the time period established in accordance with paragraph 
+4. 
+8. Where a procuring entity covered under Section B or Section C of the UK’s 
+Schedule to Annex 15A (Government Procurement Schedules) has selected all 
+or a limited number of qualified suppliers, the time period for tendering may be 
+fixed by mutual agreement between the procuring entity and the selected 
+suppliers.  
+ 
+Article 15.12 
+Negotiation 
+1. A Party may provide for its procuring entities to conduct negotiations: 
+  
+15 - 20 
+(a) where the entity has indicated its intent to conduct negotiations in the 
+notice of intended procurement required under paragraph 2 of Article 
+15.6 (Notices); 
+(b) where it appears from the evaluation that no tender is obviously the most 
+advantageous in terms of the specific evaluation criteria set out in the 
+notice of intended procurement or tender documentation; or 
+(c) where the procuring entity finds that the price quoted by the supplier 
+submitting the  most advantageous tender is not reasonable and 
+justifiable and that negotiations need to be conducted with such supplier. 
+2. A procuring entity shall: 
+(a) ensure that any elimination of suppliers participating in negotiations is 
+carried out in accordance with the evaluation criteria set out in the notice 
+of intended procurement or tender documentation; and 
+(b) where negotiations are concluded with more than one supplier , provide 
+a common deadline for all those suppliers to submit any new or revised 
+tenders.  
+ 
+Article 15.13 
+Limited Tendering 
+1. Provided that it does not use this provision for the purpose of avoiding 
+competition among suppliers or in a manner that discriminates against suppliers 
+of the other Party or protects domestic suppliers, a procuring entity may use 
+limited tendering and may choose not to apply Articles 15.6 (Notices) through 
+15.8 (Qualification of Suppliers) , paragraphs 8 through 12 of Article 15.9 
+(Technical Specifications and Tender Documentation) , and Articles 15.11 
+(Time Periods), 15.12 (Negotiations), 15.14 (Electronic Auctions), and 15.15 
+(Treatment of Tenders and Awarding of Contracts)  only under any of the 
+following circumstances: 
+(a) where: 
+(i) no tenders were submitted or no suppliers requested 
+participation; 
+(ii) no tenders that conform to the essential requirements of the 
+tender documentation were submitted; 
+(iii) no suppliers satisfied the conditions for participation; or 
+(iv) the tenders submitted have been collusive,  
+provided that the requirements of the tender documentation are not 
+substantially modified; 
+  
+15 - 21 
+(b) where the goods or services can be supplied only by a particular supplier 
+or suppliers and no reasonable alternative or substitute goods or services 
+exist for any of the following reasons: 
+(i) the requirement is for a work of art; 
+(ii) the protection of patents, copyrights, or other exclusive rights; or 
+(iii) due to an absence of competition for technical reasons; 
+(c) for additional deliveries by the original supplier of goods or services that 
+were not included in the initial procurement where a change of supplier 
+for such additional goods or services: 
+(i) cannot be made for economic or technical reasons such as 
+requirements of interchangeability or interoperability with 
+existing equipment, software, services, or installations procured 
+under the initial procurement; and 
+(ii) would cause significant inconvenience or substantial duplication 
+of costs for the procuring entity; 
+(d) insofar as is strictly necessary where, for reasons of extreme urgency 
+brought about by events unforeseeable by the procuring entity, the goods 
+or services could not be obtained in time using open tendering or 
+selective tendering; 
+(e) for goods purchased on a commodity market; 
+(f) where a procuring entity procures a prototype or a first good or service 
+that is developed at its request in the course of, and for, a particular 
+contract for research, experiment, study , or original development. 
+Original development of a first good or service may include limited 
+production or supply in order to incorporate the results of field testing 
+and to demonstrate that the good or service is suitable for production or 
+supply in quantity to acceptable quality standards, but does not include 
+quantity production or supply to establish commercial viability or to 
+recover research and development costs; 
+(g) for purchases made under exceptionally advantageous conditions that 
+only arise in the very short term in the case of unusual disposals such as 
+those arising from liquidation, receivership or bankruptcy, but not for 
+routine purchases from regular suppliers; or 
+(h) where a contract is awarded to a winner of a design contest provided 
+that: 
+(i) the contest has been organised in a manner that is consistent with 
+this Chapter; and 
+(ii) the contest is judged by an independent jury with a view to award 
+a design contract to the winner. 
+  
+15 - 22 
+2. For each contract awarded in accordance with paragraph 1, a procuring entity 
+shall maintain a record that includes the name of the procuring entity, the value 
+and kind of good or service procured, and a statement that indicates the 
+circumstances and conditions described in paragraph 1 that justified the use of 
+limited tendering. 
+ 
+Article 15.14 
+Electronic Auctions 
+Where a procuring entity intends to conduct a covered procurement using an electronic 
+auction, the entity shall provide each participant, before commencing the electronic 
+auction, with: 
+(a) the automatic evaluation method, including the mathematical formula, 
+that is based on the evaluation criteria set out in the tender 
+documentation and that will be used in the automatic ranking or 
+reranking during the auction; 
+(b) the results of any initial evaluation of the elements of its tender where 
+the contract is to be awarded on the basis of the most advantageous 
+tender; and 
+(c) any other relevant information relating to the conduct of the auction. 
+ 
+Article 15.15 
+Treatment of Tenders and Awarding of Contracts 
+Treatment of Tenders 
+1. A procuring entity shall receive, open , and treat all tenders under procedures 
+that guarantee the fairness and impartiality of the procurement process, and the 
+confidentiality of tenders. 
+2. A procuring entity shall not penalise any supplier whose tender is received after 
+the time specified for receiving tenders if the delay is due solely to mishandling 
+on the part of the procuring entity. 
+3. Where a procuring entity provides a supplier with an opportunity to correct 
+unintentional errors of form between the opening of tenders and the awarding 
+of the contract,  the procuring entity shall not deny a similar opportunity to 
+participating suppliers. 
+Awarding of Contracts 
+4. To be considered for an award, a tender shall be submitted in writing and shall, 
+at the time of opening, comply with the essential requirements set out in the 
+notices and tender documentation and be from a supplier that satisfies the 
+conditions for participation. 
+  
+15 - 23 
+5. Unless a procuring entity determines that it is not in the public interest to award 
+a contract, the entity shall award the contract to the supplier that the entity has 
+determined to be capable of fulfilling the terms of the contract and that, based 
+solely on the evaluation criteria specified in the notices and tender 
+documentation, has submitted: 
+(a) the most advantageous tender; or 
+(b) where price is the sole criterion, the lowest price. 
+6. Where a procuring entity receives a tender with a price that is abnormally lower 
+than the prices in other tenders submitted, it may verify with the supplier that it 
+satisfies the conditions for participation and is capable of fulfilling the terms of 
+the co ntract. If the procuring entity determines that the bidder substan tially 
+failed to demonstrate its capability to deliver the contract at the offered price, 
+the procuring entity may reject the tender.  
+7. A procuring entity shall not use options, cancel a procurement , or modify 
+awarded contracts in a manner that circumvents the obligations under this 
+Chapter. 
+ 
+Article 15.16 
+Transparency of Procurement Information 
+Information Provided to Suppliers 
+1. A procuring entity shall promptly inform participating suppliers of the entity ’s 
+contract award decisions and, on the request of a supplier, shall do so in writing. 
+Subject to paragraphs 2 and 3 of Article 15.18 (Disclosure of Information) , a 
+procuring entity shall, on request, provide an unsuccessful supplier with an 
+explanation of the reasons why the entity did not select its tender and the relative 
+advantages of the successful supplier’s tender.  
+Publication of Award Information 
+2. No later than 72 days after the award of each contract covered by this Chapter, 
+a procuring entity shall publish in the appropriate electronic medium listed in  
+Section I of its Party’s Schedule to Annex 15A ( Government Procurement 
+Schedules) at least the following information, which shall remain readily 
+accessible for a reasonable period of time: 
+(a) a description of the goods or services procured; 
+(b) the name and address of the procuring entity; 
+(c) the name and address of the successful supplier; 
+(d) the value of the successful tender or the highest and lowest offers taken 
+into account in the award of the contract; 
+(e) the date of award; and 
+  
+15 - 24 
+(f) the type of procurement method used. 
+3. The Parties shall use best endeavours to ensure that: 
+(a) the description in subparagraph 2(a) includes a classification code of the 
+goods or services procured, such as CPV; and 
+(b) in cases where limited tendering was used in accordance with Article 
+15.13 (Limited Tendering), the information in subparagraph 2(f) 
+includes a description of the circumstances justifying the use of limited 
+tendering. 
+Maintenance of Documentation, Records, and Electronic Traceability 
+4. Each procuring entity shall, for a period of at least three years from the date it 
+awards a contract, maintain: 
+(a) the documentation and records of tendering procedures and contract 
+awards relating to covered procurement, including the records required 
+under Article 15.13 (Limited Tendering); and 
+(b) data that ensure the appropriate traceability of the conduct of covered 
+procurement by electronic means. 
+Access to Procurement Data 
+5. Each Party shall collect and report to the Working Group on Government 
+Procurement statistics on its contracts covered by this Chapter. Each report shall 
+cover a period of one year and be submitted within two years of the end of the 
+reporting period, and shall contain: 
+(a) for procuring entities covered in Section A of the Party’s Schedule to 
+Annex 15A (Government Procurement Schedules): 
+(i) the number and total value, for all those procuring entities, of all 
+contracts covered by this Chapter; 
+(ii) the number and total value of all contracts covered by this 
+Chapter awarded by each procuring entity. For reports provided 
+to the Working Group on Government Procurement after the first 
+and second reports after the entry into force of this Agreement, 
+such information shall be broken down by categories of goods 
+and services according to an internationally recognised uniform 
+classification system; and 
+(iii) the number and total value of all contracts covered by this 
+Chapter awarded by each entity under limited tendering; 
+(b) for procuring entities covered in Section B and Section C of the Party’s 
+Schedule to Annex 15A (Government Procurement  Schedules), the 
+number and total value of contracts covered by this Chapter awarded by 
+all those entities, broken down by Section; and 
+  
+15 - 25 
+(c) estimates for the data required under subparagraphs (a) and (b), with an 
+explanation of the methodology used to develop the estimates, if it is not 
+feasible to provide the data. 
+6. If a Party publishes its statistics on an official website, in a manner that is 
+consistent with the requirements of paragraph 5, the Party may, instead of 
+reporting to the Working Group on Government Procurement, provide a link to 
+the website, together with any instructions necessary to access and use those 
+statistics. 
+7. If a Party publishes the information under paragraph 3 in addition to the 
+information under paragraph 2, and if that Party makes the information under 
+paragraphs 2 and 3 accessible to the public through a single electronic database 
+in a form permitting analysis of the information, the Party may, instead of 
+reporting to the Working Group on Government Procurement, provide a link to 
+the database, together with any instructio ns necessary to access and use that 
+information. 
+ 
+Article 15.17 
+Ensuring Integrity in Procurement Practices 
+1. Each Party shall ensure that criminal or administrative measures exist that can 
+address corruption, fraud, and other illegal acts in its procurement. 
+2. These measures may include procedures to render ineligible for, or exclude 
+from, participation in the Party’s procurements, either indefinitely or for a stated 
+period of time, suppliers that the Party has determined to have engaged in 
+corrupt, fraudulent, or other illegal acts. When applying such procedures, each 
+Party, including its procuring entities: 
+(a) may consider the gravity of the supplier’s acts or omissions and any 
+remedial measures or mitigating factors; and 
+(b) shall provide a supplier of the other Party directly implicated: 
+(i) reasonable opportunity to present facts and arguments in support 
+of its position prior to the decision to render ineligible for, or 
+exclude from, participation being made; and 
+(ii) notice that such a decision has been made and the reasons for the 
+decision. 
+3. Each Party shall ensure that it has in place policies or procedures to eliminate to 
+the extent possible or manage potential conflicts of interest on the part of those 
+engaged in or having influence over a procurement. 
+4. Each Party may put in place policies or procedures that require successful 
+suppliers to maintain and enforce appropriate measures, such as internal 
+controls, business ethics, and compliance programmes, for preventing and 
+detecting corruption, fraud, and other illegal acts.  
+  
+15 - 26 
+ 
+Article 15.18 
+Disclosure of Information 
+Provision of Information  
+1. On request of the other Party, a Party shall provide promptly any information 
+necessary to determine whether a procurement was conducted fairly, 
+impartially, and in accordance with this Chapter, including information on the 
+characteristics and relative advantages of the successful tender. In cases where 
+release of the information would prejudice competition in future tenders, the 
+Party that receives the information shall not disclose it to any supplier, except 
+after consulting with, and obtaining the agreement of, the Party that provided 
+the information. 
+Non-Disclosure of Information 
+2. Notwithstanding any other provision of this Chapter, a Party, including its 
+procuring entities, shall not provide to any particular supplier information that 
+might prejudice fair competition between suppliers. 
+3. Nothing in this Chapter shall be construed to require a Party, including its 
+procuring entities, authorities , and review bodies, to disclose confidential 
+information where disclosure: 
+(a) would impede law enforcement; 
+(b) might prejudice fair competition between suppliers; 
+(c) would prejudice the legitimate commercial interests of particular 
+persons, including the protection of intellectual property; or 
+(d) would otherwise be contrary to the public interest. 
+ 
+Article 15.19 
+Domestic Review Procedures 
+1. Each Party shall provide a timely, effective, transparent, and non-discriminatory 
+administrative or judicial review procedure through which a supplier may 
+challenge: 
+(a) a breach of this Chapter; or 
+(b) where the supplier does not have a right to challenge directly a breach of 
+the Chapter under the domestic law of a Party, a failure to comply with 
+a Party’s measures implementing this Chapter, 
+arising in the context of a covered procurement, in which the supplier has, or 
+has had, an interest. The procedural rules for all challenges shall be in writing 
+and made generally available. 
+  
+15 - 27 
+2. In the event of a complaint by a supplier, arising in the context of covered 
+procurement in which the supplier has, or has had, an interest, that there has 
+been a breach or a failure as referred to in paragraph 1, the Party of the procuring 
+entity conducting the procurement shall encourage the entity and the supplier to 
+seek resolution of the complaint through consultations. The entity shall accord 
+impartial and timely consideration to any such complaint in a manner that is not 
+prejudicial to the supplier ’s participation in ongoing or future procurement or 
+its right to seek corrective measures under the administrative or judicial review 
+procedure. 
+3. Each supplier shall be allowed a sufficient period of time to prepare and submit 
+a challenge, which in no case shall be less than 10 days from the time when the 
+basis of the challenge became known or reasonably should have become known 
+to the supplier. 
+4. Each Party shall establish or designate at least one impartial administrative or 
+judicial authority that is independent of its procuring entities to receive and 
+review a challenge by a supplier arising in the context of a covered procurement. 
+5. Where a body other than an authority referred to in paragraph 4 initially reviews 
+a challenge, the Party shall ensure that the supplier may appeal the initial 
+decision to an impartial administrative or judicial authority that is independent 
+of the procuring entity whose procurement is the subject of the challenge. 
+6. Each Party shall ensure that a review body that is not a court shall have its 
+decision subject to judicial review or have procedures that provide that: 
+(a) the procuring entity shall respond in writing to the challenge and disclose 
+all relevant documents to the review body; 
+(b) the participants to the proceedings shall have the right to be heard prior 
+to a decision of the review body being made on the challenge; 
+(c) the participants to the proceedings shall have the right to be represented 
+and accompanied; 
+(d) the participants to the proceedings shall have access to all proceedings; 
+(e) the participants to the proceedings shall have the right to request that the 
+proceedings take place in public and that witnesses may be presented; 
+and 
+(f) the review body shall make its decisions or recommendations in a timely 
+fashion, in writing, and shall include an explanation of the basis for each 
+decision or recommendation. 
+7. Each Party shall adopt or maintain procedures that provide for: 
+(a) rapid interim measures to preserve the supplier ’s opportunity to 
+participate in the procurement. Such interim measures may result in 
+suspension of the procurement process. The procedures may provide that 
+overriding adverse consequences for the interests concerned, including 
+the public interest, may be t aken into account when deciding whether 
+  
+15 - 28 
+such measures should be applied. Just cause for not acting shall be 
+provided in writing; and 
+(b) where a review body has determined that there has been a breach or a 
+failure as referred to in paragraph 1, corrective action or compensation 
+for the loss or damages suffered, which may be limited to either the costs 
+for the preparation of the tender or the costs relating to the challenge, or 
+both. 
+ 
+Article 15.20 
+Modifications and Rectifications of Annex 
+1. The Parties recognise the importance of maintaining accurate and up -to-date 
+information in their Schedules to Annex 15A (Government Procurement 
+Schedules). 
+2. A Party may modify or rectify  its Schedule to Annex 15A (Government 
+Procurement Schedules), pursuant to paragraphs 3 through 11. 
+Notification of Proposed Modification 
+3. A Party shall notify any proposed modification or rectification (collectively 
+referred to as a “modification”) to its Schedule to Annex 15A in writing to the 
+other Party. 
+4. The notification of proposed modification shall contain:  
+(a) for any proposed withdrawal of an entity from its Schedule to Annex 
+15A (Government Procurement Schedules) in exercise of its rights on 
+the grounds that government control or influence over the procuring 
+entity’s covered procurement has been effectively eliminated, evidence 
+of that elimination; or 
+(b) for any other proposed modification, information as to the likely 
+consequences of the change for the coverage provided for in this 
+Chapter; and 
+(c) a proposal for any necessary compensatory adjustments pursuant to 
+paragraph 5. 
+Compensatory Adjustments 
+5. Subject to paragraphs 6 and 7, a Party shall provide appropriate compensatory 
+adjustments for a change in coverage, if necessary, to maintain a level of 
+coverage comparable to the coverage that existed prior to the modification. 
+6. The Parties may agree another form of resolution as an alternative to 
+compensatory adjustments. 
+7. A Party is not required to provide compensatory adjustments to the other Party 
+if the proposed modification: 
+  
+15 - 29 
+(a) covers a procuring entity over which the Party has effectively eliminated 
+its control or influence in respect of covered procurement by that 
+procuring entity; or 
+(b) is minor or of a purely formal nature, including a rectification as 
+described in paragraph 8. 
+Rectifications 
+8. The following modifications to a Party’s Schedule to Annex 15A (Government 
+Procurement Schedules) shall be considered a rectification, provided that they 
+do not affect the coverage provided for in this Chapter: 
+(a) a change in the name of a procuring entity; 
+(b) a merger of two or more procuring entities listed within a Section of a 
+Party’s Schedule to Annex 15A (Government Procurement Schedules); 
+(c) the separation of a procuring entity listed in a Party’s Schedule to Annex 
+15A (Government Procurement Schedules) into two or more procuring 
+entities that are added to the procuring entities listed in the same Section 
+of the Annex; and 
+(d) a change in a website reference. 
+Objection to Notification 
+9. If the other Party disputes that: 
+(a) a compensatory adjustment proposed under subparagraph 4(c) is 
+adequate to maintain a level of coverage comparable to the coverage that 
+existed prior to the modification; 
+(b) the proposed modification covers a procuring entity over which the Party 
+has effectively eliminated its control or influence; or 
+(c) the proposed modification is a change provided for in paragraph 7(b), 
+it shall notify the modifying Party of its objection in writing within 45 days of 
+receipt of the notification of proposed modification referred to in paragraphs 3 
+and 4 or shall be deemed to have agreed to the proposed modification , and 
+compensatory adjustments if provided, including for the purposes of Chapter 29 
+(Dispute Settlement). 
+10. Where a Party submits an objection pursuant to paragraph 9, it shall set out, as 
+may apply, the reasons why it believes: 
+(a) the modification is not a change provided for in paragraph 7 and describe 
+the effect of the proposed modification on the coverage provided for in 
+the Chapter; and 
+(b) a compensatory adjustment proposed under subparagraph  4(c) is  not 
+adequate to maintain a level of coverage comparable to the coverage that 
+existed prior to the modification. 
+  
+15 - 30 
+Implementation of Modifications 
+11. The Joint Committee shall adopt a modification to the Schedule to Annex 15A 
+(Government Procurement Schedules) in accordance with subparagraph 2(g) of 
+Article 27.2 (Functions of the Joint Committee  – Administrative and 
+Institutional Provisions) to reflect any agreed modification. 
+ 
+Article15.21 
+Working Group on Government Procurement 
+1. The Parties hereby establish a Working Group  on Government Procurement  
+composed of government representatives of each Party.  
+2. The Working Group on Government Procurement shall meet at least once every 
+two years , or as mutually agreed by  the Parties , and may meet virtually , to 
+address matters related to the implementation and operation of this Chapter , 
+such as: 
+(a) considering matters regarding government procurement that are referred 
+to it by a Party;  
+(b) exchanging information relating to government procurement 
+opportunities, including those at sub-central levels, in each Party;  
+(c) exchanging experience and best practices, including on the use and 
+adoption of information technology in conducting procurement and of 
+measures to promote environmental, social , and labour considerations 
+in government procurement; 
+(d) facilitation of participation by SMEs in covered procurement, as 
+provided for in Article 15.10 (Facilitation of Participation by SMEs); 
+and 
+(e) facilitation of participation by women in government procurement to the 
+extent possible, acknowledging the objectives in Chapter 23 (Trade and 
+Gender Equality). 
+ 
+Article 15.22 
+Further Negotiations 
+Definitions 
+1. For the purposes of this Article, “GPA” means the Agreement on Government 
+Procurement, set out in Annex 4 to the WTO Agreement, as amended from time 
+to time. 
+  
+15 - 31 
+General 
+2. If a Party agrees under another trade agreement , additional advantages or 
+coverage relating to access to procurement markets, beyond what is included in 
+this Agreement: 
+(a) the other Party may request for consultations with a view to seek such 
+advantages or coverage from the first Party and for the other Party to 
+extend a commensurate level of coverage of procurement to the first 
+Party; and  
+(b) both Parties shall enter into such consultations at a mutually determined 
+date. 
+Thresholds 
+3. Subject to paragraph 6, if a Party agrees under a trade agreement with a party to 
+the GPA a threshold for central government entities less than that specified in 
+its Schedule to Annex 15A (Government Procurement Schedules): 
+(a) that Party shall provide written notification to the other Party that it has 
+agreed to the lesser threshold and shall offer to reduce its threshold to 
+that agreed under that other trade agreement; and 
+(b) the other Party may accept such an offer, provided that, where 
+applicable, the other Party also reduces its threshold to that lesser 
+threshold. 
+4. Paragraph 3 shall not apply to any trade agreement entered between a Party and 
+a non-party to this Agreement, where that non-party subsequently becomes a  
+party to the GPA. 
+5. The Parties shall give effect to the outcomes described in paragraph 3 by way 
+of amendment, in accordance with  Article 30.2 (Amendments – Final 
+Provisions). Such amendment shall not constitute a modification under Article 
+15.20 (Modification and Rectification of Annex). 
+6. A Party shall not be required to offer or reduce its threshold for central 
+government entities as specified in its Schedule to Annex 15A (Government 
+Procurement Schedules)  in respect of the threshold for goods, SDR 130,000; in 
+respect of the threshold for services SDR 130,000; and, in respect of the 
+threshold for construction services, SDR 5,000,000. 
+MII Order 
+7. If India agrees under a trade agreement with a party to the GPA, advantages or 
+coverages in respect of its government procurement market under or in 
+connection with the MII Order in addition to the advantages or coverages 
+provided to the United Kingdom: 
+(a) India shall provide written notification to the United Kingdom that it has 
+agreed to such advantages or coverage, or the U nited Kingdom may 
+  
+15 - 32 
+provide written notification to India that it considers India has agreed to 
+such advantages or coverage; and 
+(b) the Parties shall enter into consultations at a mutually determined date 
+in order to extend a commensurate level of advantages or coverage to 
+the United Kingdom. 
+8. Paragraph 7 shall not apply to any trade agreement entered between a Party and 
+a non-party, where that non-party subsequently becomes a party to the GPA. 
+9. The Parties shall give effect to the outcomes described in paragraph 7 by way 
+of amendment, in accordance with  Article 30.2 (Amendments – Final 
+Provisions). Such amendment shall not constitute a modification under Article 
+15.20 (Modification and Rectification of Annex). 
+ 
+Article 15.23 
+Application of Dispute Settlement 
+Neither Party shall have recourse to dispute settlement under Chapter  29 (Dispute 
+Settlement) for any matter arising under this Chapter for a period of four years from the 
+date of entry into force of this Agreement. 

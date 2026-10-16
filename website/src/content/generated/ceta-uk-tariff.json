@@ -1,0 +1,1408 @@
+{
+  "title": "Appendix 2A-b — Schedule of Tariff Commitments of the United Kingdom",
+  "note": "The United Kingdom's commitments on originating goods of India. Commodity codes are 2022 nomenclature.",
+  "entryIntoForce": "2026-07-15",
+  "source": {
+    "file": "01-ceta-legal-text/uk_india_ceta_annex2a_b_schedules_tariff_commitments_of_united_kingdom.pdf",
+    "url": "https://assets.publishing.service.gov.uk/media/687f69a177a3acd9f4d0e1cc/uk_india_ceta_annex2a_b_schedules_tariff_commitments_of_united_kingdom.pdf",
+    "sha256": "a58bc70379825b5f08aa577bf518d7a954c2de238c719ce72e55e71e1202c61d",
+    "retrieved": "2026-08-04"
+  },
+  "staging": {
+    "A": {
+      "code": "A",
+      "label": "Duty-free from entry into force",
+      "detail": "Customs duty eliminated on the date the agreement entered into force. No phase-in, no quota: an originating good of India in this category enters the United Kingdom at nil duty today."
+    },
+    "TRQ": {
+      "code": "TRQ",
+      "label": "Tariff rate quota",
+      "detail": "Duty-free only within an annual quota, and only for goods within the stated value bands. There is no preferential out-of-quota rate — once the quota is exhausted the good pays the full UK Global Tariff rate."
+    },
+    "U": {
+      "code": "U",
+      "label": "Excluded from the agreement",
+      "detail": "Excluded from any commitment to reduce or eliminate customs duty. The UK Global Tariff rate applies in full, and no CETA preference can be claimed. Claiming one on an entry for a good in this category is a false declaration."
+    }
+  },
+  "trq": {
+    "title": "Electric, hybrid and hydrogen passenger cars (HS 8703)",
+    "firstYear": 6,
+    "firstCalendarYear": 2031,
+    "codes": [
+      "8703.40",
+      "8703.50",
+      "8703.60",
+      "8703.70",
+      "8703.80",
+      "8703.90"
+    ],
+    "quota": [
+      {
+        "year": 6,
+        "calendarYear": 2031,
+        "openEnded": false,
+        "bands": {
+          "under20k": 6800,
+          "from20kTo40k": 6800,
+          "from40kTo80k": 4000,
+          "above80k": null
+        },
+        "total": 17600
+      },
+      {
+        "year": 7,
+        "calendarYear": 2032,
+        "openEnded": false,
+        "bands": {
+          "under20k": 10200,
+          "from20kTo40k": 10200,
+          "from40kTo80k": 6000,
+          "above80k": null
+        },
+        "total": 26400
+      },
+      {
+        "year": 8,
+        "calendarYear": 2033,
+        "openEnded": false,
+        "bands": {
+          "under20k": 13600,
+          "from20kTo40k": 13600,
+          "from40kTo80k": 8000,
+          "above80k": null
+        },
+        "total": 35200
+      },
+      {
+        "year": 9,
+        "calendarYear": 2034,
+        "openEnded": false,
+        "bands": {
+          "under20k": 17000,
+          "from20kTo40k": 17000,
+          "from40kTo80k": 10000,
+          "above80k": null
+        },
+        "total": 44000
+      },
+      {
+        "year": 10,
+        "calendarYear": 2035,
+        "openEnded": false,
+        "bands": {
+          "under20k": 20400,
+          "from20kTo40k": 20400,
+          "from40kTo80k": 12000,
+          "above80k": null
+        },
+        "total": 52800
+      },
+      {
+        "year": 11,
+        "calendarYear": 2036,
+        "openEnded": false,
+        "bands": {
+          "under20k": 23800,
+          "from20kTo40k": 23800,
+          "from40kTo80k": 14000,
+          "above80k": null
+        },
+        "total": 61600
+      },
+      {
+        "year": 12,
+        "calendarYear": 2037,
+        "openEnded": false,
+        "bands": {
+          "under20k": 26350,
+          "from20kTo40k": 26350,
+          "from40kTo80k": 15500,
+          "above80k": null
+        },
+        "total": 68200
+      },
+      {
+        "year": 13,
+        "calendarYear": 2038,
+        "openEnded": false,
+        "bands": {
+          "under20k": 28900,
+          "from20kTo40k": 28900,
+          "from40kTo80k": 17000,
+          "above80k": null
+        },
+        "total": 74800
+      },
+      {
+        "year": 14,
+        "calendarYear": 2039,
+        "openEnded": false,
+        "bands": {
+          "under20k": 31450,
+          "from20kTo40k": 31450,
+          "from40kTo80k": 18500,
+          "above80k": null
+        },
+        "total": 81400
+      },
+      {
+        "year": 15,
+        "calendarYear": 2040,
+        "openEnded": true,
+        "bands": {
+          "under20k": 34000,
+          "from20kTo40k": 34000,
+          "from40kTo80k": 20000,
+          "above80k": null
+        },
+        "total": 88000
+      }
+    ],
+    "notes": [
+      "The quota table begins at year six. For years one to five the United Kingdom opens no quota at all.",
+      "Annex 2A Section D paragraph 2(c): there is no out-of-quota preferential customs duty for these codes. Outside the quota the full UK Global Tariff rate applies.",
+      "Cars above £80,000 CIF are marked U in every year — excluded from the quota for the life of the agreement.",
+      "Annex 2A Section D paragraph 2(d): the values in the quota are not adjusted for inflation.",
+      "Annex 2A Section A paragraph 2: year one runs from entry into force on 2026-07-15 to 31 December 2026; each later year is the calendar year beginning 1 January."
+    ],
+    "source": {
+      "file": "01-ceta-legal-text/uk_india_ceta_annex2a_schedules_tariff_commitments_for_goods.pdf",
+      "url": "https://assets.publishing.service.gov.uk/media/687f692d92957f2ec567c6ad/uk_india_ceta_annex2a_schedules_tariff_commitments_for_goods.pdf",
+      "sha256": "3a5df932d49598a01f0ca386dff4b565ee80102a6ff03030f3333e346c326762",
+      "retrieved": "2026-08-04"
+    }
+  },
+  "rows": [
+    {
+      "code": "01",
+      "description": "Live animals",
+      "staging": "A"
+    },
+    {
+      "code": "0201",
+      "description": "Meat of bovine animals, fresh or chilled",
+      "staging": "A"
+    },
+    {
+      "code": "0202",
+      "description": "Meat of bovine animals, frozen",
+      "staging": "A"
+    },
+    {
+      "code": "0203.11.10",
+      "description": "Fresh or chilled domestic swine carcases and half-carcases",
+      "staging": "U"
+    },
+    {
+      "code": "0203.11.90",
+      "description": "Fresh or chilled non-domestic swine carcases and half-carcases",
+      "staging": "A"
+    },
+    {
+      "code": "0203.12.11",
+      "description": "Fresh or chilled with bone in, domestic swine hams and cuts thereof",
+      "staging": "U"
+    },
+    {
+      "code": "0203.12.19",
+      "description": "Fresh or chilled with bone in, domestic swine shoulders and cuts thereof",
+      "staging": "U"
+    },
+    {
+      "code": "0203.12.90",
+      "description": "Fresh or chilled hams, shoulders and cuts thereof with bone in of non-domestic swine",
+      "staging": "A"
+    },
+    {
+      "code": "0203.19.11",
+      "description": "Fresh or chilled fore-ends and cuts thereof of domestic swine",
+      "staging": "U"
+    },
+    {
+      "code": "0203.19.13",
+      "description": "Fresh or chilled loins and cuts thereof of domestic swine",
+      "staging": "U"
+    },
+    {
+      "code": "0203.19.15",
+      "description": "Fresh or chilled bellies \"streaky\" and cuts thereof of domestic swine",
+      "staging": "U"
+    },
+    {
+      "code": "0203.19.55",
+      "description": "Fresh or chilled boneless meat of domestic swine (excl. bellies and cuts thereof)",
+      "staging": "U"
+    },
+    {
+      "code": "0203.19.59",
+      "description": "Fresh or chilled meat of domestic swine, with bone in (excl. carcases and half-carcases, hams, shoulders and cuts thereof, and fore-ends, loins, bellies and cuts thereof)",
+      "staging": "U"
+    },
+    {
+      "code": "0203.19.90",
+      "description": "Fresh or chilled meat of non-domestic swine (excl. carcases and half-carcases, hams, shoulders and cuts thereof, with bone in)",
+      "staging": "A"
+    },
+    {
+      "code": "0203.21.10",
+      "description": "Frozen domestic swine carcases and half-carcases",
+      "staging": "U"
+    },
+    {
+      "code": "0203.21.90",
+      "description": "Frozen non-domestic swine carcases and half-carcases",
+      "staging": "A"
+    },
+    {
+      "code": "0203.22.11",
+      "description": "Frozen hams and cuts thereof of domestic swine, with bone in",
+      "staging": "U"
+    },
+    {
+      "code": "0203.22.19",
+      "description": "Frozen shoulders and cuts thereof of domestic swine, with bone in",
+      "staging": "U"
+    },
+    {
+      "code": "0203.22.90",
+      "description": "Frozen hams, shoulders and cuts thereof of non-domestic swine, with bone in",
+      "staging": "A"
+    },
+    {
+      "code": "0203.29.11",
+      "description": "Frozen fore-ends and cuts thereof of domestic swine",
+      "staging": "U"
+    },
+    {
+      "code": "0203.29.13",
+      "description": "Frozen loins and cuts thereof of domestic swine, with bone in",
+      "staging": "U"
+    },
+    {
+      "code": "0203.29.15",
+      "description": "Frozen bellies \"streaky\" and cuts thereof of domestic swine",
+      "staging": "U"
+    },
+    {
+      "code": "0203.29.55",
+      "description": "Frozen boneless meat of domestic swine (excl. bellies and cuts thereof)",
+      "staging": "U"
+    },
+    {
+      "code": "0203.29.59",
+      "description": "Frozen meat of domestic swine, with bone in (excl. carcases and half-carcases, hams, shoulders and cuts thereof, and fore-ends, loins, bellies and cuts thereof)",
+      "staging": "U"
+    },
+    {
+      "code": "0203.29.90",
+      "description": "Frozen meat of non-domestic swine (excl. carcases and half-carcases and hams, shoulders and cuts thereof, with bone in)",
+      "staging": "A"
+    },
+    {
+      "code": "0204",
+      "description": "Meat of sheep or goats, fresh, chilled or frozen",
+      "staging": "A"
+    },
+    {
+      "code": "0205",
+      "description": "Meat of horses, asses, mules or hinnies, fresh, chilled or frozen",
+      "staging": "A"
+    },
+    {
+      "code": "0206",
+      "description": "Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen",
+      "staging": "A"
+    },
+    {
+      "code": "0207.11",
+      "description": "Fresh or chilled fowls of the species Gallus domesticus, not cut in pieces",
+      "staging": "U"
+    },
+    {
+      "code": "0207.12",
+      "description": "Frozen fowls of the species Gallus domesticus, not cut in pieces",
+      "staging": "U"
+    },
+    {
+      "code": "0207.13",
+      "description": "Fresh or chilled cuts and edible offal of fowls of the species Gallus domesticus",
+      "staging": "U"
+    },
+    {
+      "code": "0207.14",
+      "description": "Frozen cuts and edible offal of fowls of the species Gallus domesticus",
+      "staging": "U"
+    },
+    {
+      "code": "0207.24",
+      "description": "Fresh or chilled turkeys of the species domesticus, not cut in pieces",
+      "staging": "A"
+    },
+    {
+      "code": "0207.25",
+      "description": "Frozen turkeys of the species domesticus, not cut into pieces",
+      "staging": "A"
+    },
+    {
+      "code": "0207.26",
+      "description": "Fresh or chilled cuts and edible offal of turkeys of the species domesticus",
+      "staging": "A"
+    },
+    {
+      "code": "0207.27",
+      "description": "Frozen cuts and edible offal of turkeys of the species domesticus",
+      "staging": "A"
+    },
+    {
+      "code": "0207.41",
+      "description": "Fresh or chilled domestic ducks, not cut in pieces",
+      "staging": "A"
+    },
+    {
+      "code": "0207.42",
+      "description": "Frozen domestic ducks, not cut in pieces",
+      "staging": "A"
+    },
+    {
+      "code": "0207.43",
+      "description": "Fatty livers of domestic ducks, fresh or chilled",
+      "staging": "A"
+    },
+    {
+      "code": "0207.44",
+      "description": "Fresh or chilled cuts and edible offal of domestic ducks (excl. fatty livers)",
+      "staging": "A"
+    },
+    {
+      "code": "0207.45",
+      "description": "Frozen cuts and edible offal of domestic ducks",
+      "staging": "A"
+    },
+    {
+      "code": "0207.51",
+      "description": "Fresh or chilled domestic geese, not cut in pieces",
+      "staging": "A"
+    },
+    {
+      "code": "0207.52",
+      "description": "Frozen domestic geese, not cut in pieces",
+      "staging": "A"
+    },
+    {
+      "code": "0207.53",
+      "description": "Fatty livers of domestic geese, fresh or chilled",
+      "staging": "A"
+    },
+    {
+      "code": "0207.54",
+      "description": "Fresh or chilled cuts and edible offal of domestic geese (excl. fatty livers)",
+      "staging": "A"
+    },
+    {
+      "code": "0207.55",
+      "description": "Frozen cuts and edible offal of domestic geese",
+      "staging": "A"
+    },
+    {
+      "code": "0207.60",
+      "description": "Meat and edible offal of domestic guinea fowls, fresh, chilled or frozen",
+      "staging": "A"
+    },
+    {
+      "code": "0208",
+      "description": "Meat and edible offal of rabbits, hares, pigeons and other animals, fresh, chilled or frozen (excl. of bovine animals, swine, sheep, goats, horses, asses, mules, hinnies, poultry \"fowls of the species Gallus domesticus\", ducks, geese, turkeys and guinea fowls)",
+      "staging": "A"
+    },
+    {
+      "code": "0209",
+      "description": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked",
+      "staging": "U"
+    },
+    {
+      "code": "0210.11",
+      "description": "Hams, shoulders and cuts thereof of swine, salted, in brine, dried or smoked, with bone in",
+      "staging": "U"
+    },
+    {
+      "code": "0210.12",
+      "description": "Bellies \"streaky\" and cuts thereof of swine, salted, in brine, dried or smoked",
+      "staging": "U"
+    },
+    {
+      "code": "0210.19",
+      "description": "Meat of swine, salted, in brine, dried or smoked (excl. hams, shoulders and cuts thereof, with bone in, and bellies and cuts thereof)",
+      "staging": "U"
+    },
+    {
+      "code": "0210.20",
+      "description": "Meat of bovine animals, salted, in brine, dried or smoked",
+      "staging": "A"
+    },
+    {
+      "code": "0210.91",
+      "description": "Meat and edible offal, salted, in brine, dried or smoked, and edible flours and meals of meat and meat offal, of primates",
+      "staging": "A"
+    },
+    {
+      "code": "0210.92",
+      "description": "Meat and edible offal, salted, in brine, dried or smoked, and edible flours and meals of meat or meat offal, of whales, dolphins and porpoises (mammals of the order Cetacea), manatees and dugongs (mammals of the order Sirenia) and seals, sea lions and walruses (mammals of the suborder Pinnipedia)",
+      "staging": "A"
+    },
+    {
+      "code": "0210.93",
+      "description": "Meat and edible offal, salted, in brine, dried or smoked, and edible flours and meals of meat and meat offal, of reptiles \"e.g. snakes, turtles, alligators\"",
+      "staging": "A"
+    },
+    {
+      "code": "0210.99.10",
+      "description": "Horsemeat, salted, in brine or dried",
+      "staging": "A"
+    },
+    {
+      "code": "0210.99.21",
+      "description": "Meat of sheep and goats, salted, in brine, dried or smoked, with bone in",
+      "staging": "A"
+    },
+    {
+      "code": "0210.99.29",
+      "description": "Boneless meat of sheep and goats, salted, in brine, dried or smoked",
+      "staging": "A"
+    },
+    {
+      "code": "0210.99.31",
+      "description": "Reindeer meat, salted, in brine, dried or smoked",
+      "staging": "A"
+    },
+    {
+      "code": "0210.99.39",
+      "description": "Meat, salted, in brine, dried or smoked (excl. of swine, bovine animals, reindeer, sheep or goats, primates, whales, dolphins and porpoises \"mammals of the order Cetacea\", manatees and dugongs \"mammals of the order Sirenia\", seals, sea lions and walruses, reptiles, insects, and meat, salted, in brine or dried, of horses)",
+      "staging": "A"
+    },
+    {
+      "code": "0210.99.41",
+      "description": "Edible domestic swine livers, salted, in brine, dried or smoked",
+      "staging": "U"
+    },
+    {
+      "code": "0210.99.49",
+      "description": "Edible domestic swine offal, salted, in brine, dried or smoked (excl. livers)",
+      "staging": "U"
+    },
+    {
+      "code": "0210.99.51",
+      "description": "Edible thick skirt and thin skirt of bovine animals, salted, in brine, dried or smoked",
+      "staging": "A"
+    },
+    {
+      "code": "0210.99.59",
+      "description": "Edible offal of bovine animals, salted, in brine, dried or smoked (excl. thick skirt and thin skirt)",
+      "staging": "A"
+    },
+    {
+      "code": "0210.99.71",
+      "description": "Edible fatty goose or duck livers, salted or in brine",
+      "staging": "A"
+    },
+    {
+      "code": "0210.99.79",
+      "description": "Edible poultry liver, salted, in brine, dried or smoked (excl. fatty goose or duck livers)",
+      "staging": "U"
+    },
+    {
+      "code": "0210.99.85",
+      "description": "Edible offal, salted, in brine, dried or smoked (excl. of domestic swine, bovine animals, primates, whales, dolphins and porpoises \"mammals of the order Cetacea\", manatees and dugongs \"mammals of the order Sirenia\", seals, sea lions and walruses, reptiles and poultry liver)",
+      "staging": "A"
+    },
+    {
+      "code": "0210.99.90",
+      "description": "Edible flours and meals of meat or meat offal (excl. of primates, whales, dolphins and porpoises \"mammals of the order Cetacea\", manatees and dugongs \"mammals of the order Sirenia\", seals, sea lions and walruses, reptiles and insects)",
+      "staging": "U"
+    },
+    {
+      "code": "03",
+      "description": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+      "staging": "A"
+    },
+    {
+      "code": "0401",
+      "description": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter",
+      "staging": "A"
+    },
+    {
+      "code": "0402",
+      "description": "Milk and cream, concentrated or containing added sugar or other sweetening matter",
+      "staging": "A"
+    },
+    {
+      "code": "0403",
+      "description": "Buttermilk, curdled milk and cream, yogurt, kephir and other fermented or acidified milk and cream, whether or not concentrated or flavoured or containing added sugar or other sweetening matter, fruit, nuts or cocoa, and yogurt may additionally contain chocolate, spices, coffee, plants or cereals",
+      "staging": "A"
+    },
+    {
+      "code": "0404",
+      "description": "Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, n.e.s.",
+      "staging": "A"
+    },
+    {
+      "code": "0405",
+      "description": "Butter, incl. dehydrated butter and ghee, and other fats and oils derived from milk; dairy spreads",
+      "staging": "A"
+    },
+    {
+      "code": "0406",
+      "description": "Cheese and curd",
+      "staging": "A"
+    },
+    {
+      "code": "0407.11",
+      "description": "Fertilised eggs for incubation, of domestic fowls",
+      "staging": "A"
+    },
+    {
+      "code": "0407.19",
+      "description": "Fertilised birds' eggs for incubation (excl. of domestic fowls)",
+      "staging": "A"
+    },
+    {
+      "code": "0407.21",
+      "description": "Fresh eggs of domestic fowls, in shell (excl. fertilised for incubation)",
+      "staging": "U"
+    },
+    {
+      "code": "0407.29",
+      "description": "Fresh birds' eggs, in shell (excl. of domestic fowls, and fertilised for incubation)",
+      "staging": "A"
+    },
+    {
+      "code": "0407.90.10",
+      "description": "Poultry eggs, in shell, preserved or cooked",
+      "staging": "U"
+    },
+    {
+      "code": "0407.90.90",
+      "description": "Birds' eggs, in shell, preserved or cooked (excl. of poultry)",
+      "staging": "A"
+    },
+    {
+      "code": "0408.11.20",
+      "description": "Egg yolks, dried, not suitable for human consumption, whether or not containing added sugar or other sweetening matter",
+      "staging": "A"
+    },
+    {
+      "code": "0408.11.80",
+      "description": "Egg yolks, dried, for human consumption, whether or not containing added sugar or other sweetening matter",
+      "staging": "U"
+    },
+    {
+      "code": "0408.19.20",
+      "description": "Egg yolks, fresh, cooked by steaming or boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter, unsuitable for human consumption (excl. dried)",
+      "staging": "A"
+    },
+    {
+      "code": "0408.19.81",
+      "description": "Egg yolks, liquid, suitable for human consumption, whether or not containing added sugar or other sweetening matter",
+      "staging": "U"
+    },
+    {
+      "code": "0408.19.89",
+      "description": "Egg yolks (other than liquid), frozen or otherwise preserved, suitable for human consumption, whether or not containing added sugar or other sweetening matter (excl. dried)",
+      "staging": "U"
+    },
+    {
+      "code": "0408.91.20",
+      "description": "Dried birds' eggs, not in shell, whether or not containing added sugar or other sweetening matter, not suitable for human consumption (excl. egg yolks)",
+      "staging": "A"
+    },
+    {
+      "code": "0408.91.80",
+      "description": "Dried birds' eggs, not in shell, whether or not containing added sugar or other sweetening matter, suitable for human consumption (excl. egg yolks)",
+      "staging": "U"
+    },
+    {
+      "code": "0408.99.20",
+      "description": "Birds' eggs, not in shell, fresh, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter, not suitable for human consumption (excl. dried and egg yolks)",
+      "staging": "A"
+    },
+    {
+      "code": "0408.99.80",
+      "description": "Birds' eggs, not in shell, fresh, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter, suitable for human consumption (excl. dried and egg yolks)",
+      "staging": "U"
+    },
+    {
+      "code": "0409",
+      "description": "Natural honey",
+      "staging": "A"
+    },
+    {
+      "code": "0410",
+      "description": "Insects, turtles' eggs, birds' nests and other edible products of animal origin, n.e.s.",
+      "staging": "A"
+    },
+    {
+      "code": "05",
+      "description": "Products of animal origin, not elsewhere specified or included",
+      "staging": "A"
+    },
+    {
+      "code": "06",
+      "description": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",
+      "staging": "A"
+    },
+    {
+      "code": "07",
+      "description": "Edible vegetables and certain roots and tubers",
+      "staging": "A"
+    },
+    {
+      "code": "08",
+      "description": "Edible fruit and nuts; peel of citrus fruit or melons",
+      "staging": "A"
+    },
+    {
+      "code": "09",
+      "description": "Coffee, tea, maté and spices",
+      "staging": "A"
+    },
+    {
+      "code": "1001",
+      "description": "Wheat and meslin",
+      "staging": "A"
+    },
+    {
+      "code": "1002",
+      "description": "Rye",
+      "staging": "A"
+    },
+    {
+      "code": "1003",
+      "description": "Barley",
+      "staging": "A"
+    },
+    {
+      "code": "1004",
+      "description": "Oats",
+      "staging": "A"
+    },
+    {
+      "code": "1005",
+      "description": "Maize or corn",
+      "staging": "A"
+    },
+    {
+      "code": "1006.10",
+      "description": "Rice in the husk, \"paddy\" or rough",
+      "staging": "A"
+    },
+    {
+      "code": "1006.20",
+      "description": "Husked or brown rice",
+      "staging": "A"
+    },
+    {
+      "code": "1006.30",
+      "description": "Semi-milled or wholly milled rice, whether or not polished or glazed",
+      "staging": "U"
+    },
+    {
+      "code": "1006.40",
+      "description": "Broken rice",
+      "staging": "A"
+    },
+    {
+      "code": "1007",
+      "description": "Grain sorghum",
+      "staging": "A"
+    },
+    {
+      "code": "1008",
+      "description": "Buckwheat, millet, canary seed and other cereals (excl. wheat and meslin, rye, barley, oats, maize, rice and grain sorghum)",
+      "staging": "A"
+    },
+    {
+      "code": "11",
+      "description": "Products of the milling industry; malt; starches; inulin; wheat gluten",
+      "staging": "A"
+    },
+    {
+      "code": "12",
+      "description": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",
+      "staging": "A"
+    },
+    {
+      "code": "13",
+      "description": "Lac; gums, resins and other vegetable saps and extracts",
+      "staging": "A"
+    },
+    {
+      "code": "14",
+      "description": "Vegetable plaiting materials; vegetable products not elsewhere specified or included",
+      "staging": "A"
+    },
+    {
+      "code": "15",
+      "description": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",
+      "staging": "A"
+    },
+    {
+      "code": "1601",
+      "description": "Sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products",
+      "staging": "U"
+    },
+    {
+      "code": "1602.10",
+      "description": "Homogenised prepared meat, offal, blood or insects, put up for retail sale as infant food or for dietetic purposes, in containers of <= 250 g",
+      "staging": "A"
+    },
+    {
+      "code": "1602.20",
+      "description": "Preparations of liver of any animal (excl. sausages and similar products and finely homogenised preparations put up for retail sale as infant food or for dietetic purposes, in containers of a net weight of <= 250 g)",
+      "staging": "A"
+    },
+    {
+      "code": "1602.31",
+      "description": "Meat or offal of turkeys \"Gallus domesticus\", prepared or preserved (excl. sausages and similar products, and finely homogenised preparations put up for retail sale as infant food or for dietetic purposes, in containers of a net weight of <= 250 g, preparations of liver and meat extracts and juices)",
+      "staging": "A"
+    },
+    {
+      "code": "1602.32",
+      "description": "Meat or offal of fowls of the species \"Gallus domesticus\", prepared or preserved (excl. sausages and similar products, finely homogenised preparations put up for retail sale as infant food or for dietetic purposes, in containers of a net weight of <= 250 g, preparations of liver and meat extracts and juices)",
+      "staging": "U"
+    },
+    {
+      "code": "1602.39",
+      "description": "Prepared or preserved meat or meat offal of ducks, geese and guinea fowl of the species domesticus (excl. sausages and similar products, finely homogenised preparations put up for retail sale as infant food or for dietetic purposes, in containers of a net weight of <= 250 g, preparations of liver and meat extracts and juices)",
+      "staging": "A"
+    },
+    {
+      "code": "1602.41",
+      "description": "Hams of swine and cuts thereof, prepared or preserved",
+      "staging": "U"
+    },
+    {
+      "code": "1602.42",
+      "description": "Prepared or preserved shoulders and cuts thereof, of swine",
+      "staging": "U"
+    },
+    {
+      "code": "1602.49",
+      "description": "Prepared or preserved meat and offal of swine, incl. mixtures (excl. hams, shoulders and cuts thereof, sausages and similar products, finely homogenised preparations put up for retail sale as infant food or for dietetic purpose, in containers of a net weight of <= 250 g, preparations of liver and meat extracts and juices)",
+      "staging": "U"
+    },
+    {
+      "code": "1602.50",
+      "description": "Prepared or preserved meat or offal of bovine animals (excl. sausages and similar products, finely homogenised preparations put up for retail sale as infant food or for dietetic purposes, in containers of a net weight of <= 250 g, preparations of liver and meat extracts and juices)",
+      "staging": "A"
+    },
+    {
+      "code": "1602.90.10",
+      "description": "Preparations of blood of any animal (excl. sausages and similar products)",
+      "staging": "U"
+    },
+    {
+      "code": "1602.90.31",
+      "description": "Prepared or preserved meat or meat offal of game or rabbits (excl. of wild pigs, sausages and similar products, finely homogenised preparations put up for retail sale as infant food or for dietetic purposes, in containers of a net weight of <= 250 g, preparations of liver and meat extracts and juices)",
+      "staging": "A"
+    },
+    {
+      "code": "1602.90.51",
+      "description": "Prepared or preserved meat or meat offal containing meat or offal of domestic swine (excl. of poultry, bovine animals, reindeer, game or rabbits, sausages and similar products, finely homogenised preparations put up for retail sale as infant food or for dietetic purposes, in containers of a net weight of <= 250 g, preparations of liver and meat extracts)",
+      "staging": "U"
+    },
+    {
+      "code": "1602.90.61",
+      "description": "Prepared or preserved meat or meat offal, uncooked, containing meat or offal of bovines, incl. mixtures of cooked or uncooked meat and cooked or uncooked offal (excl. of poultry, domestic swine, reindeer, game or rabbits, sausages and similar products, fin ely homogenised preparations put up for retail sale as infant food or for dietetic purposes, in containers of a net weight of <= 250 g, and preparations of liver)",
+      "staging": "A"
+    },
+    {
+      "code": "1602.90.69",
+      "description": "Prepared or preserved meat or meat offal, cooked, containing meat or offal of bovine animals (excl. of poultry, domestic swine, game or rabbits, sausages and similar products, finely homogenised preparations put up for retail sale as infant food or for dietetic purposes, in containers of a net weight of <= 250 g, preparations of liver and meat extracts and juices)",
+      "staging": "A"
+    },
+    {
+      "code": "1602.90.91",
+      "description": "Prepared or preserved meat or offal of sheep (excl. sausages and similar products, finely homogenised preparations put up for retail sale as infant food or for dietetic purposes in containers of a net weight of <= 250 g, preparations of liver, meat extracts, juices, and containing meat or offal of bovines or domestic swine)",
+      "staging": "A"
+    },
+    {
+      "code": "1602.90.95",
+      "description": "Prepared or preserved meat or offal of goats (excl. sausages and similar products, finely homogenised preparations put up for retail sale as infant food or for dietetic purposes in containers of a net weight of <= 250 g, preparations of liver, meat extracts, juices, and containing meat or offal of bovines or domestic swine)",
+      "staging": "A"
+    },
+    {
+      "code": "1602.90.99",
+      "description": "Prepared or preserved meat, meat offal or insects (excl. of poultry, swine, bovine animals, game or rabbits, sheep or goats, sausages and similar products, finely homogenised preparations put up for retail sale as infant food or for dietetic purposes in co ntainers of a net weight of <= 250 g, preparations of liver, meat extracts, juices, and containing meat or offal of bovines or domestic swine)",
+      "staging": "A"
+    },
+    {
+      "code": "1603",
+      "description": "Extracts and juices of meat, fish or crustaceans, molluscs and other aquatic invertebrates",
+      "staging": "A"
+    },
+    {
+      "code": "1604",
+      "description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "staging": "A"
+    },
+    {
+      "code": "1605",
+      "description": "Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved (excl. smoked)",
+      "staging": "A"
+    },
+    {
+      "code": "1701",
+      "description": "Cane or beet sugar and chemically pure sucrose, in solid form",
+      "staging": "U"
+    },
+    {
+      "code": "1702",
+      "description": "Other sugars, incl. chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel",
+      "staging": "A"
+    },
+    {
+      "code": "1703",
+      "description": "Molasses resulting from the extraction or refining of sugar",
+      "staging": "A"
+    },
+    {
+      "code": "1704",
+      "description": "Sugar confectionery not containing cocoa, incl. white chocolate",
+      "staging": "A"
+    },
+    {
+      "code": "18",
+      "description": "Cocoa and cocoa preparations",
+      "staging": "A"
+    },
+    {
+      "code": "19",
+      "description": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+      "staging": "A"
+    },
+    {
+      "code": "20",
+      "description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+      "staging": "A"
+    },
+    {
+      "code": "21",
+      "description": "Miscellaneous edible preparations",
+      "staging": "A"
+    },
+    {
+      "code": "22",
+      "description": "Beverages, spirits and vinegar",
+      "staging": "A"
+    },
+    {
+      "code": "23",
+      "description": "Residues and waste from the food industries; prepared animal fodder",
+      "staging": "A"
+    },
+    {
+      "code": "24",
+      "description": "Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",
+      "staging": "A"
+    },
+    {
+      "code": "25",
+      "description": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+      "staging": "A"
+    },
+    {
+      "code": "26",
+      "description": "Ores, slag and ash",
+      "staging": "A"
+    },
+    {
+      "code": "27",
+      "description": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+      "staging": "A"
+    },
+    {
+      "code": "28",
+      "description": "Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",
+      "staging": "A"
+    },
+    {
+      "code": "29",
+      "description": "Organic chemicals",
+      "staging": "A"
+    },
+    {
+      "code": "30",
+      "description": "Pharmaceutical products",
+      "staging": "A"
+    },
+    {
+      "code": "31",
+      "description": "Fertilisers",
+      "staging": "A"
+    },
+    {
+      "code": "32",
+      "description": "Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks",
+      "staging": "A"
+    },
+    {
+      "code": "33",
+      "description": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+      "staging": "A"
+    },
+    {
+      "code": "34",
+      "description": "Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, ‘dental waxes’ and dental preparations with a basis of plaster",
+      "staging": "A"
+    },
+    {
+      "code": "35",
+      "description": "Albuminoidal substances; modified starches; glues; enzymes",
+      "staging": "A"
+    },
+    {
+      "code": "36",
+      "description": "Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations",
+      "staging": "A"
+    },
+    {
+      "code": "37",
+      "description": "Photographic or cinematographic goods",
+      "staging": "A"
+    },
+    {
+      "code": "38",
+      "description": "Miscellaneous chemical products",
+      "staging": "A"
+    },
+    {
+      "code": "39",
+      "description": "Plastics and articles thereof",
+      "staging": "A"
+    },
+    {
+      "code": "40",
+      "description": "Rubber and articles thereof",
+      "staging": "A"
+    },
+    {
+      "code": "41",
+      "description": "Raw hides and skins (other than furskins) and leather",
+      "staging": "A"
+    },
+    {
+      "code": "42",
+      "description": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",
+      "staging": "A"
+    },
+    {
+      "code": "43",
+      "description": "Furskins and artificial fur; manufactures thereof",
+      "staging": "A"
+    },
+    {
+      "code": "44",
+      "description": "Wood and articles of wood; wood charcoal",
+      "staging": "A"
+    },
+    {
+      "code": "45",
+      "description": "Cork and articles of cork",
+      "staging": "A"
+    },
+    {
+      "code": "46",
+      "description": "Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",
+      "staging": "A"
+    },
+    {
+      "code": "47",
+      "description": "Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard",
+      "staging": "A"
+    },
+    {
+      "code": "48",
+      "description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+      "staging": "A"
+    },
+    {
+      "code": "49",
+      "description": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+      "staging": "A"
+    },
+    {
+      "code": "50",
+      "description": "Silk",
+      "staging": "A"
+    },
+    {
+      "code": "51",
+      "description": "Wool, fine or coarse animal hair; horsehair yarn and woven fabric",
+      "staging": "A"
+    },
+    {
+      "code": "52",
+      "description": "Cotton",
+      "staging": "A"
+    },
+    {
+      "code": "53",
+      "description": "Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn",
+      "staging": "A"
+    },
+    {
+      "code": "54",
+      "description": "Man-made filaments; strip and the like of man-made textile materials",
+      "staging": "A"
+    },
+    {
+      "code": "55",
+      "description": "Man-made staple fibres",
+      "staging": "A"
+    },
+    {
+      "code": "56",
+      "description": "Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",
+      "staging": "A"
+    },
+    {
+      "code": "57",
+      "description": "Carpets and other textile floor coverings",
+      "staging": "A"
+    },
+    {
+      "code": "58",
+      "description": "Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery",
+      "staging": "A"
+    },
+    {
+      "code": "59",
+      "description": "Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",
+      "staging": "A"
+    },
+    {
+      "code": "60",
+      "description": "Knitted or crocheted fabrics",
+      "staging": "A"
+    },
+    {
+      "code": "61",
+      "description": "Articles of apparel and clothing accessories, knitted or crocheted",
+      "staging": "A"
+    },
+    {
+      "code": "62",
+      "description": "Articles of apparel and clothing accessories, not knitted or crocheted",
+      "staging": "A"
+    },
+    {
+      "code": "63",
+      "description": "Other made-up textile articles; sets; worn clothing and worn textile articles; rags",
+      "staging": "A"
+    },
+    {
+      "code": "64",
+      "description": "Footwear, gaiters and the like; parts of such articles",
+      "staging": "A"
+    },
+    {
+      "code": "65",
+      "description": "Headgear and parts thereof",
+      "staging": "A"
+    },
+    {
+      "code": "66",
+      "description": "Umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof",
+      "staging": "A"
+    },
+    {
+      "code": "67",
+      "description": "Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair",
+      "staging": "A"
+    },
+    {
+      "code": "68",
+      "description": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+      "staging": "A"
+    },
+    {
+      "code": "69",
+      "description": "Ceramic products",
+      "staging": "A"
+    },
+    {
+      "code": "70",
+      "description": "Glass and glassware",
+      "staging": "A"
+    },
+    {
+      "code": "71",
+      "description": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",
+      "staging": "A"
+    },
+    {
+      "code": "72",
+      "description": "Iron and steel",
+      "staging": "A"
+    },
+    {
+      "code": "73",
+      "description": "Articles of iron or steel",
+      "staging": "A"
+    },
+    {
+      "code": "74",
+      "description": "Copper and articles thereof",
+      "staging": "A"
+    },
+    {
+      "code": "75",
+      "description": "Nickel and articles thereof",
+      "staging": "A"
+    },
+    {
+      "code": "76",
+      "description": "Aluminium and articles thereof",
+      "staging": "A"
+    },
+    {
+      "code": "78",
+      "description": "Lead and articles thereof",
+      "staging": "A"
+    },
+    {
+      "code": "79",
+      "description": "Zinc and articles thereof",
+      "staging": "A"
+    },
+    {
+      "code": "80",
+      "description": "Tin and articles thereof",
+      "staging": "A"
+    },
+    {
+      "code": "81",
+      "description": "Other base metals; cermets; articles thereof",
+      "staging": "A"
+    },
+    {
+      "code": "82",
+      "description": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+      "staging": "A"
+    },
+    {
+      "code": "83",
+      "description": "Miscellaneous articles of base metal",
+      "staging": "A"
+    },
+    {
+      "code": "84",
+      "description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+      "staging": "A"
+    },
+    {
+      "code": "85",
+      "description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+      "staging": "A"
+    },
+    {
+      "code": "86",
+      "description": "Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",
+      "staging": "A"
+    },
+    {
+      "code": "8701",
+      "description": "Tractors (other than tractors of heading 8709)",
+      "staging": "A"
+    },
+    {
+      "code": "8702",
+      "description": "Motor vehicles for the transport of >= 10 persons, incl. driver",
+      "staging": "A"
+    },
+    {
+      "code": "8703.10",
+      "description": "Vehicles for the transport of <10 persons on snow; golf cars and similar vehicles",
+      "staging": "A"
+    },
+    {
+      "code": "8703.21",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity <= 1.000 cm³ (excl. vehicles fo r travelling on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "A"
+    },
+    {
+      "code": "8703.22",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.000 cm³ but <= 1.500 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "A"
+    },
+    {
+      "code": "8703.23",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "A"
+    },
+    {
+      "code": "8703.24",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "A"
+    },
+    {
+      "code": "8703.31",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only diesel engine of a cylinder capacity <= 1.500 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "A"
+    },
+    {
+      "code": "8703.32",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only diesel engine of a cylinder capacity > 1.500 cm³ but <= 2.500 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "A"
+    },
+    {
+      "code": "8703.33",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only diesel engine of a cylinder capacity > 2.500 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "A"
+    },
+    {
+      "code": "8703.40",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with both spark-ignition internal combustion reciprocating piston engine and electric motor as motors for propulsion (excl. vehicles for travelling on snow, other specially designed vehicles of subheading 8703.10 and plug-in hybrids)",
+      "staging": "TRQ"
+    },
+    {
+      "code": "8703.50",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with both diesel engine and electric motor as motors for propulsion (excl. vehicles for travelling on snow, other specially des igned vehicles of subheading 8703.10 and plug-in hybrids)",
+      "staging": "TRQ"
+    },
+    {
+      "code": "8703.60",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with both spark-ignition internal combustion reciprocating piston engine and electric motor as motors for propulsion, capable o f being charged by plugging to external source of electric power (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "TRQ"
+    },
+    {
+      "code": "8703.70",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with both diesel engine and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "TRQ"
+    },
+    {
+      "code": "8703.80",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only electric motor for propulsion (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "TRQ"
+    },
+    {
+      "code": "8703.90",
+      "description": "Motor cars and other vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with engines other than internal combustion piston engine or electric motor (excl. vehicles for the transport of persons on snow and other specially designed vehicles of subheading 8703.10)",
+      "staging": "TRQ"
+    },
+    {
+      "code": "8704",
+      "description": "Motor vehicles for the transport of goods, incl. chassis with engine and cab",
+      "staging": "A"
+    },
+    {
+      "code": "8705",
+      "description": "Special purpose motor vehicles (other than those principally designed for the transport of persons or goods), e.g. breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries, spraying lorries, mobile workshops and mobile radiological units",
+      "staging": "A"
+    },
+    {
+      "code": "8706",
+      "description": "Chassis fitted with engines, for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of goods and special purpose motor vehicles of heading 8701 to 8705 (excl. those with engines and cabs)",
+      "staging": "A"
+    },
+    {
+      "code": "8707",
+      "description": "Bodies, incl. cabs, for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of goods and special purpose motor vehicles of heading 8701 to 8705",
+      "staging": "A"
+    },
+    {
+      "code": "8708",
+      "description": "Parts and accessories for tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of goods and special purpose motor vehicles of heading 8701 to 8705, n.e.s.",
+      "staging": "A"
+    },
+    {
+      "code": "8709",
+      "description": "Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles, n.e.s.",
+      "staging": "A"
+    },
+    {
+      "code": "8710",
+      "description": "Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles, n.e.s.",
+      "staging": "A"
+    },
+    {
+      "code": "8711",
+      "description": "Motorcycles, incl. mopeds, and cycles fitted with an auxiliary motor, with or without side-cars; side-cars",
+      "staging": "A"
+    },
+    {
+      "code": "8712",
+      "description": "Bicycles and other cycles, incl. delivery tricycles, not motorised",
+      "staging": "A"
+    },
+    {
+      "code": "8713",
+      "description": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled (excl. specially designed motor vehicles and bicycles)",
+      "staging": "A"
+    },
+    {
+      "code": "8714",
+      "description": "Parts and accessories for motorcycles and bicycles and for carriages for disabled persons, n.e.s.",
+      "staging": "A"
+    },
+    {
+      "code": "8715",
+      "description": "Baby carriages and parts thereof, n.e.s.",
+      "staging": "A"
+    },
+    {
+      "code": "8716",
+      "description": "Trailers and semi-trailers; other vehicles, not mechanically propelled (excl. railway and tramway vehicles); parts thereof, n.e.s.",
+      "staging": "A"
+    },
+    {
+      "code": "88",
+      "description": "Aircraft, spacecraft, and parts thereof",
+      "staging": "A"
+    },
+    {
+      "code": "89",
+      "description": "Ships, boats and floating structures",
+      "staging": "A"
+    },
+    {
+      "code": "90",
+      "description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+      "staging": "A"
+    },
+    {
+      "code": "91",
+      "description": "Clocks and watches and parts thereof",
+      "staging": "A"
+    },
+    {
+      "code": "92",
+      "description": "Musical instruments; parts and accessories of such articles",
+      "staging": "A"
+    },
+    {
+      "code": "93",
+      "description": "Arms and ammunition; parts and accessories thereof",
+      "staging": "A"
+    },
+    {
+      "code": "94",
+      "description": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",
+      "staging": "A"
+    },
+    {
+      "code": "95",
+      "description": "Toys, games and sports requisites; parts and accessories thereof",
+      "staging": "A"
+    },
+    {
+      "code": "96",
+      "description": "Miscellaneous manufactured articles",
+      "staging": "A"
+    },
+    {
+      "code": "97",
+      "description": "Works of art, collectors' pieces and antiques",
+      "staging": "A"
+    }
+  ]
+}

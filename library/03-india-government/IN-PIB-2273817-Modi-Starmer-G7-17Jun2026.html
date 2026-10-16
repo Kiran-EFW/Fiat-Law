@@ -1,0 +1,1035 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Press Release Page | Press Information Bureau
+</title><link href="css/style.css" rel="stylesheet" type="text/css" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="alternate stylesheet" href="css/change.css" media="screen" title="change" /><link rel="alternate stylesheet" href="css/green.css" media="screen" title="green" /><link rel="alternate stylesheet" href="css/yellow.css" media="screen" title="yellow" /><link rel="stylesheet" type="text/css" href="css/prtint.css" media="print" /><link rel="stylesheet" href="css/style3.1.css" type="text/css" />
+
+
+      <script src="js/jquery.min.js" type="text/javascript"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true" /><link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet" />
+
+      <script type="text/javascript">
+            $(document).ready(function () {
+                  function getParameterByName(name) {
+                        var url = window.location.href;
+                        name = name.replace(/[\[\]]/g, '\\$&');
+                        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                              results = regex.exec(url);
+                        if (!results) return null;
+                        if (!results[2]) return '';
+                        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+                  }
+                  // Get the IDs from the current page's URL
+                  let prid = parseInt(getParameterByName('PRID'), 10);
+
+                  if (!isNaN(prid) && prid > 0) {
+                        $.ajax({
+                              type: "POST",
+                              url: "AjaxMethod.aspx/UpdatePRHitCount",
+                              async: false,
+                              data: JSON.stringify({ 'PermId': prid }),
+                              contentType: "application/json; charset=utf-8",
+                              dataType: "json",
+                              success: function (response) {
+                                    console.log(response);
+                              },
+                              error: function (error) {
+                                    console.log("Error in AJAX request", error);
+                              }
+                        });
+                  } else {
+                        console.log("Invalid parameters:", prid);
+                  }
+
+            });
+      </script>
+      <style type="text/css">
+            .table-responsive {
+                  width: 100%;
+                  overflow-x: auto;
+            }
+
+            .banner {
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: center;
+                  background-color: #000;
+                  color: #fff;
+                  padding: 20px;
+            }
+
+            full-width {
+                  width: 100%;
+            }
+
+            .logo-left, .logo-center, .countdown {
+                  display: flex;
+                  align-items: center;
+            }
+
+                  .logo-left img, .logo-center img {
+                        height: 70px;
+                  }
+
+            .countdown {
+                  text-align: center;
+                  background-color: #444;
+                  border-radius: 10px;
+                  padding: 10px;
+                  border: 2px solid grey;
+            }
+
+            .firstnumber {
+                  color: #000000;
+                  position: absolute;
+                  top: 50px;
+                  right: 90px;
+                  font-size: 30px;
+            }
+
+            .secondnumber {
+                  position: absolute;
+                  color: #000000;
+                  right: 45px;
+                  top: 50px;
+                  font-size: 30px;
+            }
+
+            .countdown .days {
+                  font-size: 35px;
+                  color: gold;
+            }
+
+            .countdown p {
+                  margin: 0;
+            }
+
+            .countdown .text {
+                  font-size: 16px;
+            }
+
+            a {
+                  word-break: break-all;
+            }
+
+            iframe, img {
+                  max-width: 100%;
+            }
+
+            @media(max-width:1199px) {
+                  .firstnumber {
+                        top: 40px;
+                        right: 72px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 35px;
+                        top: 40px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:990px) {
+                  .firstnumber {
+                        top: 25px;
+                        right: 54px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 25px;
+                        top: 25px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:768px) {
+                  .countdown, .days {
+                        font-size: 12px !important;
+                  }
+
+
+                  .firstnumber {
+                        top: 25%;
+                        right: 8%;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 4.5%;
+                        top: 25%;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:475px) {
+                  .countdown, .days {
+                        font-size: 10px !important;
+                        top: 20%;
+                  }
+
+                  .bannerimgdiv {
+                        padding: 0 !important;
+                  }
+
+                  .bannerimg {
+                        width: 108% !important;
+                  }
+            }
+      </style>
+      <script type="text/javascript">
+            $(function () {
+                  $("[id*=printPDF]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+            $(function () {
+                  $("[id*=printPDFEvent]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+      </script>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112591026-1"></script>
+      <script>
+
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() { dataLayer.push(arguments); }
+
+            gtag('js', new Date());
+
+
+
+            gtag('config', 'UA-112591026-1');
+
+      </script>
+
+<meta property="og:title" content="Prime Minister’s meeting with Prime Minister of UK on the sidelines of the G7 Summit" /><meta property="og:url" content="www.pib.gov.in/Pressreleaseshare.aspx?PRID=2273817" /><meta property="og:description" content="Prime Minister Shri Narendra Modi held a bilateral meeting today with the Prime Minister of the Unit" /><meta property="og:image" content="https:/pib.gov.in/images/indian-emblem.png" />
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="C4E7H-KSCMC-422L4-W3EM5-U36MF",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"C4E7H-KSCMC-422L4-W3EM5-U36MF";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="m6mwq4lhuwtcq2tscxzq-f-5e5da26f8-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1825201","ak.ai":parseInt("1215205",10),"ak.ol":"0","ak.cr":29,"ak.ipv":4,"ak.proto":"h2","ak.rid":"5e2ecbbe","ak.r":47177,"ak.a2":n,"ak.m":"dscb","ak.n":"ff","ak.cport":24276,"ak.gh":"103.165.166.37","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1785861619","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==LXPhgQOE/blc1mfE+jE2D/hNITjKXblZlN2HMIVfXgK/RBpnowVuiMGGafYTI8W/HzZzfdYXYjDqkEKqTAnkK0mLYTsWCS0mxO+dJridKZ+6xbu2irKBQt6+8m5zWM5Jc7wm7AhmvpUj938HT3F2Vrs0WPvxr1Ye+MSJJa+BbmQhImwyq0IcBcYYMNXKinkwzH+HAsSoiRDGbLMEfbe4PGKHas7CyPPzLHg2tpHf/SX34kYLuHWuytHu6IKXhlA6zj10U6Q1locYuNurB0Fw5mhGtwPQgy9z8JOiCMLTH3zKzpQR9qeKo1l5NNqVtoq+bQf8bzFfmlu3TIBHaDWT45QHzOULnZZerOVFejv/XxF40Vagqw1aJ920rOjVMxTSzp1TlVdWvc9eL4LSXgyDoLOJifxbhqRtar0q6S7VEto=","ak.pv":"9","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+      <form method="post" action="./PressReleasePage.aspx?PRID=2273817&amp;reg=3&amp;lang=1" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="sc_HiddenField" id="sc_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=b94hX14NMWluUQ9a73g0LYFvtKhY52TK8cbDkYB_F2GuPre4tdh-ebiiI4xuhXnRu6Q5dQjaQA4oN3PEeL0GrtKEyEY1&amp;t=638942408819057530" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=YwOa_0w_u3oCLFqmIIOf-XEz4GWZ1DuyQIpxIA4LVkywj39sZSps12NbK5wNl5XN9JF3m7d-ey7BFDgj6i0380qRQ5IMWCL54sYNVU1IjMmiOWpp0&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=_shmykYI80CxCNR43Ii1nLy9PBGhuSe6SPp3CEYu0wDEuLqDAuIcsXVNhTIgQn0iyiwPorMflXuK31FftDX9GnB0m366MCEoOmY-eKQ3YAO9xRL0gIigzgRbtbVOgSQkJbJpFg2&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/PressReleasePage.aspx?_TSM_HiddenField_=sc_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a5a4df314-b4a2-4da2-a207-9284f1b1e96c%3ade1feab2%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3aa67c2700%3aab09e3fe%3a87104b7c%3a8613aea7%3a3202a5a2%3abe6fb298" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59B53027" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="cS36m+UPv8A2dOXJtcZZLfLR1PwS8vsQzzSIGsGklifQlN7fxpq6qpY98zSDUexlnoEdQPD54OOKd42sbR75DXxgXVwV2c/3W3pqWBMgxu52Fauw1pChZQakVrsDDv1PAtBAOS5Q7//YXqC1FrCECVfWmZbdxzA7fZDArO9YjjNsNB4xRxBFS/mYzWcKn2KMuJeYy08QDGxFt1z5BhyhpcQ33eDXKhIbmEMcq/qY5DZo7M9b/cftcikBPux2l53LhnXq/k0dS7WnXgBtWSHVWmdnMA5ypZEk3MdfSdmoU/SKtoKd" />
+</div>
+                              
+            <div id="templateCss"></div>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('sc', 'form1', ['tupdate12','update12'], [], [], 90, '');
+//]]>
+</script>
+
+            <input type="hidden" name="hfGridHtml" id="hfGridHtml" />
+            <div class="container" style='margin-bottom: 50px;'>
+                  <div id="accessories">
+
+                        
+                        <div class="pull-right" style="display: flex">
+                              <div id="voll"></div>
+                              <div id="vollDT"></div>
+                              
+                              
+<div class="print-icons">
+<input type="image" name="Print1$print" id="Print1_print" aria-label="Print" src="images/printer_icon.png" alt="print page button" style="padding: 5px 10px 5px 10px;" />
+</div>
+                        </div>
+                  </div>
+                  <input type="hidden" name="hydpermid" id="hydpermid" value="2273817" />
+                  
+
+
+
+                  <div class="innner-page-main-about-us-content-right-part">
+
+                        <div id="MinistryName" class="MinistryNameSubhead text-center">
+                              Prime Minister's Office
+                        </div>
+                        
+                        <div id="lg_g"><div class='log_oo'>  <img src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2021/aug/ph202183101.png' alt='azadi ka amrit mahotsav' /> </div></div>
+
+
+
+
+
+                        <div class="text-center event-heading-background">
+                              
+                              <h2 id="Titleh2">
+                                    Prime Minister’s meeting with Prime Minister of UK on the sidelines of the G7 Summit
+                              </h2>
+                              <h3 id="Subtitleh3">
+                                    <span id="ltrSubtitle"></span>
+                              </h3>
+                        </div>
+
+                        <div id="PrDateTime" class="ReleaseDateSubHeaddateTime text-center pt20">
+                              Posted On:
+                17 JUN 2026 12:36AM by PIB Delhi
+                        </div>
+                        
+                        <div class='pt20'>
+                        </div>
+                        <input type="hidden" name="hydphotoUrl" id="hydphotoUrl" />
+                        
+                        <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Prime Minister Shri Narendra Modi held a bilateral meeting today with the Prime Minister of the United Kingdom, H.E. Sir Keir Starmer, on the sidelines of the G7 Summit in Evian, France.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">​The two leaders reviewed the strong momentum in India&ndash;UK relations since the reciprocal visits of the Prime Ministers last year, and welcomed progress across all pillars of Vision 2035, including trade and economic growth, defence and security, climate action and green energy, technology and innovation, and education and people-to-people ties. The leaders looked forward to the early entry into force of the Comprehensive Economic and Trade Agreement. They expressed satisfaction with the robust education partnership, noting the recent progress with the University of Liverpool to establish its campus in Bengaluru, and with the University of York and the University of Bristol for their campuses in Mumbai.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Prime Minister Modi thanked Prime Minister Starmer for the strong representation from the UK at the AI Impact Summit in Delhi earlier this year and welcomed the steady progress under the Technology Security Initiative, including the recent launch of the India&ndash;UK Critical Minerals Global Supply Chain Observatory.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The leaders also exchanged views on regional and global developments of mutual concern, including in West Asia and Ukraine. They reaffirmed their shared commitment to further strengthen the India-UK Comprehensive Strategic Partnership.</span></span></p>
+
+<p style="text-align:center"><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">********</span></p>
+
+<p style="text-align:justify"><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">MJPS/SS/ST</span></span></strong></p>
+
+
+                        
+                        <div id="reel_pic">
+                        </div>
+
+
+
+                        
+                        <br />
+                        <span id="ReleaseId">(Release ID: 2273817)</span>
+                        <span id="lblViews">Visitor Counter : 2030</span>
+                        <div>
+                              
+                        </div>
+                        
+
+                        <span id="lblRefPhoto"></span>
+
+                        <div class="BackgroundRelease">
+                              
+                        </div>
+                        <div>
+                              
+                        </div>
+                        <div class="ReleaseLang">Read this release in: 
+                        
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273850' target="_blank">
+                                          Gujarati </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273851' target="_blank">
+                                          Urdu </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273896' target="_blank">
+                                          Marathi </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273820' target="_blank">
+                                          हिन्दी </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273878' target="_blank">
+                                          Bengali </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2274467' target="_blank">
+                                          Bengali-TR </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273863' target="_blank">
+                                          Assamese </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273827' target="_blank">
+                                          Manipuri </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2274153' target="_blank">
+                                          Punjabi </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2283179' target="_blank">
+                                          Odia </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273900' target="_blank">
+                                          Tamil </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273888' target="_blank">
+                                          Telugu </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273881' target="_blank">
+                                          Kannada </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2273829' target="_blank">
+                                          Malayalam </a>
+                              
+                        </div>
+
+                        <div class="RelTag">
+                              <ul>
+                                    
+                              </ul>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div id="RelLink" class="RelLink">
+                              <ul>
+                                    
+                                    
+                              </ul>
+                        </div>
+                        <center>
+                              
+                        </center>
+                  </div>
+
+                  <div id="update12">
+	
+                              
+                              <input type="hidden" name="Hidden" id="Hidden" />
+                              <div id="P_CategoryManagement" class="ModalWindow" style="border-width:0px;height:60%;width:60%;overflow:auto;display: none">
+		
+                                    <div>
+                                          <input type="image" name="btnClose" id="btnClose" src="images/close_flat_icon.png" />
+                                    </div>
+                                    <div id="description">
+                                    </div>
+                                    <div class="text-center">
+                                          <h2>
+                                                
+                                                <br>
+                                                
+                                          </h2>
+                                    </div>
+                                    <br />
+                                    <div class="clear">
+                                    </div>
+                                    
+                              
+	</div>
+                        
+</div>
+            </div>
+            
+            <div id="PdfDiv" style="display: none;">
+                  <table width="100%">
+                        <tr>
+                              <td style="font-weight: 200; text-align: center">
+                                    Prime Minister's Office
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          Prime Minister’s meeting with Prime Minister of UK on the sidelines of the G7 Summit
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="text-align: center; font-size: 14px;">
+                                          Posted On:
+                        17 JUN 2026 12:36AM by PIB Delhi
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: left; font-size: 16px;">
+                                          <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Prime Minister Shri Narendra Modi held a bilateral meeting today with the Prime Minister of the United Kingdom, H.E. Sir Keir Starmer, on the sidelines of the G7 Summit in Evian, France.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">​The two leaders reviewed the strong momentum in India&ndash;UK relations since the reciprocal visits of the Prime Ministers last year, and welcomed progress across all pillars of Vision 2035, including trade and economic growth, defence and security, climate action and green energy, technology and innovation, and education and people-to-people ties. The leaders looked forward to the early entry into force of the Comprehensive Economic and Trade Agreement. They expressed satisfaction with the robust education partnership, noting the recent progress with the University of Liverpool to establish its campus in Bengaluru, and with the University of York and the University of Bristol for their campuses in Mumbai.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Prime Minister Modi thanked Prime Minister Starmer for the strong representation from the UK at the AI Impact Summit in Delhi earlier this year and welcomed the steady progress under the Technology Security Initiative, including the recent launch of the India&ndash;UK Critical Minerals Global Supply Chain Observatory.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The leaders also exchanged views on regional and global developments of mutual concern, including in West Asia and Ukraine. They reaffirmed their shared commitment to further strengthen the India-UK Comprehensive Strategic Partnership.</span></span></p>
+
+<p style="text-align:center"><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">********</span></p>
+
+<p style="text-align:justify"><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">MJPS/SS/ST</span></span></strong></p>
+
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 100; text-align: left; font-size: 16px;">
+                                          (Release ID: 2273817)
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                              </td>
+                        </tr>
+                        <tr>
+                              <td style="font-weight: 200; text-align: center; font-size: 24px;"></td>
+                        </tr>
+                  </table>
+            </div>
+            <div class="clearfix">
+            </div>
+
+            
+
+            <div class="section1">
+                  <div id="frst_t">
+                        <div id="arr_rm"><div class='sticky-social_mb'><ul class='social_mb'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2273817' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='40' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2273817&text=Prime Minister’s meeting with Prime Minister of UK on the sidelines of the G7 Summit' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='40' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2273817' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='40' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Prime Minister’s meeting with Prime Minister of UK on the sidelines of the G7 Summit&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2273817&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='40' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2273817&title=Prime Minister’s meeting with Prime Minister of UK on the sidelines of the G7 Summit&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='40' /></li></a></ul></div></div>
+                  </div>
+                  <div id="second_t">
+                        <div id="sndr_rm"><div class='sticky-social'><ul class='social'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2273817' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='35' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2273817&text=Prime Minister’s meeting with Prime Minister of UK on the sidelines of the G7 Summit' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='35' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2273817' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='35' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Prime Minister’s meeting with Prime Minister of UK on the sidelines of the G7 Summit&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2273817&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='35' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2273817&title=Prime Minister’s meeting with Prime Minister of UK on the sidelines of the G7 Summit&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='35' /></li></a></ul></div></div>
+                  </div>
+            </div>
+            <input type="hidden" name="ltrTitlee" id="ltrTitlee" value="Prime Minister’s meeting with Prime Minister of UK on the sidelines of the G7 Summit" />
+            <input type="hidden" name="ltrSubtitlee" id="ltrSubtitlee" />
+            <input type="hidden" name="ltrDescriptionn" id="ltrDescriptionn" value="&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Prime Minister Shri Narendra Modi held a bilateral meeting today with the Prime Minister of the United Kingdom, H.E. Sir Keir Starmer, on the sidelines of the G7 Summit in Evian, France.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>​The two leaders reviewed the strong momentum in India&amp;ndash;UK relations since the reciprocal visits of the Prime Ministers last year, and welcomed progress across all pillars of Vision 2035, including trade and economic growth, defence and security, climate action and green energy, technology and innovation, and education and people-to-people ties. The leaders looked forward to the early entry into force of the Comprehensive Economic and Trade Agreement. They expressed satisfaction with the robust education partnership, noting the recent progress with the University of Liverpool to establish its campus in Bengaluru, and with the University of York and the University of Bristol for their campuses in Mumbai.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Prime Minister Modi thanked Prime Minister Starmer for the strong representation from the UK at the AI Impact Summit in Delhi earlier this year and welcomed the steady progress under the Technology Security Initiative, including the recent launch of the India&amp;ndash;UK Critical Minerals Global Supply Chain Observatory.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The leaders also exchanged views on regional and global developments of mutual concern, including in West Asia and Ukraine. They reaffirmed their shared commitment to further strengthen the India-UK Comprehensive Strategic Partnership.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:center&quot;>&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>********&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;strong>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>MJPS/SS/ST&lt;/span>&lt;/span>&lt;/strong>&lt;/p>
+" />
+            <script type="text/javascript">
+                  var mPlayer = document.getElementById("background_music");
+                  var mPlayAction = document.getElementById("playbutton");
+
+                  var isPlaying = false;
+
+                  function playAudio() {
+                        mPlayer.play();
+                        isPlaying = true;
+                        document.getElementById('stopA').style.display = "block";
+                        document.getElementById('playA').style.display = "none";
+                  }
+
+                  function pauseAudio() {
+                        mPlayer.pause();
+                        isPlaying = false;
+                        document.getElementById('playA').style.display = "block";
+                        document.getElementById('stopA').style.display = "none";
+                  }
+                  //function HandleAudio() {
+                  //    if (isPlaying == true) {
+                  //        //Playing already Pause it
+                  //        pauseAudio();
+                  //    } else {
+                  //        //Play the music
+                  //        playAudio();
+                  //    }
+                  //}
+            </script>
+            <script type="text/javascript">
+                  var synth = window.speechSynthesis;
+
+            
+                  function CleanHtml(html) {
+
+                        html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+
+                        return html;
+                  }
+                  function stripHtml(html) {
+                        let tmp = document.createElement("DIV");
+                        tmp.innerHTML = CleanHtml(html);
+                        return tmp.textContent || tmp.innerText || "";
+                  }
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        //for responsive tables
+                        $("table").each(function () {
+                              if (!$(this).closest(".table-responsive").length) {
+                                    $(this).wrap("<div class='table-responsive'></div>");
+                              }
+                        });
+
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            
+            <style type="text/css">
+                  @media print {
+                        .sticky-social, .sticky-social_mb, .pull-right, #printPDF {
+                              display: none !important;
+                        }
+                  }
+
+                  .f_vl {
+                        padding-right: 30px;
+                        font-size: 17px;
+                        cursor: pointer;
+                  }
+
+                  .log_oo {
+                        // width: 20%;
+                        display: flex;
+                        justify-content: space-between;
+                  }
+
+                        .log_oo img {
+                              width: 150px;
+                              /*width: 100%;
+                    height: auto;*/
+                        }
+
+                  .sticky-social_mb {
+                        position: fixed;
+                        bottom: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                        width: 100%;
+                  }
+
+                  .social_mb {
+                        list-style: none;
+                        display: flex;
+                        width: 100%;
+                        margin-bottom: -8px;
+                  }
+
+                        .social_mb a {
+                              padding: 8px 0px;
+                              font-size: 30px;
+                              transition: all 0.8s ease-in-out;
+                              width: 20% !important;
+                              text-align: center;
+                        }
+            </style>
+            <style type="text/css">
+                  .section1 {
+                        position: relative;
+                        padding: 10px 0px;
+                        width: 100%;
+                  }
+
+
+
+                  .sticky-social {
+                        position: fixed;
+                        top: 20px;
+                        left: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                  }
+
+                  .social {
+                        list-style: none;
+                  }
+
+                        .social a li {
+                              padding: 8px 12px;
+                              font-size: 25px;
+                              transition: all 0.8s ease-in-out;
+                        }
+
+                              .social a li:hover {
+                                    margin-right: -30px;
+                                    box-shadow: 2px 5px 10px grey;
+                              }
+
+                                    .social a li:hover .fa {
+                                          margin-left: 20px;
+                                    }
+
+                  .fb_b {
+                        /* background-color: rgb(59, 89, 152);*/
+                        background-color: rgba(65,103,178,255);
+                  }
+
+                  .twitter_r {
+                        /* background-color: rgb(29, 161, 242);*/
+                        background-color: #000000;
+                  }
+
+                  .whatsapp_r {
+                        /* background-color: rgb(77, 194, 71);*/
+                        background-color: rgba(13,191,67,255);
+                  }
+
+                  .fa-envelope_r {
+                        /* background-color: rgb(219, 68, 55);*/
+                        background-color: #e2123d;
+                  }
+
+                  .fa-linkedin_r {
+                        background-color: rgb(0, 119, 181);
+                  }
+            </style>
+            <style type="text/css">
+                  @media only screen and (max-device-width: 767px) {
+                        p span img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        p img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        h2 {
+                              font-size: 20px !important;
+                              font-weight: 600 !important;
+                        }
+
+                        h3 {
+                              font-size: 18px !important;
+                              font-weight: 600 !important;
+                        }
+                  }
+            </style>
+            <style type="text/css">
+                  /* === Film Roll Badge Styling(IFFI2025 countdown) === */
+                  .film-roll-badge {
+                        position: absolute;
+                        top:82%;
+                        right: 20px;
+                        width: 230px;
+                        height: 70px;
+                        background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 18px, #6e2b8b 18px, #6e2b8b 36px );
+                        border-top: 8px solid #9a2375;
+                        border-bottom: 8px solid #9a2375;
+                        border-radius: 8px;
+                        overflow: hidden;
+                        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+                        animation: moveFilm 8s linear infinite;
+                        z-index: 10;
+                  }
+
+                        /* film sprocket holes */
+                        .film-roll-badge::before,
+                        .film-roll-badge::after {
+                              content: "";
+                              position: absolute;
+                              width: 100%;
+                              height: 10px;
+                              background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 10px, #fff 10px, #fff 20px );
+                              left: 0;
+                              z-index: 2;
+                        }
+
+                        .film-roll-badge::before {
+                              top: -4px;
+                        }
+
+                        .film-roll-badge::after {
+                              bottom: -4px;
+                        }
+
+                  .film-roll-inner {
+                        position: relative;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        animation: flicker 2s infinite ease-in-out;
+                  }
+
+                  .countdown-text {
+                        font-size: 1.3rem;
+                        font-weight: 700;
+                        color: #fff;
+                        text-shadow: 0 0 6px rgba(255, 255, 255, 0.4), 0 0 10px #000;
+                        white-space: nowrap;
+                  }
+
+                  /* === Animations === */
+                  @keyframes moveFilm {
+                        0% {
+                              background-position: 0 0;
+                        }
+
+                        100% {
+                              background-position: 120px 0;
+                        }
+                  }
+
+                  @keyframes flicker {
+                        0%, 100% {
+                              opacity: 1;
+                        }
+
+                        50% {
+                              opacity: 0.9;
+                        }
+
+                        25% {
+                              opacity: 0.95;
+                        }
+
+                        75% {
+                              opacity: 0.85;
+                        }
+                  }
+
+                  /* === Responsive Adjustments === */
+                  @media (max-width: 1500px) {
+                        .film-roll-badge {
+                              top: 68%;
+                              right: 18px;
+                              /* width: 220px; */
+                              height: 65px;
+                              font-size: 0.85rem;
+                        }
+
+                        .press-section {
+                              margin-top: 35px;
+                        }
+                  }
+
+                  @media (max-width: 992px) {
+                        .film-roll-badge {
+                              top: 52%;
+                              right: 10px;
+                               width: 200px; 
+                              height: 60px;
+                        }
+                  }
+
+                  @media (max-width: 768px) {
+                        .film-roll-badge {
+                              top: 56%;
+                              right: 10px;
+                               width: 124px; 
+                              height: 55px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.9rem;
+                        }
+                  }
+
+                  @media (max-width: 576px) {
+                        .film-roll-badge {
+                              top: 59%;
+                              right: 5px;
+                              /* width: 160px; */
+                              height: 50px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.85rem;
+                        }
+                  }
+            </style>
+          <script type="text/javascript">
+                const festivalStart = new Date("2025-11-20T00:00:00").getTime();
+                const festivalEnd = new Date("2025-11-28T23:59:59").getTime();
+
+                const countdownElement = document.getElementById("countdown");
+
+                const interval = setInterval(() => {
+                      const now = new Date().getTime();
+
+                      // BEFORE FESTIVAL — show days + hours left
+                      if (now < festivalStart) {
+                            const diff = festivalStart - now;
+                            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                            const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+                            countdownElement.innerHTML = `
+              ${days} Day${days !== 1 ? 's' : ''} 
+              ${hours} Hour${hours !== 1 ? 's' : ''} to go
+          `;
+
+                      }
+
+                      // DURING FESTIVAL — show 56th IFFI - Day X
+                      else if (now >= festivalStart && now <= festivalEnd) {
+                            const dayNumber = Math.floor((now - festivalStart) / (1000 * 60 * 60 * 24)) + 1;
+                            countdownElement.innerHTML = `56th IFFI - Day ${dayNumber}`;
+                      }
+
+                      // AFTER FESTIVAL — new message
+                      else {
+                            countdownElement.innerHTML = `✨ IFFI closes but never ends…`;
+
+                            // Width change logic
+                            const elements = document.querySelectorAll('.film-roll-badge');
+                            elements.forEach(el => el.style.width = "350px");
+
+                            clearInterval(interval);
+                      }
+
+                }, 1000);
+          </script>
+ <script type="text/javascript">
+
+               const miffStart = new Date("2026-06-15T00:00:00").getTime();
+               const miffEnd = new Date("2026-06-15T23:59:59").getTime();
+
+               const miffElement = document.getElementById("miff");
+
+               if (miffElement) {
+
+                   const miffInterval = setInterval(() => {
+
+                       const now = new Date().getTime();
+
+                       // Before MIFF
+                       if (now < miffStart) {
+
+                           const diff = miffStart - now;
+                           const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                           const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+        
+
+                   /*  miffElement.innerHTML = `${days} Day${days !== 1 ? 's' : ''} ${hours} Hour${hours !== 1 ? 's' : ''} to MIFF`;*/
+                           miffElement.innerHTML = `${days} Day${days === 1 ? '' : 's'} to MIFF ...`;
+
+
+                     }
+
+                       // During MIFF
+                       else if (now >= miffStart && now <= miffEnd) {
+
+                           const dayNumber =
+                               Math.floor((now - miffStart) / (1000 * 60 * 60 * 24)) + 1;
+
+                           miffElement.innerHTML = `19th MIFF - Day ${dayNumber}`;
+                       }
+
+                       // After MIFF
+                       else {
+
+                           miffElement.innerHTML = `✨ MIFF concludes, cinema lives on...`;
+
+                           document.querySelectorAll('.film-roll-badge')
+                               .forEach(el => el.style.width = "350px");
+
+                           clearInterval(miffInterval);
+                       }
+
+                   }, 1000);
+               }
+
+</script>
+
+      
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("sc_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"P_CategoryManagement","dynamicServicePath":"/PressReleasePage.aspx","id":"mpe"}, null, null, $get("Hidden"));
+});
+//]]>
+</script>
+<input type="hidden" name="__ncforminfo" value="rovCCWxBNhfEgH811riOj4siXMHx5i4h8ukq1CFO1PvYhMQI5Ob_HxXoTiJK9240K16CoAc3DJudz0dHpAOnJegG5jX8dqds4zO5LQzCJk_fAdPNeJZmmA=="/></form>
+</body>
+</html>
+

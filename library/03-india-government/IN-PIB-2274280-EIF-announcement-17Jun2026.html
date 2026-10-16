@@ -1,0 +1,1269 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Press Release Page | Press Information Bureau
+</title><link href="css/style.css" rel="stylesheet" type="text/css" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="alternate stylesheet" href="css/change.css" media="screen" title="change" /><link rel="alternate stylesheet" href="css/green.css" media="screen" title="green" /><link rel="alternate stylesheet" href="css/yellow.css" media="screen" title="yellow" /><link rel="stylesheet" type="text/css" href="css/prtint.css" media="print" /><link rel="stylesheet" href="css/style3.1.css" type="text/css" />
+
+
+      <script src="js/jquery.min.js" type="text/javascript"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true" /><link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet" />
+
+      <script type="text/javascript">
+            $(document).ready(function () {
+                  function getParameterByName(name) {
+                        var url = window.location.href;
+                        name = name.replace(/[\[\]]/g, '\\$&');
+                        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                              results = regex.exec(url);
+                        if (!results) return null;
+                        if (!results[2]) return '';
+                        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+                  }
+                  // Get the IDs from the current page's URL
+                  let prid = parseInt(getParameterByName('PRID'), 10);
+
+                  if (!isNaN(prid) && prid > 0) {
+                        $.ajax({
+                              type: "POST",
+                              url: "AjaxMethod.aspx/UpdatePRHitCount",
+                              async: false,
+                              data: JSON.stringify({ 'PermId': prid }),
+                              contentType: "application/json; charset=utf-8",
+                              dataType: "json",
+                              success: function (response) {
+                                    console.log(response);
+                              },
+                              error: function (error) {
+                                    console.log("Error in AJAX request", error);
+                              }
+                        });
+                  } else {
+                        console.log("Invalid parameters:", prid);
+                  }
+
+            });
+      </script>
+      <style type="text/css">
+            .table-responsive {
+                  width: 100%;
+                  overflow-x: auto;
+            }
+
+            .banner {
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: center;
+                  background-color: #000;
+                  color: #fff;
+                  padding: 20px;
+            }
+
+            full-width {
+                  width: 100%;
+            }
+
+            .logo-left, .logo-center, .countdown {
+                  display: flex;
+                  align-items: center;
+            }
+
+                  .logo-left img, .logo-center img {
+                        height: 70px;
+                  }
+
+            .countdown {
+                  text-align: center;
+                  background-color: #444;
+                  border-radius: 10px;
+                  padding: 10px;
+                  border: 2px solid grey;
+            }
+
+            .firstnumber {
+                  color: #000000;
+                  position: absolute;
+                  top: 50px;
+                  right: 90px;
+                  font-size: 30px;
+            }
+
+            .secondnumber {
+                  position: absolute;
+                  color: #000000;
+                  right: 45px;
+                  top: 50px;
+                  font-size: 30px;
+            }
+
+            .countdown .days {
+                  font-size: 35px;
+                  color: gold;
+            }
+
+            .countdown p {
+                  margin: 0;
+            }
+
+            .countdown .text {
+                  font-size: 16px;
+            }
+
+            a {
+                  word-break: break-all;
+            }
+
+            iframe, img {
+                  max-width: 100%;
+            }
+
+            @media(max-width:1199px) {
+                  .firstnumber {
+                        top: 40px;
+                        right: 72px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 35px;
+                        top: 40px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:990px) {
+                  .firstnumber {
+                        top: 25px;
+                        right: 54px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 25px;
+                        top: 25px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:768px) {
+                  .countdown, .days {
+                        font-size: 12px !important;
+                  }
+
+
+                  .firstnumber {
+                        top: 25%;
+                        right: 8%;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 4.5%;
+                        top: 25%;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:475px) {
+                  .countdown, .days {
+                        font-size: 10px !important;
+                        top: 20%;
+                  }
+
+                  .bannerimgdiv {
+                        padding: 0 !important;
+                  }
+
+                  .bannerimg {
+                        width: 108% !important;
+                  }
+            }
+      </style>
+      <script type="text/javascript">
+            $(function () {
+                  $("[id*=printPDF]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+            $(function () {
+                  $("[id*=printPDFEvent]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+      </script>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112591026-1"></script>
+      <script>
+
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() { dataLayer.push(arguments); }
+
+            gtag('js', new Date());
+
+
+
+            gtag('config', 'UA-112591026-1');
+
+      </script>
+
+<meta property="og:title" content="India and the United Kingdom Unleash a Next Generation Economic Corridor: Comprehensive Economic and Trade Agreement (CETA) and Agreement on Social Security Contributions Set to Enter into Force on 15th July 2026" /><meta property="og:url" content="www.pib.gov.in/Pressreleaseshare.aspx?PRID=2274280" /><meta property="og:description" content="In a major stride for India’s global economic engagement, the India and United Kingdom today announc" /><meta property="og:image" content="https:/pib.gov.in/images/indian-emblem.png" />
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="C4E7H-KSCMC-422L4-W3EM5-U36MF",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"C4E7H-KSCMC-422L4-W3EM5-U36MF";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="m6mwq4lhuwtcq2tscxta-f-f6c88fc22-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1825201","ak.ai":parseInt("1215205",10),"ak.ol":"0","ak.cr":10,"ak.ipv":4,"ak.proto":"h2","ak.rid":"416513ee","ak.r":47177,"ak.a2":n,"ak.m":"dscb","ak.n":"ff","ak.cport":20774,"ak.gh":"103.165.166.36","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1785861606","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==OWHhCO/jYFsCn6En+XZIZjvtdXZXtHWgG1/rhxU1Gqg03m/oHZkSRXMQPs5cHm1/2UQvEaJyFLcc/cWNORdxP5eL99nKEdhjxSwwQSru16xhn4CampMQ0/wuJPRS5CzLGi9LSybH5mQFjcl4Piy9UTiVOAi31x+gG8sf0CCYB6euOrCjplntJ61mx3bQE2h9zCIWQnQ1XShC9o+ypH92MxtBScPK+Js9u5n3TyTYegNa1esv6lO0QqpjUj4dDQsYXIHvIQ+DwvpsI9WUx4c80EmPLSQX2bM6xyDkwvU1s0XwU3GlupDj+7NvhBtwT9bPVxLQxhStj8FX9A4GJXbikcuXoBXmr3XM+fFOE9XaftZu99R5Tyc9oez/C8DXPbMGDSQmkwzX7f/gXM7tTv9WyBsYpTkeEHiYxqpvPtWekEM=","ak.pv":"9","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+      <form method="post" action="./PressReleasePage.aspx?PRID=2274280&amp;reg=3&amp;lang=1" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="sc_HiddenField" id="sc_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="rKRe/wYMdK6YaK51WMl1k9aJw3vqCuY+wDwaJVX4SNpJnjq8mbuMfzCwtWJKHHSIUIcyd9Ruffzzl66i4g6rEDyn/NQStZWlnTCyrkQo830k5Ngj135K49q7Yx1HKV7Zyr0yuZSy+AddEp59h/EnYghiErXHgnF0i4thEbRxNJPq+CH3lCpMxh8RfG2F95SnKTDK0H7VkUE4IHy4Vm8jTXRNnkSyb7GQEW7EEQXDzBfEfpYryXpmt4ygsSfgwIRAlVP2ogw6LxA0tWVhiFuQlZcXljQDXEZRmUunInR1MewGOLckn6CuEgR27LEgCC6Z/RAD2VA5NPAKyFdgsIXnprY5txG3HPnDeqHPhMZaguOOIdjgls4MShRd6V1ly3mXY+zrthlEx35uPhDQTx4KeftoztG2npwoS4eHz9XkBSNK5LICIa8ija0gFOMMYd0rzXJTHxLNt+buntLeXIx4PHKFWdwsGHjZusgIN/5gtxEbfzLmvryEmk7iHuy3sCcVUQAWn48hN0xnsnhwH/lkVgSFyV2Ftrc/++G66xzDudA+vr3pCKsxE6U64VQIP9O+zOHSnmA2XLiWK32HCdwSjb38pgt6RKzouUJWiuqyCDr3e3zbcMJqDFupITd+oj67SEQZuAjR5b0W9PNlgKSQC9Yhb8y4AoCazbbJ3+8V+u4Z3sa0Gvygk0ZfSkuBTkZQCCxK4fzUWrNNjDHGhL9SfN5Z91Y1rE6YNG5HNrDA6gU83iYL7i5a1dV8NFSG9TLQgUUhcoGLuCxRF/Zs/pRd74rE1dqAc4DSInvXjUZm+6TC8K4jfEo4e0emJP41cuSG1Cg0O1sLv8Qi/FYpdh3MMU9VtFGQkgKU91yofzzgAnD4Vu3S3Kmcp8L5a4jzA+5CM7Xu4uE3bkUaxXBtNrlL4zRNK4XXLdU86lSd8CqSVwA7X/rtBh6+P0JtaVsqnbSBLMvUUkdw9ulQOR0mDDOpW+IzGEvYiRB8A7yDtQhryvD6OYi4lRbpLAoNMLkJ+KLi8765RcL9hfjF/CFK5X4xBtlywXRroJvtfQQRIpOWrLwOs8jriECcfDhHNVgHeiKqF4aDd1I5EO+015EH/gKBzyZoqDeSTbyS0SdN4pbN+QuHF2TXbeVSLiSlmaf/bZe+LGK5QVhnbkSx8/WL+3UaVZT+syEkNGOOoYP0j13E/p3GaNFIYOj3K8u0h+BBd6zCvDYsKLpt/Cfe+izdSZ0NcGoL7IXyqVJwd2cPEceJK73aDYembYIq/bWXTFdUapaow3udiD1X2UBBm1MKE0n9RF+5ReN0orhBOeSySExABuGF4u5iSK/1WO+dtzydCfoCm+Kt8LNLbHOQMHbpk8zllSGqljqoOQdVfTD42tTgDA8fkbVdR76hece3pdXzuVDAtH7Q6TQSZyB+L6f6sF7eiRX8ztMb98ci0hma9H4wpU4gkFBCFjZcLNp6bXRxGGCB4/kYWWPjUoGvg9lLd4fEF+XHSRgGo2j0ZTD6j5eTWEIcD+3nzcSPFblN62tNxPc1QjE/8/Sh3x03cp2s3D3lmcqlVEb4yY+wMKTaHCjbSUHmfAW7ff0j7SNQcYl5yJe7V52gaJ9wZ0T1EyFNV9PjxFt4iDqWks7eC8pDBZk4jCErxc82Kf8PtMewMebPn/0VgmTOsglGdj4cpDts3ZYs4wRf88rbG6RcNbKaU1NaMQHoRaTz//tP/e2adtHTSRr9t8HNiyrUGJXTSdkOrwqDMQA9rXH4U/cfH2j1Jg4FQvHsSwwnVusz5UbSI9pMATeZbqaoxKEd+k79kQXHrswlJFGpWoE/5Q+T6LOrggQGAQYWPuxAML0SqmXv7xWHg0DcpjKUjwmu69m3cTJVE3VE/k51Lj+sspqHfw+S3rESzPAbOpTJwFvW0uG6nPGEbGWcpjM9zht0NxdoNcuBokaALG7kGq4mq36keA8xRyV6dukXNI6hPnlTFWPqUBv3K8kMbxGuQJSPT5HDJuPA5taA8EbSOH36ssU2pSrdoG9bXTs1uYB4WeLIpKFn5n+AmITro8OhkWs7WERI4D1MFdRIygefVgPMuA/nKWSBi2n0GtZGzPRgxs+i8IZPgfug61EvykAFDWMPtEuYTeKHkYHpv7txoWe11gXjyNBvJz28yJcehaIIMTuFjJAmikWSq7m2GmRvctt59g4cXsxYIIiSEGraIvTWIgDYSxPzZXeNClhvKVOZfS+KC1CslOhzMTU3z4+MsaFgUcp9mVy+7wv1F0W3huX8S53+a4H5odm4E62SWNCbaTQJ6EXBlD8OeQ5NAVNOA3EhrqULbwuScAeQCu4ziAPi4Fhj7/ipUhnrv6yoL6NWA4cspXIQyn+9viMFVK3mNhRtx9oAZuN9MQhGIygaI8xUBmRFmtkBEkrKaYvnr9fBqmgBpP09WIsoAfl3aRZNpItF0tpk330yMUGt26UMRp+14B/WNxqF2QTyYJiL+mLyc7fsGZvPTC2FarRQsKoTyJrQGeai8yei/+039Jb3zH61VZS0mIPt0TA5eAvFCHeskFqkTOMAIMhvLK4dYDY8DxlIiiKcqp5/7Mg6Rt4M3CvcBmhR4mX6WEIFAgmvWbVg9pEsfHDuYYHHGUaoQLFRVP3JxynvY+3MDdNzq7H7kzl/MI6b3wLoGuYj8qvHO7eg/r0CZovzSrvqPXcwIpQ9O+z4lYHHOUmKHBth58fkOWhi2nAs66lowRT4RrjLkZduRILJeb2wxWi3GxErsV/h941kZqC6HcPlunXFVyB6aeU46S0s7dfcqWDrC8igZ/6yf5lvFWwR5s4Ll8g2J8nld7Hdso6MF6BocYetaQs5AuZiCc1kQnGEsGFODIMr5gBwyCoh5NuuTEAj7LtJD07A9SMAIYg8dAwJpvO4yjnrKThAQ31ACp+VdY9rqNYES1ZBJbZ7hyZgGpOu6bbO1OvCA1xmqf1JzL7aBAZRnnnlXsQL/7trnqkGzZdkkOnqNtbDp2BM4q9bMSdAHLItInpndt7ifeJNB10U8eNXJ2VMcm86avBHCKycurHtb+PMaNCeVqRkMtDwCt+hi5lvxoIAAffjX6lawm9EUXr3IOkvNEHQZthE41Q5/yeKcYE7qDCQZRgLP8+efhMTLYwwiX4yDkNogj/aXDXise6F7TV1YTzbiEevcyVdfXDqFPB6iK/Gcl+HUCgETrHBKZv3hBSpelU32Epo7Uz/4ys+Goa/JBfiU+X4fWozbrxyJsTiWz4TtXdx4cwIaHYFQppF4RKWTdJt4t6l1Euhe8aaR/12k5KaawhELmLSR2czBH5cJzGgDpPXEdS9nd0hArlKal3LzYofm0fKO3SV2xjehuT71svZBcy4NzhbowdIZVOa9xKR6Sef7PZ44+i8cpvbVcwQSf0ryFVDuayQgm8FExzFSAjK9YUHwU/eCNl1ptztFNBxV4LwpnTdO+IDN7eYNv4Ljzq1uWPky7QolpgIv6JrTobpGSZzxKeBA0QajvM9tqD7lrc2MFbXliOwofB+RNpWOUYMmhKWUWLDgsJ59IamjRkgvza/TdX27CEG+gMfH0T3w/k9SJTbnvgUWivmq8SwbcmGzt+IiMhCr0yWSbnjgbX9RQ9UQkW8F/JfsRGqvhaJ2uPapomWnuKzQdtJ9ZBc7/s5sj9zwjTHWQ+fJvKU+scYLjuilXSjGL193vQj2LJc7oMa7vtld25Et6A+Vs0bRc16Plvd2ZdRRJKqeKT+G/2oIP/Avot7GjnW33JRTsd1QwPjcC3L2p3sh/4VihpScuWjtyb7AjFGIKOHcq20C2MgAc5w+dq6dTyv+q10MmUYtuPULtaKeXB9nnxufQArV6yJE1OLRcOUdvcf+1hlc5XO85mg1DEVdq9dFwUYy7OmCFmdJU9O4FjzvXaJu4nKIbBIbnpq62HoHCvtZbIHxBpholG1e6Tqxpv3fqJKMjbOgjGa+ZwYqRAsyWVA8shXKxDXQ8aWtb7C//css7m+jmGJfzU+mF8lAAEmRrWkQCBYRJHTCw1tXfD20YEAytuwi0lPR4Jgt2tcwXP+2uVq/yOsKqK85PWXWuzJ2ACOMTXoavj70hjTFInpMhSnwDVTakuY6K4O93WMQjAl/S2X/lnHetEh/s4pfn5VmIYJDWDgni+ueOISKIH+sUqnoXh/LqzL70pkAJw/hTO7qTSu87S/EOlW2mQwqQmr+C4aLvlPh+ifXI3dGl0k9huR6LxlvuF5Zi1l5VD1/xbIUKHUEIC4D8AidYxo7TqnzZV5/8FY7GbN78V2XtourM/gSY6lLxh9op8UGPXE3m4FBn0oo8kbk4ZGU6ddKFencSyovHZccf5o0pVSicWZXnf/l8b/Nf+FRt9TbDUjEdfuU/JYVYImyM8Fz/cjP6Mj8D7VQod7i7OatnegbWHA5y0ne49u52MaY7WInKRazF7aqM8Wery4wuHyyL5hJ88gUOSK/dcLCNPX96k3rzwbhhfDFyjmibUqZQxnteCU3lNf99u00x+plxyK15sIuKCXVsTe5NlTqorFjfZZVts1mRB05Rhel6jBAn2MDOzmI9UzzivZU29iJfNfTqINIbOspLLta3xiwqojcQ7UQqjHEPSHoxGlJNA4Ytwg4ICS3CSj3iS8HWixf3KGexvuEhDeT7TBbwsDf0azwCD/EZis6HFCqJ8ED+F8beTDkJsDsqv0FaOHi2y4d+bD9xBfOh70/zVxlsXtXLDcJb8odD00ziFuJkYEb97vSttcTAbPTFpylUQqdNKGDSuyFlWjMyL6W8GjxZIpAIMRW3F5tgL94jRLp9lT3DZ1JjvRHR7/Ngf0GM259qyFPCRNkCo58CdMAjY65TQrt8/uo2eZ/eLRr/vNVG51yX6DR37RrUybhzC8WxVTmguxrXrWNwCkFDl9V3W4WP1Nz7EsWR76+9o792I5rFKPVYMPhwV57tKkmfcdgsBSpypuf2S5IeHurSlFULVWdGHu4m8JCoJ9Pj0OescdCvmKo6fPWDrWHYpElfi3KOKRQKNMfeHwsrnb4ydR1xBhx5TEUPO4g/GApSYx/+EYk5KEv1mljL94LoITTbYx8z1mInE9p3tnftzzSIE8zwkwx3/FVr3IJxpi/jgkvUjAjKqPMa605AIfXIer2Ea9OMndUToqy5jo9Smt1M1/CagnY5VQniU6Tlf4EdjPrX0gwpDlFmAHl0+szvJ9a164unoTQ9k+5E3M+Oq8W5+C/HV0mC9WWR5QrI/C8URQ3Hpp6M4hgyz8z1JdEwbj1CQD67NbQL9YnbUQdAoDtofnQ+JfONWInF0+3oosIReP16ICLTMv8C+WAWggZhRY2aXYuzoiVnYGT1frm6jkshJ0VqLFs2WWUcjE3XQt+rf1bcz8D+1RieRGa8nR+ed8HWmZmpPIRM0+1Dy94WyccbN2mJj+/qrfoLftny7SyabuRRbA1JMxr+U1uyareXyyXbjug3hNvPnvR2XPIaNnAzusjPfc7lz1vTWcol6GoU1yKhswvdZktYQ9iK56Z9y2jbnsQTv8BiavlCJBeE7Pahryh/DrO1K65ToJGOirTslEFEQ44ivNPwv8D9IhHEaxwTzbqThXoKzpw6LReDL1vS2Z3lIK0mhDsFHL1uupPE9NOE15AzZYbuMG0ylW/2F9zgI1/e1Zv3Cmv96+qywRsC0GQSnTlU/Xnj3n/z000JOPUi4NkXXz6yZG9be37wlxbiarTsIygwJbLBiZxIURCd92WjBS/GBN4aqwmTKvXCw1oiX0E/IAWRLe1l7j34uqA3YDZbAF5F3cc1ggGBZXlRYXQcCc9Gwa7KPd6k0u1cx7MlMmBTSBvT9YKX1WeYCSOifd5YG4xBi5RcHKQD9xqjT7vVGtOF87jb2Ne4bJ2BdRKkHvjVKhacR050GiHYP0RjctfFFt5Igh60fescT4sx3WJItdU3vDqjulGHwXAhARwaPjaiSxiuogz5Uneg4bQR0rjeKS867lsJq2J0OD+w7ZOmwzX9kS0ygPxhbIVXT6fKTOJqIIk0y8FSVKNc5wNYnr7cHIGkHYER8QdSUNRfr26yfMFPLf2+8iSPQtsI0YxyzH9VZ5//timpbMnstxtvxgvbhqkx/5nOin+tnQeTKgCIptXJX3pFNLV70z+rh2KbSyJrE4K/LhE9L2yDvr3Ssjgb7Qm0gkNTTHzlyRedgeWmo1DufQCTvmAsLrhU3C2+6j2DNYTClPR2USn9c5vZsZet8Nkvx9QgGbcz//qvDlbDczu6WmuHtb/esxGfBBhNloz6uWdLlf1OsM35skM1Qzbl/A/OxGQiNK9eoDVpu8TezayY58IrgS5RhvUYtsQTgAFHs480BCEpw3z/3sEhS0/gr+ApUy78Exg++NQANOq79Eho9rehA5l5sofEaw/QDRoCW8yhLd0s28O033YDVe4SCCS7mEBN1m9erWHhkgGDwVuqrZe8PsBQwSlphRuktSmLZumKkMJTRMOhTumldYTa9TiBoO7QHqUXbDtzm3cJu12elOElCCh7DMGJG2gb1IeJzdOvNizy6TYPEBwEgXhPC1L+dBUZ1g7PTLLw3rNBT6hQhfwfd4ISyS7PfDzpv2emWF0Vp3SCmGFzhpImKHvWIdFTZ4eo4Z7Mvliro/awfJGHL8BCk1pjEe7BxKusDERQZMMc8Ep/eNYjXlAQztyizqdQTEsoxnsmcl7t22aiUO9Fp1Tzocv/A6MIIUQPgj74ZPZ1EYELD9mEBC3+tld8XHCcVB3ZzHjeLb42BBM4YoCQqvNeWNnZ5BHInYCoiDpvLofOwwSU10sbygZ06JKiwCpA1/WM9IOoU5s8OxNg+9lKwPho8bryyMhjH0tFaSXNjHXSOQJNIZqEw0lZoTnHPst3s1t7JfmDnz03d/Ptc+4o8vvGBe+40bJLuiHkIy8svFNncC2cN6ZemSPKahSepWvpQN7sxx/GfZDF0GhRsN8mjwS2Wcodlm/sO+NrpcT1hQhwJMBO1QNAgL71C9SNi/7ZZhfgKkpoBQt/+Jngo75qKbeSfUIOD4hxk34qFFjaaE7BVmPL4cU16WfvSlnSo3gOz2CGcbMFSGkkHFHpVpSaREIzGJf5ve+SOQkgTZlcoLuGSLU4bAriuLc7ThtVUAYM7GbukLEYH6P2cqNgfR6qfvoJ5wiGEQX6aDwkhhe+co335f5Yh3MpFZPScprgduKYuR96ZSAzUepPUjzO5mrzWWygtu/DiRbNWUzx5s/oOZ9kpBBV9G9JYNoWFN6+X9B5AR07Q9kLiSXBdrJ8bhG5Ng+oDERB1WgYtEGb/PBiPb55cgtwaiasdaFvtkrk8df0RMW8V+/kc8i52MEdk9EbDhSDrTVgOzWqk0HKj9S0KcNgRjCuONn2w6nA1sxCavK/xkVd1dmUrhcZBe6V9yZGtTSOc6+D7aZDCOn7XTOczHqTjdCb2NVDplWiJaQf0e4Rc5MVZUMwc/Vn9MMpKqXFaaeQy5+uYdxO9X3MqrxFaJT30pwCv+3GcbVEvBoDJae3tXGmbEnbZoJZh26buJng//ITGDTMQZ/uX0i+J3ihbEQs49haAqQXtV8mGXtd8SUk7QP3XQdyG9dxC63Ry/kQ9vzmuPjj4f8Tf8YYolrf5Kl5kurOLuBBeeZ9gY4U99DfkWYkh5LdCfllocFisn36smJEAVsbi1xhT/YX+seFjlNYhgva+9rzexTPirVISVTZTzwFKgDdNe1UYI0F5XcmdrwGySefQESaIToaly5T3/VHvx06Vbd752IDL1RZfD36ob2Uu6l266pz0ZiG2Jia3NExq6BF3MHveC+CwH96QjDHAzrPVhJDq0VoIB4YVKmv9uGK2lr/5uGQ641L6fdMc38ePy9sYJ6JfZoswIfWqmMBd5JMndFGaG5GmTcA9WTp2MomFzxMJrulT5Yuo2t3aZ5uF9mPVcZvmqXPzWjs+UTOr50IyIwoMqaTnufxBZUYvXsU4/1OukmcEYh8ySQrVRIFpCaC3Scq96vtxjMTaHAqFyInYnE4Qwxy7Q14k4NLPCdIHzI4dQSJ58TAa2d2zGYugpbqjEVmz791C8YgfjtOuqa4DronvIKTgFElaFUIcr8ZbBIynVwU3snn4VzFUIIWB7ZfsElpdeBRMCdHnuJ6R73mMLqpJxaypq9P0TQ6anuRvRZ6LLRB/m1ASV8tu1WoOwbs0/jJVS1D0gcy7+OVzH6yX8L9xCiGUCzCXEqBdL88+/gRSpyXbQ2u/wwblKIF6PImTISgArcXwTbM9PyU8rx8cQEtYPLsJTa9C285jAO4MU8867Vdw+H4qReDO2SkzzUhbm9tqNXxt604vLGC/me7dybMlvoJxteWTZfxwnJJNejtt1IwE7bWu5mmMAHyktRp0ZFK6kdhNmA+Ni/l/F3TSMwZRyrIV6l9Y1YXl7Iw5cYl2yLH93iv5aBoLbUcyXw+dCWMZ0WTaEx+PvtkJh5ZGt8O4RITmY8LCtOGkN7yHVAzOHITz1W8OYT7UxP3egg0l2+bq5PrxvnkyNys1kk87uDi0DGbYL+ZLkMo45NoR+0TnTHNBrxLUkFI+4ZY4mJ5WTtyYQKtofnb0aSvQw6TW/OOYBULlUIymIafV2CpAGhd594gt5EGRfINynzMCe3610S7GU3tpEQZTT4830ASjrlDLAu45kSFx+g8VskVTTOK/6nlz57p2sLCyO+PUvujRhHSgNnnKz3LEt3CbvD31Uwbjay6L8OWrVnRIt641vViSgAEGu4KCfGOjZUakiZaCp7ylN3MZWW6ay0T8oteEpSgFS0dnh6EnrxxqmYlSxEe7dvkECTEMGgZYeIFviJvLtMWtwvwQ3we0zsFq45E1/d9vWWJzOYcvh9FlYy+DR5II1g4TFIK4uiVqBMY8y/k9aw08qPMxGg/oJGXa+0znW9+TmvBOdARq+w806Seg5JHSb0sR7zW3BCQFZCi/l0T4X028UHqbJreYewjEsd79MPJRNo/RVq3qdvE8i83zRJ1Q0f4d4LCnQBu2enXVps+iX31vPtFo//kPPLH6y46BviKORRmOCNlvVIXiFVCo1m7UNEgIFX4twop6CbtK+PJPSTGnxH9LbCny0MRk4aOAUeObCMjeD/PcGVRidgQrqmrYb9UoAe0J/c48Vd+bbnbnzimLX0iS8kKMZctg4IQc1YATHY+RXWBSvKqj0ffVf0ZuU/9Mg9At4in0Xy0jqKs9iuxIv3fUigBg6Oj3ctBy4ClnR5gGUcIbXGa3X3mBKy7UAgJjMkbhqubMLLJXtGj5OOXsFhcD46yvopAhmSkRxrdDLeeTFK8vNylqT+FsxTWpRfy3zRQ3MFjgD4lWnWLv26j/cym6lvw6ekNT8P9cGdyL2Vtj0VrOs6s2pA6KIKjNPIyNSX4h1lJa5OR1unwmYMq3gvSmHZjLupA5Ybj/xJQKXFZ2gEJOlBGlq59Ps4Wlc73kpWtckhKrqS0fhwnIGEPXH70IUycfpbYHjaEjlms3gwVg2pur1zFzRK/9qolDvSwbxSOkodBvMe8iowgzKKYfqy4uNmr15Zo0eHiHaeG2rN4DRfomEtQzdD4P1S4IcbOnsRpj5Qluav3qQ0hD2reYOPchXed2nbZTneXvPbrK5EzXeX4ZHVEfN0MmIeM6+H8DFbvTRzrFhdW0k4Ybvo+Yjo33iAFAQCVPVYDqXMm/cgyzRMd5CbKUVv2gYhhtxaL9KGGz4/dqQ4d0ffymwOO7mFPBiU/jKAduLNZg4lo5Hg6zsUlMu9PA4yDn+CyYXM6U+dJ8cqMAopfbnPl7XBaHxcQ2FW2Yvtck8ds2N0A/iZKRNRi5DgQb5bZe+twhntrWKamblGyepvUzDgs7XFy7uBDiF7RRk9UtQ++A3r/2zxHD6lAv2jyq+690ZDNLE1iVvQtAcVYl5sJgc6beXW7M68ogtPqtpfTqe/3SSSEe4n1uBK3joVWWKxlluKwLthEnBJLrDwqNIc2b3LWZFM880Ix6/up9NXc7M3NeGGOy43yg/wEGXT8BWBfTlTpbFbg8s2NfmM/kF4g6srkI8prUgZgoVb/GwrFiHpRg91oTwBfq5Q5Jl6WCXBLqaA89C7+7KXwg0KiXqnecHFrFHQf2dMupdQqBsh7Q/N7UYSaZOPy2PwWl3tOxFQAEVkY3UXM9/T1/hvfaTfZP1zkX7GswLLpwlPUohzoC6qqcZPwCE45/aeQB6Es9vDSde2qb1LBPjraGOElyZCB2ciFxkjrWSkg/s201fK5vsMnn2wNFKRItnROR1+ymYnsKfr7jZDwBbhMuYpdLn1Zqvy7TaM3wxKDwoykdYny7JnVSv4p5G3RsQAn/xBFUFwV4qZ6eIFpH/dE8k0O3meiGx2RkNJy0Q66x+3QlLc5vs2FslnsIuMG3O0hzRRu5HOqlFn3KZpObDJh5FJ4ZpaLhD5Zv1hq0MJh5fzSx2RKCtPzLcw4Je3LR6c5Hkw4P3p18iLhF1TkPyHXVyrMUJagX9H4HwRSozypEJQ0ay9lHUnC7gnS/c0ZcxJ6Kgv8xujOtdTp9CYmMyOYZUTNJ5N6s78HgekMdRDvl+uE7oyzhdJq9aDCPVHpFJupn2seePpKFco8/GbS3nzrsNB+OKGPhNO4RV6Zf+sWAhY33wcsjrT2sM9vH4QI0MuKA9zuk+rqZa9E9NQLoryYxaDtFnbJQZ5o8sQPut6pXkaAMBYgcFCyNDSLERVXE4D1AUN/nsBnMNjFeUwnytsByrrCxXVZoM2SFutLyq7M1Na+kkYR9tPn0bS1syaKx/SROtS98/2jmqVkNz6C8haWSnUhwYn+CcuQYbShouCBHrpCcu7wmT1tJLIpqQT37aawO5iBAmNj9AD7Ly7JE1J6PLGT8iYg0ILWA/m9yOSrWrtI862iEuwuAiqCX6fsDnzLzDrJjWzDI4yxM0ECtrQzrcENYCx50jtvlD4SVCwIMwe3SO3zR3elbAuecA/KAYzo5PZUD507dzfrCSMiKGgVJlxAq5INMZLKEiHCneK56CxFpH4U+KCLpBUQjrCiVqLm9WC7V2V2IIT0g4/JFyqcFNawuGE9DMKTozWam0/4j3ZGjMdpnoJRfjzAwuarxLhe/KNP59bMN2IsufuZf8+kgRwIPrlCv5u4+Xq0b8+Wyk474vJnkibejRyz7DXJ/D+01CAPBsr8jRbTXpAsSUqZSgrgh5l2jYnyvOeNxbL3cf1fLiCOhdv8zYqMq0sHSTgxncTrTGdOUKzyEIlHT7mLZfWvrVj44WBZ+nqr0u+qw+S2nZ4+VxjZ7SCX2Uue9zlZe5gVNafm4aGLCYwZ4UIpRQS9uNFA37tiwVgLJSQ1AfjmEj3N/O/Jzy+rXX+F2jDzrsr1zhz5oTu/cP5U9pQYne/9/m7Tx549UbX6UOMnLsRDkJ7OPbWTDGD1BBhuFw09nvUQBcEkp0ap3jep2mGgzCvlEQ09T60Am0+lXoyXDa7G37NInvpwp+nY4J/zoriJH7UbCWXg1N8L87YuWQzPr78gVzna7RE0VFRmH07S4iXlCR2rw4C5AAcjE42bnf7ybooOOaQJxhURgsibRH77cLSBO4AZQL+Pjlf591tcjD6XT3X4PKMHojhevM66/jfLhu3URooCFFxl5Tz7iFcaWVrP10So/5nGNUmCN+wGH/uY4ukwejzXZHOiyPL4I1tffXPhsrXdKQaxYXMpl1AXyRCvtIJ6Bv92NMTfiJRXXPSbtEDQol/pcsHroWzyNbS9rKxZHxOA4NdbPjSYzF1UgSWxY3tKqYYewfp8v7cOap9MFqoGko+lMfMojAMSmEVcRNVfYxdJwUMfOmEZ7qVN6LBqLLGjeTVmt/gLlOqpnV3/AiIHXxYOVsSeHm5fCL4C/hxrks6M0VlhyAKAgrnFmfv5J/qATXBjjy1pMKtB9+14TW4B8Ots/TQQBmP6E0ThrA6QDoX9DY5OOmFRjhkgORnVD1915UoywcP07JFgYBqtUZ0J4mayUXsgozy2qxQiyrNz04IUxYQ5XIuqI0disEpw2a9Yl1Emh9muw6qRFTdim7nykb4P0N+iRuF4DZOil88Z6HufDD4Mb2WCIiU/YZqiUzFplpwajl7waK87LjpFvzOtF+BryzBidM8iKBbFRDJga8QggC9aTYPMc53+qFPnMrRZdd9YtIkK8XitpixA1n+P3n5jtvZps6esEAa+IkJa/JkebiQgWOttfxUwXJXfECIho/URVtUYdlAHKOOFp1Rd5SQED0vdADI+cPWBhtpQnmZEOFsQQdUrh/GnjS0znQ5NaEQiRDqWfysFe4d8koa38gXytldS2Mju7duokelfjzOdxPl3+K33yqXWAgNdS8UBO84eBS/TvYNMFGqbvm0cb8AUsxAwVhgKuAWrr0K8UIJszHgmir9jXaxoZz48lL6uVpajsGJTZ8xoCjMxaRt3rjCduic4aoc+jzihyx9aO0STafjbpDBOZfpCCSiXsTzbTa4vTqZH5IYQ3aaWQZNyDx4VhT5D1OQRu+DhRz12f6KwWrNn58ONCaZmXMw30jD/1OS1RnMg/xjQPh9ub91b68PeYwqDs17So6T4piaVPe7nRN3zxSSPWMrYc/W7n61ljdi2yYDDy0f708KhWWFfN25YK+Hnnc5hjua6KrD+JgbD5xy7Vp3PnxG8V6LTJ2nIbFcPog9kkXnYLQQNS3Gv3JiWoKm1pLOKVrfstmmg05C8M/BhAysxD54HwEahvJ4tQiHSd39UxwHs37MrSYnx06/t+P29526Jm98bcF0MqC7RWFB4rZPCnfKt0zSzDtZ9Azt7IVIb7BIPMRUM2kJsj62ZTniFGiuhwi+CjmldUfrrvTmEx4h5gVLfLJKL5CB87gZLLPPAHzG3la3AaYGt8FqRlcbZwQ6t494ffNeKnVrT2F/ZAgPRHsBnKKzHibN30UwvpMsaJgMEhBDb6sx/bs0wac3z62RujX1gjMIgho/jault6zkmiRj2oHHXnl7vw+4Ck+Q+CJHl27IdbbePenTHthDwMVjyDU+jz2HOAPHIgDkrgK4zfVMNuzvKAffWJQk/YGySn8kjze4Ld91BuZ9bbzVP0xMboP2nPy/vjpZB+/JtLd7Vytcy4dZUA2AlRYxl4MEe98ODBCqE2PSgd0LA2iK/AURVLPDVyluqCCVIekGMZB8bf4zXCFDwOx5vdIY3fotX4smnGOlyxM4iE3HKBEkTDV0/rHn22vGbVhXhGOFtO+XlEk9Gpah0sqo0czDmWt7pA0mHnSNCQS76wXFlwWd0M5V080ILah++Y30zZ3OKST2dYXTtGApOSbsDziUGyNJO0+46ZhNMiK5KUfB6IeHQaKLWxXzNxu35swZNo9SVliN17dkq0y3SRRd/GUFGCrwWSdD1k8824iCDJmjXNhkNLOIs6HVo8fbyK4XLxACucOcdP8sgaKMXoZaMr8fBZD7w63wvtJdS8Tjblttl4ooMIWNVNafkh0bOp9+TeFS7A6XkIh261xs9fNox8cBT/ox57Jst78Y57QT3w+bJDLdi/lL96vs9hqiOfF2MaO3eLLRNIjHk542lY7V8HmKdU/ayxrcRo5aUSs/RpFrxNnLExxYGUjeN0DzREunkABHr8kyuKh5Yeqc+9SifK2waMLS+nqn9W2KWnFhBck+eJ2Q7Iawnq6LLmPvxCdgQFo0zNxUuURxUWjBmQPqhPokNl5dcTPfS8K0HWa9Q8Yu+Y31FfGT5EqCTL6zfCFtOmsFuF19PRMlFB12YXUjduZtWejMCogMryziFmc/WhvpRPlyopgSq28eDYSUBgy7JXDSaxPJ10rV8h7KXR3GZBP8hsQPMD2e76osk1khovNTRoPsPVHGpKs7izSwBPyVSEg5YtyX4FOyaxsBByI4CHfVndAQLwsWdLH7dIWX3eKnw8O+BZc9FOYoZNwva/qJ/lBSNicW2blgFxehKp/o8cqOk5hwCLVmGUpzdG53EW8NGoCz1crLWTfOxCfEEXWzZ/2NjU5BkVn0BzONlKupWfzw0AcPvm88T5OTlZFn+z1CZFmlBZpwiTWla6XBuY1JrHQS5lgLh/Gy20+oXo0JZ/TI2qIAHzHE3Zi5kg3CASWfG7JImIDIrXpmy/WayFeejRUYJj38LxkQaFp2lrju3twsjOD9h4OfGl98lnSaBM671qYY+WExoUcJHufgjMX69tHZaFisapsezWgkm91jAuyjr1FtKIofKWnlj0XtN/vF6YoJkzaTmzlDin3YR14L9lRE+0+Zob1LDhYZ8BYOThBZ3TRKbqm2C5250tgCi57S083+ac+KfmGDIkUNGPdH6T5VRrS/9H9+1dRZEZ809b82UWwFXnKG+Zh/HHwoX4PMkslBPJm6qntvGJEib6K7yT+e92bDJC0Or5glAKhA1t0LsuEkhRLY3nloguT6gSATS3APa1/OKcAjoESmjnlpPX/9j6YINi6k3Fo7DJCZUh0wMJN5AWUPR4hAnm4+n6hkGIyHampEGYxaDkkxlkCZD4w6tiJeWchjANaTo760tYcfgnvtjZN00K8ah1UAIr5QHU3W+Ma+h22eK9M5BzKvJLJ4M8FyQFSHYSB/AioGBV4WpUpLU5ziX2XcLUZtCS4rpFeld7EgFwvtChu70NxLup30WnXB0qSsiv6LA2MfvrinFjSs3PbLB+iZxQv/8LlAo65ZWA2ch/i29CX6bz/Do6DEg/5iMDScoXtYc4Rz0/bNinQR1sni9jowFGvQt3nviq2C6uJbsJxU2uFmOSbS1u6FavIkPTJAXMuo3/yTW7ksWvHr9IoZT1dkNgva5X4IMB8dJmcghsC+8LsVqMBJCxGJcLEtJSPZGNLHZ2e7aiqbnbQZhJV4Lo6YdrmjA9sSwQUKD4CPU3uU2SDQiHItDvOAxEefxo0rV2lxyrfWsyknBUTNRty800KwluuJ6bPueX20owRCn3WVPQviQvI7XdHP5UFK5AMOP1C5iOhQJTcbn4wNltxufQbAA7V7V+YFysRLM5wfMYDVK6eLwSu05rbrj1n+g+MX6mFXGP7SQcrkOoaZb0EqlV8ohZ8iKOKQ0FE+ESaahY/5wa+WKVOUUtjM8f61RShR3bB5wFFUMU+gRA1EcbQDKlMhLDvM6kR7hLJEiM+ZeEJgVAN+23wERNOz801Cwm6MKbPAXAuyzaYTUhaLJ+bAiuvM5rwzNq8k2nHxnmLcHO8PXCpu/PF7beDMO1L38sZT11oOQi88ncUe1xTMli4uJbvROPuluPO8rF5Jlhw9iv+FK+RhoNbvuzSXMGjdwP+xuCCx3doZQKknSQPLcR3ftJJu78JciknuQU52of48dO3sjG/Q8rBWSq8i+l27NeSOPGAkzKq3TnqI6MbAHMIEars9+yWZMmGlJ0IoDfVY0KabGZjWr61qKKbrP2KmTEv2yuY6vqVV2NnjZc1CGBDpCpz9ezv9P7TeyAV/P9ZQElssuwfPpe3d2liJDUg7SYSr0FjpDTpbQuoAnNISy6tOk5lO2deok/kZbpJ3TFVLRzcz+fZRf1mGGKorvXBnL6Fg1L6betUDJXave8Ekhtxfr7NwP1RN6Rk+Mttanxi5X+vBrThEnpE+coPp1DW3sQiXH0eCkyAU5PrQ777kan4h/jXUK9ACsSBENqFkzHU9Fd0Br2lI0EdQv4BR/Rjz+VDO2U3cThDl4LoEPGaWTK1wWvSrOufZHJR6bgmVNy5doLq8EnqZfh/usb2W/pmTfNSYHOxqgtH7DUkMBkK29vqzlZRktnfBgP+NcVlkQHfOL5Eg5+9sGr1GBvLpA60BG9Ne5BQuyXZ+gm5vS8ehDWrTlbQ1vJiYz6sjlYsh/sR9T8xrKIHTIKb4pUXgVzDE1l44MFV7tKd6w2jRTzhfblnn0xvhxtIcvnEDiQ+hSK+LStKBx/mUQOOZgZkDDt+EzjmmASHFQ6gt6LioTke0UAuCNPkxXRUSuUzmHV/2r4J0kh7kdlNlGuvSyRxK4WvhpyNaT3qThUp6avnfRya3pW2yy7SARa34a6GNQY1+E+BDkCK+/nJK+SL07JbCp5kPDSFayIDBp4VuKvMXC/cX7hyGaaQnAOKgaz1wTvXPZ01uG3vNougKLNYA7XorMK6G4if0nOvQhhcSGS0uA8pu4Qr4e/UWRqSQvDXOx7u7CJJp/+L/4uthzrB3xIEyVGvkbxBYzpWgAD/LMEyzKEJ4xHPFsxpGOqruVCrE7OrWuH+hVMWlo+gQHxiuP+HvedbqJ7sSsilgGHJw2bc9ej8hWtvTnR/Uf5SeehvsNgZ/ISYuLuiRBYKBEm6XfrkFRzJ7TthbeUJouFzxA1iAJjl6lE0Co1nBVoO6XX/kCOlGVkzMkDwjKtKh/kfjfM8S7yN8J6v8WF7yED1YXY8lI6CuObbM07H3NGidgHR+o3mNE+Jtz1eyoCX02k8umhUDAgzB4gqxvytbcP136xpU+mfAC/3vs/qD/87x4VmGlvTjs/xSZKWWfb0FzrYVx0wMCgQ+/yNohOFYGf567tB1w3fHszejZNVXd442Xk0YFzABxelOGxnstW9D3SoHofDaolLAX0MybSjFP8aEER7oidPk+Q3GPBnyL9xTfsaEM2nZRQCjKmE0QCOx3MzaoHoW3sIKJutgPm26A3nItr2Jfp9GNxvceOMOSb+sPRuwrOqAP1x/a9lhYL3j7Z+IVIYYVB5qLR613JIUB2GEclHkavzwAdLBC9c9lSxLxC0k0GvXJw8XWKbUdXnQUzDOQf7feaVnu/6GX8iwTXjCaTvTo8RcsIY9ei9shObAkrWKyayPsdbZdJFvvnQYHCIWNleWsooCYir++tI7ei10BengfxuT6SEXBH+xd0XUoCTj7WGzrvy7xloYuW9U4eRD/L68/EIDmTo6IjeVY8vNrTCBm0jezcfQjguvlQtx019EIB+kDS+0pnGrCcu87L5C2FbJI1TqzAK5Sr4oJDUeghLuBxWSzxNw2Q53w2v1+GM2aJTrEbotEGpIJoHhWgFw1f6yvaYhT+9KpoV8pxEnI+J5UTucuarEyQ1JWRAn09I1O9cLsU69MQ2vP4cZqvhJJ+GIV6N9dejulwajd+pessvWBl5YB9EIPkQKLDn1EtWhpK3LYN2jjtuS8vFARr3o0aTePFCSs0l7Hqx+CrneoyKm/LeGFStJVlFGRjmPg+mK5doWGvWsp4OX67f+VVB+NNrO8s8DsXuX/Hucakj/VgtQwYYEJn4HBYNCBCjixakJ5M42N1Dn/xqeS3orcrn/8eFTjGA7d7unDb68HWcJih+RC66mJDjsjMO/b0PAqDUmNEj2ALpQIKDV3jkPMfRp+PC3jHe6qOLDdhfyEm5iNTWEvGJOTMHOyyuIQYko4s4sJKOHGpmTW4u/sq+IvNsadR/QoclQnjy0nft9Hc2Q8irKmkkddCfEA9SsEqqgVvMm6HR4JSwcsOmF1yMwn1AoDbmWHv2972U5CrctFx0FqL5tIqtH6DsEw9xOT68cPOujlQJVvmVgZM317ilRGBLl/CXp1r/zCpPTl1ZZWNrG/BUjJ1YGQyboYB+Aigl2btSSG7p8ToHlUaoEYMr+o4xrFNB+IhbRz03+yriV2nwVFcQJ1PCKrm8uA9MaDkiThs8ZmO7M7vjMuZAYDYbNFoc5yvM9j65PDBTTDlvwdrcCMhDj0zRyI2wzVQJ8slTMXn31aVFtgbBmoCWmpREwYiotea9w2k1pgjetbJcfAwRt6+GLKyvWHu/K/1HPHuFQo87/Evb49LDv4EdOb2sv+EcydhukueJRiNF8Y8LOpsML7jHPqmZxETvVIvSaqVmaKM4quEdpOtqBkEWpZZjiHkXXFUaLewco0WkHkUMdYeM7cbvnoX9WyNszB/o/1JqpQeNC4q17afmTQtoXyyuzkURHvUxrngV84vfvdiX8aTOeYmBTfgqyiMau0Lzt77kuerihiTL5/pdKcyeViPS6s/izOi+2wqmtNWmc5ZHfu+uMRIuXir82iRIxPpkMOdXKMdyzsTsmKtXDZ7nj6s2xi8aonnr83WiPzevl0Cq3ediM3dcxQJKKCZHt8VNgNCoayHSwJ86os/zzQE/U11CdhDIlDIfoAc4rCWt6kaQopKTnLhoqMxxplu811eveJzmi0C4V5GarPwtF2McbNeYUtV/Qvv+WJ4mBuV/84qr6wWSSV3wil9DC4uSKjHSsvBP03oQODT1URJ3hBW/PzCG/iQYKnfwt9/xhYX4Rk1eO3o1R6NPdERbLpryHzQvzeSeKJDwlwowye2IrT7EM0EuBJjH37Oju+hppcFjuW17RvIlrO8UHasuA0qTvrp5VquBXjiYeRiu+hqv1EGECoYMPb3LlpHPExy5XCdYRSkTHDUVTLxb9kGWA9yUWtLZd8IyrLm/C4QO0zZtR3ligx4kZFMVxQS4UVb7Y0yXRtiV6d87VD9xpBZReIoBrB1eTLERHga6l81AyiCm1gDYlV6Qpfk6YFKwYp8IDtFAp5FkwJ5Oz+t4ZgLU5Uol6DnQ6P8xk6eTDgIvIMwbzO17YyixkViZcMpqMm7pwfXx9ckvfeNgpjekYZgjc5mZ8MxlQtk23gkLpmObkqOALwZK2bDP9Otzj9CEhdVv2ZgOj+YvttFiJ7+GGh/Bx4yhxnD/ULm21nKDPOsd7t4Ras7T1fxOtmUGCozA2TpdS8j6wRLEx+oCw+FuUbT1HUjaovE81887WiJkCwtDhqjvIAax0ffVEcygT+eCbyH4o19gSJxjGvMxQSP9sjeSK3ahQlFjuGNjbnnyE2GM4m7/uRisLueP4ZFBGceXSlnSzIX/8sLnjSmecc4viCG3gTwSS93xyjMem4UZfbmuPjccq9zUWg4eIpGua4F9cFztrx6ULGrkAUdH2G/yE4ndl8FnhI1kYpSWPGBzF5cYvXykyovYMaM3KTOC1RMaXw3vnLE4nQt6yE5XMbPhZwxIBh78NGnibTtauCenZ/qsK+8i5UDrjQJPeNNpsh57QTBvXfkjCqvXisy1cgu1MLRbdoqhBjLSX1INPm74+fUkrXTAfwpZd2O34CZSV6Hx9FUeYNWm3F/O2JTgYaxgYOSTby6MIpBgTE05YLoPlr1FdMPfPa2L41XwKAnH79gQ7t/RV73+Et4VIhsk+8bDwj+a8FitU7rBNqoaGLyNN5mpXwTNSWuk/Vw6st3d0tL0a/44mjo4NKRPU/j+MqZSAfUoTK+qEbLFXNxKmjR7D1COT3lMg4tNu4Xhs1VvBZe3obK1l/0AvKezCMu4uqqaILsbTW0TF0fUpcvLcY8+HcfVK1wDPvsXC/b2oAfncevUqFDINRjJ9fZBwmXp1QWCMlwQaVFybsIWTnUwzX9r3goLhb1wMsEyO6QOWKs/lCZGVeuQ5ICfZe55s3QqUjhAqZSp3fP/cpLFCmbCMftzOq5zkeCGbrrIPT5AR+2KyQE3aYB/DCcdpsz6qRIxS523UOjKC9n26OpyFngNubrb9dzxhRriSSNAoMe74zF4hCta1uvAQG08L4VFX2rL5Fq/ZiM3S8PYPkDhfk9jv5jvODsKdiuvxZW9L0L3ha9c6QPCyc0cGgLx7oOjRauM6DxNWYB7L9C3xklA/lIOLWXjgjaMNMjf4Mbt+YL1UPdP9hy/hF1SMsvClFB+oE9nWHFyVDyHoH2XW5hq9ja90LLhQhS3ppoMWIEmQeTcExFKmjmQnL5EczeacCVbbI4hYNmm/6icehQTAkJBEaWBVoO1nmOwrD069REUm83TObjgwoEl2bA0SthnU9zO4t+rLyeW0akW+CwQP6OcD0/Jvt28GsrNoSm4NPHqWyFOkkQeepiJTINlyeC389IpL9i1EOfDfTOAXpGsZiPYs7ZmOiXV/Oy92Od04g7bLVTEZaMyW3caNMXsgQuI66A/6bK0vnsUl+h5PZtG7KsiXy+9xL5qcHyI7DN2Dc8FEEZtrItNTElpP+L7M/ZvibFJDShgHwA0C8beBaEDRx1QEp/KDevOBxVuqDpQE31Zhlldam2oeF2J9FK3Z/uoldKruKshg0+1AifYDeA1oaB2CIWwJVgOcRfRodyN/fTAok7Ob0msC+TNJrSu4KmwK5JjMMaYyXvaf2LDb5k4OJ9BeY6daq9HVLVEPZzCiiI5IMsvzBVExMJpYRKDN2cHFGO0VXtLUGf73F4HMsigC8xSDwo4vhKMbwN7Zi8lZ9ZkmF3UTYwYuCB9R9WQNhP1HyPcNsgsB5DEpuGmKIc4irXytDLEHnpxwvwH1YaXNadEChtWYf5b5iFaJlETaYVqsABdpLw3flLaulabzBejtP6CwFbc2vTlbBQ6p50+KAQwb1avqY7XGNbKgwTrgqCKcTRR5TvKudTLFoD9h8G12Ra0Ki5ZbwF7i+s8605/eVNG87VcYeZEuh694DG8l3M0cAIAaJRmOAILr5zMEXT/CZ3aPzIVo059BH/ghWB8hck5w7g150TKX8LjUvsgL4g7BHGjKM7q9eJkLhaMVqh2/EQiRaTsIm3hfOACP9fH+wKtT8CtMMErl2B7f7VpUBEv3ftk6k925X3rd6w5xdpNyYQCbbmqbuSr/pWQJh8sQsbaFNj9YDcrHYuAPI4hqa1dxRLBsnSKfxhnNsCK1Z663zb/14B1DYMj3dIgFGmDp9AA+YaIwmLIecUu19ggwb9Ok7Q/59kalUn+AOm367a1yQQDTUDOCsoqL8gfNVLEJpBcTHxMy+0agTS1QhZdST77IBXdmnOSOdThloMxfFVRPuAA4uHQU5TmxT3B/9hOZSX2203k6GO63+9KGBg2OLWFaPNI9AF+mw5HFhFoBdSfNbSqe2riFbO3h+sGW/5PnBWbGBhxNxxPBzNy+/86/nGVajeOju5KaodA3Cz2lauzljHkn0lrwJk5IrZtz9paQWig47roilE/PCQXG5bKqcf1QMOlRMhdn97OuZyuczSNjVPfDw3MdOgytc0NAK9kvKkIqYEct6PXS3jVk4Sx2i18hXc55cc9JXFMBgYvrgRFul09ywseZJJ2od5uhDOAZUfcJ8b+TvJkwS4aiJ2kfQBIC4+5DEgogd/n9zuhtPFe/6Df3HFp1f6fAfTmAAG3sVlcr0AgP3jtHo6h7whg/hE6MWUH83NDEkECMf9MR1bOpqBKGxW8wlnT9L5q14xm0qgfzt7LXFVzM3r+Cg91cKBPIYJn3qOo8dezNkpjVtwM8FBemA+VZ8bY9kvyvoCz3S1Bt86S/uvTfynFmCETon5bJNAsUK1RyRwPxeudnzmp+6JMjQWtXL1uQk56pTpj9hV9fBidg6ph7RrQVroCNAaGe5JVautMihm963d57jmBx40INxD1EXOuUL0wr9dgx92qg0aGvahTpYegyirV0CBl2cdT1znWvNuPH+0gxlEy9KL9WHo3RIuRgVd5NgUxjEcIFIrDX60I2lDmM7DB6jAjECzFDtwJiW/uukGMVhkjJIT3u15GdPWEENRQd2ZHdXLH15kF+vxpydpajgXz14JrSXqnnLVFSBmHRBrsfXNTyugDMDXPmWZEso3dOMBvlrnvwJHUtbPvWUbQi5K0bXIz0gLSNPFHoAEby8BASg9WIFb1gwCsehoRxNLqlwWnwndji+AUb+wTx2TsYHf4NNKdP1tBQcioBdvggqqGDFDV3dr2HoJlB5kM/eX3te+iYmZ2EAnz1b3hRsHQJIHRuMd361GyfeE8itPSXqXdcj+3WODoKwnd9ogLmaEbXwxIbmNhbyoAHY0JXGxWPkUzsOqo9Xzn4wtkpB0CF1pJ1RPc45pn1JbZhJeQ7uG2EbMcYoBdA3lwHvecIA9nKcHTbNEY4DfAnSdz8GMlr8snHdw2EEs1pAQR6PkiurbsnmJNCmou5HFH1HugZ4smyQuzLVyFRfp1MwoTXaAojTowcetbgPJceBpAZWkHjCt0XngWd8XvEGhBWbP8OXVUjgqgXJyT8ERQDgZAAuyPwxN5tmhCNlV+ya44VJajG2FyniZnBm2RTFtPsN5SkSpjd8jwxXO/BTKxoedJ57hI8x072qPvbDO0wkfnpe/dKKLQlNCPQLbGUW9E3pw2mYYqMoU3KdiJf2uvoyXSmw3L0hUNNzaJQOeWXXQxQkmhaadx5aJiB+FNhOxDKooNQ1NFbpzpCKGao402m6m6+uf7RybqnZeSd8FmOnu2WEZAV7Pe7XtPDPc5LAL9ec7MN0GC1+rg2AIE7XbxVTQG8l3hzvJjQlzXdqxWeYx/dyoZJyIROWi4bk5My+/mdn+0Zljj2v5+0tA7fgQJClQ460EbfFDXYyl1XK53pT2gkSfUj3hE5L70lTtjzNLXhp/4t7o/02Dn3G/6VswFJwUg8xJS08tmSkZM8IywENedZBpXUC9BriL8Xvs3tHL5rQRe2IgvItgXjAMGaR7cdYO9wfiwlY8uMHUgeWREwka9CJraDKtnhQVpSXcks2z+WrTBCyCeuYr5EEwkBtoBg3IDMNR4/VIq2T5Zsa18d20hEux1pRUN5oNKVRmc31eLav0apKdovSVN/Km46I78NNoRvMgVLUI9/f/SUn72eYPByYISd3iKYBnM720trfemEuxzKcAj31n2jII2aeod3ck8F2EWxkpGmaYeaj64ykDYCvBxlte8eHCMvCbWBOsvM6nfki6SMrGzYUftV6Jg1ClfbO2eTBwsFPxiSlOOAtHal738ITahJEAjHJbDCi2lz/+rqoa6g6juDU2YWkWesUAkE1ZYRGhSsxJisY4zBSRTIZEDhYKYvdn3rYO+JB09S11loWyQWhysRntLYqQ/1LXJfgsUf9vvN8W6r4PGpAhlAJ62LVsqzA4YjRcM1jgv0Z33poGfb40mC1xW8PNVQK72JJ2z0jWkALuejuG0tgYskn5/X+eUVSl+FbZiwGEReK7itKi2iIucG7tAZeVIX4UXAyQZxavAVomAkA7Ob9tlPT0DGhVjpqKN87WmxD4W0FSTt9Ls9cbL6CfAc2PlHvb8/16HN2xF0f8H28abyG+U7uWcoI7LxRx0w4tAq1TSYO/qbBuGX3qDJ1odveNvqGwQvRkrjmT5NNwKBx5+U1sF1zd+e6xYf2KSnNDnA/xxBBx3q7OjrDBQcbeQU6nuCSw2NeDFVdjP5lkbtmw/ZrjDTEYenXD00qQ8np6vyyCRmfIbKxYR9b/mNhT5ddvnxwvfRwnpK9RQN78B1CVjWb2UUXBg1KUtNaURuNr5laEDjoK2wnuptxM6QjiKsgiZBmPk5CRL9fjpadp0YsOH6AplFvOxLyyg5tTiM9H5OnKw2yiXexllssK+lszGZPEMFDaLAkbO4AkFPQ62y7D8RK78IwlXAN0WRcDKo9X6Df6++D8rmpM7alJnVSzAdwFjXupXqI60Io/nrvW6J/BMJlBBajgb8Ehr8Ed55fRUDsn3OlV3DGhFKVKE3wRSCyPB0fnkIqB0j8mhSf7U/NeY+aeQXBLgOhVU3WPxbc2nXVpJooVJY/zte22D0K1mb/LjNUjr2a/FHkhU3CqoevIQlVkcuJO9sZ1dvVImDrSDgRQkkXiDTIgFafpY8uxQcSoa+kGKwLMIchpDdPYVSEMkNHNvL5E7oGBpJ1umOkHdu7TyRLSUtJlEDZU7iq0ewIa+KWGCvHIMq4qzVNMM459s3ovyG+VVIwkbZuVXLUVuF3wINNRR8qDToLRLK0NU20W59QLKIZnhwyfnLfNAqNFXDY9zIu8w8lMIJSnXvOMPb7ctQ+iVrXdKeXae20T8KzfvtPAZfU11BKJ26yTWIYe04NtqzHDZt3UCTDnUIAspT3y4RxytsuQRrlPBzULgmdY6shNZcA9sMeSQLK8vlUG1rzzv1BEj1cBQcgWA5xY7zO18eg+PGhrZif4AkZCeo22xyYvP3p4Idbkora+WuVFprkVISP5kgxegpbJUXPbe3wdHcy1K6mjpSH0Ie3M49kf2HNd79W8cUk5RaF6MN0i67iVjLkL7Y0OtUdvnllf18pwO5Alhoq6E/QShjJBYcX5bxKh8IYeAHVig6A6Bs+KvxlfrBeTs3NwwZHvZ0t4uzxRZCmqZoRB1HUNF5ViHTX1CIlFvuP7FYsw7SBZzg7RfoZjq4BtzA4rGGY/b54fq17hkVcMy4JJFPDyKOLP9ZSaOdgFOpGcaXLYzBeSwHVAlhtrOi+0vtd5PyzF9GplKuTJOd9buQ6xran5f1apLuyGDG/HeizryDEH1M90WVH7fBLHmafk91f+LTGzHOrIOIoJhymmn1V4A+uMbXTApz3QSBTLsLHZbz+VZvAvwwrIAnexLyRsbzdfjOf/qSPRZJ//DzyaZwGqGHQVeIEe6VUJh3Ec+uraigobavgG/HCKB2O/JHleBJdvHYh0jt0eERvI7SB0wVyZkQymQHI98Jbmbo39n3C7kinS9tKT5jVrjHjtUR7aTMqeBiXuComqJZLoCGFVWUNmEkgycbBDWhU4tEtvMdHEgY5Nzr08nte6bwJAbocCqj+/j/zInhcWCQqFnaCQSgkHN11mUQi29TiRv6ADM8mbQZIv2hLuMknRxzJWXkuVCbqJcdbb2+3xwEintua0S9eNJkXXlcqgTn0JXj5XRct1RUKhEjSFOVGIaEzbQzSw78lMFVVJtTwIsSbB8D+G8ltT9lAz6/6bmwd94aqRcFN2KqjbOyOLGhtxXpmHZHqhxpNUuRNLtLLxIabYm6iyr3e11pDNaEQQxXClfFx2aQxbPLCtaVgWvofasjV/i+eC70f/3TO5KWk1kVtCfxaYxsHG913biYF9MfrS+dvJ5pS9c9E9Lhu0vKhOA+qlYLBiZHsHw0jDrGbilOdWZJS8+opSkJyBUEf+l6P9Jr5LdiqzaKOJQyAV9cuaWJEuVVgkVDrxrOCM8GxejaNSXfu5bYDwasy4DwsMgGm/xrMKjoRWh1H1spjngO7j9Ok+618HNGCSOPQ3ABq2MLWdFkdADNYSEipmJ4FBm9p9uonyZBrQnvqFJtg66wtIESiga12zD7FjqPA/sohJL9KRB6jb+bW0OxRBVc2Gm88cyYBsZmy09VBHqXZi5yQBbA34gmzmsBAfPt941cKFq6c1VMs0suFaTnhKQ/borvHtIK0rYJhu1XRXyb253M/i7BLQLN2PvCPnwEB846UmVpym6Mt1DaGj4hq3CiXZw3jPdXQ7zIomDuY0ltH0SZxp9OL9vzipKWV6F/ObDMtcvuuFxib+pbqYa9h4SdYDb6fS4KAppPd4j8qw+TjToD07gX/kK4UHGRQ7OpZYlRhUThoi+WWj5hZeHLlrP1ARr+0bCtXM7miEhz+PGhSw0TJm16gItttL5Bvg3onuYIpgstgJxrxdZPG0j9/+1nzQSQF8Hks4PQN90YW2W4h9THGzEAQhKYnWumD0ZQhptQBlkJDdAhg7a1tCoZhZjX2nVI+8mF0HtJ1ONMe3J+m7qBHCnSLtFXeA9ID3VNHqdyWjyG8Q0MpzG25n7f1O999JFR+LX1+07ix/4Ujm5HQOoF5Bfz0CkdNL9trMQplPyceiD1ZImKOGYZhJrKaKSlZo/WAGSCfav13BoBboVwsrjWhCj/FEayZEwDoHF8mtiquLfv11+6CMNuO0+mw/t79B1zvujTbp5ZIbStUTJug0Pf99E5YMKkX7kTiAwoStZBthgS5bpeaLy7765JwH9wnUSyOOwL6v/i45kXqaX8yscg56HJ5wy4XyEz80CjiwGM06pyyxv09Khw26HNA3KRrJWhp6i3ke+DtY8AGyKE4LoBzeO958MbH2xyoZFkmtIemYhfUnFDCgnD9bAywTs3OVivGNvKdSMWWrXJkn5dTNLif+O1IoXgraGE7qJeSivINTDou29hMi76yxlKxNwJ5nLkufMBV1v5zLw7VcgZF5j0OQyxbQ52H4hL6jptOawZILbjJY3S8wojsJzMBBsmOFp4mJeGfDc78KmnVEn/cW6WDU9RuIU2p2UxSYvKOPJoNtwO6iuXdc4vkRni2yDv8c7lPIkNssOs5dUyat4vfTxU4vqEM85zRcvNWDzNUN6MZbgVVik39AKCpvdQGwDsQ4tmEASkXvOKbiSK0mB27mvV8iJFUiYG1BG0c7kW9RHGOwBqsWQmYHdAy0NqW657nM41XdC7PVzBjfOuf8nE9WBmy45BAeg2xdMI3LaEaoEDjmLNWy1I7IFTSf484kDft44RBhWFCmSqAP1H05PDFaj5K4PfVBrcO/ooFZ8UFWQIdiBBsps241wCrj8evp+qc3Okf2oT/GnTZx1UFMgbwnjglbSRAGeAA84pH8udk/SLgtDTbLckU3B6XlJFVqXJX0QhE8Et8fbMrMyw7tJj08buz0EiuklZk4vND/u7khfwj3pdhvQulXfFuaAzU5OG9PRd0AGUZ4G0jc/bb3Km/18r7xzuhBtQP1DHaZMVZaBCOkkERxWFSR0lVbvwL0jDi6HhrH6Np9xxiu7vdHlRYf/igM2pA+Ejz2a/WjCUP46HDn3qmqzRpktxoKspqS3P36JTFjmdSa4b1oe0+AuYP3K71HdQxK+2LWX2syNYtBPn4pWc4r4uj6fjqEjzSZUALm3yjultT9ms+OA4FaZUNuK+NGdiq4Q/HNs9woH70ZJlrz6M7i8z18inN5s5pa5KAFrguLZjGYKfzU1GbfM3PMEuFo4CRunmEQI9hbZDJU4lf4DTULw+WXINM0mLc66vs3HEMhYGcGlUwtlFt++2gkmXWgqfJjC0rI44oUBin+XAFdoq+h4Mznyl13A0VzJkUIhXMiMujs4Z3kVr+n+dcMaOrMIdhC2S127+OPJi+Hs5hvb5AiamymhcuVCt3JHChUOIcjkRnZ4yWTuNH4v+WjyaD0QBthBed78gbTSQ+ZlY/zmbdb1NUUFiqRbLXxUOfpJhLiKZ+Q4nVpWM3PoNPbvWr6k/26Hi/86vcMTNvOTJGY5QTPWVqlyAJMjYj5lLblKzJkcrplA1YYiKusnnGTyidM2AiNPBd3mMZ95kfWc9BirrsjNjT9HyugeTDCPs+NwX3MdiOQfdHFsSBzqESCTkzzNP76QGV3GfK4RrvaY1r5MxYn5asMyi+fo8uyKmErytM9M78xq2DIvNs+RvOPAv/Ljz8nmegd9v0otHSAGZCd1luQZvlSGVDyPMeETCBTaUfwtDIz8JJkxAdPMMpUyhH++gep+mj8MkujA0VOwuncpvpFmdlTfvWYfU7TTxvDX3S0a1bN8jxONchMnIDtHxiElAgYVOp33WpodNyIeqIPgZaVmxyvRdh9kU+xuLy+AQqeuLhUZDPQ415wTgIAwqslf0o2Q6iNIQlU9+UGd1pDHDtBPJlw7+QsotPT0jU9aEVoucxKbmxvtkp4JSDhzN1WmV2s2WSttDZnETa+dQUi8MFzd/GXEZsYp/oxOqreawjOSNUB8/fIzRZ6JwJMBKqRPEWc+tHx7QpK/CyTbc+wXGbdtAIJwnEamrzKLSpCAgAc5N+lgPRoucoqsqidhV4szA52Tw45biXpIrS39X+s4HSrAoZO+1+2cWu276GsJUvSXgoYZuiHaREXrAhmxrQyL3Oi4plajiwXdu5Gh8fMPwRWw6SmRzaLBKMJcoN0Afqm3hBrFiDWm1VUP7rtOvXTESJYAP+w4QfSXNAXyLs84D8n0nODE+BEemH72av5pUfwKbk8FWmcUTN1xSgIcZIz0AeOX1NzTAestsITXdSL+HnMl0RIXTbyX7nfC4Stsb0Xg1tS01vKgr9056OR91nRJrFKVwfLQb2j0/1z3nOIZBdbO68szmGf9kYnQJNUIQ8/G0ap9Q0eETzV/X3GPCoEyzODAY/BossoyQjB85PLiL21cS3kk60+vjz6vp+RP/eZ7FdCMFFwRPWf8ndPpUConYihqgAt6qVgQIgpqPqhmm2C8i8nfWrFxq8DwMEnlslJKqdaBxffb07ajOFvNdO9ciP/PYp7yZ2R+Tss/3o/fcSzdXCfHDX+lbcqeKlG1wNVgunanF5GP2ZeJh8gnbtEcjgJrgQqbmmSbnyfZaejRBTzve/TY9gkqqpaMK/qv5pe/oDe66gbALupdvexxNxHG8/zBxOnh3JH+7LaUCFnGkkMHeWGOCHe5qDFn7Ss3z0qYFFCX8Y2JiqUKt3yDkOCJ9yudLwRGDxgpK6HtEe+H/38vUyjb1ScPnxlG6BfJOHMGfjhd6dI3qKjvRRYzHdtvBJxuRxxnoOhFWDHtPSHmDcKCDKnJ0Ht3Nm6UqAAg7wYzKpmzEMoG2sijqbj/dUYK9np3clpEvtt5GCxtjhCNZFm1NBjBu0J8mG+SH0ReZ5Yz2lZMTY3hfoLK0zYUwR8sRq5uCJA9L6M9qB4cGrPQHINRnSgsufKWN7zMpHIqI/lyHtRFPXNrFzf1vupCMcNvlk+tQE7JFt56osENGl6SGtChczknmHRV9+9aj/OZzWHhi8qPsbIygGjdq7+Xv4CDcCO3HHfL1lLGNJZeFzbpuT5QSM2ZsGumpAmgl124QWmkukdxraPuCzkvb2+tuLhHaw6WQ/YjuaOpoNQtrIjN2LpgnFegyRgbvzHUMnxxW73fsIFPfLKP4T5GcKUlxIdgJtOJ0edryT0Jji28nhZ697AGiD/VRddTUzOzWjCC6REjI4YAxs2lwhGOBhphRg2w8rdIrV+zMaJ6npTNcNMwgH+Xfg+YjaJlZULr2LDDXMdiVWsvGdSO+08uN1+jAsjDB4009UMjmIPt1vQo7A2q8/D5ppChA4kUizhu7mxS++V+kk+jIdeIX61n9SIquPQxEYvemXnIJbMvmsioGY+/G6D4coqQYUuSWY+Co/iGqxXF420LSLg+qLMhHBvs8n9N0VTcP8PYrGQ0ejandRhegT57GrDhi8Bq3qI06tnm9/bbXXCQOOmPZHWMkGGrIH7oZwXJlY1MJW1rGiCqlRdv4NHkagCR78VUI9G/2q0aPlt2OdKQpeRA1fQGu8zjAh5ANvetQ8lq83V4CI3hOFKnXfdQtp5A61XwpheViCFjjdvTJoto+/CqOomEIn4Y9KYOqnD+VZ51zpZGEqOHsR/LVEEC0+jEIsG8QV+qcxpweBI/eajSkcW7CRMAS0mfhTEbauRLlGn0/WxX8fTjeoViDF96cXL1VspYTPeQcJrdVzVMuYDeUGZaQaiwQPCsg6+QANSGSIiIAkabVeIsiC0uV4aCRYpQ2pGIOapXK58hnJaxzhY9xQbDzAZ6ZCCGKtBcDxhQIbbwCC2f+F0GENL4LzCjVxlcA2OkupkwropAizIWFaZBZOAxBN8mBMu/K4wxnJcQnjGCjqEbagHu/Z0ED4W789jNvz3pPWmJ2FBL4B8XoqoQKyue0WRNcHq0nZJhkYYMjhYhiTybqsl8HN3OcDVJuUv9RMbD+aQrhgSSOgtO9nAUaMZA4+WPjq7gOD+9SxttWEw4VjbsYXFeVsxg2K6zYDgFv8byR2kBV86dx1gW+B/CXCzEvqTN7Y6kigEgfsUR+nWKVwSkQ1mGoF6Ldk7HJHf8Gh3AxjqLlgCGeFIllPCu2aNQgmgyEKMygH6bFpV6RSu9E1tHe1pzKkoGg+scee1kj3TX8ypK/hLF1scB6vv3TbPF27iCG+3C4fJlDl0TWxMgszxt+kXqRN1ysaCgwY7gzosbHR2uxNe6/v1tsJ4vDk7oto/rNsEKUEFdJlOQNdZNpAAVfmFzgGhmdwCHqNMQr0bfUpHOWTmYgmLbguF/Tt8D9Oe10NbrGV+rD2ZfbMpmd8lqjwW64xo2RPk+6TxAXIk5rDPoS9nRU3UFNKcyM4+ejhBo6Ikn5LbtbE2eUVp20uxZEoG1YkrwFc1VjT0XK6bOh87s1ru4arDhGx0hWPZn2qz7HzQa7+Q4cmbEro7cDeEVGZ8zyuIKG+jM335MBMPw5fY15WcpV237mhJSugygiiNHuS4hqHFNkPBterkrulusfTaeTNGI3ZyONPWVH0qzDTAlI9xKgIvmzerYo7F02g5+MMVFkwhZ0vXgfgah85kWBJTvpQwmq9nsD/JCtyBRi+b3sgB8YubaLaGYerUHKeriGOjxaaaaCLGNC/SHY9s0PMWlrgZlpIJCk7dkCWMha58wWpwOGKf4Hx5mPcm64JFyYf1MPGqyZHxviGCYAlHC/ZuWyPbDvHUWVvHBbxPWhr2A40/c512R4VJgydj2AueFECTNwz3uEr2K35pHdAZ2rSA2NXSB1aYjrhz5K78iF2sP1QV2884+iOhcqjWiOu2JDxi4aHuxQy7sYIquq6aeVSK5B3rQ+3QuxImtynN7LPDl0ffFssu05t8c5EV+siSyO00GMqYS70e4qBTDVSkyl5cN1EGV8qtD+HRJAb90KXZk8zFGwaENnJFYDrepRRNMZbT8a4mAGWbm2BkgapC8tzi5I0FSp5E9pP5v9R+VDRXc8zequylTWpVe9auLEFl3vNVO5V667mnSUHnruJ0MqBuVbSuAKSJ9a7731LAKr0d9htPdUHY9DbsJWxaz/sDAnDqAd45LNmKXPYhfZqdXR11Mhk/z+oJqtLswuJP0LArwNV7RL0kV1RA/ieG3Xom1Eurldf8FCGz7SZiR7/Bnq+HCnNlQDbWKPdU2ThTwv7WcFP+9NGov7yIMhSg61/pCvacKjudHKdmHi/xDpog/NPC8buf69Vy0synbkZx/196fVdDjuKZF2NgZy06D5I+KBwqclsSOKm9LlT5Hrl/Nuy91HUp2YmU0onkwev228iFPV+YWMC5jftSVe0W15hXxiipUGhyNwiY49Z77lhpZ3lll9Xxm46SZPT8/o/a+zqUr0cBo+dSwbR/BcsrbSqkCf6ampprmg7Hd04/iNty/7dFqKIoagBvyBNOI/XpzM420r7QKCVT6mlUgUNKBHrycz4/Z+5Ad7/S4QH+jeYuhSISjtPMlnDNSjm2mmgg+H5fwLLw5PobPXzkrEM/U9Lm5D9ge75o/wcWyG5Xld4Wp9WVVv1Wmhq3no20LImfWeBNUg9HOR/W8oinAFAioMzAxBeF95+GB7EBME9VwydR5VTW3xkEetL3ieRSBODFIe8vTaUzYKL5zdX3wBxQyVpYWcGyBrex9t3mkzWYsf1n0k9QwNaoJkjQR+2PJg/TqMCzxOka2tx4bo0rdGQ/bMhsV6HuxNh737hPobbdDPmXDx1OB2GF/CRaVtcCvoUOD8KnDhk7fuiDyW/S6ZIqgfPPzeXNRnN4L0hwu3BqwHlXCtQEOThc0VrA7TKiD8ExOqnsVf9Dwj3o9qqakUnVj/3q9jXocLoUMKwacLbHYwlx9YElLStx/wsn2xMy32yDnaZnfXOEMHokhJNbIVlAMUCyxmqhNAdA9mILl39pdEbx1TlSFL7jLn2cGB7iN4YoxsIWzYW1kKSeNuiHjC30vMrkYm3S3bMWVte3ycucvaiahvkeEjDIJZflSKq4lqsLAxXYngKI83RuUCflT6aGLPuj/jVvpXJ8/USFlzvay/caCkTh3IWOa5n3YkUPWBaN+GnN1vA1sCDIPwCKAYQAYGXjicSpYShsO224VcGVvoDMeuNgZcYF4MrhacO6gssSaFBVcpyZ8bTWxp3vFVd6bpBMqOlEEq6l1/5HNypATWz+zbXJLBpgI4gJuiGSz6V2dvnzf4PxEg7204xy7noLQ1dOAADLNo03FAKh8KSHTN3ghya5Bpd2W6foy1d8LiuSlrnAz6wiCdagCkSi8crEEerplIrB0JMtvk75zl8KbjGo+UfHyqUrWbt1hljupc5yRv529lwFKRTj7tNhkqdT4tJ13DjXlx77iFaU7utMsigMi4er7ZqcvSeu3PL4CzDyF8CCZ/vS4r4pIlJaX5eZaDH5o4eZnYs9F5pcCjNIo54xuHrD4MCo4zOtUS1gmtZ2XbV9fXDxCjDCDQnbOxIpObko5z/aA61O6P8kVOGUp4xpEMNWiwEXC49yPCcWmOzjfikPUIZUai/XIEaCk1CDwHmkPjlCpvbnuSZlnap+Ne4rOtX5EOtp7dAIQfgxvAj+yPAhr+C5Gg/tuRjna9m+MaFNcy/VnE8dbOftS3YoCC42N8YVbrijcfGCUq8GFBTQPDzTAKqVRn9KUHg4oK0eAFJBAglDkfDEdApnJyEngmCWGGP/dW0UFZ49JPmQN3bg9HF47aqGCVE0lT9PqcskwYgKyHzdMiYx4Bh8xLGehKV3IzTjRNKbqegUzat9NZyJc8WsTIlOdhUpINCmUjvl7gLVw1cd26OQNsIX0oU9pnlU4MYFmM6sagCfqgswk6zJXmoq3Jnt39p0xjtcnkVwWPHBnkUInG5LXAvhwaQGqs5uYPiUQTywQlFn6st6WBNn02ZOaTHoiYwvk/56jVCWhZzSwn2nLBaOmJmvZLWbZ7pheexqAQe1atdEXQqpxLBQ7jzcrYSPEODQQMjYIg5cHTwgcsQpqOvV604/grM84uxFhOhdp2y0dOF4n0ZVh5HcKDs/YDntsH1+NMcqSFw0Z2fmvUXTRvnclEyHAoXCqXdCoU1BiSAuOxrtsfiqqEhVDzTVpuOinhDUzvQxS12/69GzMbLOUXb9kQgJJvSFeOZZC4kNrPWn3RpGIvzBMQenuMynJbZZS3xv1Uq8wPWPKd6Rxx0PIWzu5Oq7FRogyhJE7S6nH/hDdnJZZt9v7EjH4R7Th54OoMenuFF4rfCY60F+z7lMXdnlYq3DTAXyZygX1AwC+m0i5Y3yUiirveJSmQbjNpX72ScX9qxWz+mvzNSIaO4N7y91CtuJUyQ7EaiTsLz08VALjh4nIxKzqH6sOI8TJeEBNFoamL6vGRyxMDP3v2myBl3w3nZyLPKUhoeuP+eroWfLPJCfQOYZEQ95VvyvvVdf/s2+jgWXfHb74B8JQqLFZGrMsK+pHqdKVYRb7MRbHfmm8yhmEz5wJlswgarAGwwzQEUwQ0EDrZE0uPxJ+Z+FVWPH924x2gjVDixjKi2fFpSYaBQs8dTmcIS5OY/sDPrAVpG+DXrha+fzpyBvZHUGTaEeO7VmXhW53yrKxkjelD8crRLTWOINvSW5AsY8UON3bjuL9H0NGm555lTYdAlP6iooOP+0BEiimPXueemI6IMdBFI4eT0qoam+351LElk7nfdcu08RswX3AtkLg5dKxLzyEJSVg17TAX+6XXIyvDfoBIaFRhtdc3dkUyV2YmGaQwO+mn4DEreXwUg6v4w1L6955dzFiPYETQpvPPvW4X/28VAkt4U5dM+TLZE6OBZyl0Aq8oBv1gy8HRavRO9XNo1klzc2CX9z2K5O4g8f8Ur9WfTwmqDKsE95qT3iUykEEz1QEUcJDRFACodxnBq7ZkFSBRxfM6kzGp9asvpaxKgWxyIxB9Jn65NArHSUzdA/CLoNVNdX70vuk9Tvxhda9o6f2SWE6TIOzHuJ5vQuDK/5slEBSCuJ2Aw9sRUi0mqLe22b+lcp3Wid90MwH9gKM1ZjwoVh9AfkMPyt3KkHx9xbumXcr0YeznjyWOZQ+y3hBITrILc44TIkMhQ+uaO/k9Y7K0g8VZdfMPlTZ3rzQAO8+alpvYhDiEQOaOgkp0zYLhmKtyRPtHXtiSEwHlI6X+Yg5zmSCA8CGNVwZ8+ZDDERNs2PzQ6ozSNZGMk54hwntTRWf18lGneQRQQxbueniFiNmA+I9aEvGo9PlLv8+hLl+30Txm1REb5V4DNBT+2TSYOq9UpMwV1oJe2CYwU6tc9oHnkSl6/ion+QB5AMfw2gk95FjgF4DcQQjIpxVCYwPzxOOGTfN8TUsdwuV3EsTzqPQpWsOADCR+Ed/1C0CASCzbdI69ncqS6bpG0JnzTqbrofKBDElPAxe8Q0xwaUUK+TXQ3lbWTEgGfhC2isuq4g6XaKjtY3ZogeT1X49ArWPQ9aiJxqwzlyD+lhYLiBtc/eIe7iODO64wm9XgoApmsKgNsIbP+5OEuEHybcAf2yZOlVtAacdHj57015JBpE5VKPxYF4+NqibxPs4WpDVB/7l9nvkDYsJkZl+wFIoyL0jShzmRycY9l7a8Bh5bKklCE/uFkQz+KA1XkEckM/znP+7vn/b9wO2iYjOJ7aNBx4leAH98Yitd7x+9FALkm7pLSlJGO1RESGcvWgnDV5qPgEgjlOrr0V6nLYp4Rh1YiLsdO4BmpBB2hFNtDwgUWNVPB1T97o6Xhr2EGzgIpElTAjJhO8ZtXPkzvgN+GfshF6bwpVy0ctFlPPUeFF9lfa91rQcA+JCHTCIFewjAiaGCWzGEGh9CiVQK4cTAZfUpa+i7bQcQiANriZ66vMSTZWZRjQwG76DUC4+by71wBV8v/L+4gUyuSuvpOYSzcaOIS06LmOiAqgU+UQsq/XWUoPnfKdsMIKJPl2KmopoEPnSjjdAROfesc0z12gBvZsKNiSGoHKhc/vgAQRdw25yvWAFbJ8HBMSeHRjNSV6e9GM6yX9KY5fXahf0KinE920ym0Zg9p+HIBT0cOQ76h3VFY0a/Z8Yp3qAgRzjt6W4rixXOs8ZsEX8wFP+MgGgNvddoBdw4ZW23JlB3FFHVH6JibSQwzSwvU0E3kuroHWv/3bEbtYFIrW/mF/23hclyJdNcwzur/eXe6TvbDZfHmIqZhfTNQNILQEF39cxmzpffoDJmAPomoCnEH8Ri5q6c1J2BK5vxtz9t+s3ZQsR0aRLmg5Ku6o9bFhMOzIguIjRYc8gqCHbRkpU5kybaOsz7q5eA+cokPA9GnSfDU3Jfr3peoj2fIcoyoCmMTJLjNchoKqFE7ZIm+SHawGGbCKcXgXxurl0zbl2nyGPpf4oCqhsbsKV94B3ivRtbjmiNez6YOhETHGx37aFleeT73/thrL8EJjEYI8XGshfwEjHfyJ5IRd5H2TAeJtG+r8aJeU7SF1csO10xb2UUCXNnqO+3Am33admif/lqkSstj+kbxk+k4Wx3j6M4N1uMeWSkJM1WG9vf+vdLR2RHx7bXTJQyS6Rg2d8zvc58+9uU57jSiU9B3TFlgqrvheJzAT4nMaMG2mJs6FTNGIb2kbkAiJHkyzQTAGEz6BKfldKmEEHUn34buYM72BBJpOAsCvpM+LtdMl/wmpyMqZ7WD/NKnoPsoUAgMfs2Ii3AVBiFMSTTq2zPdTq4rP2vWHw1qtEwsact7yhHeoPKc0JI/7PIRldg1pc8YZOxiv1hDTYL69WmZppbV/V7f6kEVeLnM13zZ1cDUxJonGGmM8LhF03556Wxhc7iZGexoESvaRNSKEtnt0VgYgCLnYx356oNfdEFQNiwjcLlbf0ulKbC73zZ/4GeLjQl4/9ZOVn3u93IriJy6pKa/ESyK52thJ6b7Hgqc8OdZ6qviiR8jCTSC7LkFFCUdtILdbiIMkhiJhxkq4FjMdcwqWO0qui8UJubZolOrYFH/jItSkKo784jYFlMT0UiX5iKY/clNydkEwx9UP0efVBEAMAmMeJORysUiviNDS93rM2ST6V2NIbNxZ5FSE52EU8SjAdMsgVyVBg3flzDY37zQluay5CRfxxassqzW828z2qirtVkNpK8Yh8p8/nFfHENvrWREsKPmFz/Qj791DPOMHdXnvSj3cfzl81AaAl64nCAT0HWTmTh2cNEfiAzR2lbx7CN/a+2khSKt2ciZ+1DG04034eYN8GKKxArgSWV6Sxo2T7iJUzEoy0oLBAruJxUYhtRxnNgz5iyUACggTS3QBniJV+00u5x81bYqeC9Xh4iaYbgeBhwz0/paqUOlQPmhgzQ56IlRr55OV9YaCvnXdet8+wi89QyFRhAfjBlqEQwAa4MfPGOvT+iZq4tEz+iW14zpqHObeWu4WlG9y04IFX7eUVb6YrnCxmydBNI3Bjt2CENU6WcD1v5MWzgFyJDxqLu9jKwpCandSgVgGih45qGExZ31oCh7b6Xa4LJBVH0+dgunpkLXvQAOau6wu2pQNqHu3tkhNynUImUqcYlvQlcV+GiFR5l8cD3UJXACl1dKaszGjtdGQUtXXM4tXoRdU2v6cpnN5h5yE4WkelE6Py4cxwj75ofjdwdd6Zb1mbp9T3UlUHo4A0+PAnhbauLhLrLNIT6srn/6St+DpvA83bOLRV1ScPQ7hOJQwXJTDuJ15liR//lvmr++/AM/SdV+s2duouqYLsLuyGzGNvVCurHQiNUSApzj71q+C++cSSB7K+AjnDvvsbhTQXrYkZvX5GhyV0cZdbFwD35K00y3+Eus7B+kO5rNiqXuQhkafaLa8FKSN4KQR6hvPChKuOdTQisU7PIFQOzjZfR0odcnmLOwavssLWkXAFcd1JX5Hl6/jNDX52S3uY05lz8lSl8HU5MK99GyclwtcvgVO9Aq2F1QDps3K/CBgJRYZ8fW5j7V6bH9JMu23WwW7U86Uw00cF9AmCoBtR2DFkTcvfQ3OHzsWlrLqvRZIsfpFIsED2I+tlG9tl7rX5QSVwDWFEekO7RF6yvCOjfhuVm6DrYpzmc5XxxhmIvlSmUsrZsoT8SoSLFySIaouXCfXfumSgljEY03ASC4+oIFncpDfhOPNZ1TDN1Q95ql7RB06Vkb1A2LyvzEbbYIsht0xu1FGLoKh+7p8+wvDtyinYqrKBRu6laCTyTYt9uFCiCplACwRvUSzsh40+VNVXUz0UK/HHDanR/3+yabOizCsXyAIwKKvbVHgf7BC23gzN8SWgtAwziGc3u2wY1UOW3KOVQTCekxmK4cm/btq5Go+wfP7S6Qvy5bVhecAc3MZTUsx5fdQ1khwx6NlIzhGa2gz1/qWIw/6mJa1JS4vm31ZR8Tr95D6eoz5gMOeZ8m6ny5cDOZHCWo+8/uwuEDZj8YlfWEpfD7TF5yW/6ZTJ/5Z6St/sSfQusSQmsFla2WavcfTFctmhKxyBVaeOjgb+DBJZU1EIU7dggd4jJazCjW184gmJyTqBAywFDYJh9qHl3+gQSuXehaORRFQ4nmDxt3tX/t1zEx6HJSwGZT9eG2YnB+UclYVsV89yuTKw1xtnZY084UzOrQpwT9jyUpsaF88Eu7NBj8Of6VFzUZ/Af4oUeWzeJFyyo3DNlJ1/ONJMPSJflap6fjhOUmr9lirTIkUUP4GFtnUC7vysCEtbpUHMb/O6B/c1JkkaSOtAdjJYndIarZkdKFEgunfOMrOzs9wAnAg7VzUznNrW6/Nlv6Nne6YNgBrShC8PnTL4gniozUgA295Yl8KB+vH3RZ1hivjpM86UfUqD1dGy7KoiX5CTdo2NuMNPub+fWbFr7iUWlzTgQ1m8GOpdpj0Tq5gImeJ95nMpxpRrHwR5kj6AymgQBnt27dig3+YAdwFKIXrsJlhW9URAjrKrWkdJxwHJKKYt/7keSToj4OX4ZtKciIMj7E+Tp6bfUdNGnb3YIgBnOhGG3+CmdtsD4HgKNjtkBNFGwpAx66arnZe4p7SJ+P25bBLMl+J4vug5csBbyBwB9XdlDAm6Ph6yB1srgswU5P19ted8CRwdwyhRCLJbDWszvf/hm66EIvSGq/yD5TYkMyMfvaExAjw4S5e/sgILAkA6EKOqrPVhoGhyXiims9s/KGOnyPFYqKxd+Be20H8AMNNnlcC6uW/JvsT9lTPgXoctVB2R28UavAbkMZqwELdowtMWzGVdEokh/T+Op0SsL0UF19g6XnYNvRRJeL5cdrco+c7K5LS7hIKQ13XlQC0zzy25xyjalJB156CtueUDrjuOgSQfmes/FMjDcOPCxQ6qSPOnoKxi4Erlqfywflrk5asRWFR7j2shUOZLdKXiz4LdZX50FOV/AIjto3tQiTOjlgpKfYaZqbjhxqOq6H7dTQKaA6fTR6Zi2Iau3jZXPaHya9q891KhXF1D29+XYupTbQ0/mccG3tjJl9+xh4uB4el3t/nqony6jqbyDzkyMbvGPJCBQXGXtAbljXv/01SCUvATKP19ocadLlXOfol3E0d7uPVjGRVR4S+58R9Fz0+pBPvcYXwrIdjnbY/stUZrTg4/isJKvPaQg0rixTVQFnb6kvMcukVnKxFPzJsikJrbiEsx3SmnuaS7ijFtZpCHWMktU88hxdjDNRsqHnadNIGuQzTh18rcZqffZNL0h58GtjdnU0YV/C2JdFL5KUoQMrWu4oQ6Auebi0kHQOgII9s3Dw2W4Nv/oQaQYSMTh/wH0R7gHXlxLww4aD0Z3tbmAwiob09R3yuqup9uyimjX5mb1oVDAQOmg6GfnM4JMMJui8yhywO13X4GnRYleluwnbEONw1QBfEVsLiQJ0p9IWTUagTF/QyQkhxVYJv0Ic9e1wVIwBKg76o6+hfF+TqEH9e30n/E6c5O+jVSVqt50tejI89u292B/zWjE+eCa2IYw7jUAACViNMs1KRNqPdIDdnFSQw6IUJZgZbln88RVlzvFZyGvQM8dbFJhDe2H6WoaEY4Cd9mkZaSO+pw/qu6Twomig0RCsrmMrZho5iEN44t3YooeLiG0T5osIC2SutKY2xvlWMpnDvYWT8TQsXZ7PSsvqkIKE+Sj9cWMwvHN7a8nTHbYn8XZqjWXfZSTXO0KJDx95rYVFufBAqq4MuUIu8gcD6UL/4D491/s/k9nw0Wr740VoGtWeaM9AaePNx80/Kv0pBozJqxrlOvwVQzIG5h3jfPiFMX4PFuQ7D/wAXSAYKnIO/mRzAi7LDJx3k86I2EHuz349+tiJzGTcnLZTJhu5w2Y7Vhnfyq+nJgYZm3C7htI8q5RBpOEv5UDF2UPyQXGhB/FjDC22Hlq0egJRC67bAHm8tzuX/vKC4DoplkjKxrulSP2oVRT/GzdlHQguryEb3PEKCRv/WmXqgvEqb68uZ/4/9zOS8WNhBKmfVB3TrWmPRtnvwf3RyjvJ2CJ9+1oKZKLpR9iXn3WSva2oylq0tSL+vhUyZRVh1PHngI0VXyg+VSMbaYuZjPYStpv+DsW510xNar3Plm7XZrf7w6HVV6tURfzoxunlZIU6ISX69+jGaiVsLYgVgEZH1XaayqyLCwhFQfyHP9c/d6TQ19fLp0uOqSccN5cxRWSVB85bq7oSQME03hkDQoqgV88IYbhoX9b7mqQYimIQHsYSaMA4oykVM1WSp3ZDPrtX7AArGsyJxRdkBI3jsDr8uJHqIJU+WmVFmkDodX0+bRoYWVXQ690rKYg4H7UZebI7SaecCobSGKTA2wTLep3AKt38EvWNlxv9Ke6mzWvSkLqwMxXcb/zkpOIKdoiokc/x7vL+4s9xEoUVdNj61OFK7AGVkww4nKn/yIK0232yrgyMw0CEZ94tYYiQ2WLeup+SgGqlRi+QumwttdSu5z2kS5NqHpFFTkgn4SKg2eWhs/9cCFO13LCHBq5iOuqNM19c4ZeCTshR5wDc3CDAB8QxFRlUk8QxWGh6pHeIwXw81V6C54lvd2bSuxO1g7KT/eUuTgz7dcRnEnn6Uuro5fiw1klF/wUozcyFMgdXS86ovpOKICHp9feEbCRQB2FQ4pIZTg/h357bfxPf/SMJNy4hulGnFdaedGoPy9BJj2CVRl2lssbEKc76zzBUt7gj+XL4dhbpO1edG1435lCTV7/aVWA9lbQNSaGj80t/gc9Sg50naIebFgqJ03ZgEx/ai3fvbzgPwaKwICxQmOBy+nBDGZ3t+JvLHotqV4vuqh0L6TLMsHXi3MGQgbdy5kOQKwJHc4OSa6X1UZ9A3JW21/kpYsSig7hfsqc55oT2HfOrdvHO88Y4fwtVzkhb3iQpSFcRl2HCqjD+8SFS+1vaceXpio5kmkvuKUvMw6FtdPMnNnsi06oGS/JGSsBIiZd37sWCNG34tw9w4oUAjGOZKa9Q737RBrpnp25gALEfr1yPcbbCpvwiNlh1e/Retc3hsOD0YUYG4u38HcImXs4uvTFUm2Oqx/hfm3yKZn7LyO4zOTCJwtxBC9F0psQtRxxZaGna8+iUvGPEFM0bSJn/s9u05joHjk4UCFuE1JXFRBoEeJLH/64VxQCS0ySGGZelCjKkrddsab1J9WxPDLyPGwrOSfWnfOJDOPOixYVwh+tPbMIgJG5o+RmzHTMqPFlNhM2muO9+0GsxzoUJ2fZw4F0WqZRgQ2Ti/spD8Hmx0udzuk0+KGWUNhE83GgBrqlYOBlT99J/1N9t8koz55whExkDi45fInedJzWTBH20V0dxwXc+Rh674WX35/keGbRlv8yIMCHT0k2tkjwUjh2imW2s5UI0LonBYTYzOHgyd14qCJII+FtyMxbz1NVyql5RHr/VLzGm5bPBzvUTSDatP+IIRe2fUFLeO0Ql58IO7P3xvI0t6fAvgT23NuU/Oy/lW1Nh4cFnxzhf3kszL8aDhHy3W+vWwoXsYx2M/+mtBya5h/XZj+Rs8CKaV2v96nQzjBocCv+0JTAY+Q/3BXqrVoJ3Zclf7TGZRkr8jLbRwEadETDBh3RlZ8ksnSJt7MP1svMNHgDaNVXAESdiMNvWPo0a4SDEi6+V7Zirh5zIWxvOoA3VyQE4uDjGQ+aa7CKzqt0Qb7lXCjKe/J1ao2u3Z6ClbAkkE28WTHMutNk6D8W+1HbC+dpbZdmPP60BBQvdCAM95WYtFh+l9F3FCNLCzyLe7aLq7TtiqRCYPFE8SQne7AeILuDmz08Pl4c3qIfF38HOk2pft1STqXl5g3Ez22Mj0qmO0oUXhxnzhErKOBb/giEFd/V0wTbX4RBZTBhCORO/QWW+7TDqa0F2/j5/RI4MSuf3m03P5CBXFqN3jTTqFsjmCgBL0AYg+IoV4t0JVIV0o81Pj9/1PBPQrwtn8CWyBiqLPP5zMTp6JjPj661wKHy9CMfQ4wk7gL64XZg8wIYLJaKoOtEec+epWupa/Wadvctw5GwamAFzBS3ru+RRSPEw3KWbryj6cSgzd+oVP2xC1cRtAUB7xsvSOFj3KuisRRkVF301+SrUulUh1EWwv/5kdufEGuNXzxjZzH2VgYteukjLV03FmdhNzp285agbilnktASzbBOxMrElm6NI6JEUV8yqH4GNT7FAlJIjW0OsW7E73OO0Uraw3xGcHzfIBRBVwbEaJYe9wUJvqVtI5/ZX/X0IeW9TqHEnKSZCSs9PReKWr9H5XYusPDS3AQar1Ky5umxlCz6TZkldnM4I/T+LDIwvV6GD4ffVZo4/qJKcnWDDNDwmCA0PDPnVVOvTvzQIO2/Ow9z/vwbtFCYHhI/R4kHxBqc81Src030vDu9dB7SpSINrmNpI2Zdp3m6/eG1eBZwj/2ZhqsCOpxFZ+4CrfctrTUqYPglthgmq8WL9P3EhRTGXwKF/ZrVFSvjw+4TEk3Lyn4ESoTGmQVMRTIEtZKBk2DuF78jJfoj3d1RpJkS13iROpKeFuKzQflhIr/vG50puf1eLMCg8TaAtfDRyqfKL7XXEsXFG4N48xWNxF0qpFBlGddEpXrDz9os96tYwChWnpfxdhL2H1KmrBzl3bq/HmB+MftZUwtFuBBHhkxagn2Ims2BVAmj5+hDv7nzwUtDBAyvCd+aTOLHoBmf/kFawfPS8KijwfBS+8G2v0SzYyequdA8RTYf848D4dzBY1hXNXtvTdWF7zDtNcoaPzpZaTN3vFryaEMe67kr8xOZPRiY4wzC5QAIB8/KTw+dwQXMVBWqlqr+FxVsu2OvIH8FLPEIxukK2EURLeWJSjvEf/yeuhRBlp+MdtFVuxPx7ZhnUkdolWnmUqIpzWXI6CV/joKnSC86QY180nRn1oaqsoYXcufMfLeN/+amFay3jKD5la4CkIhT1+ruAdocNTyWClEpR04kLEiiAVfvZgfHJSMIjmPrE8qGC2LpPvQ6ab3GQ29Q1WHwsjya3PIGC/SIyyENJcmsO0Wrm6eO7PE+qWwLIHiz8rCd5f7PlxszwSdOb6fYNRc7QMuOPFGoP1TX92lMPDjoKu2JQXpQewTRanYcjHWyk+dB62jVyN0AVZjVSMcbMbQSErFgPCYds9W5ZlzZBMTVjbKZk3W+8QMKdNRRm6m2fo1IqGlV7SK/l059pUTx9CoDcmwYl+URCwi3Ux8leiKbJfrmdEvEybm+Z5huLNdfMEhRNOlZQmea9OWOp/82pAqvMBkZb06Lu2QAWgo0mY1GXmvR1dEvJTR3ZMcmZ9a4PuMMS/nT5TXhq/ZKNotwX6nhGEuevgLril/nVLnibIuaUxPQWP/hZ8DCldaJalrN1Hn2pfJYi+8nvT7Ndzjfwa8kNEDA/zgeE+YuBYbauie4KYJLFhNwlcv9kM4DjkIWe/1HU01eYYD3Iafn6OP9kxCX3Qm+Ij+pcw6bybdWHDujFMi8EcvRHtzNVu7lghEM/YdOsENE2dDpQTR6unliAw5kfC33aAusytEIJ3iviX7UeqE4mDm6VwuChqDq3wk5jhEYPmH/K9F5pAVrBau47Faky9/zXUsnykQZH2u9Uf+W9/DDItZ8JXVh6IaNpNdLfLKOGAm/sVIZe7XD8H8PIe79j0z6XaCK+ZcscaWG+6nGg/KMYMNznSQ0SxVcqh0crXCm45u+oGARnvJWDqYgqZCiWmvbTxSwOYrmtMX2eX9Qqn/aB93oIzAyRnFV8NxbFtHq292ASkmUfmnSJ+l3G6SKOCAuDT/sHq/K9fniSq8vGqBd+v2xgOjbpNhTeUE1uBMNSivfDPCKzA7RCRyAHJAY3tLYh5MDkU0Xsi9Gljb/rH0B50bPBe7ji6BIXdujVuoy/DEnuBAejCj1cbUdrYvxUYJr/UQ5+TPNiAi8J1JbzhKtqC73zb6p2odfeqbRJzB65Eu58gQKC+yXun0zASIxDeetn4nGHVTKawX0Nkt86hKOdB4/8Kvu3dr6HaGkWa5D8uAVtcLsUip7k21evYz8rkZ6JMiJXEhTuRglJUQcElW9hk6hz27NabNnZJ6q6Bfoi7CPKVjiFU4lpzoOOMieNDtMmZqONoavyC5PHK6NFgw17CXDGYdp2ktXthd5EsRBJQlYK0sGJp2FltqkKRFKMr/I2X35kmt80uSoUd8+w4MZ0l558Bn5Tj1cBPXl5pZGNw1Z9uV0nm45MvU7KiSH57W5J0WBAVfw9NS8fI6eoDSuVw1LaiGjvKqjWdmShGOJ/lWL76ApLl62PtZ08j+yyUrwyr7lU8PDhMrXve4S7mAhzv1yfa3RZTy24CZuD7AGxf28AMqvMCPtagKfmUHNfzKR3TV59ymAKxpePer6qDv/+ctmeIoT3MkGYLzVygqH7Ecd9iFW2KZPYXCvv67sgdqtlJYGie2amOHE5kbK/N1yFRcNrboTVxSHCYeu5AL9i10ZlzAzN8MdvawWNcAu4/bkl6bC5iL3jy16j1X6XsONpWUc6RVXix4pe5QwopPzTuSowPIOXrCoZAl/DFbLxG7U8Bq1Jsqpcd6nGMopfAAys4TkCyKrjWGLHLtqQD12IaOOdIQnin7ZyafiCIT4Fz+bAyV9AFiLThNaPKsoy7c5ZvABk8vt7v0Bn1YtvyrdIEF4bcUPH29v3A67wjs7P6yL04POIF6TJB7+WfSD1qlKchFPlcpH6R0fBoyt3e7s4iduxdsIavRbltNuCTp9c9ggT07hXCIyzdxS7SyresgR/6wHj2gvMd9iYHP+MAvoWRADfmWwo5p65P12i5X+9Yzq7UcxJte+Wv8JSesamiLppA19pSSE+oRSFF84V9NZ7JjKYje4aD5+oCNY9B74tZPSXOBF4WRZrJ4egFEmM5vvLXrmr29deD7/uNtUZ48XiHNUHA8B1O5eSnUlp28dbjZTzRBIPxQKy5L28IMhEkUsD5AOJqnZTszabhm9ncgmXxv1tVC+1VCkf8n2OBc4hrGRmCmH+3vDpOCSujvfpS2HlxiCTSIGSykdKS/Ies8L+9maIRVAPczR9rLpuZAAOXolwai8bou5Nuc410a7RKTpqVTHj6+yNE+OxAZK+1OSq2cERJrbIzH4NCVyx2tEW0K0tVHgUNL22GzA90IzuX0MHXw53Uw5lode8BOC3QirEAvdXAY9DtkeRmNpPoLi4XM4SLis5vuDYuyswIDeh036uKvXkvcYdgYbmpUg/luKiqg3e3aVJVQK4HiCtFOgJBhLlzSwPn+iE1OLc7G6jIqBXlNeAn0Szc0laRE3T9SogX2j/v2cpeaJkLhN5zSvCx9pJ9MTFfTjZ+MJgD3V718xoVdbhYH+3Skj8IqohGML5uMFT025Ph3DjGLMEc6n0WnPeMwkq+CjYSIQuuubYUt7CRYDKFBvxLdMIXtdDTdOvfUkwD8A+TEIXdaxyIzo0mmAp9+qqypCvBN0TQ8E9FmxVknWEIjz/0MmOZrmTFmx/aLhcNnJyNUyGStA8kwa90AJ2UOGkzqF0SoBF4HhoqxKiJJzB9Shl8S1joZg2rN05iKqt8fOBeQFws+BJdwfjCIFd4zG9Z4cNQG8ETV+j5712LZ5dTkQRyApka8MX/GAkFXK6UZ8WWG4vHG2FHf2qwpVl+/AmQsUIo/XKIjN9QdncjyqtuWKv2YgKwpm3TaR7D9K5Ta8EFu9Iy0Y9G//iOdOCyF9NcQtBfQkSdLU6UgmcRVzxyXSdeDIVdYlm+KK8eQG6YToeuUoOwThnhpKZ7/akJex76eqi4pT+1ijheKzWrviReQIparDJ/Izx/fHsYw8kpHKMi6IdtrIQcBbDJ8RMvfgiynjHeqPbDikAIHIp8rxt53uOBzdhAtd822A0V9ay3dIxObx2l71FOs4JdQXJ1TXA7L6aXmfshPKhz2v8Xikd2t1VmaKIibrc6Y52+U07KC87unRW5MembF6u6YgjotaVorSowJ6zIcsV6+YoUjGjCmwjyHSDtXPSXnrG+RtjJ9lWmCYsK4s+O9mcPyASXxQsAFn8QmjoaC+1QiAA+RxKaQMZnSfVZkekmVLmtsCgB5gJnzeHgESzjx/bvUyMLWsNXWYeS87tKQbHDTl7uX+L+PLdpqO7MyIh5+paIUbj2v7mIQAx3EAkbyl2aOPmYAAOs2mh+Gf10DVvLf0kl7gIByyIcJQwMDGewyy/LA1SE04u41teFL20frBQ2VK3I2jkxSy+m5+o6Kpq++2gPkkArWnx4ucPqWdTAYH34FqXH65b+HfjkoZRc//VZvJoMq2vmXGJhAf4r0OYntXZoicVAKbBgn02xGl22nYEKHF+aUHszzhT88ENdcUfU2Odc9tkOM7hN2B9/YvemxBD4mY7a6A0GGLKgMbpMW/tqCaP2Y9G/G3Fb9H/FLhnJ/5wZZ+RvKrxuwSZZ2uGAGRLBxs6xQf9ZMaLNJOB15WKUuFahSBk3Y4H+KbHtQZbqD/Fcc8qyV+WB0EOVdICy7mJOUEinMTD3MlbmpRIestbWPFukLOS1Z+t11//wstS6QoPydNjoFPtUAc61i+GTuxG8A16mqBpqSVSmS64fXeluEyoj/FjyLVBM4USigGVsQsDbimplR1ZKWjIekAFmfUxgbYtp+uW7u9a/NOAjdFOR8REypCYr5GQA2HBGU/UiVh6LAjHrbdoypV/CMhuq8rvQ4bkeKI2RZ5wyqhnRP7+P49PM4TlYKLA1YJ+TLs+m0Cc7hau1F1iLuR1Hvldx6sDcWXjlNbut+wHJbjB5iNhoOmIs/KMjbxKimwgIkJN9zQ2Pw4Ao1JBT6ohRckidAvkg6P/z1gQoqspWqDZKXesR9YRX2Cvr/WByL7ArWvgSdBOdkSxW2LPVyehnkjwLHt3pkaBgSTTKrkMgesf+Fe3SWK9lLc0l+rdgMSrlErD4kIXNWQEEJmOIZNihRqD+vw2HDqMygJjhHZV9pKnhuK4ZTyKtmhbghp4nnJLt3hF6Zs4JaNsapqOEmVAhtqB7p5tuDbDZtul3qUzPOymwak/NqUob3DFWLvEfJwyyfXqWTJzdDjZKvz/xB+QWE0Ar4UMHI9BEGGWAFXQkUik7uMmS7xeQ3nVhTwnK8tn3Bs96nKFaWrRtYN5TNFCdXfYkuZKMrJ/E3GLiipUeU7g7z9//Ocy8kr3mt4NB9Yl+KfGBZLB33VV0dqF330UIjpXKjJVn92SiwV6D2/IRFdkCmNAY4f2I0UfIVSP+MdjlRxZbbmn5p9TJ6rlpNRsh+UXgEF6VO7y51chb14PByzI988bxXyVrMhmOfA2OJALHCIm/PKY79aklMijm2r7heFHpDfgBe1BWRGnphbgDiZHkjsfpivsbcQUnbKrSFXlko1xwYoIw/8iZjKkjqQkyEk5E+zyXgYSDgBA+iopFsi3U/jdwyq+aNYOIf+M71EOxhuiERjubQNBlfsqCZfoyR4QH2/V2F+mIhsHIE6at+MrpMQPzRX0eWrRPuDwe922xWj7xtUdhkG+D8qi5/mi8jZwgsO0Z8uePf8kNmfG6SfzrZ4vW3XwfM9WwLUXaSSpB9WSRWjQRRCEAG7c5hXWD1dCR9VUxAGp6Q2c5rb1ooQ8QJNzM+AGA/h5lZq+ZXPPyMg/TY2PRTlOFhA6a2oCiT21HiVHStLAfSMN9i/JtJfpyZtTEqwSzLCvt3tH6dZ+BB/5v+rYAgHEGm48/9+G3ZSQqv3ArKBWKd20eNuoPqxLj43dZZVfLMzYg3QwG5kuBjgByX3Nahz/+tYRFjWps1q/29Os473n2641oFr6NFar5jyB2aRwOYOO9dTMT77b1i693OnTuGM/0psy5ulhx3Cx3BP4/777FOCYRLkP07Dvul1dSFcvleH033tc/9JYTj7MlxNmHaUXIRF/tKtvCW9s9UL5tJyN1BOzKx2rm7p3ufDa/LD7BpH0D3UmuROeQkin53od4riA2uBuMJ2t2ZsDLYkyZxwM4T+L5xG6EOmofTWPN+5WlTJlR5HiW2NbDaftf+9tPBmrs4/SzGoyj/ZQWem0ro7UxeCJ4HwgpTe/lC5PHMJUSGKyOAi4BYgCZzBFBy950+k3XHMXQeNb8jAI9bJxAeA3fIbY34b7mKTlHuf4CEnpB3WkceoewfOX4WWV0Wt9O+S9Ebh+J3SuhTIAlDQ4q6t79HCC8vp95UmvFkB/f5OtQOXjlchOzC/OBcCx1JrzbA/5G5Q6A1AzecZQ+sCeDtxfeo+v3SPxs5LU9MBUWJ/bIJy/Esf3uvTTURp4N6ru64V0/jQhqP/SKsuErUb/vfYC5MFw+3TsAsOwFSo7ytaFec88LG+8DI3WT+1iBbmFBPay5MSN/4GpaW4tVno64EF2DKxccrAbwQpjAgWFIl0yr8vgzYrYLAWOrAjPgpvK22G9MJOMDdUCf18uQT1DYWFE9iz/hW43ULyETvCt5afjiVKLdZ2rkw7vXjF9yssW5kXG1tDzx0jGDZkTOs2XqlBvOHvOsRXG1VqBprF6Pn+Irj0EPDkr8XnzNUgD2utUC5KZkW07HyujCSgjxazQhvDz/ZNNyXhDhcn6PotfqXXrPdWy6SbmUiSdybLAX9vOYegBnOz4YYT26RxZRfnOMfq3CDRGULPN/mGEKzDylsvTEzrDhDfLWMJjPoqpBi385lOxOvFGfMvT/72Z0aVFFStW2oLwj7dMK6XUnaGNXdYL01q058jVy2ORjpzxFvRxKsmp9Y34cGY49idQmqaGhoW8T18gnXrqYdF8HFfnNcEklZ1/HwVG08pk97ErpBu0nzoYsig1e16V18ASoC/iGL5783PU06KMUmrx/nvQQk9i3EoqSxxhjhxKNTNXG4BM/GWU3uyxiGG5E0MN7qQTt/JZhL8lELECodr6pSo6f/TATWBstxCkl7KcTLNrkCV/H0o6bZ0J+srblQAZaP474AWe281vRsAKlZ+fTGQBJPgdWJs2zzveyYcYc56MLvX6EumClymdqQpi+s133oIOE+t+a1LDYIMDPFpq6AVJKOKZ7i6RhPZQx1qKfiHzR5Yzp6q0EJq+dCncWYEcOcxX7BHisI4CfHIYufT92aKg52HWl2TKu3fN4AjIAqtNagjSOFWSNcy3KLNlkrwelrckimIG7h4m/4Hrbvtf0b2NPSJQF4ARsixkjjeEP7kS83aKh3P7/f5x2gj11TK+G9gM0bVlh+SfOG8XBJ7cTzhzWHZox14dCF3bKIg/u/GOmgPFXKm71zaz93WAESk7osXKPuY4zwIr4N8GbkHc/Dw/KzTJ5raFbQQnzPP9E7x7JJVT2oDGmaMyESpLsqVAsRt2FhkddGJr8VYOLNIEm77gokZ6HZmyPaQEX3WgaPPYmk0D0gdky7urHoxdnzVrb93GVZ54JXw3z5VOTFsyBu6xHiZtJKI/PCJQ+smlr00OEe815bt6Lojr/PC2i8VtzTljelugfPigNqZa8adIiSaMQl+sV9Ymq4AZZwOCBWeYWa1UqPLiQXyJUejPn6h+MMUp2wKQnrxsSqJAlruDzMM6LkQYypONA/lWaWJZeKsPdHeGPZBJiQGP5BOggnCyi0aZWOqYa14MZXiSvXX3/k+h73dWMJCADCvtTu9MQl1nXPrR0qolJSHLZn8EudSrj+mI/pKFaB9QMUxX0cZBHw64Xdak4vTkeUy+439uJU/A1PDAypg1UG/gFVSqHUue8upRFw5tftq+/kAKeZ9GRfkbpQ8skVrBYgahIK7vY39Uij8yYRekEoRe7fmZzESiXh/qiNikzs00uYW9DVRFIOCtIZ5jKsVJ2wwEapmVMT7kDr3sl4AAsm7+Rxrr00JgkH38eJ577yiBz0UmbLKgN2Ct2TczEHSx8GS33DuXn8X/tHPNF9OSRG702Q6jujIRzdpNiKWtD3KkH85vBOMBXCVbQcGWDmbGWPTpyIPTRLCQQbwj3z5DCdlplMIXrEbt3/CJhlrhYo+SYLuuEf2ZYb5jxfD/2EkAqlFruAAdD6Fzr3rCeApPnL7wUNOwG8mMaB7p/G5ffCMb6Ci7ukDXhtVTqjEk+Fb01B0I6huqgOrvCaFd9+pyghXHrQrOcSgHHM8TmmKddUj2X2jShmxuOt5k7nrHzDAVbfqadwjomxHJxMhOTcD7tiiFK2hybr18gMgEzGlhP1RnzbmTxu73qC0F2yufIbyDMA0tfIJB5nfMnZ4klQkcHMbJp0mDU6dzI2hr0QN8szY3pK+ENhNXQNpxQYWnq+hyxrr4791XzAAuD7W33u3DBZPCU5tijZaNws7Rg+pAcfy89y+QFgU70M1RiCwhD9KGC+k96RTAbI72ysfAGcLJz7bSf2lN4gWcqVzohBYabsxHORc/akrzr7ybt8GJydSSB1VmOczSc+Kyl049ZyxLG1tZz03KQs7YNe9qUKrTy2ENWv4dwbnZDZ1U9c6V9urGtMmhsXtv1xKPINJJLLUpVrTwN4ZrZWzfYy+b8WiCr/GEFxVRAov+TdEF6dittrhIi48UPPOMZ56Yo0oORMA51FhI2XmDEiKP1pPnKoMCfuNDDSGth4JRfIkUgi1f2ggq9F49giDcAbUjHItohhdVa8YhjKJWOFu5D2vxYd25vkxk+0JzXcJGiZFYVOh6NrMZYFm/w7dhDAweICuNJvRa7XjZUIbpjsCvPYHFQAucZG+65RpW4I2BCqHP7a3VGmCLSB+5apdJQMorlC0dYn6sgQOKiDk+DyoU2Dz1aDGNBaVwNcZyLeWHYBz/lx2tn905Q+5MoY5jFzWBD7NjC+WHjxA15hJF6UE0LTvVxfJ8l7tPS/bMLcFRKAnyi2LzcbQTst5ZDHrmo7qYRzHO6gV6wWaKpxFViDIvGGigvkkZB3k91EMeEt7BtoWfQnA9usp/tfuHMwjKSLv1vTq85J6IbLM8BbLxEH1ItFZF42wTTGF3AY4OUQ2eP0qRMN0+yx4Ls2Vi5+uBXUgmIYwUcpSolciQ4aQXWg3Hs1a045mQ2dWJeHhylp4EVU4kU0Q6MJNpRQXNkNYzdi4jYoRSxpY9hkOROyJgTcFb6s/oAxFS1j6sYEcUeKxV1YtkNXF9rWYUv7x23ZFLc+qymW4S/F9YdI74LgSuookC+q+joWihKAZlduBWhz3ee0lZHgxJ8cv0ptm2ub+W5Y1Drl2IxTY/24xLKh3nNJqKyGKifotaPYw9YbnxkEliIR+5kMSWGcEoKEdzGUNgi/myZptEpDS+S0+U7GRqbECLx4PS9QjQYFu7kI3kRTET4BXpDb8Dbb6ux47bL7AKR9HkuECPNJ1bzk+SyLU5XF/mr0/iDSoLQw2Eje48S6nGXH9utbD8bHxV234xJQcx9BQMMEJOTvTy21eshtjYoKAHumfXba9lMXV4vXVQIqSgTkXcZSLzJ/GM1cHKl0XOjCbRcaefJ0VRrHP9wGBHKv4PnPLxCXRO34W5Ntf4XKAi374C19iw86RnqgFNngy7TljzyAZJFypbSsnwzRg0KIvhNJWGn8eu0UxiCeshryUAJusV3aGZI2mnvlrq5l+dS51+TaViSQhEtevDw6VAEoaPpRcJoOrCedHxXiM0ooI8653jpLhnieILxLhYJvkW1incu/2FX7ixPQqiVEHfCoAlsRAy9azf7BeM5NKKBRF7DluJsTNAftDGqqmaNMewhJ88k=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=b94hX14NMWluUQ9a73g0LYFvtKhY52TK8cbDkYB_F2GuPre4tdh-ebiiI4xuhXnRu6Q5dQjaQA4oN3PEeL0GrtKEyEY1&amp;t=638942408819057530" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=YwOa_0w_u3oCLFqmIIOf-XEz4GWZ1DuyQIpxIA4LVkywj39sZSps12NbK5wNl5XN9JF3m7d-ey7BFDgj6i0380qRQ5IMWCL54sYNVU1IjMmiOWpp0&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=_shmykYI80CxCNR43Ii1nLy9PBGhuSe6SPp3CEYu0wDEuLqDAuIcsXVNhTIgQn0iyiwPorMflXuK31FftDX9GnB0m366MCEoOmY-eKQ3YAO9xRL0gIigzgRbtbVOgSQkJbJpFg2&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/PressReleasePage.aspx?_TSM_HiddenField_=sc_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a5a4df314-b4a2-4da2-a207-9284f1b1e96c%3ade1feab2%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3aa67c2700%3aab09e3fe%3a87104b7c%3a8613aea7%3a3202a5a2%3abe6fb298" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59B53027" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="f74hjDWep0xHPBjF+537ilmxxm8iitZoU+JGpY7fBBTVoPuvTZy/1ObRD5V2ou+I++M37zv8u7PxinGZA4nv9XlO0f3PFQ/RY0opdNosYk7ckb20ewEL61mvPBQp0d0L5evgUJ4HYd17kOJmG6JNFSbGHAd8iLOy0J7G5QSt7jy42YGC/gDUWP1kKPHoYAX3vhv4rFHtpxH2CcxA5TYQXm84U7QHidDj7IdDGY1IGgqNn0nE7l5JHSBqL2rfou8zq9VxbW/gbwMcu6A0etuxG1vnBbuRn9Wi+0Zx5IXW7CM0zzAg" />
+</div>
+                              
+            <div id="templateCss"></div>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('sc', 'form1', ['tupdate12','update12'], [], [], 90, '');
+//]]>
+</script>
+
+            <input type="hidden" name="hfGridHtml" id="hfGridHtml" />
+            <div class="container" style='margin-bottom: 50px;'>
+                  <div id="accessories">
+
+                        
+                        <div class="pull-right" style="display: flex">
+                              <div id="voll"></div>
+                              <div id="vollDT"></div>
+                              
+                              
+<div class="print-icons">
+<input type="image" name="Print1$print" id="Print1_print" aria-label="Print" src="images/printer_icon.png" alt="print page button" style="padding: 5px 10px 5px 10px;" />
+</div>
+                        </div>
+                  </div>
+                  <input type="hidden" name="hydpermid" id="hydpermid" value="2274280" />
+                  
+
+
+
+                  <div class="innner-page-main-about-us-content-right-part">
+
+                        <div id="MinistryName" class="MinistryNameSubhead text-center">
+                              Ministry of Commerce & Industry
+                        </div>
+                        
+                        <div id="lg_g"><div class='log_oo'>  <img src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2021/aug/ph202183101.png' alt='azadi ka amrit mahotsav' /> </div></div>
+
+
+
+
+
+                        <div class="text-center event-heading-background">
+                              
+                              <h2 id="Titleh2">
+                                    India and the United Kingdom Unleash a Next Generation Economic Corridor: Comprehensive Economic and Trade Agreement (CETA) and Agreement on Social Security Contributions Set to Enter into Force on 15th July 2026
+                              </h2>
+                              <h3 id="Subtitleh3">
+                                    <span id="ltrSubtitle"><br/>Transformational Leap towards Viksit Bharat @2047: India and the United Kingdom to Activate a Historic Trade and Economic Partnership Architecture<br/><br/>CETA provides Zero-Duty Access on ~99% of India’s exports to the UK, covering nearly 100% of trade value<br/><br/>Double Contribution Convention extended from 3 years to 5 years<br/><br/>CETA to significantly expand Services Exports across 137 sub-sectors, including IT/ITES, professional, education and business services</span>
+                              </h3>
+                        </div>
+
+                        <div id="PrDateTime" class="ReleaseDateSubHeaddateTime text-center pt20">
+                              Posted On:
+                17 JUN 2026 8:47PM by PIB Delhi
+                        </div>
+                        
+                        <div class='pt20'>
+                        </div>
+                        <input type="hidden" name="hydphotoUrl" id="hydphotoUrl" />
+                        
+                        <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">In a major stride for India&rsquo;s global economic engagement, the India and United Kingdom today announced that the Comprehensive Economic and Trade Agreement (CETA) will enter into force on 15<sup>th</sup> July 2026, marking a new phase in the country&rsquo;s economic diplomacy. Simultaneously, the Agreement on Social Security&mdash;also referred to as the Double Contribution Convention (DCC)&mdash;will also come into effect on 15<sup>th</sup> July 2026, reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. Also, the period of exemption under DCC has been increased from 3 years to 5 years, thereby marking a major gain for India&rsquo;s temporary workers.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Following the successful completion of internal procedures and ratifications by both governments, the agreements will formally enter into force on 15<sup>th</sup> July 2026. Aligned with the national vision of &quot;Viksit Bharat 2047,&quot; this milestone will operationalize a highly sophisticated, well-balanced economic framework that translates policy into active daily commerce with a major global economy.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the <em>India&ndash;UK Roadmap 2030</em>, which set the goal of elevating bilateral ties to a Comprehensive Strategic Partnership and doubling trade to USD 100 billion by 2030.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Following fourteen intensive rounds of negotiations, CETA was concluded on 6 May 2025. The agreement was officially signed on 24 July 2025 in London by India&#39;s Union Minister of Commerce and Industry, Shri Piyush Goyal, and the UK&#39;s Secretary of State for Business and Trade, Mr. Jonathan Reynolds, in the presence of Prime Minister Shri Narendra Modi and British Prime Minister Sir Keir Starmer. To complete the framework, the companion Double Contribution Convention (DCC) was subsequently signed on 10 February 2026.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Hailing the agreement as a triumph of economic statecraft, India&rsquo;s Commerce &amp; Industry Minister, Shri Piyush Goyal, stated:</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">&ldquo;The simultaneous enforcement of the CETA and the Double Contribution Convention on 15<sup>th</sup> July 2026 will open up significant new opportunities for India&rsquo;s exports. By securing immediate duty-free access on 99% of our tariff lines, we have systematically dismantled long-standing tariff walls. This will effectively level the playing field, allowing our textiles, leather, marine, engineering, and processed food sectors to compete with no disadvantage and supply their world class products.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Crucially, this structure is built on absolute economic security; stringent exclusion lists are actively deployed to insulate our sensitive agricultural and rural economies from import volatility. Simultaneously, by exempting our professionals from double insurance contributions, we are protecting the financial interests of our talent pool. This dual breakthrough aggressively expands our global commercial footprint while fiercely guarding domestic sensitivities.&rdquo;</span></p>
+
+<p style="text-align:justify"><strong style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">A Next-Generation Trade Framework</strong></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Comprising 30 chapters, CETA establishes a new paradigm for next-generation trade pacts, directly supporting India&rsquo;s &quot;Viksit Bharat 2047&quot; vision. Beyond traditional tariff-cutting, the agreement modernizes bilateral engagement by integrating traditional goods and services with advanced disciplines like digital trade, telecommunications, financial services, intellectual property, and&mdash;for the first time bilaterally&mdash;government procurement. It also embeds forward-looking chapters on innovation, SMEs, sustainability, and transparency to ensure inclusive growth. Ultimately, this framework is engineered to secure critical supply chains, accelerate technological collaboration, and establish a transparent, rules-based benchmark for India&rsquo;s future economic diplomacy.</span></span></p>
+
+<p style="text-align:justify"><strong style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Key Economic Gains</strong></p>
+
+<p style="text-align:justify"><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">The operationalization of the Comprehensive Economic Trade Agreement (CETA) and the simultaneous Double Contribution Convention (DCC) will mark a structural transformation in India&#39;s global trade architecture. This comprehensive framework leverages India&#39;s manufacturing prowess, service capabilities, and grassroots production directly into one of the world&#39;s premier consumer arenas.</span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<ol>
+	<li><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Transformational Market Access for Indian Exports</strong></span></span></li>
+</ol>
+
+<p style="margin-left:36.0pt; margin-right:0cm">&nbsp;</p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">With the entry into force, Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, up to 21.5% on marine products, up to 18% on engineering goods and auto components, up to 16% on leather and footwear products, up to 12% on textiles and clothing, and up to 8% on chemicals and pharmaceutical products will be reduced to zero. The immediate duty-free access secured under CETA is expected to significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, workers, MSMEs and manufacturers, and strengthen India&#39;s integration into global value chains.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">This immediate duty-free window injects immense pricing power into the engine rooms of Indian manufacturing, allowing traditional artisans, large-scale factories, and regional industrial hubs to compete entirely on merit from day one of implementation.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">At the same time, India has protected sensitive sectors including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.</span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<ol start="2">
+	<li><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Landmark Services Package and Mobility Provisions</strong></span></span></li>
+</ol>
+
+<p style="margin-left:36.0pt; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The UK has provided one of its most comprehensive services commitments ever, covering all major services sectors and 137 sub-sectors of export interest to India.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Indian service providers in IT and IT-enabled services, financial services, professional services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Agreement also provides predictable mobility pathways for:</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">&bull; Business Visitors<br />
+&bull; Intra-Corporate Transferees<br />
+&bull; Contractual Service Suppliers<br />
+&bull; Independent Professionals<br />
+&bull; Investors</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">In a first-of-its-kind arrangement, 1,800 Indian chefs, yoga instructors and classical musicians will be able to access dedicated mobility opportunities annually under the Agreement.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="3">
+	<li><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Agreement on Social Security: A Major Breakthrough</strong></span></span></li>
+</ol>
+
+<p style="margin-left:36.0pt; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Agreement on Social Security, entering into force alongside the Agreement, exempts Indian workers and employers from making dual social security contributions in the United Kingdom during temporary assignments. The period of exemption has been increased from 3 years to 5 years.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">More than 75,000 Indian professionals and over 900 companies are expected to benefit. The Agreement will support mobility and continued social security coverage of the employees on temporary overseas assignments. This will enhance India-UK partnerships in the service sector, leveraging the high skills and innovative service sectors of both countries.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="4">
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Interests of Steel Exporters Protected</strong></span></span></li>
+</ol>
+
+<p style="margin-left:36.0pt; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Demonstrating the collaborative strength of the India-UK Comprehensive Economic Partnership Agreement (CETA), India and the United Kingdom have successfully reached a landmark consensus to safeguard and promote bilateral steel trade. Following constructive deliberations regarding the UK&rsquo;s upcoming steel measures effective July 1, 2026, both sides mutually agreed to protect commercial interests, minimize market disruptions, and ensure an overall balanced and stable trading environment for exporters.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">85% of India&rsquo;s exports are out of the Steel measures. On the lines under the Steel measures India&rsquo;s interest has been protected through a mix of CSQ, residual quota and access under Authorised Use Scheme (AUS).</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>A People-Centric Trade Agreement</strong></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The India&ndash;UK CETA has been designed as a people-centric agreement that delivers benefits across society.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Farmers gain access to premium export markets. Fisherfolk benefit from enhanced seafood exports. Workers gain new employment opportunities in labour-intensive sectors. Women entrepreneurs, youth, startups and MSMEs receive improved access to global value chains. Professionals benefit from enhanced mobility and recognition opportunities</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The implementation of the India&ndash;UK CETA and DCC from 15<sup>th</sup> July 2026 marks a major step in India&#39;s journey towards becoming a globally integrated, resilient and competitive economy and reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">This historic economic architecture effectively prepares both nations to navigate the complexities of modern international commerce while permanently accelerating India&#39;s trajectory toward an inclusive, prosperous, and self-reliant &quot;Viksit Bharat 2047.</span></span></p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The full details of the India-UK Comprehensive Economic Trade Agreement may be seen at <a href="https://www.commerce.gov.in/#/international-trade/trade-agreements/india-united-kingdom-comprehensive-economic-and-trade-agreement" target="_blank">https://www.commerce.gov.in/#/international-trade/trade-agreements/india-united-kingdom-comprehensive-economic-and-trade-agreement</a>.</span></span></p>
+
+<p style="text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>***</strong></span></span></p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Abhijith Narayanan/ Garima Singh/ Ishita Biswas</strong></span></span></p>
+
+
+                        
+                        <div id="reel_pic">
+                        </div>
+
+
+
+                        
+                        <br />
+                        <span id="ReleaseId">(Release ID: 2274280)</span>
+                        <span id="lblViews">Visitor Counter : 10027</span>
+                        <div>
+                              
+                        </div>
+                        
+
+                        <span id="lblRefPhoto"></span>
+
+                        <div class="BackgroundRelease">
+                              
+                        </div>
+                        <div>
+                              
+                        </div>
+                        <div class="ReleaseLang">Read this release in: 
+                        
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2274433' target="_blank">
+                                          Urdu </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2274341' target="_blank">
+                                          Marathi </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2274388' target="_blank">
+                                          हिन्दी </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2274702' target="_blank">
+                                          Punjabi </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2274323' target="_blank">
+                                          Gujarati </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2275142' target="_blank">
+                                          Tamil </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2274360' target="_blank">
+                                          Kannada </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2274475' target="_blank">
+                                          Malayalam </a>
+                              
+                        </div>
+
+                        <div class="RelTag">
+                              <ul>
+                                    
+                              </ul>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div id="RelLink" class="RelLink">
+                              <ul>
+                                    
+                                    
+                              </ul>
+                        </div>
+                        <center>
+                              
+                        </center>
+                  </div>
+
+                  <div id="update12">
+	
+                              
+                              <input type="hidden" name="Hidden" id="Hidden" />
+                              <div id="P_CategoryManagement" class="ModalWindow" style="border-width:0px;height:60%;width:60%;overflow:auto;display: none">
+		
+                                    <div>
+                                          <input type="image" name="btnClose" id="btnClose" src="images/close_flat_icon.png" />
+                                    </div>
+                                    <div id="description">
+                                    </div>
+                                    <div class="text-center">
+                                          <h2>
+                                                
+                                                <br>
+                                                
+                                          </h2>
+                                    </div>
+                                    <br />
+                                    <div class="clear">
+                                    </div>
+                                    
+                              
+	</div>
+                        
+</div>
+            </div>
+            
+            <div id="PdfDiv" style="display: none;">
+                  <table width="100%">
+                        <tr>
+                              <td style="font-weight: 200; text-align: center">
+                                    Ministry of Commerce & Industry
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          India and the United Kingdom Unleash a Next Generation Economic Corridor: Comprehensive Economic and Trade Agreement (CETA) and Agreement on Social Security Contributions Set to Enter into Force on 15th July 2026
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          <div style='height:30px;width:100%;'></div>Transformational Leap towards Viksit Bharat @2047: India and the United Kingdom to Activate a Historic Trade and Economic Partnership Architecture<div style='height:30px;width:100%;'></div><div style='height:30px;width:100%;'></div>CETA provides Zero-Duty Access on ~99% of India’s exports to the UK, covering nearly 100% of trade value<div style='height:30px;width:100%;'></div><div style='height:30px;width:100%;'></div>Double Contribution Convention extended from 3 years to 5 years<div style='height:30px;width:100%;'></div><div style='height:30px;width:100%;'></div>CETA to significantly expand Services Exports across 137 sub-sectors, including IT/ITES, professional, education and business services
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="text-align: center; font-size: 14px;">
+                                          Posted On:
+                        17 JUN 2026 8:47PM by PIB Delhi
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: left; font-size: 16px;">
+                                          <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">In a major stride for India&rsquo;s global economic engagement, the India and United Kingdom today announced that the Comprehensive Economic and Trade Agreement (CETA) will enter into force on 15<sup>th</sup> July 2026, marking a new phase in the country&rsquo;s economic diplomacy. Simultaneously, the Agreement on Social Security&mdash;also referred to as the Double Contribution Convention (DCC)&mdash;will also come into effect on 15<sup>th</sup> July 2026, reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. Also, the period of exemption under DCC has been increased from 3 years to 5 years, thereby marking a major gain for India&rsquo;s temporary workers.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Following the successful completion of internal procedures and ratifications by both governments, the agreements will formally enter into force on 15<sup>th</sup> July 2026. Aligned with the national vision of &quot;Viksit Bharat 2047,&quot; this milestone will operationalize a highly sophisticated, well-balanced economic framework that translates policy into active daily commerce with a major global economy.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the <em>India&ndash;UK Roadmap 2030</em>, which set the goal of elevating bilateral ties to a Comprehensive Strategic Partnership and doubling trade to USD 100 billion by 2030.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Following fourteen intensive rounds of negotiations, CETA was concluded on 6 May 2025. The agreement was officially signed on 24 July 2025 in London by India&#39;s Union Minister of Commerce and Industry, Shri Piyush Goyal, and the UK&#39;s Secretary of State for Business and Trade, Mr. Jonathan Reynolds, in the presence of Prime Minister Shri Narendra Modi and British Prime Minister Sir Keir Starmer. To complete the framework, the companion Double Contribution Convention (DCC) was subsequently signed on 10 February 2026.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Hailing the agreement as a triumph of economic statecraft, India&rsquo;s Commerce &amp; Industry Minister, Shri Piyush Goyal, stated:</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">&ldquo;The simultaneous enforcement of the CETA and the Double Contribution Convention on 15<sup>th</sup> July 2026 will open up significant new opportunities for India&rsquo;s exports. By securing immediate duty-free access on 99% of our tariff lines, we have systematically dismantled long-standing tariff walls. This will effectively level the playing field, allowing our textiles, leather, marine, engineering, and processed food sectors to compete with no disadvantage and supply their world class products.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Crucially, this structure is built on absolute economic security; stringent exclusion lists are actively deployed to insulate our sensitive agricultural and rural economies from import volatility. Simultaneously, by exempting our professionals from double insurance contributions, we are protecting the financial interests of our talent pool. This dual breakthrough aggressively expands our global commercial footprint while fiercely guarding domestic sensitivities.&rdquo;</span></p>
+
+<p style="text-align:justify"><strong style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">A Next-Generation Trade Framework</strong></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Comprising 30 chapters, CETA establishes a new paradigm for next-generation trade pacts, directly supporting India&rsquo;s &quot;Viksit Bharat 2047&quot; vision. Beyond traditional tariff-cutting, the agreement modernizes bilateral engagement by integrating traditional goods and services with advanced disciplines like digital trade, telecommunications, financial services, intellectual property, and&mdash;for the first time bilaterally&mdash;government procurement. It also embeds forward-looking chapters on innovation, SMEs, sustainability, and transparency to ensure inclusive growth. Ultimately, this framework is engineered to secure critical supply chains, accelerate technological collaboration, and establish a transparent, rules-based benchmark for India&rsquo;s future economic diplomacy.</span></span></p>
+
+<p style="text-align:justify"><strong style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">Key Economic Gains</strong></p>
+
+<p style="text-align:justify"><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">The operationalization of the Comprehensive Economic Trade Agreement (CETA) and the simultaneous Double Contribution Convention (DCC) will mark a structural transformation in India&#39;s global trade architecture. This comprehensive framework leverages India&#39;s manufacturing prowess, service capabilities, and grassroots production directly into one of the world&#39;s premier consumer arenas.</span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<ol>
+	<li><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Transformational Market Access for Indian Exports</strong></span></span></li>
+</ol>
+
+<p style="margin-left:36.0pt; margin-right:0cm">&nbsp;</p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">With the entry into force, Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, up to 21.5% on marine products, up to 18% on engineering goods and auto components, up to 16% on leather and footwear products, up to 12% on textiles and clothing, and up to 8% on chemicals and pharmaceutical products will be reduced to zero. The immediate duty-free access secured under CETA is expected to significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, workers, MSMEs and manufacturers, and strengthen India&#39;s integration into global value chains.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">This immediate duty-free window injects immense pricing power into the engine rooms of Indian manufacturing, allowing traditional artisans, large-scale factories, and regional industrial hubs to compete entirely on merit from day one of implementation.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">At the same time, India has protected sensitive sectors including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.</span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<ol start="2">
+	<li><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Landmark Services Package and Mobility Provisions</strong></span></span></li>
+</ol>
+
+<p style="margin-left:36.0pt; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The UK has provided one of its most comprehensive services commitments ever, covering all major services sectors and 137 sub-sectors of export interest to India.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Indian service providers in IT and IT-enabled services, financial services, professional services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Agreement also provides predictable mobility pathways for:</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">&bull; Business Visitors<br />
+&bull; Intra-Corporate Transferees<br />
+&bull; Contractual Service Suppliers<br />
+&bull; Independent Professionals<br />
+&bull; Investors</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">In a first-of-its-kind arrangement, 1,800 Indian chefs, yoga instructors and classical musicians will be able to access dedicated mobility opportunities annually under the Agreement.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="3">
+	<li><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Agreement on Social Security: A Major Breakthrough</strong></span></span></li>
+</ol>
+
+<p style="margin-left:36.0pt; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Agreement on Social Security, entering into force alongside the Agreement, exempts Indian workers and employers from making dual social security contributions in the United Kingdom during temporary assignments. The period of exemption has been increased from 3 years to 5 years.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">More than 75,000 Indian professionals and over 900 companies are expected to benefit. The Agreement will support mobility and continued social security coverage of the employees on temporary overseas assignments. This will enhance India-UK partnerships in the service sector, leveraging the high skills and innovative service sectors of both countries.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="4">
+	<li style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Interests of Steel Exporters Protected</strong></span></span></li>
+</ol>
+
+<p style="margin-left:36.0pt; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Demonstrating the collaborative strength of the India-UK Comprehensive Economic Partnership Agreement (CETA), India and the United Kingdom have successfully reached a landmark consensus to safeguard and promote bilateral steel trade. Following constructive deliberations regarding the UK&rsquo;s upcoming steel measures effective July 1, 2026, both sides mutually agreed to protect commercial interests, minimize market disruptions, and ensure an overall balanced and stable trading environment for exporters.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">85% of India&rsquo;s exports are out of the Steel measures. On the lines under the Steel measures India&rsquo;s interest has been protected through a mix of CSQ, residual quota and access under Authorised Use Scheme (AUS).</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>A People-Centric Trade Agreement</strong></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The India&ndash;UK CETA has been designed as a people-centric agreement that delivers benefits across society.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Farmers gain access to premium export markets. Fisherfolk benefit from enhanced seafood exports. Workers gain new employment opportunities in labour-intensive sectors. Women entrepreneurs, youth, startups and MSMEs receive improved access to global value chains. Professionals benefit from enhanced mobility and recognition opportunities</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The implementation of the India&ndash;UK CETA and DCC from 15<sup>th</sup> July 2026 marks a major step in India&#39;s journey towards becoming a globally integrated, resilient and competitive economy and reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">This historic economic architecture effectively prepares both nations to navigate the complexities of modern international commerce while permanently accelerating India&#39;s trajectory toward an inclusive, prosperous, and self-reliant &quot;Viksit Bharat 2047.</span></span></p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The full details of the India-UK Comprehensive Economic Trade Agreement may be seen at <a href="https://www.commerce.gov.in/#/international-trade/trade-agreements/india-united-kingdom-comprehensive-economic-and-trade-agreement" target="_blank">https://www.commerce.gov.in/#/international-trade/trade-agreements/india-united-kingdom-comprehensive-economic-and-trade-agreement</a>.</span></span></p>
+
+<p style="text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>***</strong></span></span></p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Abhijith Narayanan/ Garima Singh/ Ishita Biswas</strong></span></span></p>
+
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 100; text-align: left; font-size: 16px;">
+                                          (Release ID: 2274280)
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                              </td>
+                        </tr>
+                        <tr>
+                              <td style="font-weight: 200; text-align: center; font-size: 24px;"></td>
+                        </tr>
+                  </table>
+            </div>
+            <div class="clearfix">
+            </div>
+
+            
+
+            <div class="section1">
+                  <div id="frst_t">
+                        <div id="arr_rm"><div class='sticky-social_mb'><ul class='social_mb'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2274280' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='40' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2274280&text=India and the United Kingdom Unleash a Next Generation Economic Corridor: Comprehensive Economic and Trade Agreement (CETA) and Agreement on Social Security Contributions Set to Enter into Force on 15th July 2026' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='40' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2274280' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='40' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=India and the United Kingdom Unleash a Next Generation Economic Corridor: Comprehensive Economic and Trade Agreement (CETA) and Agreement on Social Security Contributions Set to Enter into Force on 15th July 2026&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2274280&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='40' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2274280&title=India and the United Kingdom Unleash a Next Generation Economic Corridor: Comprehensive Economic and Trade Agreement (CETA) and Agreement on Social Security Contributions Set to Enter into Force on 15th July 2026&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='40' /></li></a></ul></div></div>
+                  </div>
+                  <div id="second_t">
+                        <div id="sndr_rm"><div class='sticky-social'><ul class='social'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2274280' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='35' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2274280&text=India and the United Kingdom Unleash a Next Generation Economic Corridor: Comprehensive Economic and Trade Agreement (CETA) and Agreement on Social Security Contributions Set to Enter into Force on 15th July 2026' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='35' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2274280' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='35' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=India and the United Kingdom Unleash a Next Generation Economic Corridor: Comprehensive Economic and Trade Agreement (CETA) and Agreement on Social Security Contributions Set to Enter into Force on 15th July 2026&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2274280&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='35' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2274280&title=India and the United Kingdom Unleash a Next Generation Economic Corridor: Comprehensive Economic and Trade Agreement (CETA) and Agreement on Social Security Contributions Set to Enter into Force on 15th July 2026&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='35' /></li></a></ul></div></div>
+                  </div>
+            </div>
+            <input type="hidden" name="ltrTitlee" id="ltrTitlee" value="India and the United Kingdom Unleash a Next Generation Economic Corridor: Comprehensive Economic and Trade Agreement (CETA) and Agreement on Social Security Contributions Set to Enter into Force on 15th July 2026" />
+            <input type="hidden" name="ltrSubtitlee" id="ltrSubtitlee" value="&lt;br/>Transformational Leap towards Viksit Bharat @2047: India and the United Kingdom to Activate a Historic Trade and Economic Partnership Architecture&lt;br/>&lt;br/>CETA provides Zero-Duty Access on ~99% of India’s exports to the UK, covering nearly 100% of trade value&lt;br/>&lt;br/>Double Contribution Convention extended from 3 years to 5 years&lt;br/>&lt;br/>CETA to significantly expand Services Exports across 137 sub-sectors, including IT/ITES, professional, education and business services" />
+            <input type="hidden" name="ltrDescriptionn" id="ltrDescriptionn" value="&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>In a major stride for India&amp;rsquo;s global economic engagement, the India and United Kingdom today announced that the Comprehensive Economic and Trade Agreement (CETA) will enter into force on 15th July 2026, marking a new phase in the country&amp;rsquo;s economic diplomacy. Simultaneously, the Agreement on Social Security&amp;mdash;also referred to as the Double Contribution Convention (DCC)&amp;mdash;will also come into effect on 15th July 2026, reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. Also, the period of exemption under DCC has been increased from 3 years to 5 years, thereby marking a major gain for India&amp;rsquo;s temporary workers.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Following the successful completion of internal procedures and ratifications by both governments, the agreements will formally enter into force on 15th July 2026. Aligned with the national vision of &amp;quot;Viksit Bharat 2047,&amp;quot; this milestone will operationalize a highly sophisticated, well-balanced economic framework that translates policy into active daily commerce with a major global economy.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the &lt;em>India&amp;ndash;UK Roadmap 2030&lt;/em>, which set the goal of elevating bilateral ties to a Comprehensive Strategic Partnership and doubling trade to USD 100 billion by 2030.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Following fourteen intensive rounds of negotiations, CETA was concluded on 6 May 2025. The agreement was officially signed on 24 July 2025 in London by India&amp;#39;s Union Minister of Commerce and Industry, Shri Piyush Goyal, and the UK&amp;#39;s Secretary of State for Business and Trade, Mr. Jonathan Reynolds, in the presence of Prime Minister Shri Narendra Modi and British Prime Minister Sir Keir Starmer. To complete the framework, the companion Double Contribution Convention (DCC) was subsequently signed on 10 February 2026.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Hailing the agreement as a triumph of economic statecraft, India&amp;rsquo;s Commerce &amp;amp; Industry Minister, Shri Piyush Goyal, stated:&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&amp;ldquo;The simultaneous enforcement of the CETA and the Double Contribution Convention on 15th July 2026 will open up significant new opportunities for India&amp;rsquo;s exports. By securing immediate duty-free access on 99% of our tariff lines, we have systematically dismantled long-standing tariff walls. This will effectively level the playing field, allowing our textiles, leather, marine, engineering, and processed food sectors to compete with no disadvantage and supply their world class products.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>Crucially, this structure is built on absolute economic security; stringent exclusion lists are actively deployed to insulate our sensitive agricultural and rural economies from import volatility. Simultaneously, by exempting our professionals from double insurance contributions, we are protecting the financial interests of our talent pool. This dual breakthrough aggressively expands our global commercial footprint while fiercely guarding domestic sensitivities.&amp;rdquo;&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;strong style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>A Next-Generation Trade Framework&lt;/strong>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Comprising 30 chapters, CETA establishes a new paradigm for next-generation trade pacts, directly supporting India&amp;rsquo;s &amp;quot;Viksit Bharat 2047&amp;quot; vision. Beyond traditional tariff-cutting, the agreement modernizes bilateral engagement by integrating traditional goods and services with advanced disciplines like digital trade, telecommunications, financial services, intellectual property, and&amp;mdash;for the first time bilaterally&amp;mdash;government procurement. It also embeds forward-looking chapters on innovation, SMEs, sustainability, and transparency to ensure inclusive growth. Ultimately, this framework is engineered to secure critical supply chains, accelerate technological collaboration, and establish a transparent, rules-based benchmark for India&amp;rsquo;s future economic diplomacy.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;strong style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>Key Economic Gains&lt;/strong>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>The operationalization of the Comprehensive Economic Trade Agreement (CETA) and the simultaneous Double Contribution Convention (DCC) will mark a structural transformation in India&amp;#39;s global trade architecture. This comprehensive framework leverages India&amp;#39;s manufacturing prowess, service capabilities, and grassroots production directly into one of the world&amp;#39;s premier consumer arenas.&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&amp;nbsp;&lt;/p>
+
+
+	&lt;li>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&lt;strong>Transformational Market Access for Indian Exports&lt;/strong>&lt;/span>&lt;/span>&lt;/li>
+
+
+&lt;p style=&quot;margin-left:36.0pt; margin-right:0cm&quot;>&amp;nbsp;&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>With the entry into force, Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, up to 21.5% on marine products, up to 18% on engineering goods and auto components, up to 16% on leather and footwear products, up to 12% on textiles and clothing, and up to 8% on chemicals and pharmaceutical products will be reduced to zero. The immediate duty-free access secured under CETA is expected to significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, workers, MSMEs and manufacturers, and strengthen India&amp;#39;s integration into global value chains.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>This immediate duty-free window injects immense pricing power into the engine rooms of Indian manufacturing, allowing traditional artisans, large-scale factories, and regional industrial hubs to compete entirely on merit from day one of implementation.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>At the same time, India has protected sensitive sectors including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&amp;nbsp;&lt;/p>
+
+
+	&lt;li>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&lt;strong>Landmark Services Package and Mobility Provisions&lt;/strong>&lt;/span>&lt;/span>&lt;/li>
+
+
+&lt;p style=&quot;margin-left:36.0pt; margin-right:0cm&quot;>&amp;nbsp;&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The UK has provided one of its most comprehensive services commitments ever, covering all major services sectors and 137 sub-sectors of export interest to India.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Indian service providers in IT and IT-enabled services, financial services, professional services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The Agreement also provides predictable mobility pathways for:&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&amp;bull; Business Visitors&lt;br />
+&amp;bull; Intra-Corporate Transferees&lt;br />
+&amp;bull; Contractual Service Suppliers&lt;br />
+&amp;bull; Independent Professionals&lt;br />
+&amp;bull; Investors&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>In a first-of-its-kind arrangement, 1,800 Indian chefs, yoga instructors and classical musicians will be able to access dedicated mobility opportunities annually under the Agreement.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&amp;nbsp;&lt;/p>
+
+
+	&lt;li>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&lt;strong>Agreement on Social Security: A Major Breakthrough&lt;/strong>&lt;/span>&lt;/span>&lt;/li>
+
+
+&lt;p style=&quot;margin-left:36.0pt; margin-right:0cm&quot;>&amp;nbsp;&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The Agreement on Social Security, entering into force alongside the Agreement, exempts Indian workers and employers from making dual social security contributions in the United Kingdom during temporary assignments. The period of exemption has been increased from 3 years to 5 years.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>More than 75,000 Indian professionals and over 900 companies are expected to benefit. The Agreement will support mobility and continued social security coverage of the employees on temporary overseas assignments. This will enhance India-UK partnerships in the service sector, leveraging the high skills and innovative service sectors of both countries.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&amp;nbsp;&lt;/p>
+
+
+	&lt;li style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&lt;strong>Interests of Steel Exporters Protected&lt;/strong>&lt;/span>&lt;/span>&lt;/li>
+
+
+&lt;p style=&quot;margin-left:36.0pt; margin-right:0cm; text-align:justify&quot;>&amp;nbsp;&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Demonstrating the collaborative strength of the India-UK Comprehensive Economic Partnership Agreement (CETA), India and the United Kingdom have successfully reached a landmark consensus to safeguard and promote bilateral steel trade. Following constructive deliberations regarding the UK&amp;rsquo;s upcoming steel measures effective July 1, 2026, both sides mutually agreed to protect commercial interests, minimize market disruptions, and ensure an overall balanced and stable trading environment for exporters.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>85% of India&amp;rsquo;s exports are out of the Steel measures. On the lines under the Steel measures India&amp;rsquo;s interest has been protected through a mix of CSQ, residual quota and access under Authorised Use Scheme (AUS).&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&amp;nbsp;&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&lt;strong>A People-Centric Trade Agreement&lt;/strong>&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm&quot;>&amp;nbsp;&lt;/p>
+
+&lt;p style=&quot;margin-left:0cm; margin-right:0cm; text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The India&amp;ndash;UK CETA has been designed as a people-centric agreement that delivers benefits across society.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Farmers gain access to premium export markets. Fisherfolk benefit from enhanced seafood exports. Workers gain new employment opportunities in labour-intensive sectors. Women entrepreneurs, youth, startups and MSMEs receive improved access to global value chains. Professionals benefit from enhanced mobility and recognition opportunities&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The implementation of the India&amp;ndash;UK CETA and DCC from 15th July 2026 marks a major step in India&amp;#39;s journey towards becoming a globally integrated, resilient and competitive economy and reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>This historic economic architecture effectively prepares both nations to navigate the complexities of modern international commerce while permanently accelerating India&amp;#39;s trajectory toward an inclusive, prosperous, and self-reliant &amp;quot;Viksit Bharat 2047.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The full details of the India-UK Comprehensive Economic Trade Agreement may be seen at &lt;a href=&quot;https://www.commerce.gov.in/#/international-trade/trade-agreements/india-united-kingdom-comprehensive-economic-and-trade-agreement&quot; target=&quot;_blank&quot;>https://www.commerce.gov.in/#/international-trade/trade-agreements/india-united-kingdom-comprehensive-economic-and-trade-agreement&lt;/a>.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:center&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&lt;strong>***&lt;/strong>&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&lt;strong>Abhijith Narayanan/ Garima Singh/ Ishita Biswas&lt;/strong>&lt;/span>&lt;/span>&lt;/p>
+" />
+            <script type="text/javascript">
+                  var mPlayer = document.getElementById("background_music");
+                  var mPlayAction = document.getElementById("playbutton");
+
+                  var isPlaying = false;
+
+                  function playAudio() {
+                        mPlayer.play();
+                        isPlaying = true;
+                        document.getElementById('stopA').style.display = "block";
+                        document.getElementById('playA').style.display = "none";
+                  }
+
+                  function pauseAudio() {
+                        mPlayer.pause();
+                        isPlaying = false;
+                        document.getElementById('playA').style.display = "block";
+                        document.getElementById('stopA').style.display = "none";
+                  }
+                  //function HandleAudio() {
+                  //    if (isPlaying == true) {
+                  //        //Playing already Pause it
+                  //        pauseAudio();
+                  //    } else {
+                  //        //Play the music
+                  //        playAudio();
+                  //    }
+                  //}
+            </script>
+            <script type="text/javascript">
+                  var synth = window.speechSynthesis;
+
+            
+                  function CleanHtml(html) {
+
+                        html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+
+                        return html;
+                  }
+                  function stripHtml(html) {
+                        let tmp = document.createElement("DIV");
+                        tmp.innerHTML = CleanHtml(html);
+                        return tmp.textContent || tmp.innerText || "";
+                  }
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        //for responsive tables
+                        $("table").each(function () {
+                              if (!$(this).closest(".table-responsive").length) {
+                                    $(this).wrap("<div class='table-responsive'></div>");
+                              }
+                        });
+
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            
+            <style type="text/css">
+                  @media print {
+                        .sticky-social, .sticky-social_mb, .pull-right, #printPDF {
+                              display: none !important;
+                        }
+                  }
+
+                  .f_vl {
+                        padding-right: 30px;
+                        font-size: 17px;
+                        cursor: pointer;
+                  }
+
+                  .log_oo {
+                        // width: 20%;
+                        display: flex;
+                        justify-content: space-between;
+                  }
+
+                        .log_oo img {
+                              width: 150px;
+                              /*width: 100%;
+                    height: auto;*/
+                        }
+
+                  .sticky-social_mb {
+                        position: fixed;
+                        bottom: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                        width: 100%;
+                  }
+
+                  .social_mb {
+                        list-style: none;
+                        display: flex;
+                        width: 100%;
+                        margin-bottom: -8px;
+                  }
+
+                        .social_mb a {
+                              padding: 8px 0px;
+                              font-size: 30px;
+                              transition: all 0.8s ease-in-out;
+                              width: 20% !important;
+                              text-align: center;
+                        }
+            </style>
+            <style type="text/css">
+                  .section1 {
+                        position: relative;
+                        padding: 10px 0px;
+                        width: 100%;
+                  }
+
+
+
+                  .sticky-social {
+                        position: fixed;
+                        top: 20px;
+                        left: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                  }
+
+                  .social {
+                        list-style: none;
+                  }
+
+                        .social a li {
+                              padding: 8px 12px;
+                              font-size: 25px;
+                              transition: all 0.8s ease-in-out;
+                        }
+
+                              .social a li:hover {
+                                    margin-right: -30px;
+                                    box-shadow: 2px 5px 10px grey;
+                              }
+
+                                    .social a li:hover .fa {
+                                          margin-left: 20px;
+                                    }
+
+                  .fb_b {
+                        /* background-color: rgb(59, 89, 152);*/
+                        background-color: rgba(65,103,178,255);
+                  }
+
+                  .twitter_r {
+                        /* background-color: rgb(29, 161, 242);*/
+                        background-color: #000000;
+                  }
+
+                  .whatsapp_r {
+                        /* background-color: rgb(77, 194, 71);*/
+                        background-color: rgba(13,191,67,255);
+                  }
+
+                  .fa-envelope_r {
+                        /* background-color: rgb(219, 68, 55);*/
+                        background-color: #e2123d;
+                  }
+
+                  .fa-linkedin_r {
+                        background-color: rgb(0, 119, 181);
+                  }
+            </style>
+            <style type="text/css">
+                  @media only screen and (max-device-width: 767px) {
+                        p span img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        p img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        h2 {
+                              font-size: 20px !important;
+                              font-weight: 600 !important;
+                        }
+
+                        h3 {
+                              font-size: 18px !important;
+                              font-weight: 600 !important;
+                        }
+                  }
+            </style>
+            <style type="text/css">
+                  /* === Film Roll Badge Styling(IFFI2025 countdown) === */
+                  .film-roll-badge {
+                        position: absolute;
+                        top:82%;
+                        right: 20px;
+                        width: 230px;
+                        height: 70px;
+                        background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 18px, #6e2b8b 18px, #6e2b8b 36px );
+                        border-top: 8px solid #9a2375;
+                        border-bottom: 8px solid #9a2375;
+                        border-radius: 8px;
+                        overflow: hidden;
+                        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+                        animation: moveFilm 8s linear infinite;
+                        z-index: 10;
+                  }
+
+                        /* film sprocket holes */
+                        .film-roll-badge::before,
+                        .film-roll-badge::after {
+                              content: "";
+                              position: absolute;
+                              width: 100%;
+                              height: 10px;
+                              background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 10px, #fff 10px, #fff 20px );
+                              left: 0;
+                              z-index: 2;
+                        }
+
+                        .film-roll-badge::before {
+                              top: -4px;
+                        }
+
+                        .film-roll-badge::after {
+                              bottom: -4px;
+                        }
+
+                  .film-roll-inner {
+                        position: relative;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        animation: flicker 2s infinite ease-in-out;
+                  }
+
+                  .countdown-text {
+                        font-size: 1.3rem;
+                        font-weight: 700;
+                        color: #fff;
+                        text-shadow: 0 0 6px rgba(255, 255, 255, 0.4), 0 0 10px #000;
+                        white-space: nowrap;
+                  }
+
+                  /* === Animations === */
+                  @keyframes moveFilm {
+                        0% {
+                              background-position: 0 0;
+                        }
+
+                        100% {
+                              background-position: 120px 0;
+                        }
+                  }
+
+                  @keyframes flicker {
+                        0%, 100% {
+                              opacity: 1;
+                        }
+
+                        50% {
+                              opacity: 0.9;
+                        }
+
+                        25% {
+                              opacity: 0.95;
+                        }
+
+                        75% {
+                              opacity: 0.85;
+                        }
+                  }
+
+                  /* === Responsive Adjustments === */
+                  @media (max-width: 1500px) {
+                        .film-roll-badge {
+                              top: 68%;
+                              right: 18px;
+                              /* width: 220px; */
+                              height: 65px;
+                              font-size: 0.85rem;
+                        }
+
+                        .press-section {
+                              margin-top: 35px;
+                        }
+                  }
+
+                  @media (max-width: 992px) {
+                        .film-roll-badge {
+                              top: 52%;
+                              right: 10px;
+                               width: 200px; 
+                              height: 60px;
+                        }
+                  }
+
+                  @media (max-width: 768px) {
+                        .film-roll-badge {
+                              top: 56%;
+                              right: 10px;
+                               width: 124px; 
+                              height: 55px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.9rem;
+                        }
+                  }
+
+                  @media (max-width: 576px) {
+                        .film-roll-badge {
+                              top: 59%;
+                              right: 5px;
+                              /* width: 160px; */
+                              height: 50px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.85rem;
+                        }
+                  }
+            </style>
+          <script type="text/javascript">
+                const festivalStart = new Date("2025-11-20T00:00:00").getTime();
+                const festivalEnd = new Date("2025-11-28T23:59:59").getTime();
+
+                const countdownElement = document.getElementById("countdown");
+
+                const interval = setInterval(() => {
+                      const now = new Date().getTime();
+
+                      // BEFORE FESTIVAL — show days + hours left
+                      if (now < festivalStart) {
+                            const diff = festivalStart - now;
+                            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                            const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+                            countdownElement.innerHTML = `
+              ${days} Day${days !== 1 ? 's' : ''} 
+              ${hours} Hour${hours !== 1 ? 's' : ''} to go
+          `;
+
+                      }
+
+                      // DURING FESTIVAL — show 56th IFFI - Day X
+                      else if (now >= festivalStart && now <= festivalEnd) {
+                            const dayNumber = Math.floor((now - festivalStart) / (1000 * 60 * 60 * 24)) + 1;
+                            countdownElement.innerHTML = `56th IFFI - Day ${dayNumber}`;
+                      }
+
+                      // AFTER FESTIVAL — new message
+                      else {
+                            countdownElement.innerHTML = `✨ IFFI closes but never ends…`;
+
+                            // Width change logic
+                            const elements = document.querySelectorAll('.film-roll-badge');
+                            elements.forEach(el => el.style.width = "350px");
+
+                            clearInterval(interval);
+                      }
+
+                }, 1000);
+          </script>
+ <script type="text/javascript">
+
+               const miffStart = new Date("2026-06-15T00:00:00").getTime();
+               const miffEnd = new Date("2026-06-15T23:59:59").getTime();
+
+               const miffElement = document.getElementById("miff");
+
+               if (miffElement) {
+
+                   const miffInterval = setInterval(() => {
+
+                       const now = new Date().getTime();
+
+                       // Before MIFF
+                       if (now < miffStart) {
+
+                           const diff = miffStart - now;
+                           const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                           const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+        
+
+                   /*  miffElement.innerHTML = `${days} Day${days !== 1 ? 's' : ''} ${hours} Hour${hours !== 1 ? 's' : ''} to MIFF`;*/
+                           miffElement.innerHTML = `${days} Day${days === 1 ? '' : 's'} to MIFF ...`;
+
+
+                     }
+
+                       // During MIFF
+                       else if (now >= miffStart && now <= miffEnd) {
+
+                           const dayNumber =
+                               Math.floor((now - miffStart) / (1000 * 60 * 60 * 24)) + 1;
+
+                           miffElement.innerHTML = `19th MIFF - Day ${dayNumber}`;
+                       }
+
+                       // After MIFF
+                       else {
+
+                           miffElement.innerHTML = `✨ MIFF concludes, cinema lives on...`;
+
+                           document.querySelectorAll('.film-roll-badge')
+                               .forEach(el => el.style.width = "350px");
+
+                           clearInterval(miffInterval);
+                       }
+
+                   }, 1000);
+               }
+
+</script>
+
+      
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("sc_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"P_CategoryManagement","dynamicServicePath":"/PressReleasePage.aspx","id":"mpe"}, null, null, $get("Hidden"));
+});
+//]]>
+</script>
+<input type="hidden" name="__ncforminfo" value="kMj3DneYzZjpcX3bX6zo09g9iempll073jihuJ7TUXVkT-cBSg9zMFqTMJwmpW6mc6a1T-vF22xxt7V-QLXUUp2P6bcE3Dc3j7RE8SWuL-7HFsto-mTPig=="/></form>
+</body>
+</html>
+

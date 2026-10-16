@@ -1,0 +1,1992 @@
+{
+  "title": "Annex 3A — Product Specific Rules of Origin",
+  "note": "The rule a good must satisfy to be an originating good. Rules are read most-specific-first: sub-heading, then heading, then chapter. A Section Note, where one exists, sits above all of them.",
+  "source": {
+    "file": "01-ceta-legal-text/uk_india_ceta_annex3a_product_specific_rules_of_origin.pdf",
+    "url": "https://assets.publishing.service.gov.uk/media/687e5e378adf4250705c96db/uk_india_ceta_annex3a_product_specific_rules_of_origin.pdf",
+    "sha256": "118428ed17b861cc0c9dad90dc2fa03bdd4f89f212423e43c8036ddf4fb250f9",
+    "retrieved": "2026-08-04"
+  },
+  "glossary": {
+    "WO": "Wholly obtained. The good must be entirely obtained or produced in India — grown, mined, born and raised, or made exclusively from materials that themselves qualify. Article 3.3.",
+    "CC": "Change of chapter. Every non-originating material must be classified in a different 2-digit HS chapter from the finished good.",
+    "CTH": "Change of tariff heading. Every non-originating material must be classified in a different 4-digit HS heading from the finished good.",
+    "CTSH": "Change of tariff sub-heading. Every non-originating material must be classified in a different 6-digit HS sub-heading from the finished good.",
+    "QVC": "Qualifying value content. A stated percentage of the good's value must be accounted for by originating content, calculated under Article 3.5 by either the build-up or the build-down method.",
+    "Standard QVC": "Standard qualifying value content: 40% of the ex-works price or 45% of the FOB value under the build-down method, or 35% of either under the build-up method. Article 3.5."
+  },
+  "sectionNotes": [
+    {
+      "section": "II",
+      "title": "VEGETABLE PRODUCTS",
+      "note": "Section Note: An agricultural or horticultural good grown in the territory of a Party is originating even if grown from seed, bulbs, rhizomes, rootstock, cuttings, slips, grafts, shoots, buds, or other live parts of plants that are imported from a non-Party.",
+      "chapters": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "section": "VI",
+      "title": "PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES",
+      "note": "Section Note 1: Chemical Reaction Rule Notwithstanding the applicable product specific rules of origin, a good of chapter 28 through 38 that is the product of a chemical reaction satisfies the requirements of this Annex if the chemical reaction occurs in the territory of one or both of the Parties. For the purposes of this rule: “chemical reaction” means a process (including a biochemical process) which results in a molecule with a new structure by breaking intramolecular bonds and by forming new intramolecular bonds, or by altering the spatial arrangement of atoms in a molecule. The following are not chemical reactions: (a) dissolving in water or other solvents; (b) the elimination of solvents including solvent water; or (c) the addition or elimination of water of crystallisation. Section Note 2: Mixing and Blending Rule Notwithstanding the applicable product specific rules of origin, a good of chapter 33, satisfies the requirements of this Annex if mixing and blending occurred in the territory of one or both of the Parties. For the purposes of this rule: “mixing and blending” means the deliberate and proportionally controlled mixing or blending (including dispersing) of materials other than the addition of diluents, to conform to predetermined specifications which results in the production of a good having physical or chemical characteristics which are relevant to the purposes or uses of the good and are different from the input materials.",
+      "chapters": [
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ]
+    },
+    {
+      "section": "VII",
+      "title": "PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF",
+      "note": "Section Note 1: Chemical Reaction Rule Notwithstanding the applicable product specific rules of origin, a good of chapter 39 that is the product of a chemical reaction satisfies the requirements of this Annex if the chemical reaction occurs in the territory of one or both of the Parties. For the purposes of this rule: “chemical reaction” means a process (including a biochemical process) which results in a molecule with a new structure by breaking intramolecular bonds and by forming new intramolecular bonds, or by altering the spatial arrangement of atoms in a molecule. The following are not chemical reactions: (a) dissolving in water or other solvents; (b) the elimination of solvents including solvent water; or (c) the addition or elimination of water of crystallisation.",
+      "chapters": [
+        "39",
+        "40"
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "code": "01",
+      "level": "chapter",
+      "partial": false,
+      "description": "Live animals",
+      "rule": "WO"
+    },
+    {
+      "code": "02",
+      "level": "chapter",
+      "partial": false,
+      "description": "Meat and edible meat offal",
+      "rule": "WO"
+    },
+    {
+      "code": "03",
+      "level": "chapter",
+      "partial": false,
+      "description": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+      "rule": "WO"
+    },
+    {
+      "code": "04",
+      "level": "chapter",
+      "partial": false,
+      "description": "Dairy produce; birds’ eggs; natural honey; edible products of animal origin, not elsewhere specified or included",
+      "rule": "WO"
+    },
+    {
+      "code": "05",
+      "level": "chapter",
+      "partial": false,
+      "description": "Products of animal origin ; not elsewhere specified or included",
+      "rule": "WO"
+    },
+    {
+      "code": "06",
+      "level": "chapter",
+      "partial": false,
+      "description": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",
+      "rule": "WO"
+    },
+    {
+      "code": "07",
+      "level": "chapter",
+      "partial": false,
+      "description": "Edible vegetables and certain roots and tubers",
+      "rule": "WO"
+    },
+    {
+      "code": "08",
+      "level": "chapter",
+      "partial": true,
+      "description": "Edible fruit and nuts; peel of citrus fruit or melons",
+      "rule": "WO"
+    },
+    {
+      "code": "0812",
+      "level": "heading",
+      "partial": false,
+      "description": "Fruit and nuts provisionally preserved, but unsuitable in that state for immediate consumption",
+      "rule": "CTH"
+    },
+    {
+      "code": "0813",
+      "level": "heading",
+      "partial": false,
+      "description": "Fruit, dried, other than that of headings 0801 to 0806; mixtures of nuts or dried fruits of chapter 08",
+      "rule": "CTH"
+    },
+    {
+      "code": "09",
+      "level": "chapter",
+      "partial": true,
+      "description": "Coffee, tea, maté and spices",
+      "rule": "WO"
+    },
+    {
+      "code": "090112",
+      "level": "subheading",
+      "partial": false,
+      "description": "Coffee, not roasted: decaffeinated",
+      "rule": "CTSH"
+    },
+    {
+      "code": "090121",
+      "level": "subheading",
+      "partial": false,
+      "description": "Coffee roasted: not decaffeinated",
+      "rule": "CTSH"
+    },
+    {
+      "code": "090122",
+      "level": "subheading",
+      "partial": false,
+      "description": "Coffee roasted: decaffeinated",
+      "rule": "CTSH"
+    },
+    {
+      "code": "090190",
+      "level": "subheading",
+      "partial": false,
+      "description": "Coffee; coffee husks and skins; coffee substitutes containing coffee in any proportion",
+      "rule": "CTSH"
+    },
+    {
+      "code": "090210",
+      "level": "subheading",
+      "partial": false,
+      "description": "Green tea (not fermented) in immediate packings of a content not exceeding 3kg",
+      "rule": "CTSH; or blending"
+    },
+    {
+      "code": "090220",
+      "level": "subheading",
+      "partial": false,
+      "description": "Green tea (not fermented) in immediate packings of a content exceeding 3kg",
+      "rule": "CC; or blending"
+    },
+    {
+      "code": "090230",
+      "level": "subheading",
+      "partial": false,
+      "description": "Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",
+      "rule": "CTSH; or blending"
+    },
+    {
+      "code": "090240",
+      "level": "subheading",
+      "partial": false,
+      "description": "Black tea (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",
+      "rule": "CC; or blending"
+    },
+    {
+      "code": "10",
+      "level": "chapter",
+      "partial": false,
+      "description": "Cereals",
+      "rule": "WO"
+    },
+    {
+      "code": "11",
+      "level": "chapter",
+      "partial": true,
+      "description": "Products of the milling industry; malt; starches; inulin; wheat gluten",
+      "rule": "WO"
+    },
+    {
+      "code": "1101",
+      "level": "heading",
+      "partial": false,
+      "description": "Wheat or meslin flour",
+      "rule": "CC"
+    },
+    {
+      "code": "1102",
+      "level": "heading",
+      "partial": false,
+      "description": "Cereal flours other than of wheat or meslin",
+      "rule": "CC"
+    },
+    {
+      "code": "110319",
+      "level": "subheading",
+      "partial": false,
+      "description": "Groats and meal: of other cereals",
+      "rule": "CC"
+    },
+    {
+      "code": "110320",
+      "level": "subheading",
+      "partial": true,
+      "description": "Pellets of oats",
+      "rule": "CC"
+    },
+    {
+      "code": "110412",
+      "level": "subheading",
+      "partial": false,
+      "description": "Rolled or flaked cereal grains: of oats",
+      "rule": "CC"
+    },
+    {
+      "code": "110422",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other worked grains (e.g. hulled, pearled, sliced or kibbled): of oats",
+      "rule": "CC"
+    },
+    {
+      "code": "1107",
+      "level": "heading",
+      "partial": false,
+      "description": "Malt, whether or not roasted",
+      "rule": "CC"
+    },
+    {
+      "code": "12",
+      "level": "chapter",
+      "partial": false,
+      "description": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",
+      "rule": "WO"
+    },
+    {
+      "code": "13",
+      "level": "chapter",
+      "partial": false,
+      "description": "Lac; gums, resins and other vegetable saps and extracts",
+      "rule": "CC"
+    },
+    {
+      "code": "14",
+      "level": "chapter",
+      "partial": false,
+      "description": "Vegetable plaiting materials; vegetable products not elsewhere specified or included",
+      "rule": "WO"
+    },
+    {
+      "code": "15",
+      "level": "chapter",
+      "partial": true,
+      "description": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "1505",
+      "level": "heading",
+      "partial": false,
+      "description": "Wool grease and fatty substances derived therefrom (including lanolin)",
+      "rule": "CC"
+    },
+    {
+      "code": "151211",
+      "level": "subheading",
+      "partial": false,
+      "description": "Sunflower-seed or safflower oil and fractions thereof: crude oil",
+      "rule": "CC"
+    },
+    {
+      "code": "151219",
+      "level": "subheading",
+      "partial": false,
+      "description": "Sunflower-seed or safflower oil and fractions thereof: other",
+      "rule": "CC"
+    },
+    {
+      "code": "151221",
+      "level": "subheading",
+      "partial": false,
+      "description": "Cotton-seed oil and its fractions: crude oil, whether or not gossypol has been removed",
+      "rule": "CC"
+    },
+    {
+      "code": "151229",
+      "level": "subheading",
+      "partial": false,
+      "description": "Cotton-seed oil and its fractions: other",
+      "rule": "CC"
+    },
+    {
+      "code": "151411",
+      "level": "subheading",
+      "partial": false,
+      "description": "Low erucic acid rape or colza oil and its fractions: crude oil",
+      "rule": "CC"
+    },
+    {
+      "code": "151419",
+      "level": "subheading",
+      "partial": false,
+      "description": "Low erucic acid rape or colza oil and its fractions: other than crude oil",
+      "rule": "CTSH"
+    },
+    {
+      "code": "151491",
+      "level": "subheading",
+      "partial": false,
+      "description": "Crude rape, colza or mustard oil and fractions thereof, not chemically modified: other than low erucic acid rape or colza oil and its fractions",
+      "rule": "CC"
+    },
+    {
+      "code": "151499",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other rape, colza or mustard oil and fractions thereof, not chemically modified: other than low erucic acid rape or colza oil and its fractions",
+      "rule": "CTSH"
+    },
+    {
+      "code": "1515",
+      "level": "heading",
+      "partial": false,
+      "description": "Other fixed vegetable or microbial fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+      "rule": "CC"
+    },
+    {
+      "code": "1516",
+      "level": "heading",
+      "partial": false,
+      "description": "Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",
+      "rule": "CC"
+    },
+    {
+      "code": "1518",
+      "level": "heading",
+      "partial": false,
+      "description": "Animal, vegetable or microbial fats and oils and their fractions, boiled, oxidised, dehydrated sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516; inedible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of chapter 15, not elsewhere specified or included",
+      "rule": "CC"
+    },
+    {
+      "code": "1520",
+      "level": "heading",
+      "partial": false,
+      "description": "Glycerol, crude; glycerol waters and glycerol lyes",
+      "rule": "CC"
+    },
+    {
+      "code": "1521",
+      "level": "heading",
+      "partial": false,
+      "description": "Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured",
+      "rule": "CTH"
+    },
+    {
+      "code": "16",
+      "level": "chapter",
+      "partial": false,
+      "description": "Preparations of meat, of fish, of crustaceans, molluscs or other aquatic invertebrates, or of insects;",
+      "rule": "CC"
+    },
+    {
+      "code": "17",
+      "level": "chapter",
+      "partial": true,
+      "description": "Sugars and sugar confectionary",
+      "rule": "CC"
+    },
+    {
+      "code": "1702",
+      "level": "heading",
+      "partial": false,
+      "description": "Other sugars, including chemically pure lactose, maltose, glucose or fructose, in solid form: sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel",
+      "rule": "CTH"
+    },
+    {
+      "code": "1704",
+      "level": "heading",
+      "partial": false,
+      "description": "Sugar confectionery (including white chocolate), not containing cocoa",
+      "rule": "CTH"
+    },
+    {
+      "code": "18",
+      "level": "chapter",
+      "partial": true,
+      "description": "Cocoa and cocoa preparations",
+      "rule": "WO"
+    },
+    {
+      "code": "1806",
+      "level": "heading",
+      "partial": true,
+      "description": "Chocolate and other food preparations containing cocoa",
+      "rule": "CTH, excluding non-originating materials from heading 1805"
+    },
+    {
+      "code": "180690",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other chocolate and other food preparations containing cocoa",
+      "rule": "CTH"
+    },
+    {
+      "code": "19",
+      "level": "chapter",
+      "partial": true,
+      "description": "Preparations of cereal, flour, starch or milk; pastrycooks’ products",
+      "rule": "CC, in which the non-originating materials of chapters 10 and 11 do not exceed 30 percent of the value or net-weight of the good. Article 3.9 (Tolerance) does not apply to non-originating materials of chapters 10 and 11."
+    },
+    {
+      "code": "1901",
+      "level": "heading",
+      "partial": false,
+      "description": "Malt extract; food preparations of flour, groats, meal, starch, malt extract, not containing cocoa or containing less than 40% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 0401 to 0404, not containing cocoa or containing less than 5% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included",
+      "rule": "CC"
+    },
+    {
+      "code": "1904",
+      "level": "heading",
+      "partial": false,
+      "description": "Prepared foods obtained by the swelling or roasting of cereals or cereal products (e.g. corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked, or otherwise prepared, not elsewhere specified or included",
+      "rule": "CC, in which the non-originating materials of chapters 10 and 11 do not exceed 60 percent of the value or net-weight of the good. Article 3.9 (Tolerance) does not apply to non-originating materials of chapters 10 and 11."
+    },
+    {
+      "code": "1905",
+      "level": "heading",
+      "partial": false,
+      "description": "Bread, pastry, cakes, biscuits, and other bakers’ wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "rule": "CTH"
+    },
+    {
+      "code": "20",
+      "level": "chapter",
+      "partial": false,
+      "description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "21",
+      "level": "chapter",
+      "partial": true,
+      "description": "Miscellaneous edible preparations",
+      "rule": "CC, excluding non-originating materials from chapter 4"
+    },
+    {
+      "code": "210310",
+      "level": "subheading",
+      "partial": false,
+      "description": "Soya sauce",
+      "rule": "CTH"
+    },
+    {
+      "code": "210320",
+      "level": "subheading",
+      "partial": false,
+      "description": "Tomato ketchup and other tomato sauces",
+      "rule": "CTSH"
+    },
+    {
+      "code": "210330",
+      "level": "subheading",
+      "partial": false,
+      "description": "Mustard flour and meal and prepared mustard",
+      "rule": "CTH"
+    },
+    {
+      "code": "210390",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other sauces and preparations therefor; mixed condiments and mixed seasonings",
+      "rule": "CTSH"
+    },
+    {
+      "code": "2104",
+      "level": "heading",
+      "partial": false,
+      "description": "Soups and broths and preparations therefor; homogenised composite food preparations",
+      "rule": "CTSH"
+    },
+    {
+      "code": "2105",
+      "level": "heading",
+      "partial": false,
+      "description": "Ice cream and other edible ice; whether or not containing cocoa",
+      "rule": "CTH"
+    },
+    {
+      "code": "2106",
+      "level": "heading",
+      "partial": false,
+      "description": "Food preparations not elsewhere specified or included",
+      "rule": "CTH"
+    },
+    {
+      "code": "22",
+      "level": "chapter",
+      "partial": true,
+      "description": "Beverages, spirits and vinegar",
+      "rule": "CC"
+    },
+    {
+      "code": "2203",
+      "level": "heading",
+      "partial": false,
+      "description": "Beer made from malt",
+      "rule": "CC, excluding non-originating materials from heading 1901"
+    },
+    {
+      "code": "2204",
+      "level": "heading",
+      "partial": false,
+      "description": "Wine of fresh grapes, including fortified wines; grape must other than that of heading 2009",
+      "rule": "CC, excluding non-originating materials from heading 2009"
+    },
+    {
+      "code": "2205",
+      "level": "heading",
+      "partial": false,
+      "description": "Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances",
+      "rule": "CC, excluding non-originating materials from heading 2009"
+    },
+    {
+      "code": "2206",
+      "level": "heading",
+      "partial": false,
+      "description": "Other fermented beverages (e.g. cider, perry, mead, saké); mixtures of fermented beverages and mixtures of fermented beverages and non-alcoholic beverages, not elsewhere specified or included",
+      "rule": "CC, excluding non-originating materials from heading 0409"
+    },
+    {
+      "code": "2208",
+      "level": "heading",
+      "partial": true,
+      "description": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% volume; spirits, liqueurs and other spirituous beverages",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "220830",
+      "level": "subheading",
+      "partial": false,
+      "description": "Whiskies",
+      "rule": "CTH"
+    },
+    {
+      "code": "220850",
+      "level": "subheading",
+      "partial": true,
+      "description": "Gin, in containers holding 2 litres or less",
+      "rule": "CTH"
+    },
+    {
+      "code": "23",
+      "level": "chapter",
+      "partial": true,
+      "description": "Residues and wastes from the food industries; prepared animal fodder",
+      "rule": "CC"
+    },
+    {
+      "code": "2305",
+      "level": "heading",
+      "partial": false,
+      "description": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "2306",
+      "level": "heading",
+      "partial": false,
+      "description": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable or microbial fats or oils, other than those of heading 2304 or 2305",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "2307",
+      "level": "heading",
+      "partial": false,
+      "description": "Wine lees; argol",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "2308",
+      "level": "heading",
+      "partial": false,
+      "description": "Vegetable materials and vegetable waste, vegetable residues and bi-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "2309",
+      "level": "heading",
+      "partial": false,
+      "description": "Preparations of a kind used in animal feeding",
+      "rule": "CTH"
+    },
+    {
+      "code": "24",
+      "level": "chapter",
+      "partial": true,
+      "description": "Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",
+      "rule": "CTH"
+    },
+    {
+      "code": "2401",
+      "level": "heading",
+      "partial": false,
+      "description": "Unmanufactured tobacco; tobacco refuse",
+      "rule": "WO"
+    },
+    {
+      "code": "25",
+      "level": "chapter",
+      "partial": false,
+      "description": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "26",
+      "level": "chapter",
+      "partial": false,
+      "description": "Ores, slag and ash",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "27",
+      "level": "chapter",
+      "partial": false,
+      "description": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+      "rule": "CTSH"
+    },
+    {
+      "code": "28",
+      "level": "chapter",
+      "partial": false,
+      "description": "Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",
+      "rule": "CTSH; or Standard QVC; or chemical reaction"
+    },
+    {
+      "code": "29",
+      "level": "chapter",
+      "partial": false,
+      "description": "Organic chemicals",
+      "rule": "CTSH; or Standard QVC; or chemical reaction"
+    },
+    {
+      "code": "30",
+      "level": "chapter",
+      "partial": false,
+      "description": "Pharmaceutical products",
+      "rule": "CTSH; or Standard QVC; or chemical reaction"
+    },
+    {
+      "code": "31",
+      "level": "chapter",
+      "partial": true,
+      "description": "Fertilisers",
+      "rule": "CTSH; or chemical reaction"
+    },
+    {
+      "code": "3105",
+      "level": "heading",
+      "partial": false,
+      "description": "Mineral or chemical fertilizers containing 2 or 3 of the fertilising elements nitrogen, phosphorus, potassium; other fertilisers; goods of chapter 31 in tablets or similar forms or in packages of a gross weight not exceeding 10 kg",
+      "rule": "CTH; or chemical reaction"
+    },
+    {
+      "code": "32",
+      "level": "chapter",
+      "partial": false,
+      "description": "Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",
+      "rule": "CTSH; or Standard QVC; or chemical reaction"
+    },
+    {
+      "code": "33",
+      "level": "chapter",
+      "partial": false,
+      "description": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+      "rule": "CTH; or chemical reaction; or mixing and blending"
+    },
+    {
+      "code": "34",
+      "level": "chapter",
+      "partial": false,
+      "description": "Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",
+      "rule": "CTH; or chemical reaction"
+    },
+    {
+      "code": "35",
+      "level": "chapter",
+      "partial": false,
+      "description": "Albuminoidal substances; modified starches; glues; enzymes",
+      "rule": "CTSH; or chemical reaction"
+    },
+    {
+      "code": "36",
+      "level": "chapter",
+      "partial": false,
+      "description": "Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations",
+      "rule": "CTH; or chemical reaction"
+    },
+    {
+      "code": "37",
+      "level": "chapter",
+      "partial": false,
+      "description": "Photographic or cinematographic goods",
+      "rule": "CTH excluding non-originating materials from headings 3701, 3702 and 3703; or chemical reaction"
+    },
+    {
+      "code": "38",
+      "level": "chapter",
+      "partial": false,
+      "description": "Miscellaneous chemical products",
+      "rule": "CTSH; or chemical reaction"
+    },
+    {
+      "code": "39",
+      "level": "chapter",
+      "partial": true,
+      "description": "Plastics and articles thereof",
+      "rule": "CTSH; or chemical reaction"
+    },
+    {
+      "code": "3915",
+      "level": "heading",
+      "partial": false,
+      "description": "Waste, parings and scrap, of plastics",
+      "rule": "WO"
+    },
+    {
+      "code": "40",
+      "level": "chapter",
+      "partial": true,
+      "description": "Rubber and articles thereof",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "4001",
+      "level": "heading",
+      "partial": false,
+      "description": "Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums; in primary forms or in plates, sheets or strip",
+      "rule": "WO"
+    },
+    {
+      "code": "4012",
+      "level": "heading",
+      "partial": false,
+      "description": "Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "4014",
+      "level": "heading",
+      "partial": false,
+      "description": "Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "4015",
+      "level": "heading",
+      "partial": false,
+      "description": "Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "41",
+      "level": "chapter",
+      "partial": false,
+      "description": "Raw hides and skins (other than furskins) and leather",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "42",
+      "level": "chapter",
+      "partial": false,
+      "description": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "43",
+      "level": "chapter",
+      "partial": false,
+      "description": "Furskins and artificial fur; manufactures thereof",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "44",
+      "level": "chapter",
+      "partial": false,
+      "description": "Wood and articles of wood; wood charcoal",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "45",
+      "level": "chapter",
+      "partial": false,
+      "description": "Cork and articles of cork",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "46",
+      "level": "chapter",
+      "partial": false,
+      "description": "Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "47",
+      "level": "chapter",
+      "partial": false,
+      "description": "Pulp of wood or of other fibrous cellulosic material; recovered",
+      "rule": "CTSH and Standard QVC (waste and scrap) paper or paperboard"
+    },
+    {
+      "code": "48",
+      "level": "chapter",
+      "partial": false,
+      "description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "49",
+      "level": "chapter",
+      "partial": false,
+      "description": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "50",
+      "level": "chapter",
+      "partial": false,
+      "description": "Silk",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "51",
+      "level": "chapter",
+      "partial": false,
+      "description": "Wool, fine or coarse animal hair; horsehair yarn and woven fabric",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "52",
+      "level": "chapter",
+      "partial": false,
+      "description": "Cotton",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "53",
+      "level": "chapter",
+      "partial": false,
+      "description": "Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "54",
+      "level": "chapter",
+      "partial": false,
+      "description": "Man-made filaments; strip and the like of man-made textile materials",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "55",
+      "level": "chapter",
+      "partial": false,
+      "description": "Man-made staple fibres",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "56",
+      "level": "chapter",
+      "partial": false,
+      "description": "Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "57",
+      "level": "chapter",
+      "partial": false,
+      "description": "Carpets and other textile floor coverings",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "58",
+      "level": "chapter",
+      "partial": false,
+      "description": "Special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "59",
+      "level": "chapter",
+      "partial": false,
+      "description": "Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "60",
+      "level": "chapter",
+      "partial": false,
+      "description": "Knitted or crocheted fabrics",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "61",
+      "level": "chapter",
+      "partial": false,
+      "description": "Articles of apparel and clothing accessories; knitted or crocheted",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "62",
+      "level": "chapter",
+      "partial": false,
+      "description": "Articles of apparel and clothing accessories; not knitted or crocheted",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "63",
+      "level": "chapter",
+      "partial": false,
+      "description": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "64",
+      "level": "chapter",
+      "partial": false,
+      "description": "Footwear, gaiters and the like; parts of such articles",
+      "rule": "CTH"
+    },
+    {
+      "code": "65",
+      "level": "chapter",
+      "partial": false,
+      "description": "Headgear and parts thereof",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "66",
+      "level": "chapter",
+      "partial": false,
+      "description": "Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops and parts thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "67",
+      "level": "chapter",
+      "partial": false,
+      "description": "Prepared feathers and down and articles made of feather or of down; artificial flowers; articles of human hair",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "68",
+      "level": "chapter",
+      "partial": false,
+      "description": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "69",
+      "level": "chapter",
+      "partial": false,
+      "description": "Ceramic products",
+      "rule": "CC"
+    },
+    {
+      "code": "70",
+      "level": "chapter",
+      "partial": false,
+      "description": "Glass and glassware",
+      "rule": "CTH"
+    },
+    {
+      "code": "71",
+      "level": "chapter",
+      "partial": true,
+      "description": "Natural, cultured pearls; precious, semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "7102",
+      "level": "heading",
+      "partial": false,
+      "description": "Diamonds, whether or not worked, but not mounted or set",
+      "rule": "CTSH and a QVC of not less than 6%"
+    },
+    {
+      "code": "7103",
+      "level": "heading",
+      "partial": false,
+      "description": "Precious stones (other than diamonds) and semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded precious stones (other than diamonds) and semi-precious stones, temporarily strung for convenience of transport",
+      "rule": "CTSH and a QVC of not less than 20%"
+    },
+    {
+      "code": "7106",
+      "level": "heading",
+      "partial": false,
+      "description": "Silver (including silver plated with gold or platinum); unwrought or in semi-manufactured forms, or in powder form",
+      "rule": "CTSH and a QVC of not less than 25%"
+    },
+    {
+      "code": "7110",
+      "level": "heading",
+      "partial": false,
+      "description": "Platinum; unwrought or in semi-manufactured forms, or in powder form",
+      "rule": "CC"
+    },
+    {
+      "code": "711311",
+      "level": "subheading",
+      "partial": true,
+      "description": "Silver jewellery: Plain",
+      "rule": "CTSH and a QVC of not less than 3.5%"
+    },
+    {
+      "code": "711311",
+      "level": "subheading",
+      "partial": true,
+      "description": "Silver jewellery: Studded with Gemstones",
+      "rule": "CTSH and a QVC of not less than 6%"
+    },
+    {
+      "code": "711311",
+      "level": "subheading",
+      "partial": true,
+      "description": "Silver jewellery: Studded with Diamonds",
+      "rule": "CTSH and a QVC of not less than 7%"
+    },
+    {
+      "code": "711311",
+      "level": "subheading",
+      "partial": true,
+      "description": "Parts",
+      "rule": "CTSH and a QVC of not less than 3.5%"
+    },
+    {
+      "code": "711319",
+      "level": "subheading",
+      "partial": true,
+      "description": "Gold jewellery: Plain",
+      "rule": "CTSH and a QVC of not less than 3.5%"
+    },
+    {
+      "code": "711319",
+      "level": "subheading",
+      "partial": true,
+      "description": "Gold jewellery: Studded with Gemstones",
+      "rule": "CTSH and a QVC of not less than 6%"
+    },
+    {
+      "code": "711319",
+      "level": "subheading",
+      "partial": true,
+      "description": "Gold jewellery: Studded with Diamonds",
+      "rule": "CTSH and a QVC of not less than 7%"
+    },
+    {
+      "code": "711319",
+      "level": "subheading",
+      "partial": true,
+      "description": "Gold jewellery: Studded with Pearls",
+      "rule": "CTSH and a QVC of not less than 6%"
+    },
+    {
+      "code": "711319",
+      "level": "subheading",
+      "partial": true,
+      "description": "Parts",
+      "rule": "CTSH and a QVC of not less than 3.5%"
+    },
+    {
+      "code": "711320",
+      "level": "subheading",
+      "partial": false,
+      "description": "Jewellery: of base metal clad with precious metal, and parts thereof",
+      "rule": "CTSH and a QVC of not less than 3.5%"
+    },
+    {
+      "code": "7114",
+      "level": "heading",
+      "partial": false,
+      "description": "Articles of goldsmiths’ or silversmiths’ wares and parts thereof, of precious metal or of metal clad with precious metal",
+      "rule": "CTSH and a QVC of not less than 3.5%"
+    },
+    {
+      "code": "7117",
+      "level": "heading",
+      "partial": false,
+      "description": "Imitation jewellery",
+      "rule": "CTSH and a QVC of not less than: (a) 35% of the ex-works price under the build-down method; or (b) 40% of the free-on-board value under the build-down method; or (c) 30% of either the ex-works price or free-on-board value under the build-up method"
+    },
+    {
+      "code": "7118",
+      "level": "heading",
+      "partial": false,
+      "description": "Coin",
+      "rule": "CTH and a QVC of not less than 1.5%"
+    },
+    {
+      "code": "72",
+      "level": "chapter",
+      "partial": true,
+      "description": "Iron and steel",
+      "rule": "Melt and Pour in the Parties"
+    },
+    {
+      "code": "7201",
+      "level": "heading",
+      "partial": false,
+      "description": "Pig iron and spiegeleisen in pigs, blocks or other primary forms",
+      "rule": "CTH and a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free-on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "7201",
+        "7202",
+        "7203",
+        "7204",
+        "7205"
+      ]
+    },
+    {
+      "code": "7202",
+      "level": "heading",
+      "partial": false,
+      "description": "Ferro-alloys",
+      "rule": "CTH and a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free-on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "7201",
+        "7202",
+        "7203",
+        "7204",
+        "7205"
+      ]
+    },
+    {
+      "code": "7203",
+      "level": "heading",
+      "partial": false,
+      "description": "Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or the similar forms; iron having a minimum purity of 99.94%, in lumps, pellets or similar forms",
+      "rule": "CTH and a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free-on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "7201",
+        "7202",
+        "7203",
+        "7204",
+        "7205"
+      ]
+    },
+    {
+      "code": "7204",
+      "level": "heading",
+      "partial": false,
+      "description": "Ferrous waste and scrap; remelting scrap ingots of iron or steel",
+      "rule": "CTH and a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free-on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "7201",
+        "7202",
+        "7203",
+        "7204",
+        "7205"
+      ]
+    },
+    {
+      "code": "7205",
+      "level": "heading",
+      "partial": false,
+      "description": "Granules and powders, of pig iron, spiegeleisen, iron or steel",
+      "rule": "CTH and a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free-on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "7201",
+        "7202",
+        "7203",
+        "7204",
+        "7205"
+      ]
+    },
+    {
+      "code": "73",
+      "level": "chapter",
+      "partial": false,
+      "description": "Articles of iron or steel",
+      "rule": "CTH and a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free-on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method"
+    },
+    {
+      "code": "74",
+      "level": "chapter",
+      "partial": false,
+      "description": "Copper and articles thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "75",
+      "level": "chapter",
+      "partial": false,
+      "description": "Nickel and articles thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "76",
+      "level": "chapter",
+      "partial": true,
+      "description": "Aluminium and articles thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "7601",
+      "level": "heading",
+      "partial": false,
+      "description": "Unwrought Aluminium",
+      "rule": "Standard QVC; or thermal or electrolytic treatment from unalloyed aluminium or waste and scrap of aluminium"
+    },
+    {
+      "code": "7602",
+      "level": "heading",
+      "partial": false,
+      "description": "Aluminium waste and scrap",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "7603",
+      "level": "heading",
+      "partial": false,
+      "description": "Aluminium powders and flakes",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "7604",
+      "level": "heading",
+      "partial": false,
+      "description": "Aluminium bars, rods and profiles",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "7605",
+      "level": "heading",
+      "partial": false,
+      "description": "Aluminium wire",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "7606",
+      "level": "heading",
+      "partial": false,
+      "description": "Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "78",
+      "level": "chapter",
+      "partial": false,
+      "description": "Lead and articles thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "79",
+      "level": "chapter",
+      "partial": false,
+      "description": "Zinc and articles thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "80",
+      "level": "chapter",
+      "partial": false,
+      "description": "Tin and articles thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "81",
+      "level": "chapter",
+      "partial": false,
+      "description": "Other base metals; cermets and articles thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "82",
+      "level": "chapter",
+      "partial": false,
+      "description": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "83",
+      "level": "chapter",
+      "partial": false,
+      "description": "Miscellaneous articles of base metal",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "84",
+      "level": "chapter",
+      "partial": true,
+      "description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "8401",
+      "level": "heading",
+      "partial": true,
+      "description": "Nuclear reactors; fuel elements (cartridges), non-irradiated, for nuclear reactors, machinery and apparatus for isotopic separation",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "840140",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of nuclear reactors",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8407",
+      "level": "heading",
+      "partial": false,
+      "description": "Spark-ignition reciprocating or rotary internal combustion piston engines",
+      "rule": "CTH; or No change in tariff classification required, provided there is a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free-on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "8407",
+        "8408",
+        "8409"
+      ]
+    },
+    {
+      "code": "8408",
+      "level": "heading",
+      "partial": false,
+      "description": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines)",
+      "rule": "CTH; or No change in tariff classification required, provided there is a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free-on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "8407",
+        "8408",
+        "8409"
+      ]
+    },
+    {
+      "code": "8409",
+      "level": "heading",
+      "partial": false,
+      "description": "Parts suitable for use solely or principally with the engines of heading 8407 or 8408",
+      "rule": "CTH; or No change in tariff classification required, provided there is a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free-on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "8407",
+        "8408",
+        "8409"
+      ]
+    },
+    {
+      "code": "8411",
+      "level": "heading",
+      "partial": true,
+      "description": "Turbo-jets, turbo-propellers and other gas turbines",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "841191",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of turbo-jets and turbo-propellers",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "841199",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of other gas turbines",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8413",
+      "level": "heading",
+      "partial": true,
+      "description": "Pumps for liquids, whether or not fitted with measuring device; liquid elevators",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "841391",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of pumps",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "841392",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of liquid elevators",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8414",
+      "level": "heading",
+      "partial": true,
+      "description": "Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight biological safety cabinets, whether or not fitted with filters",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "841490",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight biological safety",
+      "rule": "CTH; or Standard QVC cabinets, whether or not fitted with filters"
+    },
+    {
+      "code": "8415",
+      "level": "heading",
+      "partial": true,
+      "description": "Air conditioning machines; comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "841590",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of air conditioning machines; comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8419",
+      "level": "heading",
+      "partial": true,
+      "description": "Machinery, plant or laboratory equipment, whether or not electrically heated, (excluding furnaces, ovens and other equipment of heading 8514) for the treatment of materials by a process involving change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilising, pasteurising, steaming, drying, evaporating, vaporising, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, non-electric",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "841990",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 8514), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilising,",
+      "rule": "CTH; or Standard QVC pasteurising, steaming, drying, evaporating, vaporising, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, non-electric."
+    },
+    {
+      "code": "8421",
+      "level": "heading",
+      "partial": true,
+      "description": "Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "842191",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of centrifuges, including centrifugal dryers",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "842199",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of filtering or purifying machinery and apparatus, for liquids or gases",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8430",
+      "level": "heading",
+      "partial": false,
+      "description": "Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals, or ores; pile-drivers and pile-extractors; snow-ploughs and snow-blowers",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8431",
+      "level": "heading",
+      "partial": false,
+      "description": "Parts suitable for use solely or principally with the machinery of heading 8425 to 8430",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8443",
+      "level": "heading",
+      "partial": true,
+      "description": "Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442; other printers, copying machines and facsimile machines, whether or not combined",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "844391",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts and accessories of printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "844399",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts and accessories of other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8460",
+      "level": "heading",
+      "partial": false,
+      "description": "Machine-tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, other than gear cutting, gear grinding or gear finishing machines of heading 8461",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8462",
+      "level": "heading",
+      "partial": false,
+      "description": "Machine-tools (including presses) for working metal by forging, hammering or die forging (excluding rolling mills); machine-tools (including presses, slitting lines and cut-to-length lines) for working metal by bending, folding, straightening, flattening, shearing, punching, notching or nibbling (excluding draw-benches); presses for working metal or metal carbides, not specified above",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8479",
+      "level": "heading",
+      "partial": true,
+      "description": "Machines and mechanical appliances having individual functions, not specified or included elsewhere in chapter 84",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "847990",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of machine and mechanical appliances; having individual functions, not specified or included elsewhere in chapter 84",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8481",
+      "level": "heading",
+      "partial": true,
+      "description": "Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing",
+      "rule": "CTSH; or Standard QVC valves and thermostatically controlled valves"
+    },
+    {
+      "code": "848190",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8483",
+      "level": "heading",
+      "partial": false,
+      "description": "Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints)",
+      "rule": "CTH; or No change in tariff classification required, provided there is a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free-on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method"
+    },
+    {
+      "code": "85",
+      "level": "chapter",
+      "partial": true,
+      "description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "8501",
+      "level": "heading",
+      "partial": false,
+      "description": "Electric motors and generators (excluding generating sets)",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8502",
+      "level": "heading",
+      "partial": false,
+      "description": "Electric generating sets and rotary converters",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8503",
+      "level": "heading",
+      "partial": false,
+      "description": "Parts suitable for use solely or principally with the machines of heading 8501 or 8502",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8504",
+      "level": "heading",
+      "partial": true,
+      "description": "Electric transformers, static converters (e.g. rectifiers) and inductors",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "850490",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of electric transformers, static converters (e.g. rectifiers) and inductors",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8506",
+      "level": "heading",
+      "partial": true,
+      "description": "Primary cells and primary batteries",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "850690",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of primary cells and primary batteries",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8507",
+      "level": "heading",
+      "partial": false,
+      "description": "Electric accumulators, including separators therefor; whether or not rectangular (including square)",
+      "rule": "CTH or QVC 40%"
+    },
+    {
+      "code": "8511",
+      "level": "heading",
+      "partial": true,
+      "description": "Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (e.g. ignition magnetos, magneto-dynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (e.g., dynamos, alternators) and cut outs of a kind used in conjunction with such engines",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "851190",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (e.g., ignition magnetos, magneto-dynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (e.g., dynamos, alternators) and cut-",
+      "rule": "CTH; or Standard QVC outs of a kind used in conjunction with such engines."
+    },
+    {
+      "code": "8517",
+      "level": "heading",
+      "partial": true,
+      "description": "Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless networks (such as local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527, or 8528",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "851771",
+      "level": "subheading",
+      "partial": false,
+      "description": "Aerials and aerial reflectors of all kinds, parts suitable for use therewith",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "851779",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other parts of telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless networks (such as local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527, or 8528",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8536",
+      "level": "heading",
+      "partial": false,
+      "description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (e.g., switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1000 volts; connectors for optical",
+      "rule": "CTH; or Standard QVC fibres, optical fibre bundles or cables"
+    },
+    {
+      "code": "8537",
+      "level": "heading",
+      "partial": false,
+      "description": "Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535, 8536 for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control apparatus, other than switching apparatus of heading no. 8517",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8538",
+      "level": "heading",
+      "partial": false,
+      "description": "Parts suitable for use solely or principally with the apparatus of heading 8535, 8536 or 8537",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8539",
+      "level": "heading",
+      "partial": true,
+      "description": "Electric filament or discharge lamps, including sealed beam lamp units and ultra-violet or infra-red lamps; arc lamps; light-emitting diode (LED) light sources (excluding modules)",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "853951",
+      "level": "subheading",
+      "partial": false,
+      "description": "Light-emitting diode (LED) modules",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "853990",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of electric filament or discharge lamps, including sealed beam lamp units and ultra-violet or infra-red lamps; arc lamps; light-emitting diode (LED) light sources",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8541",
+      "level": "heading",
+      "partial": true,
+      "description": "Semiconductor devices (e.g. diodes, transistors, semiconductor based transducers); light-emitting diodes (LED), whether or not assembled with other LEDs; mounted piezo-electric crystals",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "854142",
+      "level": "subheading",
+      "partial": false,
+      "description": "Photovoltaic cells not assembled in modules or made up into panels",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "854143",
+      "level": "subheading",
+      "partial": false,
+      "description": "Photovoltaic cells assembled in modules or made up into panels",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "854149",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other photosensitive semiconductor devices",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "854159",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other semiconductor devices",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "854390",
+      "level": "subheading",
+      "partial": false,
+      "description": "Parts of electrical machines and apparatus, having individual functions, not specified or included elsewhere in chapter 85",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "8544",
+      "level": "heading",
+      "partial": false,
+      "description": "Insulated (including enamelled or anodised) wire, cable (including co-axial cable) and other insulated electric conductors, whether or not fitted with connector; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "86",
+      "level": "chapter",
+      "partial": false,
+      "description": "Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "87",
+      "level": "chapter",
+      "partial": true,
+      "description": "Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof",
+      "rule": "CTH and a QVC of not less than: (a) 45% of the ex-works price under the build-down method; or (b) 50% of the free-on-board value under the build-down method; or (c) 40% of either the ex-works price or free-on-board value under the build-up method"
+    },
+    {
+      "code": "8703",
+      "level": "heading",
+      "partial": false,
+      "description": "Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 8702), including station wagons and racing cars",
+      "rule": "A QVC of not less than 35%"
+    },
+    {
+      "code": "8706",
+      "level": "heading",
+      "partial": false,
+      "description": "Chassis fitted with engines, for the motor vehicles of heading 8701 to 8705",
+      "rule": "CTH; or a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "8706",
+        "8707",
+        "8708"
+      ]
+    },
+    {
+      "code": "8707",
+      "level": "heading",
+      "partial": false,
+      "description": "Bodies (including cabs), for the motor vehicles of heading 8701 to 8705",
+      "rule": "CTH; or a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "8706",
+        "8707",
+        "8708"
+      ]
+    },
+    {
+      "code": "8708",
+      "level": "heading",
+      "partial": false,
+      "description": "Parts and accessories of the motor vehicles of heading 8701 to 8705",
+      "rule": "CTH; or a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free on-board value under the build-down method; or (c) 45% of either the ex-works price or free-on-board value under the build-up method",
+      "sharedWith": [
+        "8706",
+        "8707",
+        "8708"
+      ]
+    },
+    {
+      "code": "8711",
+      "level": "heading",
+      "partial": false,
+      "description": "Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars",
+      "rule": "A QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free on-board value under the build-down method; or (c) 40% of either the ex-works price or free-on-board value under the build-up method"
+    },
+    {
+      "code": "8714",
+      "level": "heading",
+      "partial": false,
+      "description": "Parts and accessories of vehicles of heading 8711 to 8713",
+      "rule": "CTH; or a QVC of not less than: (a) 50% of the ex-works price under the build-down method; or (b) 55% of the free on-board value under the build-down method; or (c) 40% of either the ex-works price or free-on-board value under the build-up method"
+    },
+    {
+      "code": "8716",
+      "level": "heading",
+      "partial": false,
+      "description": "Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "88",
+      "level": "chapter",
+      "partial": false,
+      "description": "Aircraft, spacecraft, and parts thereof",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "89",
+      "level": "chapter",
+      "partial": false,
+      "description": "Ships, boats and floating structures",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "90",
+      "level": "chapter",
+      "partial": true,
+      "description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "901814",
+      "level": "subheading",
+      "partial": false,
+      "description": "Scientigraphic apparatus",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "901841",
+      "level": "subheading",
+      "partial": false,
+      "description": "Dental drill engines, whether or not combined on a single base with other dental equipment",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "901849",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other instruments and appliances, used in dental sciences: other",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "901850",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other ophthalmic instruments and appliances",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "901910",
+      "level": "subheading",
+      "partial": false,
+      "description": "Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "9020",
+      "level": "heading",
+      "partial": false,
+      "description": "Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters",
+      "rule": "CTH; or Standard QVC"
+    },
+    {
+      "code": "902121",
+      "level": "subheading",
+      "partial": false,
+      "description": "Artificial teeth",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "902129",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other dental fittings",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "902139",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other artificial parts of the body: other",
+      "rule": "CTH"
+    },
+    {
+      "code": "902213",
+      "level": "subheading",
+      "partial": false,
+      "description": "Apparatus based on the use of x-rays for dental uses, including radiography or radiotherapy apparatus",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "902214",
+      "level": "subheading",
+      "partial": false,
+      "description": "Apparatus based on the use of x-rays for medical, surgical or veterinary uses, including radiography or radiotherapy apparatus",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "902229",
+      "level": "subheading",
+      "partial": false,
+      "description": "Apparatus based on the use of alpha, beta, gamma or other ionising radiations for other than medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus",
+      "rule": "CTSH; or Standard QVC"
+    },
+    {
+      "code": "902290",
+      "level": "subheading",
+      "partial": false,
+      "description": "Other X-ray generators, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and the like, including parts and accessories",
+      "rule": "CTSH and a QVC of not less than: (a) 35% of the ex-works price under the build-down method; or (b) 40% of the free-on-board value under the build-down method; or (c) 30% of either the ex-works price or free-on-board value under the build-up method"
+    },
+    {
+      "code": "91",
+      "level": "chapter",
+      "partial": false,
+      "description": "Clocks and watches and parts thereof",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "92",
+      "level": "chapter",
+      "partial": false,
+      "description": "Musical instruments; parts and accessories of such articles",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "93",
+      "level": "chapter",
+      "partial": false,
+      "description": "Arms and ammunition; parts and accessories thereof",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "94",
+      "level": "chapter",
+      "partial": false,
+      "description": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "95",
+      "level": "chapter",
+      "partial": false,
+      "description": "Toys, games and sports requisites; parts and accessories thereof",
+      "rule": "CTH and Standard QVC"
+    },
+    {
+      "code": "96",
+      "level": "chapter",
+      "partial": false,
+      "description": "Miscellaneous manufactured articles",
+      "rule": "CTSH and Standard QVC"
+    },
+    {
+      "code": "97",
+      "level": "chapter",
+      "partial": false,
+      "description": "Works of art, collectors’ pieces and antiques",
+      "rule": "CTSH and Standard QVC"
+    }
+  ]
+}

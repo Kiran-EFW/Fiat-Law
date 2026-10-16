@@ -1,0 +1,1064 @@
+# SOURCE: library/01-ceta-legal-text/uk_india_ceta_chapter_3_rules_of_origin.pdf
+# pages: 26
+
+ 
+3 - 1 
+CHAPTER 3 
+RULES OF ORIGIN 
+ 
+Section A 
+Rules of Origin 
+Article 3.1 
+Definitions 
+For the purposes of this Chapter: 
+“aquaculture” means the farming of aquatic organisms, including fish, molluscs, 
+crustaceans, other aquatic invertebrates and aquatic plants, from seed stock, including 
+seed stock imported from non -Parties, such as eggs, fry, fingerlings, larvae, parr, 
+smolts or other immature fish at a post -larval stage, by intervention in the rearing or 
+growth processes to enhance production such as regular stocking, feeding, or protection 
+from predators; 
+“carrier” means any vehicle for air, sea or land transport. However, the carriage of 
+product can be made through multimodal transport; 
+“competent authority” means: 
+(a)  for India, in the case of exports  from India,  the Department of 
+Commerce or agencies notified to issue the certificate of origin; and in 
+the case of imports into India, the Central Board of Indirect Taxes and 
+Customs (“CBIC”) or any of its successors; and 
+(b)  for the United Kingdom, its customs authority as defined in Article 1.4 
+(General Definitions - Initial Provisions and General Definitions); 
+“exporter” means a person, located in a Party, who, in accordance with the 
+requirements laid down in the laws and regulations of that Party, exports a good; 
+“fungible goods” or “fungible materials ” means goods or materials that are 
+interchangeable for commercial purposes and the properties of which  are essentially 
+identical; 
+“generally accepted accounting principles ” means those principles  recognised by 
+consensus or with substantial authoritative support in the territory of a Party with 
+respect to the recording of revenues, expenses, costs, assets and liabilities; the 
+disclosure of information; and the preparation of financial statements. These principles 
+may encompass broad guidelines for general application, as well as detailed standards, 
+practices, and procedures; 
+“indirect material” means a material used in the production, testing or inspection of 
+a good but not physically incorporated into the good or a material used in the 
+maintenance of buildings or the operation of equipment, associated with the production 
+of a good, including: 
+ 
+3 - 2 
+(a) fuel, energy, catalysts and solvents; 
+(b) equipment, devices and supplies used to test or inspect the good; 
+(c) gloves, glasses, footwear, clothing, safety equipment and supplies; 
+(d) tools, dies and moulds; 
+(e) spare parts and materials used in the maintenance of equipment 
+buildings; 
+(f) lubricants, greases, compounding materials and other materials used in 
+production or used to operate equipment buildings; and 
+(g) any other material that is not incorporated into the good but the use of 
+which in the production of the good can reasonably be demonstrated to 
+be a part of that production; 
+“issuing authority ” means the authorities in India designated for issuance of 
+certificates of origin; 
+“material” means any good (including ingredients, raw inputs, components or parts) 
+used in the production of another good and physically incorporated into it; 
+“net weight” means the weight of the material or good excluding the weight of any 
+packaging; 
+“non-originating good” or “non-originating material” means a good or material that 
+does not qualify as originating , including those of unprovable origin,  in accordance 
+with this Chapter; 
+“originating good” or “originating material” means a good or material that qualifies 
+as originating in accordance with this Chapter; 
+“producer” means a person who engages in the production of a good; 
+“production” means operations including growing, cultivating, raising, mining, 
+harvesting, fishing, trapping, hunting, capturing, collecting, breeding, extracting, 
+aquaculture, gathering, manufacturing, working, processing, or assembling a good 
+other than simple assembly1; 
+“tariff classification” means the classification of a good according to the Harmonized 
+System; 
+“territorial sea” means waters extending up to 12 nautical miles from the baseline as 
+defined by the Parties in line with the United Nations Convention on the Law of the 
+Sea, 1982; and 
+ 
+1 “simple assembly ” is defined as an activity which neither requires special skills nor machines, 
+apparatus or equipment especially produced or installed to carry out the activity. 
+ 
+3 - 3 
+“Working Group on Rules of Origin” means the Working Group on Rules of Origin 
+established pursuant to paragraph 1 of the Article 3.28 (Working Group on Rules of 
+Origin). 
+ 
+Article 3.2 
+Origin Criteria 
+1.  Except as otherwise provided in  this Chapter, each Party shall provide that a 
+good is originating if it is: 
+(a) wholly obtained or produced entirely in the territory of  one or both of 
+the Parties as established in Article 3.3 (Wholly Obtained); 
+(b) produced entirely in the territory of one or  both of the Parties, 
+exclusively from originating materials; or 
+(c) produced entirely in the territory of one or both of the Parties using non-
+originating materials, provided the good satisfies all applicable 
+requirements of Annex 3A (Product-Specific Rules of Origin), 
+in each case, provided  the good satisfies all  other applicable requirements of 
+this Chapter2. 
+ 
+Article 3.3 
+Wholly Obtained 
+1. Each Party shall provide that for the purposes  of subparagraph 1(a) of Article 
+3.2 (Origin Criteria) the following goods shall be considered as wholly obtained 
+or produced entirely in one or both of the Parties if they are: 
+(a) minerals, mineral goods and other non -living natural resources  
+extracted or taken from there; 
+(b) plant and plant goods, including fruits, flowers, vegetables, trees, 
+seaweed, and live plants, or fungi, or algae, grown, harvested, 
+cultivated, picked or gathered there; 
+(c) live animals born and raised there; 
+(d) goods obtained from live animals raised3 there; 
+(e) goods obtained by hunting, trapping, fishing or aquaculture conducted 
+there, but not beyond the outer limits of a Party’s territorial sea; 
+(f) fish, shellfish and other marine life taken from the sea, seabed or subsoil 
+outside the territorial sea of each Party and outside the territorial sea of 
+ 
+2 For greater clarity, final production of a good must have occurred in the exporting Party, except those 
+activities as defined in subparagraph 2(b) of Article 3.14 (Non-Alteration). 
+3 For greater clarity, this includes heifers imported into a Party and then raised there. 
+ 
+3 - 4 
+non-Parties in accordance with international law, by vessels that are 
+registered with a Party and entitled to fly the flag of that Party; 
+(g) a good produced from the goods referred to in subparagraph (f) on a 
+factory ship that is registered with a Party and entitled to fly the flag of 
+that Party; 
+(h) minerals, mineral goods and other non-living natural resources, taken 
+or extracted from the seabed  or subsoil, outside the territories of the 
+Parties, and beyond areas over which non-parties exercise jurisdiction; 
+provided that that Party or person of the Party has rights to exploit such 
+seabed or subsoil; 
+(i) a good, excluding precious metals, that is:  
+(i) waste or scrap derived from  consumption or production there; 
+or  
+(ii) waste or scrap derived from  used goods collected there, 
+provided that those goods are fit only for the recovery of raw  
+materials; or 
+(j) goods and their derivatives produced there exclusively from goods 
+referred to in subparagraphs (a) through (i). 
+ 
+Article 3.4 
+Value of the Good 
+1. For the purposes of this Chapter, each Party shall provide that the value of the 
+good may be ex-works price or free-on-board (FOB) value. 
+2. The ex-works price is either: 
+(a)  the price paid or payable for the good to the producer at the place where 
+the last production was carried out, and shall include the value of all 
+materials; or 
+(b)  the price actually paid or payable for the good when sold for export. 
+3. If there is no price paid or payable or if it does not include the value of all 
+materials, the ex-works price: 
+(a)  shall include the value of all materials and the cost of production 
+employed in producing the good, calculated in accordance with 
+generally accepted accounting principles; and 
+(b) may include amounts for general expenses and profit to the producer 
+that can be reasonably allocated to the good. 
+4. For the purposes of calculating the value of the good in accordance with 
+paragraphs 2 or 3, the ex-works price shall: 
+ 
+3 - 5 
+(a) not take into account any internal taxes which are, or may be, repaid 
+when the good obtained is exported; and 
+(b) exclude any costs incurred subsequent to the good leaving the place 
+where the last production was carried out, such as transportation, 
+loading, unloading, handling or insurance. 
+5. The FOB value shall be the price actually paid or payable to the exporter for a 
+good when loaded onto the carrier at the named port of exportation, including 
+the cost of the product, and all costs necessary to bring the good onto the carrier, 
+not taking into account any internal taxes which are, or may be, repaid when 
+the good obtained is exported. 
+ 
+Article 3.5 
+Qualifying Value Content 
+1. Where Annex 3A (Product Specific Rules of Origin) specifies a qualifying 
+value content test to determine whether a good is originating, each Party shall 
+provide that the qualifying value content shall be calculated using  one of the 
+following methods: 
+(a) Build-Down Method: based on the value of non-originating materials 
+QVC= value of the good-value of non‐originating materials
+value of the good  ×100 
+(b) Build-Up Method: based on the value of originating materials  
+QVC= 
+value of originating materials
+value of the good  ×100  
+where, QVC is the qualifying value content of a good, expressed as a 
+percentage.  
+2. Each Party shall provide that the value of a material shall be: 
+(a) for a material imported by the producer of the good, the price actually 
+paid or payable for the material at the time of importation, or other value 
+determined i n accordance with the Customs Valuation Agreement, 
+including the costs incurred in transporting the material to the port or 
+place of importation , such as transportation, loading, unloading , 
+handling or insurance; 
+(b) for a material acquired in the territory where the good is produced: 
+(i) the price paid or payable by the producer in the Party where the 
+producer is located;  
+(ii) the value as determined for an imported material in 
+subparagraph (a); or  
+ 
+3 - 6 
+(iii) the earliest ascertainable price paid or payable in the territory of 
+the Party; or  
+(c) for a material that is self -produced, all the costs incurred in the 
+production of the material, which includes general expenses. 
+3. For an originating material, the following expenses may be added to the value 
+of the material, if not included under paragraph 2: 
+(a) the costs of freight, insurance, packing, and all other costs incurred to 
+transport the material to the location of the producer of the good; 
+(b) duties, taxes, and customs brokerage fees on the material, paid in the 
+territory of a Party, other than duties and taxes that are waived, 
+refunded, refundable, or otherwise recoverable, which include credit 
+against duty or tax paid or payable; and 
+(c) the cost of waste and spoilage resulting from the use of the material in 
+the production of the good, less the value of reusable scrap or by -
+product. 
+4. For a non-originating material or material of undetermined origin, the following 
+expenses, where included under paragraph 2, may be deducted from the value 
+of the material: 
+(a) the costs of freight, insurance, packing, and all other costs incurred in 
+transporting the material to the location of the producer of the good; 
+(b) duties, taxes, and customs brokerage fees on the material paid in the 
+territory of one or both Parties, other than duties and taxes that are 
+waived, refunded, refundable, or otherwise recoverable, which include 
+credit against duty or tax paid or payable; and 
+(c) the cost of waste and spoilage resulting from the use of the material in 
+the production of the good, less the value of reusable scrap or by -
+product. 
+5. If the cost or expense listed in paragraph s 3 or 4 is unknown or documentary 
+evidence of the amount of the adjustment is not available, then no adjustment 
+is allowed for that particular cost or expense. 
+ 
+Article 3.6 
+Materials Used in Production 
+1. Each Party shall provide that  if a non -originating material undergoes further 
+production such that it satisfies the requirements of this Chapter, the material 
+is treated as originating when determining the originating status of the 
+subsequently produced good, regardless of whether that material was produced 
+by the producer of the good. 
+ 
+3 - 7 
+2. Each Party shall provide that if a non-originating material is used  in the 
+production of a good, the following may be counted as originating content in 
+determining whether the resulting good meets a qualifying value content 
+requirement: 
+(a)  the value of processing of the non -originating material undertaken in 
+the territory of the exporting Party; and 
+(b)  the value of any originating material used in the production of the non-
+originating material undertaken in the territory of one o r both of the 
+Parties. 
+ 
+Article 3.7 
+Non-Qualifying Operations 
+1. Each Party shall provide that, notwithstanding any provisions in this Chapter, 
+a good shall not be considered to be originating merely by undergoing any of 
+the following operations in the territory of that Party: 
+(a) operations to ensure the preservation of products in good condition 
+during transport and storage (such as drying, freezing or thawing, 
+keeping in brine, removal of damaged parts) and other similar 
+operations; 
+(b) changes of packaging and breaking up and assembly of packages; 
+(c) washing, cleaning, removal of dust, oxide, oil, paint or other coverings; 
+(d) for textiles: attaching accessory articles such as straps, bands, beads, 
+cords, rings and eyelets; ironing or pressing of textiles; 
+(e) simple painting and polishing; 
+(f) husking, partial or total bleaching, polishing, and glazing of cereals and 
+rice; 
+(g) operations to colour sugar or form sugar lumps; 
+(h) peeling and removal of stones and shells from fruits, nuts and 
+vegetables; 
+(i) sharpening, simple grinding or simple cutting; 
+(j) simple operations such as removal of dust, sifting, screening, sorting, 
+classifying, grading, or matching; 
+(k) simple placing in bottles, cans, flasks, bags, cases, boxes, fixing on 
+cards or boards and all other simple packaging operations; 
+(l) affixing or printing marks, labels, logos and other like distinguishing 
+signs on products or their packaging; 
+ 
+3 - 8 
+(m) simple mixing of goods, whether or not of different kinds;  mixing of 
+sugar or any other sweetening matter to any good; 
+(n) simple assembly of parts of articles to constitute a complete article or 
+disassembly of products into parts; 
+(o) slaughter of animals; 
+(p) simple testing, calibration, inspection or certification; 
+(q) dilution with water or another substance that does not materially alter 
+the characteristics of the good; 
+(r) a production or pricing practice in respect of which it may be 
+demonstrated, on the basis of a preponderance of evidence, that the 
+object was to circumvent the provisions of this Chapter; or 
+(s) any combination of two or more operations in subparagraphs (a) 
+through (r)  
+2. For the purposes of paragraph 1, “simple” describes an activity which needs 
+neither special skills nor machines, apparatus or equipment especially produced 
+or installed to carry out the activity. 
+ 
+Article 3.8 
+Cumulation 
+Each Party shall provide that an originating good or material in the territory of one 
+Party, under the terms of Article 3.2 (Origin Criteria) and all the other applicable 
+requirements of this Chapter, that is incorporated in the production of a good in the 
+territory of the other Party is considered to originate in the territory of the other Party.  
+ 
+Article 3.9 
+Tolerance 
+1. Each Party shall provide that a good containing non-originating materials that 
+does not satisfy the applicable change in tariff classification requirement or 
+wholly obtained requirement specified in Annex 3A (Product Specific Rules of 
+Origin) for the good is nonetheless originating if:  
+(a) in the case of a good in Chapters 1 through 3,  5, 6, 10 and 14 of the 
+Harmonized System: 
+(i) the value of those non-originating materials does not exceed 7.5 
+percent of the value of the good; or 
+(ii) the net weight of those non -originating materials does not 
+exceed 7.5 percent of the net weight of the good; 
+and the good satisfies all other applicable requirements of this Chapter; 
+ 
+3 - 9 
+(b) in the case of a good in Chapters 4,  7 through 9, 11 through 13 and 15 
+through 24 of the Harmonized System: 
+(i)  the value of those non -originating materials does not exceed 
+12.5 percent of the value of the good; or 
+(ii)  the net weight of those non -originating materials does not 
+exceed 12.5 percent of the net weight of the good; 
+and the good satisfies all other applicable requirements of this Chapter; 
+or 
+(c) in the case of a good in Chapters 25 through 98 of the Harmonized 
+System, the value of those non -originating materials does not exceed 
+12.5 percent of the value of the good and the good satisfies all other 
+applicable requirements of this Chapter. 
+2. If a good is also subject to a qualifying value content requirement, the value of 
+those non-originating materials shall be included in the value of non-originating 
+materials for any applicable qualifying value content requirement. 
+ 
+Article 3.10 
+Fungible Goods and Materials 
+1. Each Party shall provide that a fungible good or material is treated as 
+originating based on the: 
+(a) physical segregation of each fungible good or material; or 
+(b) use of any inventory management method recognised in the generally 
+accepted accounting principles of the Party where the production is 
+performed, if the fungible good or material is commingled, provided 
+that the inventory management method selected is used throughout the 
+fiscal year of the person that selected the inventory management 
+method. 
+2. The inventory management method chosen must: 
+(a) allow a clear distinction to be made between originating and non -
+originating materials including materials of undetermined origin 
+acquired or kept in stock; and 
+(b) ensure that, over the relevant accounting period of 12 months, no more 
+goods or materials receive originating status than would have been the 
+case if the fungible goods or materials had been physically segregated. 
+3. For greater certainty and in accordance with subparagraph 1(b) of Article 3.24 
+(Record Keeping Requirements) , a producer using an inventory management 
+system shall keep records of the operation of the system that are necessary for 
+the authority of the Party concerned to verify compliance with the provisions 
+of this Chapter. 
+ 
+3 - 10 
+ 
+Article 3.11 
+Accessories, Spare Parts or Tools 
+1. Each Party shall provide that the origin of the accessories, spare parts, tools or 
+instructional or other information materials presented with a good: 
+(a) shall be disregarded in determining whether a good satisfies a process 
+or change in tariff classification or wholly obtained requirement for the 
+good; and 
+(b) shall be taken into account as originating or non -originating materials, 
+as the case may be, in calculating the qualifying value content of the 
+good, if the good is subject to a qualifying value content requirement 
+2. Paragraph 1 shall only apply where: 
+(a)  the accessories, spare parts, tools and instructional or other information 
+materials presented with the good are not invoiced separately from the 
+good; and 
+(b) the quantities and value of the accessories, spare parts, tools and 
+instructional or other information materials presented with the good are 
+customary for that good. 
+ 
+Article 3.12 
+Packaging and Packing Materials 
+1. Each Party shall provide that for the purpose of determining whether a good is 
+originating, packaging and packing materials and containers in which a good is 
+packaged for retail sale shall, if classified with the good, be: 
+(a) disregarded in determining whether a good satisfies a process or change 
+in tariff classification or wholly obtained requirement for the good; and 
+(b) taken into account as originating or non -originating materials, as the 
+case may be, in calculating the qualifying value content of the good. 
+2. Each Party shall provide that packaging and packing materials and containers, 
+used for the shipment of a good shall be disregarded in determining whether a  
+good is originating. 
+ 
+Article 3.13 
+Indirect Materials 
+Indirect materials shall neither be considered  originating nor non-originating for the 
+purposes of calculating qualifying value content pursuant to Article 3.5 (Qualifying 
+Value Content). 
+ 
+3 - 11 
+ 
+Article 3.14 
+Non-Alteration 
+1. Each Party shall provide that an originating good retains its originating status 
+if the good has been transported to the importing Party without passing through 
+the territory of a non-Party. 
+2. Each Party shall provide that an originating good transported through or stored 
+in a non-Party shall retain its originating status provided it: 
+(a) remains under customs control, such as in a warehouse, and is not 
+released to free circulation or trade 4 in the territory of any non -Party; 
+and 
+(b) does not undergo further production or any other operation outside the 
+territories of the Parties, other than unloading, reloading, splitting up of 
+loads, separation from bulk, storing, labelling, marking, bottling ,5 or 
+any operation necessary to preserve it in good condition. 
+3. An importer shall provide to the customs authority of the importing Party upon 
+request: 
+(a) information, including documentation, demonstrating that the 
+conditions set out in paragraph 2 have been fulfilled; and 
+(b) where bottling has taken place in a non-Party, transportation documents 
+and commercial documents indicating the entire transport route of the 
+good from the exporting party to the importing party, and information 
+including documentation demonstrating that t he good remained under 
+customs control, such as a non -manipulation certificate issued by a 
+customs authority in the non-party. 
+Section B 
+Origin Procedures 
+ 
+Article 3.15 
+Proof of Origin 
+1. Each Party shall provide that a claim for preferential tariff treatment is based 
+on an applicable proof of origin: 
+(a) for importers in the United Kingdom, an applicable proof of origin shall 
+be: 
+ 
+4 For greater clarity, free circulation includes trade or consumption. 
+5 For greater certainty, bottling applies only to filling into bottles from bulk of goods of heading 2208 
+of the Harmonized System and where appropriate mere dilution with water that does not alter the origin 
+of the bottled good. 
+ 
+3 - 12 
+(i) an origin declaration completed by the exporter or producer; 
+(ii) a certificate of origin issued by an issuing authority; or 
+(iii) the importer’s knowledge that the good is originating; and 
+(b) for importers in India, an applicable proof of origin shall be an origin 
+declaration completed by the exporter or producer. 
+2. Each Party shall provide that an origin declaration or a certificate of origin: 
+(a) is valid for 12 months from the date of completion in the case of an 
+origin declaration, or date of issue in the case of a certificate of origin, 
+or for such longer period specified by the laws and regulations of the 
+importing Party; 
+(b) is submitted  to the customs authority of the importing Party  in 
+accordance with the laws and regulations of the importing Party; 
+(c) shall follow the appropriate prescribed structure as set out in Annex 3B 
+(Origin Declaration T emplate) or Annex 3C (Certificate of Origin 
+Template); 
+(d) must be in writing, including electronic format; 
+(e) must be accompanied by an invoice or any other commercial document 
+that describes the goods concerned in sufficient detail to enable them to 
+be identified; 
+(f) may apply to importations of a single shipment of one or more goods ; 
+and 
+(g) shall be in the English language. 
+3. For the United Kingdom, an origin declaration or a certificate of origin may 
+apply to imp ortations of multiple shipments of identical goods within any 
+period specified in the origin declaration or the certificate of origin, where such 
+period does not exceed 12 months. 
+4. In exceptional circumstances, the customs authority of the importing Party may 
+accept a proof of origin for the purpose of granting preferential tariff treatment 
+even after the expiry of its validity provided the failure to observe the time limit 
+results f rom force majeure or other valid reasons beyond the control of the 
+exporter and the goods have been imported before the expiry of the validity 
+period. 
+5. An importing Party shall not deny a claim for preferential tariff treatment for 
+the sole reason that an invoice or other commercial document referred to in 
+subparagraph 2(e) was issued in a non -Party or not issued by the exporter or 
+producer of a good, provided that it meets the requirements in this Chapter. 
+6. Subject to paragraph 7, each Party shall provide that a proof of origin shall be 
+issued or completed prior to or at the time of importation. 
+ 
+3 - 13 
+7. Notwithstanding paragraph 6, a proof of origin may be completed after 
+importation, provided that the good was originating at the time of importation 
+in order to qualify for a late claim as set out in Article 3.20 (Refunds and Claims 
+for Preferential Tariff Treatment after Importation). A proof of origin 
+completed after importation shall bear the words “completed retrospectively” 
+and shall include an explanation as to why the proof of origin is completed 
+retrospectively. 
+8. A late claim made in accordance with Article 3.20 (Refunds and Claims for 
+Preferential Tariff Treatment after Importation) shall not be rejected based on 
+the explanation referenced in paragraph 7, if the  good was originating at the 
+time of importation. 
+9. If unassembled or disassembled goods within the meaning of General Rule 2(a) 
+of the Harmonized System are imported by more than one shipment, a single 
+origin declaration for such goods may be used on request of the importer and 
+in accordance with the requirement laid down by the customs authority of the 
+importing Party.6 
+ 
+Article 3.16 
+Basis of a Claim for Preferential Tariff Treatment  
+1. The United Kingdom shall provide that if the importer of a good makes a claim 
+for preferential tariff treatment based on the importer’s knowledge that the good 
+is originating, the claim is made subject to the importer having documentation 
+demonstrating that the good is originating. Such documentation may have been 
+provided to the importer by the exporter, producer or any other person. 
+2. Each Party shall provide that if a producer declares the origin of a good, the 
+origin declaration is completed on the basis of the producer having information 
+that the good is originating. 
+3. Each Party shall provide that, if the exporter is not the producer of the good and 
+the exporter declares the origin of a good , the origin declaration is completed 
+on the basis of the exporter having information to demonstrate that the good is 
+originating, which may include a reliance on the producer’s information. 
+4. India shall provide that if the issuing authority issues a certificate of origin, the 
+certificate of origin is issued on the basis of the issuing authority receiving 
+information that the good is originating from the exporter or the producer. 
+5. For greater certainty, nothing in this Article shall be construed to allow the 
+importing Party to require an importer to request the exporter or producer to 
+provide confidential information to the importer. 
+6. For the purpose of enabling India to establish the authenticity of an origin 
+declaration prior to an Indian importer making a claim for preferential tariff 
+treatment, subject to paragraph 8 and Annex 3E (Data Protection and 
+ 
+6 For India, this includes a requirement to use a single import declaration for such goods. 
+ 
+3 - 14 
+Processing of Personal Information) , there shall be an authentication process 
+that is provided for in accordance with paragraph 7. 
+7 The Parties shall, on entry into force of this Agreement, agree and provide for 
+the modalities of the authentication process referred to in paragraph 6  which 
+shall include ensuring that the necessary systems for enabling the electronic 
+exchange of information are in place , following the framework set out in 
+Annex 3D (Framework for the Authentication Process of Origin Declarations). 
+8. Annex 3E (Data Protection and Processing of Personal Information) shall apply 
+to information processed by the Parties or shared between the Parties pursuant 
+to the authentication process referred to in paragraph 7 and Annex 3D 
+(Framework for the Authentication Process of Origin Declarations). The Parties 
+shall, if appropriate, mutually agree to modify Annex 3E (Data Protection and 
+Processing of Personal Information). 
+ 
+Article 3.17 
+Certificate of Origin 
+1. A certificate of origin shall be issued by an issuing authority. 
+2. India shall exchange names of the issuing authorities and their specimen seals 
+with His Majesty’s Revenue and Customs. 
+3. India shall promptly inform His Majesty’s Revenue and Customs of any change 
+in names of the issuing authorities and their specimen seals. 
+ 
+Article 3.18 
+Exemptions from Proof of Origin Requirements 
+1. For the United Kingdom, by way of derogation from Articles 3.15 (Proof of 
+Origin) and 3.16 (Basis of a Claim for Preferential Tariff Treatment), provided 
+that a good has been declared to customs as meeting the requirements of this 
+Chapter and the customs authority of the United Kingdom has no reasonable 
+doubts as to the veracity of that customs declaration, the United Kingdom shall 
+grant preferential tariff treatment to that good if: 
+(a) the customs value of the importation does not exceed 1,000 pounds 
+sterling or any higher amount as the United Kingdom may specify; or 
+(b) it is a good for which the United Kingdom has waived the requirements 
+set out in Articles 3.15 (Proof of Origin) and 3.16 (Basis of a Claim for 
+Preferential Tariff Treatment). 
+2. At the first meeting of the Working Group on Rules of Origin, the Parties may 
+commence a review of this Article. The review shall consider the introduction 
+of an exception to Articles 3.15 (Proof of Origin ) and 3.16 (Basis of a Claim 
+for Preferential Tariff Treatment) for all low value goods. 
+ 
+3 - 15 
+3. Paragraph 1 does not apply if the importation forms part of a series of 
+importations which the customs authority of the United Kingdom reasonably 
+considers to have been carried out or planned for the purpose of evading 
+compliance with its laws and regulations governing claims for preferential tariff 
+treatment made under this Agreement. 
+4. A Party shall provide that the importer shall be responsible for the correctness 
+of the declaration referred to in paragraph 1 of this Article and for compliance 
+with the requirements of this Chapter. 
+ 
+Article 3.19 
+Determinations of Claims for Preferential Tariff Treatment 
+1. Except as otherwise provided in paragraph 2, each Party shall grant a claim for 
+preferential tariff treatment made in accordance with this Chapter for a good 
+that, on or after the date of entry into force of this Agreement, arrives in that 
+Party or is released from customs control in that Party. 
+2. The importing Party may deny a claim for preferential tariff treatment if: 
+(a) it determines that the good does not qualify as originating within the 
+terms of this Chapter or does not satisfy the requirements of this 
+Chapter; 
+(b) pursuant to a verification under Article 3.25 (Verification of Origin), it 
+has not received sufficient information, including any information that 
+may have been received or provided by the competent authority of the 
+exporting Party, to determine: 
+(i) that the good qualifies as originating, or 
+(ii) that the importer, exporter, or producer has complied with the 
+requirements of this Chapter; 
+(c) the exporter, producer, or importer fails to respond to a written request 
+for information in accordance with Article 3.25 (Verification of Origin); 
+or 
+(d)  the importer, exporter, or producer fails to comply with the relevant 
+requirements for obtaining preferential tariff treatment. 
+3. If the importing Party denies a claim for preferential tariff treatment, it shall 
+issue a determination to the importer that includes the reasons for the 
+determination. The customs authority of the importing Party may also share the 
+determination and reasons for the determination with the customs authority of 
+the exporting Party. 
+ 
+ 
+3 - 16 
+Article 3.20 
+Refunds and Claims for Preferential Tariff Treatment After Importation 
+1. Each Party shall provide that: 
+(a) an importer may make a late claim for preferential tariff treatment; and 
+(b) subject to paragraph 2, it shall refund any excess duties paid for a good, 
+if the importer did not make a claim for preferential tariff treatment at 
+the time of importation, provided that the good would have qualified for 
+preferential tariff treatment at the time of importation. 
+2. As a condition for a refund of excess duties under subparagraph 1(b), the 
+importing Party shall require that the importer: 
+(a) makes a claim for preferential tariff treatment in accordance with 
+Article 3.15 (Proof of Origin); and 
+(b) provides such documentation relating to the importation of the good as 
+the importing Party may require. This may include a copy of the origin 
+declaration where a claim is based on an origin declaration. 
+3. Each Party shall provide that a late claim for preferential tariff treatment may 
+be made no later than one year after the date of importation or a longer period 
+if specified in the importing Party’s laws and regulations. 
+ 
+Article 3.21 
+Incorrect Claims for Preferential Tariff Treatment 
+1. Each Party shall provide that, if the importer has reason to believe that the claim 
+for preferential tariff treatment is based on incorrect information that could 
+affect the accuracy or validity of the claim, the importer shall immediately 
+correct the documentation relating to importation, notify the customs authority 
+of the importing Party and pay any customs duty and, if applicable, penalties 
+owed. 
+2. Each Party shall encourage its customs authority, when considering imposing 
+a penalty in relation to a claim for preferential tariff treatment, to consider as a 
+significant mitigating factor a notification given prior to the discovery of that 
+error by the Party and, provided that in accordance with paragraph 1, the 
+importer corrects the error and pays any duties owing. 
+ 
+Article 3.22 
+Errors and Discrepancies 
+1. A Party shall not reject a proof of origin due to minor errors or discrepancies, 
+omissions of information or typing errors or formatting errors, provided these 
+minor errors or discrepancies do not create doubt as to the originating status of 
+a good. 
+ 
+3 - 17 
+2. Each Party shall provide that, if its customs authority determines that a proof 
+of origin in respect of a good imported into that Party is illegible or defective 
+on its face, the importer shall be granted a period of 30 days  from the date of 
+communication from the customs authority of the importing Party to provide a 
+copy of the corrected proof of origin. 
+ 
+Article 3.23 
+Penalties 
+Each Party shall adopt or maintain measures imposing , where appropriate,  criminal, 
+civil, or administrative penalties for violations of its laws and regulations relating to 
+this Chapter. 
+ 
+Article 3.24 
+Record Keeping Requirements 
+1. Each Party shall provide that an importer claiming preferential tariff treatment 
+is required to keep and provide to the customs authority of the importing Party 
+upon request: 
+(a) the documentation related to the importation, including any origin 
+declaration or certificate of origin that served as the basis for the claim; 
+and 
+(b) any records necessary to demonstrate the good satisfies the 
+requirements for obtaining originating status for a period of at least four 
+years from the date of importation of the good, or such longer period as 
+required by the laws and regulations of the importing Party. 
+2. Each Party shall provide that  a producer or exporter is required to keep for a 
+period of five years from the date of issuance of the certificate of origin or 
+completion of the origin declaration, or such longer period as the exporting 
+Party specifies, documentation related to the importation, including any origin 
+declaration or certificate of origin and, where applicable, information from the 
+supplier and all records thereof to prove origin.7  
+3. Each Party shall provide that an importer, exporter or producer in that Party 
+may choose to maintain the records in paragraphs 1 and 2 in any medium that 
+allows for prompt retrieval, including electronic, optical, magnetic, or written 
+form in accordance with that Party’s laws and regulations.8  
+4. For greater certainty, these obligations shall apply to the inventory management 
+system of the producer. 
+ 
+ 
+7 For India, this paragraph shall also apply to the issuing authority. 
+8 For India, this paragraph shall also apply to the issuing authority. 
+ 
+3 - 18 
+Article 3.25 
+Verification of Origin 
+1. For greater certainty, the verification of origin process set out below is 
+subsequent to the checking of authenticity of the proof of origin in accordance 
+with A rticle 3.16 (Basis of a Claim for Preferential Tariff Treatment ). The 
+mechanism based on Annex 3D (Framework for the Authentication Process of 
+Origin Declarations) may be amended by mutual  agreement by the 
+Subcommittee on Trade in Goods further to consideration by the Working 
+Group on Rules of Origin. 
+2. Where a claim for preferential tariff treatment is based on the importer ’s 
+knowledge pursuant to paragraph 1 of Article 3.15 (Proof of Origin ), for the 
+purpose of determining whether a good imported into the United Kingdom is 
+originating, the customs authority of the United Kingdom may conduct a 
+verification by a written request for information from the importer of the good.9 
+3. Where a claim for preferential tariff treatment is based on an origin declaration 
+or a  certificate of origin, for the purpose of determining whether a good 
+imported into the importing Party is originating, the customs authority of the 
+importing Party may conduct a verification of the claim by requesting, in 
+writing, information from the importer of the good in accordance with the laws 
+and regulations of the importing Party. 
+4. Where the customs authority of the importing Party considers the information 
+obtained under paragraph 3 is not sufficient to make a determination of origin, 
+the customs authority of the importing Party shall make a written request for 
+information from the competent authority of the exporting Party. The customs 
+authority of the importing Party shall seek inf ormation necessary to verify the 
+origin of the good and pertaining to the fulfilment of the requirements of this 
+Chapter. The request shall be made no la ter than two years after the date on 
+which the claim for preferential tariff treatment was made. 
+5. A request for assistance relating to the verification of origin in respect of a 
+claim for preferential tariff treatment under this Agreement may be made after 
+the two -year time period set out in paragraph 4 in accordance with the 
+Agreement between the Government of the United Kingdom of Great Britain 
+and Northern Ireland and the Government of the Republic of India on 
+Cooperation and Mutual Administrative Assistance in Customs Matters signed 
+in London on 31 May 2021 .10 Such requests may include a request for the 
+information referred to in paragraph 6. For greater certainty, Article 3.19 
+(Determinations of Claims for Preferential Tariff Treatment ) remains 
+applicable pursuant to such a request. In the case of suspected fraud, collusion, 
+wilful misstatement, and suppression of facts  where such a request is made 
+within a period of five years from the date on which the claim for preferential 
+tariff treatment was made, the requested Party shall ensure that it responds to 
+ 
+9 For greater certainty, if a claim for preferential tariff treatment is based on the importer ’s knowledge 
+that the good is originating, the customs authority of the United Kingdom :shall not request information 
+from the competent authority of India to complete a verification under this Chapter. 
+10 Requests for information from the United Kingdom shall be made to the Department of Commerce in 
+India. 
+ 
+3 - 19 
+the request within 12 months. In exceptional cases, the Parties may by mutual 
+agreement agree to extend this period for a further six months. 
+6. A request made pursuant to paragraph 4 may also include a request for the 
+competent authority of the exporting Party to verify specific information held 
+by the exporter, producer or supplier necessary to determine the origin of the 
+good, such as: 
+(a) where the origin criterion is wholly obtained pursuant to subparagraph 
+(a) of Article  3.2 (Origin Criteria), the applicable category (such as 
+harvesting, mining, fishing), and the place of production; 
+(b) where the origin criterion is based on the good having been produced 
+entirely pursuant to subparagraph (b) of Article  3.2 (Origin Criteria), 
+the information on the origin of the materials used, including 
+information referred to in subparagraphs (d), (e) and (f), and the place 
+of production; 
+(c) where the origin criterion is based on the good satisfying all applicable 
+requirements of Annex 3A (Product Specific Rules of Origin) in 
+accordance with subparagraph (c) of Article 3.2 (Origin Criteria), the 
+information on the origin of the materials, including information 
+referred to in subparagraphs (d), (e) and (f), and the place of production; 
+(d) where the origin criterion is based on a change in tariff classification, a 
+list of all the non -originating materials used in the production of the 
+good in a Party, including their tariff classification (in two, four, or six-
+digit format, depending on the relevant product-specific rule of origin); 
+(e) where the origin criterion is based on a value method, the value of the 
+final good and the value of all the non-originating materials used in the 
+production of that good if the build down method is used or the value 
+of all originating materials used in the production if the build-up method 
+is used as well as other relevant elements, including expenses, in 
+accordance with Article 3.5 (Qualifying Value Content). 
+(f) where the origin criterion is based on a specific production process, a 
+description of that specific process; 
+(g) where the good has acquired originating status pursuant to paragraph 1 
+of Article 3.6 (Materials Used in Production ) or Article 3.8 
+(Cumulation), information on the origin of the materials used and the 
+final good, including information referred to in subparagraphs (d), (e) 
+and (f), and the place of production; 
+(h) information on any tolerances relied on under Article 3.9 (Tolerance); 
+(i) information relating to compliance with the non -alteration provisions 
+under Article 3.14 (Non-Alteration); 
+(j) any other information including specific documentation or production 
+process; or 
+ 
+3 - 20 
+(k) supporting documentation, where appropriate.  
+7. The competent authority of the exporting Party shall provide the customs 
+authority of the importing Party with a written acknowledgement of receipt of 
+the request made pursuant to paragraph 4 or 6 within a period of 30 days after 
+the date of the request. 
+8. Following a request under paragraph 4, the competent authority of the 
+exporting Party may conduct a verification by one o r more of the following 
+activities: 
+(a) requesting, in writing, specific information and documentation from the 
+exporter, producer or supplier referred to in paragraph 6; 
+(b) requesting, in writing (including by way of questionnaire), such 
+information from the exporter, a producer, or a supplier to ascertain the 
+veracity of the information that formed the basis of the proof of origin; 
+and 
+(c) visiting the premises of the exporter, producer, or supplier to review the 
+records referred to in paragraph 2 of Article 3.24 (Record Keeping 
+Requirements), or to observe the facilities, processes, equipment or 
+tools used in the production of the good, or to gather further evidence 
+to verify the originating status of the goods. 
+9. As soon as possible, and in any event within seven months of receiving a 
+request under paragraph 4 the competent authority of the exporting Party shall 
+provide the customs authority of the importing Party with a verification report. 
+In exceptional cases, the Parties may agree, by mutual agreement, to extend this 
+period by a further  three months. The verification report shall include the 
+following: 
+(a) subject to paragraph 10, any available information, including specific 
+documentation, which the customs authority of the importing Party 
+requested the competent authority of the exporting Party to verify, 
+pursuant to paragraph 6; 
+(b) a description of the good that is subject to examination, including its 
+tariff classification in 2, 4 or 6 -digit format, depending on the origin 
+criterion; 
+(c) a description of the production process; 
+(d) information on the manner in which the verification of the good 
+pursuant to paragraph 8 was conducted including the subject and scope 
+of the verification; and 
+(e) supporting documentation, where appropriate. 
+10. Notwithstanding paragraph 9, the competent authority of the exporting Party 
+shall not provide information to the customs authority of the importing Party if 
+that information is deemed confidential by the exporter, producer or supplier. 
+In such circumstances, the competent authority of  the exporting Party shall 
+ 
+3 - 21 
+confirm if it has reviewed the information the importing Party requested it to 
+verify pursuant to paragraphs 4 and 6 and shall list the sources of information 
+reviewed, stating whether the information supports the claim for preferential 
+tariff treatment. 
+11. If, upon receiving the verification report under paragraph 9, the customs 
+authority of the importing Party is unable to make a determination, it may 
+request that the competent authority of the exporting Party verifies specific 
+additional information, as set out in the request, relating to the origin of the 
+good, which may include the information referred to in paragraph 6, by way of 
+a written request to the exporter, producer or supplier. 
+12. In exceptional circumstances, if, following a request under paragraph 11, the 
+customs authority of the importing Party is unable to make a determination, it 
+may request that the competent authority of the exporting Party conducts a visit 
+to the exporter, producer or supplier. The customs authority of the importing 
+Party shall only make a request where it reasonably considers the visit 
+necessary to make a determination. The request for such a verification visit 
+shall be made no later than 30 days of the receipt of the response from the 
+competent authority of the exporting Party to a request made under paragraph 
+11. The competent authority of the exporting Party shall respond to the request 
+for a visit within 45 days. 
+13. Upon acceptance of a request for a visit under paragraph 12, the competent 
+authority of the exporting Party shall give a notice of at least 21 days to the  
+competent authority of the importing Party so as to enable arrangements for the 
+visit. 
+14. Subject to any reasonable conditions set out by the competent authority of the 
+exporting Party, such as health and safety requirements, the customs authority 
+of the importing Party may designate up to two observers to be present during 
+the verification visit conducted by the customs authority of the exporting Party 
+under paragraph 12, provided that: 
+(a)  any person designated as an observer is a government official of the 
+importing Party; and 
+(b)  any observer acts through the competent authority of the exporting 
+Party and does not, on its own initiative, look for documents, conduct 
+any searches, or question the exporter, producer or supplier directly. 
+15. The competent authority of the exporting Party shall share the information on 
+the visit including the manner in which the visit was conducted as well as the 
+subject and scope of the verification within 45 days of the conclusion of the 
+visit. 
+16. A verification under this Article may be conducted at any time after the claim 
+for preferential tariff treatment is made. 
+17. A request for verification under this Article shall be conducted on the basis of 
+risk assessment methods, which may include random selection, or on the basis 
+of intelligence. 
+ 
+3 - 22 
+18. During verification, the importing Party may allow the release of the good, 
+subject to payment of any duties or provision of any security as provided for in 
+its laws and regulations. In accordance with the laws and regulations of the 
+importing Party, if as a result of the verification the importing Party determines 
+that the good meets all the requirements of this Chapter, it shall grant 
+preferential tariff treatment to the good and refund any excess duties paid or 
+release any security provided, unless the security also covers other obligations. 
+19. The customs authority of the importing Party shall reserve the right to issue the 
+final determination of origin in accordance with Article 3.19 (Determinations 
+of Claims for Preferential Tariff Treatment ), provided that the determination 
+takes into account the information provided to it by the competent authority of 
+the exporting Party as well as any independent findings or investigation. 
+20. The customs authority of the importing Party shall: 
+(a) make a determination following a verification as expeditiously as 
+possible and no later than one year from the date it receives information 
+which, in its opinion, is sufficient to enable it to make such a 
+determination. If permitted by its laws and regulations, a Party may 
+extend this period in exceptional cases, such as where the information 
+concerned is complex. This time period will not apply to  verifications 
+pertaining to cases of suspected fraud, collusion, wilful misstatement, 
+and suppression of facts referred to in paragraph 5; 
+(b) provide the importer with a written determination of whether the good 
+is originating that includes the reasons for the determination; and 
+(c) provide the competent authority of the exporting Party with a written 
+determination of whether the good is originating including the reasons 
+for that determination. 
+21. The competent authorities of the Parties shall cooperate in the overall operation 
+and administration of the verification process including establishing priorities, 
+by mutual agreement, if there are a significant number of requests. 
+22. The customs authorities of the Parties shall bear their own costs in carrying out 
+the activities referred to in this Article. 
+ 
+Article 3.26 
+Temporary Suspension of Preferential Tariff Treatment11 
+1. Subject to the possibility of exemption under paragraph 11, the importing Party 
+may, in accordance with the procedure laid down in paragraph 3, temporarily 
+suspend preferential tariff treatment in respect of a good for which an exporter 
+or producer has completed a proof of origin, if: 
+ 
+11 For greater certainty, a good subject to verification which has been released subject to the payment of 
+any duties or provision of any security in accordance with paragraph 18 of Article 3.25 (Verification of 
+Origin) shall not constitute temporary suspension of preferential tariff treatment under this Article. 
+ 
+3 - 23 
+(a) a good has been subject to verification in accordance with Article 3.25 
+(Verification of Origin) on at least two separate occasions and the 
+second occasion is in respect of a proof of origin dated at least one 
+month after the competent authority of the importing Party provides the 
+determination to the competent authority of the exporting Party in 
+respect of the first occasion; and 
+(b) each verification results in the denial of preferential tariff treatment in 
+accordance with Article 3.19 (Determinations of Claims for Preferential 
+Tariff Treatment). 
+2. Suspension of preferential tariff treatment under paragraph 1 shall only apply 
+to a good imported after the suspension is initiated, if that good is: 
+(a) classified under the same classification code as specified in the import 
+declaration of the good that was subject to verification under 
+paragraph 1; and 
+(b) exported or produced by the exporter or producer who completed the 
+proof of origin of the good that was subject to verification under 
+paragraph 1. 
+3. If the importing Party intends to temporarily suspend preferential tariff 
+treatment in accordance with paragraph 1, it shall notify the competent 
+authority of the exporting Party at least 15 days prior to the commencement of 
+any suspension. This notification shall include the following: 
+(a) the name of the exporter or producer and their reference number; 
+(b) detailed reasons for the intention to suspend preferential tariff 
+treatment; 
+(c) a detailed description of the good subject to suspension, including the 
+corresponding commodity code as specified in the import declaration, 
+and the description of the good as set out in the proof of origin; 
+(d) the time period for which the temporary suspension is to be in effect; 
+(e) information on the measures necessary for the restoration of preferential 
+tariff treatment; and 
+(f) any other relevant information. 
+4. Temporary suspension pursuant to paragraph 1 shall apply only for the period 
+necessary to counteract breaches or circumventions of this Chapter and to 
+protect the financial interests of the importing Party. The competent authority 
+of the importing Party sh all restore preferential tariff treatment suspended in 
+accordance with paragraph 1 if the competent authority of the exporting Party 
+provides evidence and the Parties agree that the conditions that gave rise to the 
+suspension no longer persist. If the i mporting Party is not satisfied that the 
+evidence provided by the competent authority of the exporting Party 
+demonstrates that the conditions that gave rise to the suspension no longer 
+persist, they shall provide their reasoning. Where the conditions that gave rise 
+ 
+3 - 24 
+to the suspension persist at the expiry of the period of the temporary suspension, 
+the importing Party may decide to renew the suspension. Any renewal of 
+suspension shall be notified to the competent authority of the exporting Party. 
+5. Subject to the possibility of exemption under paragraph 11, the importing Party 
+may temporarily suspend the relevant preferential tariff treatment for future 
+imports of the same good classified under an identified classification code as 
+specified in the import declaration in accordance with the procedure laid down 
+in paragraphs 7 to 9 if: 
+(a) the importing Party suspects, based on verifiable information that 
+deliberate breaches of this Chapter have been committed in respect of 
+that good; 
+(b) the good has been subject to verification in accordance with Article 3.25 
+(Verification of Origin) for at least two different exporters or producers, 
+each being subject to verification on at least two separate occasions, and 
+the second occasion is in respect of a proof of origin dated at least one 
+month after the competent authority of the importing Party provides the 
+determination to the competent authority of the exporting Party in 
+respect of the first occasion; and 
+(c) each verification results in the denial of preferential tariff treatment in 
+accordance with Article 3.19 (Determinations of Claims for Preferential 
+Tariff Treatment). 
+6. For the purposes of paragraph 5, the exporters or producers subject to 
+verification shall collectively account for the majority of the total exports of 
+those goods from the exporting Party to the importing Party in the 12 months 
+preceding the date of the first request for verification referred to in 
+subparagraph 5(b).  
+7. If the importing Party intends to temporarily suspend preferential tariff 
+treatment in accordance with paragraph 5, it shall notify the Working Group on 
+Rules of Origin and, on the exporting Party ’s request, shall enter into 
+consultations with the exporting Party. The importing Party shall provide that 
+the notification to the Working Group on Rules of Origin includes evidence 
+that the requirements in paragraphs 5 and 6 have been met. Consultations shall 
+aim to clarify the grounds for intention to suspend , be used to discuss any 
+mitigating factors, and explore possible solutions to avoid suspension. No 
+suspension shall take place until the consultation process has concluded, unless 
+the Parties agree otherwise. 
+8. If the Parties fail to agree on a mutually acceptable solution or no consultations 
+have been entered into within one month after the date of notification made in 
+accordance with paragraph 7, or such other period as the Parties may mutually 
+agree, the importing Party may temporarily suspend the relevant preferential 
+tariff treatment. In that case, the importing Party shall notify the temporary 
+suspension, including the period during which it intends the temporary 
+suspension to apply, to the Working Group on Rules of Origin without delay.  
+9. Temporary suspension pursuant to paragraph 5 shall apply only for the period 
+necessary to counteract breaches or circumventions of this Chapter and to 
+ 
+3 - 25 
+protect the financial interests of the importing Party. The Parties shall keep any 
+suspension under review through the Working Group on Rules of Origin and, 
+where it is agreed by the Parties that the suspension is no longer necessary, the 
+importing Party shall bring it to an end. Where the conditions that gave rise to 
+the suspension pursuant to paragraph 5 persist at the expiry of the initial period 
+of the temporary suspension, the importing Party may decide to renew the 
+suspension. Any renewal of suspension shall be notified to the exporting Party. 
+10. Each Party shall publish, in accordance with its internal procedures, notices to 
+importers about any decision concerning temporary suspension referred to in 
+paragraph 5. 
+11. Notwithstanding paragraphs 1 and 5, if an exporter or producer is able to satisfy 
+the exporting Party that such goods are fully compliant with the requirements 
+of this Chapter and the importing Party agrees, the importing Party shall exempt 
+those goods from the suspension. 
+ 
+Article 3.27 
+Confidentiality 
+1. This Chapter shall not require a Party to furnish or allow access to information 
+where the use or disclosure of that information would impede law enforcement 
+or would be contrary to that Party’s law. 
+2. Each Party shall maintain, in conformity with its law, the confidentiality of any 
+information collected pursuant to this Chapter and shall protect that information 
+from disclosure that could prejudice the competitive position of the person to 
+whom the information relates.  
+3. Each Party shall ensure that confidential information collected pursuant to this 
+Chapter shall not be used or disclosed for purposes other than the 
+administration and enforcement of determination of origin or of customs 
+matters, except with the permission of the person or Party who provided the 
+confidential information.  
+4. Notwithstanding paragraph 2 and 3, if the Party receiving or obtaining the 
+information is required by its law to disclose the information for purposes other 
+than the administration and enforcement of determination of origin or of 
+customs matters, that Part y shall, where possible, notify the person or Party 
+who provided the information of such use. That notification shall, where 
+possible, be given in advance of such use. 
+5. Notwithstanding paragraph 3, a Party may allow information collected pursuant 
+to this Chapter to be used in any administrative, judicial, or quasi -judicial 
+proceedings instituted for failure to comply with customs -related laws and 
+regulations implementing this Chapter. A Party shall, where possible, notify the 
+person or Party who provided the information of such use. That notification 
+shall, where possible, be given in advance of such use.  
+ 
+3 - 26 
+6. The Parties shall , if one of them so requests , exchange information on their 
+respective law for the purpose of facilitating the operation and application of 
+this Article. 
+ 
+Article 3.28 
+Working Group on Rules of Origin  
+1. The Parties hereby establish a Working Group on Rules of Origin composed of 
+government representatives of each Party responsible for rules of origin matters 
+to consider any matters arising under this Chapter. 
+2. The functions of the Working Group on Rules of Origin shall include:  
+(a) cooperating in the administration and interpretation of this Chapter;  
+(b) exchanging information on matters related to this Chapter;  
+(c) communicating and updating the necessary contact details of the 
+Working Group members for the purposes of this Chapter;  
+(d) considering any matter referred to it by the Sub committee on Trade in 
+Goods or the Joint Committee; and  
+(e) any other matter as the Working Group mutually agrees. 
+3. The Working Group on Rules of Origin shall meet within 12 months of the date 
+of entry into force of this Agreement and thereafter at least once annually. 
+4. The Working Group on Rules of Origin shall report to the Sub committee on 
+Trade in Goods. 

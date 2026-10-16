@@ -1,0 +1,25 @@
+# The build runs npm ci and next build inside the image, so nothing built or
+# installed on the host should reach the build context. node_modules in
+# particular carries a darwin-arm64 native binary for better-sqlite3.
+node_modules
+.next
+out
+
+# Local state, never an artefact.
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+!.env.example
+
+# Not part of the application. The 180 MB source library lives outside this
+# directory and so is already out of the build context.
+.git
+.gitignore
+.claude
+Dockerfile
+.dockerignore
+README.md
+*.log
+.DS_Store

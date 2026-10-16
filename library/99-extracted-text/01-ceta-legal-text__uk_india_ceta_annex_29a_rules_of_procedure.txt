@@ -1,0 +1,539 @@
+# SOURCE: library/01-ceta-legal-text/uk_india_ceta_annex_29a_rules_of_procedure.pdf
+# pages: 15
+
+ 
+Annex 29A - 1 
+ANNEX 29A 
+Rules of Procedure 
+ 
+Rule 29A.1 
+Definitions 
+For the purposes of this Annex: 
+“ADR provider” means a provider of alternative dispute resolution (“ADR”) services, 
+namely a provider of good offices, a conciliator or a mediator who provides their 
+services pursuant to Article 29.6 (Good Offices, Conciliation, or Mediation); 
+“approved person” means an individual who is:  
+(a) an authorised representative of a Party designated in accordance with 
+paragraph 3 of Rule 29A.8 (Hearings);1 
+(b)  an arbitrator;  
+(c)  an assistant; or 
+(d)  an expert; 
+“assistant” means a person who, under the terms of appointment and under the 
+direction of a  panellist or ADR provider, conducts research or provides assistance to 
+that panellist or ADR provider; 
+“confidential information ” means information designated as such by a Party , 
+submitted in accordance with paragraph 1 of Rule 29A.13 (Treatment of Confidential 
+Information) and Appendix 29A-b (Confidential Information); 
+“document” includes any written matter submitted, delivered or issued in the course of 
+the panel proceeding, whether in paper or electronic form; 
+“expert” means an individual or body providing technical information or advice in 
+accordance with Rule 29A.12 (Technical Advice);  
+“information” means information, however recorded or stored, including information 
+contained in a paper document, electronic file or oral information; 
+“non-business day” means, with regard to a Party, Saturday, Sunday and any other day 
+officially designated by that Party as a public holiday; 
+“panellist” means a member of a panel established under Article 29.9 (Composition of 
+the Panel); 
+ 
+1 For greater certainty, a non -governmental organisation shall not be a representative of a Party, unless 
+agreed by the Parties. 
+ 
+Annex 29A - 2 
+“proceeding” means the proceeding of the panel under Chapter 29 (Dispute Settlement) 
+unless otherwise provided; and 
+“representative” means an employee of a government department or agency or of any 
+other government entity of a Party, or any person appointed or retained by a government 
+department or agency, or any other government entity of a Party, who represents, 
+advises or assists that Party for the purposes of a dispute under this Chapter.2 
+ 
+Rule 29.2 
+General Provisions 
+1. Unless the Parties agree otherwise, these Rules of Procedure shall apply to 
+dispute settlement proceedings under Chapter 29 (Dispute Settlement). 
+2. Unless otherwise provided, any reference made in these Rules of Procedure to 
+an Article is a reference to the Article in Chapter 29 (Dispute Settlement). 
+3. In the event of an inconsistency between these Rules of Procedure and any 
+provisions in Chapter 29 (Dispute Settlement), the provisions of Chapter  29 
+(Dispute Settlement) shall prevail to the extent of the inconsistency. 
+ 
+Rule 29.3 
+Organisational Meeting 
+1. Unless the Parties agree otherwise, the Parties shall meet with the panel no later 
+than seven days after the date of establishment of the panel in order to determine 
+such matters that the Parties or the panel deem appropriate, including: 
+(a) the remuneration and expenses to be paid to the panellists and their 
+assistants, in accordance with Rule 29A.18 (Remuneration and 
+Expenses); 
+(b) the timetable for the proceeding, in accordance with Rule 29A.5 
+(Timetable); 
+(c)  organisational measures to streamline the proceeding, without prejudice 
+to the procedural rights and obligations of the Parties and due process. 
+Such measures may include decisions on page limits for written 
+submissions as well as on the length and number of hearings or meetings 
+required;3 and 
+ 
+2 For greater certainty, a non -governmental organisation shall not be a representative of a Party, unless 
+the Parties agree otherwise. 
+3 For a decision on the number of hearings or meetings required, the Parties consider that, as a guideline 
+and without prejudice to any assessment of the dispute at hand, panel hearings and meetings should range 
+from 10 days to 20 days, subject to the complexity of the dispute and other relevant factors, and exclusive 
+of any hearings or meetings relating to the activities of any reconvened panel. 
+ 
+Annex 29A - 3 
+(d) whether the panel may accept and consider amicus curiae submissions 
+pursuant to Rule 29A.11 (Amicus Curiae  Submissions) and any 
+applicable terms and conditions regarding those submissions. 
+2 Further to subparagraphs 1(a) and 1(c), the panel shall in consultation with the 
+Parties take steps to ensure proceedings are undertaken in a cost -effective 
+manner and that the total fees of the proceedings are reasonable, taking into 
+account amongst other things: 
+(a)  the complexity of the subject-matter of the dispute; 
+(b)  the anticipated time spent by the panellists , including by reference to 
+any guidance or data on time spent by adjudicators in similar subject -
+matter disputes in other forums to the extent it is relevant; and  
+(c)  any other relevant circumstances of the dispute.  
+To this end, the panel and the Parties shall consider ways to reduce the costs of 
+the dispute, including ways to reduce or limit the total fees for work performed 
+in connection with the proceedings.4  
+3. Unless the Parties agree otherwise, this meeting shall not be required to be in 
+person and may be conducted by any other means. 
+ 
+Rule 29A.4 
+Notifications 
+1. Any written submission, request, notice or other document in a proceeding 
+transmitted by: 
+(a)  the panel shall be sent to both Parties through their contact points at the 
+same time; 
+(b)  a Party to the panel shall be copied to the other Party through its contact 
+point at the same time; and  
+(c)  a Party to the other Party shall be copied to the panel at the same time. 
+2. The notification to a Party of any document under Chapter 29 (Dispute 
+Settlement), these Rules of Procedure , or the Code of Conduct shall be 
+addressed to that Party’s contact point. 
+3. Any notification referred to under paragraph 1 shall be made by e-mail or, where 
+appropriate, any other means of telecommunication that provides a record of its 
+sending. Unless proven otherwise,  such notification shall be deemed to be 
+ 
+4 The Parties recognise that, as reported by the Office of Internal Oversight (WT/BFA/W/515), in the 
+reported period, on average, panellists spent almost the same time preparing for the panels (Preparation 
+fees, 49% of the cumulated fees) and attending panel meetings (Daily fees, 51% of the cumulated fees), 
+and that the preparation time was calculated as the cumulative time taken by all panellists. The principles 
+in the first sentence may be used as a guideline when considering ways to reduce the costs of the dispute. 
+ 
+Annex 29A - 4 
+received on the same date of its sending. The date of sending shall be determined 
+according to the time zone in the capital city of the sending Party.  
+4. Notwithstanding paragraph 3, if it is necessary for any written submission or 
+other document (or any part thereof, including an exhibit or exhibits) to be made 
+by means other than telecommunication, the panel shall adopt, after consulting 
+with the Parties , an appropriate procedure that is consistent with Chapter 29 
+(Dispute Settlement). 
+5. If the last day for delivery of a document falls on a non-business day of a Party 
+or on any other day on which the offices of the government of a Party are  
+officially or by force majeure closed, the document may be delivered on the 
+next business day. 
+6. Minor errors of a clerical nature in a ny request, notice, written submission, or 
+other document related to the proceeding may be corrected by delivering a new 
+document clearly indicating the changes. Any such correction shall not affect 
+the timetable for the proceeding . Any disagreement regarding whether or not 
+the correction is of a clerical nature shall be resolved by the panel after 
+consulting the Parties. 
+ 
+Rule 29A.5 
+Timetable 
+At the organisational meeting, the panel shall establish a timetable for the proceeding, 
+including precise dates for the filing of submissions and the date of the oral hearing , 
+appropriate for the Parties to prepare their respective submissions. 
+ 
+Rule 29A.6 
+Written Submissions 
+1. Subject to subparagraph 1(b) of Rule 29A.3 (Organisational Meeting), t he 
+complaining Party shall deliver its initial written submission to the panel no 
+later than 14 days after the date of establishment of the panel. The responding 
+Party shall deliver its written counter-submission no later than 30 days after the 
+date of receipt of the initial written submission. 
+2. With the agreement of the panel, no later than 12 days after the conclusion of a 
+hearing, each Party may deliver to the panel and the other Party a supplementary 
+written submission responding to any matter that arose during the hearing. 
+ 
+Rule 29A.7 
+Operation of the Panel 
+1. The chair of the panel shall preside at all of its meetings. The panel may delegate 
+authority to the chair to make administrative and procedural decisions. 
+ 
+Annex 29A - 5 
+2. Except as otherwise provided in these Rules of Procedure , the panel may 
+conduct its business by any means, including  e-mail, telephone, video-
+conference, facsimile transmission, computer link , or any other means of 
+electronic communication. 
+3. The panel’s deliberations shall be confidential. Only panellists may take part in 
+the deliberations of the panel, but the panel may permit assistants or designated 
+note-takers to be present during those deliberations. 
+4.  The drafting of any report or decision shall remain the exclusive responsibility 
+of the panel and must not be delegated.  
+5. Where a procedural question arises that is not covered by Chapter 29 (Dispute 
+Settlement) or its Annexes, the panel may adopt, after consulting the Parties, an 
+appropriate procedure that is consistent with Chapter 29 (Dispute Settlement). 
+ 
+Rule 29A.8 
+Hearings 
+1. Based on the timetable determined pursuant to Rule 29A.5 (Timetable), the 
+chair of the panel shall fix the time of the hearing. The chair shall notify in 
+writing to the Parties the time and location5 of the hearing. The panel shall seek 
+to hold the hearing 14 days after the date of delivery of the written counter -
+submission of the responding Party.  
+2. Unless the Parties agree otherwise, the hearing shall be hosted by the responding 
+Party. The responding Party shall be responsible for the logistical administration 
+of the hearing, in particular the organisation of the venue, unless otherwise 
+agreed.  
+3. No later than five days before the date of a hearing, each Party shall deliver to 
+the panel and the other Party a list of the names of their representatives or other 
+delegates who will be attending the hearing.  
+4.  The panel shall conduct the hearing in the following manner, setting time limits 
+to ensure that it affords comparable time to the complaining Party and 
+responding Party: 
+Argument: 
+(a)  Opening oral statement and argument of the complaining Party; and  
+(b)  Opening oral statement and argument of the responding Party;  
+Rebuttal Argument: 
+(a) Reply of the complaining Party; and  
+ 
+5 For greater certainty, hearings may be held in person, virtually, or in hybrid mode. The panel should 
+ensure appropriate arrangements are made, without prejudice to the procedural rights and obligations of 
+the Parties and due process. 
+ 
+Annex 29A - 6 
+(b)  Counter-reply of the responding Party;  
+Closing statement: 
+(a)  Closing oral statement of the complaining Party; and  
+(b)  Closing oral statement of the responding Party. 
+5. The panel may direct  questions to a Party at any time during the hearing.  The 
+panel may request, on its own initiative or  on request of a Party, that a Party 
+make available documents or other information relevant to the dispute  that are 
+within its control or it is able to obtain by reasonable means. 
+6. The panel shall arrange for a transcript of the hearing to be prepared and 
+delivered to the Parties as soon as possible after the hearing. The Parties may 
+comment on the transcript and the panel may consider those comments.  
+7. Each Party shall make available to the  panel and to the other Party written 
+versions of their oral statements no later than eight days after the hearing.  
+8. The timetable determined pursuant to Rule 29A.5 (Timetable) shall provide for 
+at least one hearing for the Parties to present their cases to the panel. The panel 
+may on its own initiative or on request of a Party convene additional hearings  
+and additional written submissions.  
+9. All panellists shall be present during the entirety of each hearing.  If a 
+replacement panellist has been appointed after a hearing has occurred but before 
+the panel’s report is published , the panel may hold a new hearing if a Party 
+requests, or if the panel considers a new hearing to be appropriate. 
+10. Unless the Parties agree otherwise, all hearings of the panel shall be open for 
+the public to observe, 6 except that the panel shall close the hearing for a ny 
+discussion of confidential information. 7 Attendance in the hearing room shall 
+be limited to approved persons. 
+ 
+Rule 29A.9 
+Written Questions of the Panel 
+1. The panel may at any time during the proceeding address questions in writing 
+to the Parties. In the event that the panel addresses questions to one Party only, 
+the panel shall provide a copy of the written questions to the other Party.  
+2. The panel shall ensure each Party has a reasonable opportunity to provide 
+written comments on the other Party’s reply. 
+ 
+6 For greater certainty, the expression “open for the public to observe” does not include physical presence 
+at the hearing. To facilitate public observation of a hearing, that hearing may be transmitted electronically 
+to the public at the time of the hearing at a different venue or at a later date or time, or through any other 
+procedure as a Party considers appropriate. 
+7 For greater certainty, hearings held in closed session shall be confidential. 
+ 
+Annex 29A - 7 
+ 
+Rule 29A.10 
+No Ex Parte Communications 
+1. The panel shall not meet or contact a Party in the absence of the other Party. 
+2. Neither Party shall meet or contact any panellists in relation to the dispute in the 
+absence of the  other Party. Any contact between a Party and a person who is 
+under consideration for selection as a panellist shall be limited to issues relating 
+to that person’s availability and the appointment contract. 
+3. No panellist shall discuss any aspect of the subject matter of the proceeding with 
+a Party in the absence of the other Party or the other panellists. 
+ 
+Rule 29A.11 
+Amicus Curiae Submissions 
+1. If the Parties agree , the panel may accept and consider amicus curiae  
+submissions. Paragraphs 2 through 6 shall apply to such submissions, subject to 
+any other terms and conditions agreed by the Parties. 
+2. Any such submissions shall:  
+(a)  be made within 10 days of the provision of public notice pursuant to 
+paragraph 6; 
+(b)  be no longer than 10 typed pages, including any annexes; and  
+(c)  be directly relevant to the factual or legal issues under consideration by 
+the panel. 
+3. The submission shall contain a description of the person, whether natural or 
+legal, making the submission, including their nationality or place of 
+establishment, the nature of their activities and the source of their financing, and 
+specify the nature of their interest in the panel proceeding. 
+4. The panel shall promptly provide to the Parties for comment copies of any 
+amicus curiae submissions it receives. The Parties may provide comment on the 
+submissions within a reasonable period of time. The Panel shall take into 
+consideration comments received from the Parties.  
+5. The panel shall list in its report all the amicus curiae submissions that it has 
+received but shall not be obliged to address the factual or legal arguments made 
+in such submissions. 
+6. To facilitate the submission of amicus curiae submissions, each Party shall, as 
+may be agreed, provide public notice of: 
+(a)  the establishment of the panel; 
+ 
+Annex 29A - 8 
+(b)  the opportunity for interested persons to submit amicus curiae  
+submissions; and 
+(c)  the procedures an d requirements for making  such submissions, 
+consistent with paragraph 2. 
+ 
+Rule 29A.12 
+Technical Advice 
+1. On request of a Party, or on its own initiative, the panel may seek information  
+or technical advice from any expert that it deems appropriate  in consultations 
+with the Parties . Any information or technical advice so obtained shall be 
+submitted to the Parties for comment. Where the panel takes the information or 
+technical advice into account in the preparation of its report, it shall also take 
+into account any comments by the Parties on the information or technical 
+advice.  
+2. The panel shall consult the Parties to determine matters including whether the 
+information or technical advice should be sought, from which expert it should 
+be sought, and the date on which that expert shall deliver the information or 
+technical advice. 
+3. Any expert selected under paragraph 1 shall be subject to the provisions set out 
+in paragraph 1 of Article 29B.9 (Responsibilities of Experts, Assistants, Staff 
+and ADR Providers) of the Code of Conduct. 
+ 
+Rule 29A.13 
+Treatment of Confidential Information 
+1. Paragraphs 2 through 5 and Appendix 29A-b (Confidential Information) shall 
+apply to information that a Party submits during consultations, proceedings, or 
+procedures that involve good offices, conciliation or mediation  and designates 
+as confidential.  
+2. Each Party and its approved persons shall treat as confidential the information 
+submitted by the other Party that the submitting Party has designated as 
+confidential information in accordance with Appendix 29A-b (Confidential 
+Information). Nothing in these Rules of Procedure shall preclude a Party from 
+disclosing its own information to the public.  
+3. A Party shall identify, use, store , and dispose of , confidential information as 
+specified in Appendix 29A-b (Confidential Information).  
+4. After consulting the Parties, the panel may modify or waive any part of the 
+procedures set out in Appendix 29A-b (Confidential Information) or establish 
+additional procedures that it considers necessary to protect confidential 
+information. 
+ 
+Annex 29A - 9 
+5. Where a Party submits a confidential version o f its written submissions to the 
+panel, it shall, on request of the other Party, provide a non-confidential summary 
+of the information contained in its written submissions no later than 10 days 
+after the date of request. 
+ 
+Rule 29A.14 
+Urgent Cases 
+In cases of urgency referred to in Article 29.19 (Decision on Cases of Urgency), the 
+panel shall, after consulting the Parties, adjust the time periods referred to in these Rules 
+of Procedure, as appropriate. The panel shall notify the Parties of those adjustments. 
+ 
+Rule 29A.15 
+Public Release of Documents 
+1. Subject to the protection of confidential information , a Party making a request 
+pursuant to Article 29.7 (Consultations) or Article 29.8 (Request for 
+Establishment of a Panel) shall release a copy of the request to the public within 
+five days of making that request. 
+2. Subject to the protection of confidential information, a Party may disclose 
+statements of its own positions to the public, including releasing to the public 
+its own written submissions, written versions of oral statements, and written 
+responses to requests or questions from the panel.8 
+ 
+Rule 29A.16 
+Appointment of Panellists 
+1.  The nominating Party or Parties  shall notify  each individual who  is being 
+considered for appointment as a pane llist. Each individual being considered 
+shall confirm their availability to the nominating Party, or both Parties in regards 
+of the Chair or where a panellist is selected by draw of lot. 
+2. The panellists shall accept their appointment by signing the appointment 
+contracts. The Parties shall endeavour to ensure that, at the latest by the time all 
+the selected panellists have confirmed their availability, they have agreed on the 
+remuneration a nd the reimbursement of expenses of the panellists and 
+assistants, and have prepared the necessary appointment contracts, with a view 
+to having them signed promptly. 
+ 
+ 
+8 A Party releasing such written submissions, written versions of oral statements, and written responses 
+to requests or questions from the panel, shall to the extent possible have regard to information contained 
+in them that pertains specifically to the other Party’s position, the  disclosure of which might be 
+considered sensitive. 
+ 
+Annex 29A - 10 
+Rule 29A.17 
+Replacement of Panellists 
+1.  If a panellist withdraws or becomes unable to act,  they shall notify the Parties 
+and a replacement shall be appointed in accordance with Article 29.9 
+(Composition of the Panel). The replacement panellist shall have all the powers 
+and duties of the original panellist. 
+2.  The notification in paragraph 1 shall be sent to the Parties’ contact points. 
+3. If a Party considers that a panellist should be replaced because they do not 
+comply with the requirements of the Code of Conduct,  that Party shall notify 
+the other Party no later than  five days after the date on which it obtained 
+sufficient evidence of the panellist’s alleged non-compliance and consult on the 
+matter. 
+4. The Parties shall inform the panellist of the alleged non-compliance and may 
+request the panellist to take steps to  remedy it. If the Parties agree, they  may 
+remove the panellist and appoint a new panellist in accordance with Article 29.9 
+(Composition of the Panel).  
+5. If the Parties fail to agree on the need to replace a panellist other than the chair 
+of the panel, a Party may refer this matter to the chair of the panel, whose 
+decision shall be final. If the chair finds that the panellist does not comply with 
+the requirements of the Code of Conduct, the panellist shall be removed and the 
+new panellist shall be appointed in accordance with Article 29.9 (Composition 
+of the Panel).  
+6. If the Parties fail to agree on the need to replace the  chair of the panel, a Party 
+may refer the matter to  one of the other individuals on the list of nominee s 
+exchanged by the Parties pursuant to paragraph 4 of Article 29.9 (Composition 
+of the Panel). The name shall be drawn by lot by t he referring Party .9 The 
+decision by the selected individual on the need to replace the chair shall be final. 
+If the individual finds that the chair does not comply with the requirements of 
+the Code of Conduct,  the chair shall be removed and the new chair shall be 
+appointed in accordance with Article 29.9 (Composition of the Panel).  
+ 
+Rule 29A.18 
+Remuneration and Expenses 
+1. Unless the Parties agree otherwise, remuneration for panellists shall be paid at 
+the rate for non-governmental panellists used by the WTO on the date a  
+complaining Party makes a written request for the establishment of a panel 
+pursuant to Article 29.8 (Request for Establishment of a Panel). 
+2. Unless the Parties agree otherwise,  the total remuneration for each panellist’s 
+assistant or assistants shall not exceed 50% of the remuneration of that panellist. 
+ 
+9 The referring Party shall give reasonable opportunity for representatives of the other Party to be present 
+when the lot is drawn. 
+ 
+Annex 29A - 11 
+3. Unless the Parties agree otherwise, expenses shall be paid at the Daily 
+Subsistence Allowance rate for the location of the hearing established by the 
+United Nations International Civil Service Commission on the date a Party 
+makes a written request for the establishment of a panel under Article 29.8 
+(Request for Establishment of a Panel). 
+4. If the panel seek s information or technical advice pursuant to Rule 29A.12 
+(Technical Advice), the amount and details of the remuneration and expenses  
+an expert is to receive shall be determined by the Parties and shall be borne by 
+the Parties in equal share. Experts shall keep a record and render a final account 
+to the Parties of all time devoted to and expenses incurred in connection with 
+the proceeding.  
+5. Each panellist shall keep a record and render a final account to the Parties of all 
+time devoted to and expenses incurred in connection with the proceeding, as 
+well as the time and expenses of their assistants. The panel shall keep a record 
+and render a final account to the Parties of its administrative expenses. 
+6.  If the Parties agree to undertake procedures listed under Article 29.6 (Good 
+Offices, Conciliation, or Mediation), the amount and details of the remuneration 
+and expenses an ADR provider is to receive shall be determined by the Parties 
+and shall be borne by the Parties in equal share. ADR providers shall keep a 
+record and render a final account to the Parties of all time devoted to and 
+expenses incurred in connection with the procedures.  
+7. In case of resignation or removal of a  panellist, assistant, expert , or ADR 
+provider, or if the Parties reach a mutually agreed solution, the Parties will make 
+payment of the remuneration and expenses owed, using resources provided 
+equally by the Parties, on submission of a final account, following the 
+procedures in paragraphs 4 through 6, as applicable. 
+8. A Party may at any time in the proceedings make reasonable request to the panel 
+to furnish a statement of its costs to date in the proceedings and to provide an 
+estimate of the additional work that is required. If the Parties agree, they may 
+request the panel to consider ways to streamline the proceeding, without 
+prejudice to the procedural rights and obligations of the Parties and due process. 
+  
+ 
+Annex 29A - 12 
+APPENDIX 29A-a 
+Indicative Timetable for Panel Proceedings 
+Panel established on xx/xx/xxxx. 
+1.  Deadline for written submissions by the Parties: 
+(a)  initial written submission of the complaining Party: 14 days after the 
+date of establishment of the panel; 
+(b)  written counter-submission of the responding Party: 30 days after the 
+date of receipt of the initial written submission of the complaining Party;  
+2.  Date of hearing with the Parties: 14 days after receipt of the initial submission 
+of the responding Party; 
+3.  Issuance of interim report to the Parties: 150 days after the date of establishment 
+of the panel; 
+4.  Deadline for the Parties to provide written comments on the interim report: 20 
+days after the issuance of the interim report; and  
+5.  Issuance of final report to the Parties: within 30 days of issuance of the interim 
+report.  
+Total time: 
+180 days 
+  
+ 
+Annex 29A - 13 
+APPENDIX 29A-b 
+Confidential Information 
+1. A Party shall identify confidential information by:  
+(a) clearly marking information recorded in paper and electronic form with 
+the notation “CONFIDENTIAL INFORMATION” on the cover page of 
+the document and on each page where confidential information appears, 
+and by enclosing the confidential information in double square brackets; 
+(b) clearly marking information recorded in an electronic file which is used 
+to store an electronic document, with the notation “CONFIDENTIAL 
+INFORMATION” in the name of the electronic file and in any electronic 
+transmission of the information and clearly annotating the information 
+where it appears in the electronic document that is stored on the 
+electronic file as described in subparagraph (a); and 
+(c) prior to its disclosure, declaring oral information to be 
+“CONFIDENTIAL INFORMATION”. 
+2. If a Party submits confidential information first submitted by the other Party, it 
+shall identify that information as confidential information by:  
+(a) clearly marking information recorded in an electronic file with the 
+notation “CONFIDENTIAL INFORMATION” in the name of the 
+electronic file and in any electronic transmission of the information and 
+clearly annotating the information where it appears in the files with the 
+notation “CONFIDENTIAL INFORMATION”, and by enclosing the 
+confidential information in the electronic transmission in double square 
+brackets, and with the name of the other Party that first submitted the 
+information; and 
+(b) prior to its disclosure, declaring oral information to be 
+“CONFIDENTIAL INFORMATION” and identifying the other Party 
+that first submitted the information. 
+3. An approved person shall take all necessary precautions to safeguard 
+confidential information when a document containing the confidential 
+information is in use or being stored. Each approved person must sign and 
+submit to the panel the Declaration of Non -Disclosure set out in  
+Appendix 29A-c (Declaration of Non-Disclosure). 
+4. Only approved persons may view or hear confidential information. No approved 
+person who views or hears confidential information may disclose it, or allow it 
+to be disclosed, to any individual other than another approved person.  
+5. An approved person who views or hears confidential information shall only use 
+that information for the purposes of the proceeding. 
+6. The panel shall not disclose confidential information in its report, but may state 
+conclusions drawn from that information  in a way that does not disclose the 
+confidential information.  
+ 
+Annex 29A - 14 
+7. After the conclusion of the proceeding, each Party shall, in accordance with its 
+domestic law:  
+(a) destroy any confidential information provided by the other Party, and 
+promptly notify the other Party when the confidential information has 
+been destroyed; 
+(b) return any confidential information to the Party that first submitted the 
+confidential information, unless that Party agrees otherwise; or 
+(c) maintain the confidentiality of any such information. 
+8. The panel may, with the consent of the Parties, modify or waive any part of the 
+procedures set out in this Appendix for treatment of confidential information. 
+In that case, each approved person must sign and submit to the panel a modified 
+Declaration of Non-Disclosure, as appropriate.  
+ 
+  
+ 
+Annex 29A - 15 
+APPENDIX 29A-c 
+Declaration of Non-Disclosure 
+1. I have received a copy of the Rules of Procedure, which include rules governing 
+the treatment of confidential information.  
+2. I have read and understood the Rules of Procedure.  
+3. I agree to be bound by, and to adhere to, the Rules of Procedure and, 
+accordingly, without limitation, to treat as confidential all confidential 
+information that I may receive, view or hear in accordance with the Rules of 
+Procedure and to use that information solely for the purposes of the panel 
+proceeding.  
+Declared on this ___ day of ____, 20____.  
+By:  
+Signature:__________________________ 
+Name _____________________________ 

@@ -1,0 +1,494 @@
+# SOURCE: library/01-ceta-legal-text/uk-india-ceta-chapter-5-customs-and-trade-facilitation.pdf
+# pages: 13
+
+ 
+5 - 1 
+CHAPTER 5 
+CUSTOMS AND TRADE FACILITATION 
+ 
+Article 5.1 
+Customs and Trade Facilitation 
+1. Each Party shall ensure that its customs laws, regulations , and procedures are 
+applied in a manner that is consistent, transparent, and non-discriminatory. 
+2. The Parties affirm their  rights and obligations under the Trade Facilitation 
+Agreement. 
+3. Each Party shall endeavour to ensure that its import, export or transit formalities 
+and procedures conform to international standards and recommended practices 
+established by the World Customs Organization (the “WCO”) and under other 
+relevant international agreements to which the Parties are party. 
+4. Each Party shall adopt or maintain simplified customs procedures, as set out in 
+Article 5.4 (Simplified Customs Procedures) , and work towards further 
+simplification of its customs procedures, including by conducting periodic 
+reviews, in order to facilitate trade. 
+5. The Parties shall seek to reinforce their cooperation to promote trade facilitation 
+while ensuring effective customs control. 
+ 
+Article 5.2 
+Transparency and Publication 
+1. Each Party shall promptly publish  online, in a non -discriminatory and easily 
+accessible manner, and to the extent possible  and practicable  in the English 
+language, its customs laws, regulations, and procedures, including: 
+(a) hours of operation , and general operating procedures  related to 
+importation, exportation and transit , for customs offices at ports and 
+border crossing points; 
+(b) details of its enquiry points including points of contact and modes for 
+making information enquiries; 
+(c) its laws, regulations, and procedures for becoming a customs broker, for 
+issuing customs broker licenses and regarding the use of 
+customs brokers; and 
+(d) provisions to correct or disclose an error in a customs transaction, 
+including the information required and, if applicable, the circumstances 
+when penalties will not be imposed. 
+2. Each Party shall, as appropriate, provide for regular consultations between its 
+border agencies and traders or other stakeholders located within its territory. 
+ 
+5 - 2 
+3. Each Party shall, in a manner consistent with its law and legal system,  ensure 
+that new or amended customs laws and regulations are published online, or 
+information on them made otherwise publicly available, as early as possible 
+before their entry into force  to enable traders and other interested parties to 
+become acquainted with them. 
+4. Paragraph 3 shall not apply to: 
+(a) changes to the rates of customs duties; 
+(b) measures that have a relieving effect; 
+(c) measures the effectiveness of which would be undermined as a result of 
+compliance with paragraph 3; 
+(d) measures applied in urgent circumstances; or 
+(e) minor changes to a Party’s law and legal system. 
+5. Each Party shall establish or maintain one or , if within its available resources,  
+more enquiry points to address  reasonable enquiries of interested parties or 
+persons concerning customs matters. 
+6. Each Party shall endeavour not to require the payment of a fee for answering 
+enquiries or providing required forms. If payment of a fee is required, the Party 
+shall limit the amount of its fees and charges to the approximate cost of services 
+rendered. 
+7. Each Party shall ensure that enquiry points answer enquiries and provide the 
+forms and documents within a reasonable time period set by each Party, which 
+may vary depending on the nature or complexity of the request. 
+ 
+Article 5.3 
+Data, Documentation and Automation 
+1. Each Party shall ensure , while maintaining appropriate customs controls, that 
+data and documentation requirements are adopted or applied: 
+(a) with the intention to facilitate a rapid release of goods; and 
+(b) in a manner that aims to reduce the time and cost of compliance for 
+traders and operators. 
+2. Each Party shall: 
+(a) make electronic systems accessible to customs users, where appropriate 
+and practicable, in an accessible format; 
+(b) allow a customs declaration to be submitted in electronic format; 
+(c) employ an electronic or automated risk management system; 
+ 
+5 - 3 
+(d) permit the electronic payment of duties, taxes, fees and charges collected 
+by its customs authority and incurred upon importation and exportation; 
+(e) endeavour to implement common standards and elements for import and 
+export data in accordance with the WCO Data Model; 
+(f) take into account, as appropriate, standards, recommendations, models 
+and methods developed by various international organisations , 
+including the WCO, the United Nations Centre for Trade Facilitation 
+and Electronic Business (“UNCEFACT”) and the WTO; and 
+(g) work towards recognising each other’s data elements that may be drawn 
+from the WCO Data Model and related WCO recommendations as well 
+as for facilitating government-to-government electronic sharing of 
+customs data. 
+3. The Parties shall endeavour to cooperate on the development of interoperable 
+electronic customs systems in order to facilitate trade and data exchange 
+between the Parties. 
+ 
+Article 5.4 
+Simplified Customs Procedures 
+1. Each Party shall adopt or maintain measures allowing traders or operators 
+fulfilling criteria specified in its customs laws and regulations to benefit from 
+further simplification of customs procedures. 
+2. The simplified customs procedures referred to in paragraph 1 shall include: 
+(a) deferred payment of customs duties until after the release of those 
+imported goods; 
+(b) enabling the payment of customs duties and taxes that may cover 
+multiple imports at periodic intervals, including fortnightly or monthly; 
+and 
+(c) use of a guarantee with a reduced amount or a waiver from the use of a 
+guarantee. 
+3. The Parties shall endeavour to implement simplified customs procedures, as 
+follows: 
+(a) customs declarations containing a reduced set of data or supporting 
+documents including for the movement of low-value consignments; and 
+(b) aggregated customs declarations for the payment of customs duties and 
+taxes that may cover multiple imports. 
+4. The Parties shall cooperate on and consider, as appropriate, further measures to 
+reduce the administrative burden for economic operators in relation to imports 
+and exports. 
+ 
+5 - 4 
+ 
+Article 5.5 
+Release of Goods 
+1. Each Party shall: 
+(a) provide for goods to be released as rapidly as possible, endeavouring to 
+release goods within 48 hours of arrival at the point of presentation to 
+customs provided that: 
+(i) the Party has received all information and documentation 
+required to release all the goods in the shipment on or prior to 
+presentation to customs; 
+(ii) the goods, or any other goods in the same shipment, are not 
+subject to physical inspection or examination; and 
+(iii) all regulatory checks required for release have been completed; 
+(b) provide for advance electronic submission and processing of customs 
+documentation, including import declarations and manifests, prior to the 
+arrival at the point of presentation to customs of goods to enable  their 
+release as rapidly as possible if no risk has been identified or if no other 
+checks are to be performed; 
+(c) allow goods to be released without temporary transfer to warehouses or 
+other facilities, where practicable; and 
+(d) allow for the release of goods prior to the final determination of customs 
+duties, taxes, fees and charges, if such a determination is not done prior 
+to, or as soon as possible after presentation to, customs and provided that 
+all other regulatory requirements have been met. Before releasing the 
+goods, a Party may require that an importer provides sufficient 
+guarantee in the form of a surety, a deposit, or some other appropriate 
+instrument. 
+2. Nothing in this Article shall require a Party to release a good if regulatory 
+requirements for release have not been met. 
+3. If a Party allows for the release of goods conditional on a security, it shall adopt 
+or maintain procedures that: 
+(a) ensure the amount of the security is no greater than that required to 
+ensure that obligations arising from the importation of the goods will be 
+fulfilled; 
+(b) ensure the security shall be discharged as soon as possible after its 
+customs authority  is satisfied that the obligations arising from the 
+importation of the goods have been fulfilled; and 
+(c) allow importers to provide security using a form other than cash, where 
+appropriate. 
+ 
+5 - 5 
+ 
+Article 5.6 
+Perishable Goods 
+1. For the purposes of this Article, “perishable goods” means goods that rapidly 
+decay due to their natural characteristics, in particular in the absence of 
+appropriate storage conditions.  
+2. With a view to preventing avoidable loss or deterioration of perishable goods, 
+each Party shall: 
+(a) provide, in normal circumstances, for perishable goods to be released in 
+the shortest possible time provided that:1 
+(i) the Party has received all information and documentation 
+required to release all the goods in the shipment on or prior to 
+presentation to customs; 
+(ii) the goods, or any other goods in the same shipment, are not 
+subject to physical inspection or examination; and 
+(iii) all regulatory checks required for release have been completed;  
+and 
+(b) in exceptional circumstances where it would be appropriate to do so, 
+provide for the release of perishable goods outside the business hours of 
+its customs authority. 
+3. Each Party shall give appropriate priority to perishable goods when scheduling 
+and conducting any inspections or examinations that may be required. 
+4. Each Party shall either arrange, or allow an importer to arrange, for the 
+appropriate storage of perishable goods pending their release. Each Party may 
+require that its  customs authority  approve or designate any storage facilities 
+arranged by the importer.  Each Party shall, where possible  and if appropriate 
+upon the request of the importer,  release the perishable goods directly from 
+those storage facilities, in accordance with domestic legislation. 
+5. Nothing in this Article requires a Party to release a good if regulatory 
+requirements for release have not been met. 
+    
+Article 5.7 
+Risk Management 
+1. Each Party shall adopt or maintain a risk management system using electronic 
+data-processing and, where necessary, other techniques for customs control that 
+enables its customs authority to focus its customs and other relevant border 
+ 
+1 Each Party shall set internal targets for the expeditious release of perishable goods. 
+ 
+5 - 6 
+controls including its examination and inspection activities  on high -risk 
+consignments and expedite the release of low-risk consignments.  
+2. Notwithstanding paragraph 1 , the adoption or maintenance of a risk 
+management framework shall not prevent a party from using other techniques 
+where necessary. 
+3. Each Party shall design and apply risk management so as to avoid arbitrary or 
+unjustifiable discrimination, or disguised restrictions to international trade. 
+4. Each Party shall base risk management on assessment of risk through 
+appropriate selectivity criteria.  Such selectivity criteria may include the HS 
+Code, nature and description of the goods, country of origin, country from 
+which the goods were shipped, value of the goods, compliance record of traders, 
+and type of means of transport. 
+5. Each Party may also select, on a random basis, consignments for its customs 
+and other relevant border controls including its examination and  inspection 
+activities referred to in paragraph 1 as part of its risk management. 
+6. In order to facilitate trade, each Party shall periodically review and update,  if 
+considered appropriate, the risk management system specified in paragraph 1. 
+ 
+Article 5.8 
+Advance Rulings 
+1. Each Party shall issue through its customs authority an advance ruling  to an 
+applicant that has submitted a written request with respect to: 
+(a) tariff classification; 
+(b) whether a good is originating in accordance with Chapter 3 (Rules of 
+Origin); 
+(c) the appropriate method or criteria, and the application thereof, to be used 
+for determining the customs value under a particular set of facts in 
+accordance with the Customs Valuation Agreement; and 
+(d) such other matters as the Parties may mutually agree, subject to domestic 
+customs legislation. 
+2. Each Party shall allow an exporter, importer, producer, or any other person with 
+a justifiable cause, or a representative thereof, to request a written advance 
+ruling. If any fee is charged it shall be reasonable and aimed at deterring non-
+serious applications.2 
+3. On receipt of an application and all necessary information, each Party shall issue 
+an advance ruling referred to in subparagraph 1(a) or 1(b) as soon as practicable 
+ 
+2 The United Kingdom does not require a fee. 
+ 
+5 - 7 
+and in any event within three months or in such shorter time as prescribed in the 
+Party's customs law. 
+4. A Party may request that the applicant provide additional information necessary 
+to evaluate the request at any time during the course of an evaluation of an 
+application for an advance ruling, which may include a sample of the good. 
+5. A Party may decline to issue an advance ruling  if the facts and circumstances 
+forming the basis of the advance ruling are the subject of administrative or 
+judicial review, or in circumstances set out in the Parties’ customs laws, 
+regulations and procedural requirements.  A Party that declines to issue an 
+advance ruling, shall promptly notify the applicant , in writing, setting out the 
+relevant facts and the basis for its decision  and also provide the applicant an 
+opportunity of being heard. 
+6. A Party may, in accordance with its domestic law, modify, revoke or invalidate 
+an advance ruling, as appropriate, if: 
+(a) the ruling was made in error or based on an error of fact; 
+(b) the information provided is false or inaccurate; 
+(c) there is a change in the material facts or circumstances on which the 
+ruling was based; or 
+(d) a change is required to conform with a judicial decision or a change in 
+its laws and regulations. 
+7. A Party may revoke or invalidate an advance ruling with retroactive effect, if 
+the ruling was based on incomplete, incorrect, inaccurate, false or misleading 
+information provided by the applicant. 
+8. When a Party revokes, modifies, or invalidates the advance ruling, it shall 
+adhere to the principles of independence of decision making, procedural 
+fairness and p roviding written communication to the applicant setting out the 
+relevant facts and the basis for its decision. 
+9. Each Party shall publish online, at least: 
+(a) the requirements for the application for an advance ruling, including the 
+information to be provided and the format; 
+(b) the time period by which it will issue an advance ruling; and 
+(c) the length of time for which the advance ruling is valid. 
+10. Each Party shall endeavour to make publicly available any advance rulings 
+which it considers to be of significant interest to other interested parties, taking 
+into account the need to protect commercially confidential information. 
+ 
+ 
+5 - 8 
+Article 5.9 
+Authorised Economic Operator 
+1. Each Party shall establish or maintain a trade facilitation partnership programme 
+for operators who meet specified criteria, hereinafter referred to as the 
+Authorised Economic Operator (“AEO”) programme, in accordance with the 
+SAFE Framework of Standards to Secure and Facilitate Global Trade adopted 
+at the June 2005 World Customs Organi zation Session in Brussels and as 
+updated from time to time (the “SAFE Framework”). 
+2. Each Party shall publish its specified criteria to qualify as an AEO. The 
+specified criteria shall relate to compliance, or the risk of non -compliance, in 
+accordance with requirements specified in the Party’s customs laws, regulations 
+and procedural requirements . The Parties may use the criteria set out in 
+paragraph 7.2(a) of Article 7 of the Trade Facilitation Agreement. 
+3. The specified criteria to qualify as an AEO shall not be designed or applied so 
+as to afford or create arbitrary or unjustifiable discrimination between operators 
+where the same conditions prevail. The specified criteria shall be designed or 
+applied so as to allow the participation of SMEs. 
+4. The AEO programme shall include specific benefits for operators that meet the 
+specified criteria, taking into account the commitments of each Party under 
+paragraph 7.3 of Article 7 of the Trade Facilitation Agreement.  
+ 
+Article 5.10 
+Review and Appeal 
+1. Each Party shall ensure that its procedures for appeal and review are carried out 
+in a non-discriminatory and timely manner. 
+2. Each Party shall ensure that any person to whom it issues a decision on a 
+customs matter has access to: 
+(a) an administrative appeal to or review by an administrative authority 
+independent of the official or office that issued the decision; and  
+(b) a judicial appeal or review of the decision. 
+3. Notwithstanding paragraph 2, a Party may not provide an administrative appeal 
+for a decision on an advance ruling under Article 5.8 (Advance Rulings). 
+4. Each Party shall provide that any person who has applied to a customs authority 
+for a decision and has not obtained a decision on that application  within the 
+relevant time-limits where provided in its laws or regulations and in all other 
+cases without undue delay shall be entitled to exercise right to either appeal to 
+or review by the administrative authority or the judicial authority or any other 
+recourse to the judicial authority. 
+5. Each Party shall provide a person to whom it issues a decision with the reasons 
+for the decision. 
+ 
+5 - 9 
+ 
+Article 5.11 
+Penalties 
+1. Each Party shall ensure that any penalties imposed for breaches of its customs 
+laws, regulations or procedural requirements  shall depend on the facts and 
+circumstances of the case and shall be commensurate with the degree and 
+severity of the breach. 
+2. Each Party is encouraged to require its customs authority, when imposing a 
+penalty for a breach of its customs laws, regulations or procedural requirements, 
+to consider as a potential mitigating factor the voluntary disclosure of the breach 
+prior to its discovery by the customs authority. 
+3. Each Party shall ensure that, if a penalty is imposed for a breach of its customs 
+laws, regulations or procedural requirements , an explanation in writing is 
+provided to the person upon whom the penalty is imposed, specifying the nature 
+of the breach and the applicable customs laws, regulations or procedural 
+requirements under which the amount or range of penalty for the breach has 
+been prescribed. 
+4. Each Party shall , where appropriate,  provide in its laws, regulations or 
+procedures, or otherwise give effect to, fixed and finite periods within which its 
+customs authority may initiate proceedings to impose a penalty relating to a 
+breach of customs laws, regulations or procedural requirements. 
+ 
+Article 5.12 
+Customs Cooperation and Mutual Administrative Assistance 
+1. Without prejudice to other forms of cooperation provided for in this Agreement, 
+the customs authorities of the Parties shall cooperate, including by exchanging 
+information, and provide mutual administrative assistance in the matters 
+referred to in this Cha pter in accordance with the Agreement between the 
+Government of the United Kingdom of Great Britain and Northern Ireland and 
+the Government of the Republic of India on Customs Cooperation and Mutual 
+Administrative Assistance in Customs Matters  signed in Lo ndon on 31 May 
+2021. 
+2. The customs authorities shall, while ensuring compliance with their respective 
+customs laws, regulations and procedural requirements and , subject to the 
+availability of resources, enhance cooperation on the matters referred to in this 
+Chapter with a view to further developing trade facilitation in the following 
+areas: 
+(a) simplifying and harmonising customs procedures and  documentation 
+requirements for customs purposes; 
+(b) developing and implementing customs best practice and risk 
+management techniques; 
+ 
+5 - 10 
+(c) application of the Customs Valuation Agreement; 
+(d) cooperation between customs authorities in order to expedite the release 
+of goods; and 
+(e) other matters as the Parties may mutually decide. 
+ 
+Article 5.13 
+Single Window3 
+1. Each Party shall introduce or maintain single window system enabling traders 
+to submit documentation and any prescribed data requirements for the 
+exportation and importation  of goods through a single-entry point to the 
+participating authorities or agencies. 
+2. Each Party shall, as required, continuously review the operations of its single 
+window system with a view to expanding or improving its functionality to cover 
+all its import and export transactions and shall endeavour to include 
+documentation and any data requirements for the transit of goods within the 
+single window system. 
+3. If a Party receives documentation or data for a good or shipment of goods 
+through its single wi ndow system, that Party shall not request the same 
+documentation or data for that good or shipment of goods, except in urgent 
+circumstances or pursuant to other limited exceptions set out in its law or 
+procedural requirements. Each Party shall minimise, to the extent possible, the 
+requirement for paper documents if electronic copies are provided  and use 
+information technology to support the single window system. 
+4. Each Party shall endeavour to include in its single window system ’s 
+functionality the ability to inform a person using its single window system of 
+the results of the examination of the documentation and any data by the 
+participating authorities or agencies and status of the release of goods in a timely 
+manner. 
+5. In building and maintaining its single window system, each Party shall: 
+(a) incorporate, as considered appropriate, the WCO Data Model for data 
+elements; 
+(b) take into account, as appropriate, standards, recommendations, models 
+and methods developed by various international organisations such as 
+the WCO, UNCEFACT and the WTO; and 
+ 
+3 For the purposes of Article 5.13, for the United Kingdom, the Bailiwicks of Guernsey and Jersey may 
+introduce or maintain their own respective single window system. 
+ 
+5 - 11 
+(c) have regard to the standards and data elements for import, export, and 
+transit developed by international organisations of which the Parties are 
+a member. 
+6. The Parties shall cooperate on the development of their respective single 
+window systems through discussing best practice s, possible interactions and  
+sharing of implementation experience. 
+ 
+Article 5.14 
+Transit and Transhipment 
+1.  Each Party shall: 
+(a) ensure the facilitation, with effective control, of transhipment operations 
+and transit movements through their respective territories; 
+(b) endeavour to promote and implement regional transit arrangements with 
+a view to facilitating trade; 
+(c) ensure the cooperation and coordination  between all concerned 
+authorities and agencies in their respective territories to facilitate traffic 
+in transit, in accordance with its laws and regulations; and 
+(d) allow goods intended for import to be moved within its territory under 
+customs control from a customs office of entry to another customs office 
+in its territory from where the goods would be released or cleared. 
+Article 5.15 
+Post-clearance Audit 
+1. With a view to expediting the release of goods, each Party shall: 
+(a) adopt or maintain post -clearance audit to ensure compliance with its 
+customs laws and procedures; 
+(b) conduct post -clearance audits in a risk -based manner, which may 
+include appropriate selectivity criteria; 
+(c) conduct post-clearance audits in a transparent manner. Where an audit 
+is conducted and conclusive results have been achieved the Party shall, 
+without delay, notify the person whose record is audited of the results, 
+the reasons for the results and the audited person's rights and obligations; 
+and 
+(d) wherever practicable, use the result of post -clearance audit in applying 
+risk management. 
+2. The Parties acknowledge that the information obtained in a post-clearance audit 
+may be used in further administrative or judicial proceedings. 
+ 
+ 
+5 - 12 
+Article 5.16 
+Customs Brokers 
+1. The Parties agree not to require the mandatory use of customs brokers. 
+2. Each Party shall: 
+(a) publish measures on the use of customs brokers; and 
+(b) apply transparent  and objective  rules if and when licensing customs 
+brokers. 
+ 
+Article 5.17 
+Confidentiality 
+1. Each Party shall maintain, in conformity with its law, the confidentiality of all 
+information collected as part of its customs processes and shall protect that 
+information from use or disclosure that could prejudice the competitive position 
+of the trader to whom the confidential information relates. 
+2. Each Party shall ensure that the information collected as part of its customs 
+processes shall be used or disclosed solely for the administration and 
+enforcement of customs matters, including in any proceedings before courts or 
+tribunals for failure to comply with customs laws, or as otherwise authorised or 
+required under the Party’s law. 
+3. The Parties shall communicate to each other information on their applicable 
+laws and regulations. 
+ 
+Article 5.18 
+Customs and Trade Facilitation Working Group 
+1. The Parties hereby establish a Working Group on Customs and Trade  
+Facilitation (“CTF Working Group”) composed of government representatives 
+of each Party responsible for customs and trade facilitation matters to consider 
+any matters arising under this Chapter. 
+2. The functions of the CTF Working Group shall include: 
+(a) cooperating in the administration and uniform interpretation of this 
+Chapter; 
+(b) monitoring the effective operation and implementation of this Chapter, 
+including the transparent and consistent application of customs 
+procedures of the Parties and the procedures listed at subparagraph 1(a) 
+of Article 5.5 (Release of Goods) and subparagraph 2(a) of Article 5.6 
+(Perishable Goods); 
+ 
+5 - 13 
+(c) cooperating in an endeavour to further simplify and implement the 
+customs procedures set out in Article 5.4 (Simplified Customs 
+Procedures); 
+(d) exchanging information on matters related to this Chapter; 
+(e) communicating the necessary contact details of the CTF Working Group 
+members for the purposes of this Chapter; 
+(f) considering any matters referred to it by the Joint Committee or 
+Subcommittee on Trade in Goods; and 
+(g) any other matter as the CTF Working Group mutually agrees. 
+3. The CTF Working Group shall meet within six months of the date of entry into 
+force of this Agreement and thereafter annually. 
+4. The CTF Working Group shall share its progress with the Joint Committee. 

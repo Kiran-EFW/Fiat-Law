@@ -1,0 +1,3308 @@
+# SOURCE: library/05-mobility-immigration/Sponsor_guidance-part-2-sponsor-a-worker-08-26-v1.0.pdf
+# pages: 75
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 75 Sponsor Part 2: sponsor a worker - version 08/26 
+Workers and Temporary Workers: 
+guidance for sponsors 
+ 
+Part 2: Sponsor a worker 
+ 
+Version 08/26 
+ 
+This version of the guidance is valid from 03 August 2026. 
+ 
+Page 2 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Contents 
+About this guidance ................................................................................................ 6 
+Other guidance you must read ................................................................................ 6 
+Contacts .................................................................................................................. 6 
+Version number and publication .............................................................................. 6 
+Changes to this guidance........................................................................................ 7 
+S1. Sponsoring a worker: overview ........................................................................... 8 
+Who needs to be sponsored ................................................................................... 8 
+Definition of ‘settled worker’ ................................................................................. 8 
+People with other immigration permission allowing them to work .......................10 
+Who can sponsor workers ..................................................................................... 10 
+How you sponsor a worker .................................................................................... 11 
+Check the role is eligible .....................................................................................11 
+Pay and conditions .............................................................................................12 
+Check the worker is eligible ................................................................................12 
+Employment relationship between sponsor and worker ........................................ 12 
+Working for a different branch or related organisation .......................................... 13 
+Working on a contract basis .................................................................................. 14 
+Right to work checks ............................................................................................. 15 
+Understand your sponsorship duties ..................................................................... 15 
+S2. Certificates of Sponsorship ................................................................................ 17 
+What is a Certificate of Sponsorship? ................................................................... 17 
+Types of CoS ........................................................................................................ 18 
+CoS fees ............................................................................................................... 18 
+Your CoS allocation .............................................................................................. 19 
+Deciding your allocation .....................................................................................19 
+Your CoS year ....................................................................................................20 
+Reducing your allocation ....................................................................................20 
+Increasing your allocation during the CoS year ..................................................20 
+Renewing your annual CoS allocation ................................................................20 
+S3. Assigning a CoS ................................................................................................ 22 
+Technical guidance on assigning a CoS ............................................................... 22 
+Your sponsor rating ............................................................................................... 22 
+Restrictions on who a CoS can be assigned to ..................................................... 23 
+Information you must include on the CoS ............................................................. 23 
+Job details ..........................................................................................................23 
+Start date on the CoS .........................................................................................24 
+Page 3 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+End date on the CoS ..........................................................................................25 
+Occupation code ................................................................................................26 
+‘Multiple-entry’ CoS ............................................................................................28 
+Group CoS for Creative Workers ........................................................................28 
+Amending or updating a CoS ................................................................................ 28 
+Correcting a minor error on a CoS .....................................................................28 
+Significant error on the CoS ...............................................................................29 
+S4. Pay and conditions for sponsored workers ........................................................ 30 
+How much you have to pay your workers ............................................................. 30 
+Compliance with National Minimum Wage and the Working Time Regulations .... 31 
+National Minimum Wage ....................................................................................31 
+Working Time Regulations .................................................................................31 
+Salary information you must include on a CoS ..................................................... 32 
+Period the salary must cover ..............................................................................32 
+How you can pay your workers ............................................................................. 33 
+Absence from work without pay or on reduced pay .............................................. 33 
+Valid exception reasons: permissible absences .................................................34 
+Salary otherwise reduced ...................................................................................... 34 
+Salary reductions: exceptions .............................................................................35 
+S5. Immigration Skills Charge .................................................................................. 36 
+About the ISC ........................................................................................................ 36 
+When you have to pay the ISC ............................................................................. 37 
+When you are exempt from paying the ISC .......................................................... 37 
+‘Valid permission for the purpose of study’ exemption .......................................38 
+If you fail to pay the ISC in full: ‘top-up’ payments ................................................ 39 
+ISC refunds ........................................................................................................... 39 
+Partial refund: change in size or charitable status ..............................................39 
+Partial refund: other reasons ..............................................................................40 
+Full refund ..........................................................................................................40 
+How soon decisions on refunds are made ..........................................................41 
+When no ISC refund will be made ......................................................................41 
+How TUPE or similar protection affects the ISC .................................................... 41 
+S6. After you have assigned a CoS ......................................................................... 43 
+Using the CoS in an immigration application ......................................................... 43 
+How to make an immigration application ............................................................44 
+Cancelling or withdrawing a CoS .......................................................................... 44 
+Page 4 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Providing immigration advice or immigration services to your sponsored workers or 
+students ................................................................................................................ 45 
+What you can do ................................................................................................46 
+Immigration advice or services provided to eligible family members ..................47 
+What you cannot do ...........................................................................................48 
+S7. Immigration requirements .................................................................................. 49 
+Relevant Immigration Rules .................................................................................. 49 
+Applying from outside the UK: entry clearance ..................................................... 50 
+Applying from inside the UK: permission to stay ................................................... 50 
+Switching immigration route while in the UK .......................................................51 
+Permission to work while a switching application is pending ..............................52 
+Former government-sponsored students .............................................................. 52 
+Genuine intention requirement .............................................................................. 52 
+Financial requirement ........................................................................................... 53 
+ATAS requirement ................................................................................................ 54 
+Who needs an ATAS certificate? ........................................................................54 
+Action for you as the sponsor .............................................................................55 
+English language requirement .............................................................................. 56 
+Age requirement ................................................................................................... 57 
+Decision on application: proof of immigration status ............................................. 57 
+If the application is granted .................................................................................58 
+If the application is refused .................................................................................59 
+Leaving and returning to the UK ........................................................................... 60 
+Further information on immigration requirements ................................................. 61 
+S8. Conditions of stay .............................................................................................. 62 
+Overview ............................................................................................................... 62 
+No access to public funds ..................................................................................... 62 
+Employment restrictions ........................................................................................ 62 
+Additional employment for Scale-up Workers .....................................................63 
+Working out a contractual notice period .............................................................63 
+Supplementary employment ...............................................................................63 
+Secondary employment (employment with a second CoS) ................................66 
+Employment as a sportsperson or sports broadcaster .......................................66 
+Voluntary work ....................................................................................................66 
+Study ..................................................................................................................... 67 
+ATAS condition ...................................................................................................67 
+S9. Extension of permission, change of employment and settlement ...................... 68 
+Page 5 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Overview ............................................................................................................... 68 
+Extension of permission to stay ............................................................................ 68 
+Different role in the same occupation code ........................................................69 
+Change of employment ......................................................................................... 69 
+Exceptions: change of employment application not required ..............................70 
+Settlement ............................................................................................................. 71 
+Annex S1: further information on the ATAS requirement .......................................... 73 
+Relevant occupation codes ................................................................................... 73 
+Relevant subject areas.......................................................................................... 73 
+Exempt nationalities .............................................................................................. 75 
+ 
+Page 6 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+About this guidance 
+This document forms part of the collection ‘Workers and Temporary Workers: 
+guidance for sponsors’ and provides guidance for licensed sponsors on how to 
+sponsor a person on the Worker and Temporary Worker immigration routes. See the 
+glossary for a definition of the terms ‘Worker routes’ and ‘Temporary Worker routes’.  
+ 
+Other guidance you must read 
+To make sure you meet all of the relevant requirements and fulfil your sponsorship 
+duties, you must read the following parts of the sponsor guidance, in addition to this 
+document: 
+ 
+• Part 1: Apply for a licence – this contains detailed information on how to apply for 
+a sponsor licence and how we assess applications 
+• Part 3: Sponsor duties and compliance – this contains detailed information about 
+your duties as a licensed sponsor and the action we can take if you fail to meet 
+these duties 
+• the appendices to this guidance (Appendix A, Appendix B and Appendix D) 
+• the relevant route-specific guidance for the route, or routes, on which you intend 
+to sponsor workers 
+• the glossary – this contains definitions of terms used through the sponsor 
+guidance (including this document) 
+ 
+This guidance is subject to change. If you have printed or downloaded a copy of this 
+guidance, check the version number and date on GOV.UK to ensure you are using 
+the most up-to-date version. 
+ 
+Contacts 
+If you think the guidance has factual errors or broken links, you can email the 
+Business Helpdesk. 
+ 
+If you have read this guidance, and the relevant route-specific guidance, and you still 
+have any queries, you can call us on 0300 123 4699 or email the Business Helpdesk. 
+ 
+Version number and publication 
+Below is information on the version number of this guidance and when it was 
+published: 
+ 
+• version 08/26 
+• published on 03 August 2026 
+ 
+You can view previous versions of this guidance on the National Archives website. 
+ 
+Page 7 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Changes to this guidance 
+This version replaces version 05/26 (published on 20 May 2026). Details of the 
+changes are set out below.  
+ 
+• S7.8: updated to reflect a change to Part Suitability of the Immigration Rules in 
+respect of applicants on immigration bail, as set out in Statement of Changes HC 
+259, published on 9 July 2026 
+• S7.55 to S7.70: updated to reflect that we stopped issuing vignettes to all 
+applicants granted entry clearance from 1 July 2026, and that the ‘form for 
+affixing a visa’ issued to applicants without a Home Office accepted passport or 
+identity document has been replaced by the ‘form for accompanying an eVisa’; 
+other minor clarifications and drafting amendments 
+• S8.12: minor clarification on taking supplementary employment in a job on the 
+Immigration Salary List 
+• other minor housekeeping changes 
+ 
+Contents 
+ 
+Page 8 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S1. Sponsoring a worker: overview 
+Content in this section: 
+ 
+• Who needs to be sponsored (including a definition of ‘settled worker’) 
+• Who can sponsor workers 
+• How you sponsor a worker 
+• Employment relationship between sponsor and worker 
+• Working for a different branch or related organisation 
+• Working on a contract basis 
+• Right to work checks 
+• Understand your sponsorship duties 
+ 
+Who needs to be sponsored 
+S1.1. You will need to sponsor any overseas worker you wish to employ or engage 
+if they: 
+ 
+• are not a settled worker (as defined below); or 
+• do not have other immigration permission allowing them to work for you 
+ 
+Definition of ‘settled worker’ 
+S1.2. A ‘settled worker’ is any one of the following: 
+ 
+• a British citizen 
+• a person who can prove they have the right of abode in the UK 
+• an Irish citizen (with limited exceptions – see ‘Employing Irish citizens’) 
+• a person who has indefinite leave to enter or remain (settlement) in the UK 
+– this includes ‘settled status’ under Appendix EU to the Immigration Rules 
+(also known as the EU Settlement Scheme (EUSS)) 
+• a person who has been granted limited leave to enter or remain (‘pre-
+settled status’) under the EUSS 
+• a person who has made a valid application under the EUSS and is 
+awaiting a decision on that application 
+• an EU, an EEA or a Swiss national who started working for you on or 
+before 30 June 2021, if you carried out the relevant right to work checks in 
+force at that time 
+• a British overseas territories citizen, except for those from sovereign base 
+areas in Cyprus, provided their immigration status doesn’t prevent them 
+from doing the work in question 
+• a Commonwealth citizen (as defined in section 37 of the British Nationality 
+Act 1981) who has been granted permission on the UK Ancestry route on 
+the basis they have a grandparent born in the UK or Islands 
+ 
+S1.3. You do not need to sponsor a settled worker. You must still, however, carry 
+out the appropriate right to work checks before employing the worker, and 
+make any necessary follow-up checks if they have time-limited permission. 
+Page 9 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+Workers awaiting a decision on an EUSS application 
+S1.4. You can employ a worker without sponsoring them if they can show they:  
+ 
+• have made a valid application under the EUSS; and  
+• are awaiting a decision on that application (or the outcome of any 
+administrative review of, or appeal against, that decision) 
+ 
+S1.5. A person who makes a valid application under the EUSS will be issued with a 
+‘Certificate of Application’ (CoA). A CoA should be used to evidence their 
+right to work until their application (and any administrative review or appeal) 
+is finally determined. For detailed guidance on how to carry out a right to 
+work check on individuals who have been issued with a CoA, see Right to 
+work checks: an employer's guide. 
+ 
+S1.6. You must stop employing the person if you become aware that their EUSS 
+application has been refused and any application for an administrative review 
+of, or an appeal against, that decision is unsuccessful (and they are 
+otherwise unable to evidence their right to work).  
+ 
+EU, EEA and Swiss nationals who started working for you before 1 
+July 2021 
+S1.7. You can continue to employ an EU, an EEA or a Swiss national without 
+sponsoring them if they started working for you on or before 30 June 2021, 
+have been employed by you continuously since then and you carried out a 
+right to work check before that date in line with the legislation and published 
+guidance in force at the time you made the check.  
+ 
+S1.8. You do not have to carry out a retrospective right to work check on such 
+individuals. You will maintain a continuous statutory excuse against liability 
+for a civil penalty if the initial checks were undertaken in line with the 
+guidance that applied at the time you made the check. 
+ 
+S1.9. If, however, you subsequently become aware that a person you are 
+employing in the above circumstances has not yet applied for status under 
+the EUSS, and does not otherwise have the appropriate immigration 
+permission to work for you, you should advise them to apply as soon as 
+possible. If they do not, they may lose their right to live and work in the UK 
+and you may become liable for a civil penalty or prosecution for employing an 
+illegal worker. Detailed information on what you should do in these 
+circumstances is available under the heading ‘EEA Citizens and non-EEA 
+family members without lawful immigration status’ in Right to work checks: an 
+employer's guide. 
+ 
+Employing Irish citizens 
+S1.10. Irish citizens do not need permission to enter, live or work in the UK, unless 
+they are subject to a deportation order, an exclusion decision or an 
+international travel ban. You can therefore employ, or continue to employ, 
+Page 10 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Irish citizens (including those who arrived in the UK after 31 December 2020) 
+without needing to sponsor them. They are not required to apply for status 
+under the EUSS (although they can do so if they wish). 
+ 
+S1.11. Irish citizens can prove their right to work in the UK with an Irish passport or a 
+passport card (current or expired), or other documents specified in Right to 
+work checks: an employer's guide.  
+ 
+S1.12. For further information on the immigration status of Irish citizens, see the 
+Common Travel Area guidance on GOV.UK. 
+ 
+People with other immigration permission allowing them to work 
+S1.13. You do not need to sponsor a worker who:  
+ 
+• has immigration permission to be in the UK which does not prevent them 
+from doing the work in question – examples include, but are not limited to: 
+o a person with permission under Appendix FM to the Immigration Rules 
+as the partner of a British citizen or settled person can take any kind of 
+employment 
+o a person with permission as a dependant of a Skilled Worker can take 
+any kind of work, except as a professional sportsperson or coach 
+o a person with permission as a Student may be allowed to work for 10 or 
+20 hours per week during term-time and full-time outside of term time 
+(with restrictions on the type of work they can do), depending on the 
+type of course they are following – see ‘Work conditions’ in the Student 
+and Child Student caseworker guidance for further information 
+• is an asylum seeker with a valid application registration card (ARC) and 
+the ARC is endorsed to say they have permission to work and do the work 
+in question – see Permission to work and volunteering for asylum seekers 
+for detailed guidance on the type of work an asylum seeker may be 
+permitted to do 
+• is exempt from requiring permission – for example: 
+o a diplomat or senior official of an international organisation who is 
+exempt from immigration control 
+o an EU, EEA or a Swiss national who qualifies as a frontier worker 
+ 
+S1.14. You must check the person has the right to work before you employ them 
+and carefully check for any restrictions on the type of work they can do. If the 
+worker has time-limited permission, you will need to carry out follow-up 
+checks. For guidance, see Right to work checks: an employer’s guide. 
+ 
+Who can sponsor workers 
+S1.15. To sponsor a worker, you must hold a valid sponsor licence for the route on 
+which you intend to sponsor them. If you do not already hold the relevant 
+licence, you must apply for, and be granted, one before you can sponsor the 
+worker. See: 
+ 
+• Part 1: Apply for a licence 
+Page 11 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+• the relevant route-specific guidance 
+ 
+How you sponsor a worker 
+S1.16. You must assign a valid Certificate of Sponsorship (CoS) to the worker so 
+they can make a successful application for permission to enter or stay in the 
+UK. You will have to pay a fee for each CoS you assign. If you are 
+sponsoring a Skilled Worker or a Senior or Specialist Worker, you will 
+normally need to pay the Immigration Skills Charge for each worker you 
+sponsor. For further information, see: 
+ 
+• sections S2, S3, S5 and S6 of this guidance 
+• the relevant route-specific guidance 
+ 
+S1.17. Before you assign a CoS, you must: 
+ 
+• check the role is eligible 
+• ensure you will pay the worker appropriately 
+• check the worker is eligible 
+• meet any other route-specific requirements 
+ 
+Check the role is eligible 
+S1.18. You must check the role in which you wish to sponsor the worker is eligible 
+for the relevant route. For example, if you wish to sponsor a Skilled Worker, 
+Global Business Mobility worker, Government Authorised Exchange worker 
+or Scale-up Worker, the job must meet the skill-level requirement for the 
+relevant route. In most cases, this means the job must be listed as eligible in 
+the relevant table of Appendix Skilled Occupations but there are some 
+exceptions to this – see the relevant route-specific guidance for details.  
+ 
+S1.19. For some routes, you will need to take additional steps before you can 
+sponsor a worker. For example: 
+ 
+• before you can sponsor a Religious Worker, you may have to carry out a 
+‘resident labour consideration’ to give settled workers a chance to apply 
+• before you can sponsor a Creative Worker, you may have to follow a ‘code 
+of practice’ for the specific sector in which you wish to sponsor the worker 
+• before you can sponsor an International Sportsperson, you will need to 
+obtain an endorsement from the relevant sports governing body for the 
+worker 
+• if you have a Provisional rating on the UK Expansion Worker route, you 
+must make a successful request to have your rating changed to an A-
+rating before you can sponsor any workers other than the Authorising 
+Officer 
+• before you can sponsor a Service Supplier or Secondment Worker, you 
+must have registered (via your sponsorship management (SMS) account) 
+the relevant contract on which the sponsored individual will be working 
+ 
+S1.20. Refer to the relevant route-specific guidance for further information. 
+Page 12 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+S1.21. There are additional rules you will need to follow if the person you wish to 
+sponsor will be working on a contract basis.  
+ 
+Pay and conditions 
+S1.22. If you are sponsoring a Skilled Worker, Senior or Specialist Worker, Graduate 
+Trainee, UK Expansion Worker, Scale-up Worker or Seasonal Worker, you 
+must pay them at least the minimum salary specified for that route. For all 
+routes, you must ensure the role you are sponsoring the worker for complies 
+with both the National Minimum Wage and the Working Time Regulations. 
+We will check you are meeting these requirements through regular HMRC 
+checks and, if appropriate, compliance visits. For further information, see: 
+ 
+• section S4 of this guidance 
+• the relevant route-specific guidance 
+ 
+Check the worker is eligible 
+S1.23. You must satisfy yourself that the worker you wish to sponsor will be able to 
+make a successful immigration application under the Worker or Temporary 
+Worker routes and, if granted, will comply with their conditions of stay. For 
+further information, see: 
+ 
+• sections S7 to S9 of this guidance 
+• the relevant route-specific guidance 
+ 
+Employment relationship between sponsor and worker 
+S1.24. As the sponsor, you will normally be the sponsored worker’s employer and 
+responsible for their duties, functions, and outcomes or outputs, and for 
+paying the worker. We recognise, however, there are certain circumstances 
+where there is no direct employer-employee relationship. In such cases, the 
+worker must still have a sponsor that is able and willing to accept all of the 
+responsibilities and duties associated with being their sponsor. 
+ 
+S1.25. There will also be circumstances where there is a clear statutory relationship 
+between the employing body and a publicly funded body, where the publicly 
+funded body can intervene in the running or funding of the employing or 
+paying body. In these cases, the publicly funded body can be the sponsor. 
+Below are 2 examples of this. 
+ 
+Example 1 
+A local authority has powers of control and direction over self-governing 
+schools, so the local authority can sponsor teachers in these schools.  
+ 
+Example 2 
+A Strategic Health Authority, through its Deanery, Local Education and 
+Training Board (LETB), provider, or commissioning organisation, has funding 
+control of training posts for doctors and dentists within NHS Trusts, even 
+Page 13 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+though it is not the paying body. In this case, the Deanery or LETB can be 
+the sponsor. 
+ 
+S1.26. Where a worker is not your direct employee, we will look closely at the 
+arrangement to make sure you can meet your sponsor duties and we will 
+take action against you if we find you are not. See also ‘Working for a 
+different branch or related organisation’ and ‘Working on a contract basis 
+below’.  
+ 
+Working for a different branch or related organisation 
+S1.27. A sponsored worker can work for any part of your organisation (such as a 
+branch office, subsidiary, parent company or sister company of yours) 
+registered as a ‘branch’ on your sponsor licence. See section L5 of Part 1: 
+Apply for a licence for more information about including branches on your 
+licence.  
+ 
+S1.28. You must tell us (within 10 working days of the change) if a sponsored worker 
+moves to a different registered branch to the one recorded on their CoS. See 
+‘Change of worker location’ in section C1 of Part 3: Sponsor duties and 
+compliance for further information.  
+ 
+S1.29. If you wish to move a sponsored worker to work for a branch that is not yet 
+registered on your licence, you must make a request to add it to your licence. 
+The worker can start working for that branch before it has been added to your 
+licence, provided all of the following conditions are met:  
+ 
+• the relationship between you and the branch meets the definition of 
+‘common ownership or control’ in section GBM2 of Sponsor a Global 
+Business Mobility worker 
+• you have, and will continue to have, full responsibility for the worker’s 
+duties, functions and outcomes or outputs 
+• you have notified us of the worker’s change of work location within 10 
+working days of the change 
+• you have made a request to add the relevant branch to your licence within 
+20 working days of the date the worker started working for that branch  
+ 
+S1.30. You should be aware that if the request to add the branch to your licence is 
+rejected, you must not continue to sponsor the worker to work at that branch 
+(but they can continue to work for you or any branch currently registered on 
+your licence). If they continue to work for the unregistered branch, they will be 
+in breach of their conditions and may have their permission cancelled. We 
+are also likely to take compliance action against you.  
+ 
+S1.31. If you do not currently have control of the worker’s duties, functions and 
+outcomes or outputs (for example, if you have acquired a new subsidiary or 
+sister company who will have day-to-day responsibility for the sponsored 
+worker), you must wait until the request to add the branch to your licence has 
+been approved before the worker can start working for them.  
+ 
+Page 14 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S1.32. Provided the conditions in this section are met, you do not have to assign a 
+new CoS and the worker does not have to make a change of employment 
+application to work for the branch.  
+ 
+S1.33. For guidance on how to add a branch to your licence, see SMS Manual 4 
+(Guide 4). 
+ 
+Working on a contract basis 
+S1.34. Where a person is, or will be, working on a contract basis (being supplied as 
+labour by one organisation to another), the sponsor must be whoever has full 
+responsibility for all of the duties, functions and outcomes or outputs of the 
+job the worker will be doing.  
+ 
+S1.35. If you are the sponsor, and the worker is employed by you to do work for a 
+third party to fulfil a contractual obligation on your behalf, they must be 
+contracted by you to provide a service or project within a certain period of 
+time. This means a service or project which has a specific end date, after 
+which it will have been completed or the service provided will no longer be 
+operated by you or anyone else, as explained in the example below: 
+ 
+Example 
+Company A has a contractual obligation with a client Company Z to deliver 
+an IT solution within an agreed period of time.  
+ 
+A worker who is sponsored by Company A to do a job on the IT project may 
+be sent to work for the length of the contract at Company Z’s premises, but 
+they remain employed by Company A throughout the whole period of the 
+contract. 
+ 
+As Company A is fully responsible for all the worker’s duties, functions, 
+outputs or outcomes, Company A can be the worker’s sponsor and therefore 
+assign the CoS. 
+ 
+S1.36. You cannot sponsor a worker if you will not have full responsibility for all the 
+duties, functions and outcomes or outputs of the job they will be doing, or if 
+either: 
+ 
+• the job amounts to the hiring out of the worker to another organisation 
+(third party) who is not the sponsor to fill a position with them, whether 
+temporary or permanent, regardless of any genuine contract between you 
+and the third party 
+• the worker will be contracted to undertake an ongoing routine role or to 
+provide an ongoing routine service for a third party who is not the sponsor, 
+regardless of the nature or length of any arrangement between you and 
+the third party 
+ 
+S1.37. Where we think you are, or will be, hiring a worker to a third party as routine 
+labour, we may ask for confirmation from the other organisation that the 
+worker: 
+Page 15 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+• works, or will work, independently from them, and that you, as the 
+sponsor, have full control over all their duties, functions, outputs or 
+outcomes 
+• is not being supplied to them to undertake a routine role 
+ 
+S1.38. If we find you are supplying the worker, or workers, as labour to another 
+organisation to undertake a routine role or you do not have full responsibility 
+for their duties, functions and outcomes or outputs, we will revoke your 
+licence.  
+ 
+S1.39. If the worker is self-employed, there must be a genuine contract for 
+employment or services between you and the worker. This contract must 
+show: 
+ 
+• the names and signatures of all involved (which must include you and the 
+worker) 
+• the start and end dates of the contract 
+• details of the job, or piece of work, the worker has been contracted to do 
+• how much the worker will be paid 
+ 
+Right to work checks 
+S1.40. You must check that any worker you wish to sponsor (including a worker who 
+is not your direct employee), or any worker you otherwise wish to employ 
+(whether sponsored or not), has the appropriate immigration permission to 
+work in the UK and do the work in question before they start working for you. 
+This applies even if the worker is, or appears to be, a British citizen or other 
+settled worker. If you fail to carry out a right to work check, or any necessary 
+follow-up checks, you will be in breach of your sponsor duties and may be 
+liable for a civil penalty under illegal working legislation. If you are issued with 
+a civil penalty, or otherwise fail to carry out the correct checks, we will 
+normally revoke your licence. For guidance on how to carry out the relevant 
+checks, and the evidence you must keep, see: 
+ 
+• Right to work checks: an employer’s guide 
+• Appendix D to the sponsor guidance 
+ 
+Understand your sponsorship duties 
+S1.41. You are responsible for checking that your sponsored workers carry out the 
+role for which they are being sponsored and for monitoring their attendance. 
+You must tell us if they don’t turn up for work, are absent without permission, 
+or there are significant changes to their employment or to your organisation. 
+For further information on your reporting and other sponsorship duties, see 
+section C1 of Part 3: Sponsor duties and compliance.  
+ 
+S1.42. You must also keep records for each worker you sponsor – see Appendix D 
+to the sponsor guidance. This includes evidence of any recruitment activity 
+you have undertaken to fill the role, even if you were not required to carry out 
+Page 16 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+a formal resident labour market test. 
+ 
+S1.43. If you fail to comply with your reporting and record-keeping duties, we may 
+take compliance action against you – this could include revoking your licence.  
+ 
+Contents 
+Page 17 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S2. Certificates of Sponsorship  
+Content in this section:  
+ 
+• What is a Certificate of Sponsorship? 
+• Types of CoS 
+• CoS fees 
+• Your CoS allocation 
+ 
+What is a Certificate of Sponsorship? 
+S2.1. Before a worker can make a successful immigration application, you must 
+assign them a valid Certificate of Sponsorship (CoS).  
+ 
+S2.2. A CoS is not a paper certificate or document, but a database record which 
+confirms details of the worker you intend to sponsor and the job they will do. 
+You assign one using your sponsorship management system (SMS) account. 
+This involves working through a short online form where you give us the 
+relevant information. All of the information you enter will be stored and can be 
+viewed by us.  
+ 
+S2.3. A CoS is confirmation from you, as a licensed sponsor, that you: 
+ 
+• wish to sponsor the worker 
+• are satisfied the worker can meet the relevant immigration requirements 
+• are eligible to sponsor the worker on the relevant route 
+• agree to abide by the terms and conditions as stated on the SMS 
+ 
+S2.4. A CoS can only be assigned by a person who has access to the SMS as a 
+Level 1 or Level 2 user – see section L4 of Part 1: Apply for a licence for 
+information on Level 1 and Level 2 users. 
+ 
+S2.5. Assigning a CoS does not guarantee the worker will be granted entry 
+clearance or permission – they must meet all of the immigration requirements 
+of the route on which they are applying. 
+ 
+S2.6. Before you assign a CoS, you should talk to the worker about their current 
+immigration status, as this may affect any application they make because of 
+the rules on ‘switching’ (changing from one immigration route to another) or 
+maximum time limits for the route on which they are applying.  
+ 
+S2.7. You must follow the rules set out in the sponsor guidance when assigning or 
+applying for a CoS. We can revoke, suspend or downgrade your licence, or 
+reduce or remove the number of CoS you can assign, if you do not comply 
+with these rules. See Part 3: Sponsor duties and compliance for further 
+information on the action we can take. 
+ 
+Page 18 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Types of CoS 
+S2.8. There are 2 types of CoS: 
+ 
+• ‘Defined’ CoS: these are for Skilled Workers applying for entry clearance 
+(a visa) from outside the UK 
+• ‘Undefined’ CoS: these are: 
+o CoS assigned to Skilled Workers applying for permission to stay from 
+within the UK 
+o CoS assigned to workers on all other routes, whether applying for entry 
+clearance, permission to enter or permission to stay  
+ 
+S2.9. You must assign Undefined CoS from your annual allocation.  
+ 
+S2.10. You cannot have an annual allocation of Defined CoS – you must apply for 
+one, using a separate process, each time you need one. For guidance on the 
+process, see section SK12 of Sponsor a Skilled Worker. 
+ 
+S2.11. If you are sponsoring Skilled Workers, you must ensure you understand the 
+difference between Defined and Undefined CoS and assign the correct type. 
+We will normally revoke your licence if you assign: 
+ 
+• a Defined CoS for a job other than the one described in the application for 
+that CoS 
+• an Undefined CoS where a Defined one is required 
+ 
+CoS fees 
+S2.12. You must pay a fee for each CoS you assign. If you fail to pay the correct fee, 
+we may cancel the CoS. This may result in any application which relies on 
+that CoS being rejected or refused. For information on current CoS fees, see 
+the UK visa fees page on GOV.UK. 
+ 
+S2.13. You are responsible for paying the CoS fee. You must not recoup, or attempt 
+to recoup, by any means, any part of the CoS fee, or associated 
+administrative costs, from a worker you are sponsoring, where you assign 
+them a CoS: 
+ 
+• in the case of a Skilled Worker, on or after 31 December 2024 
+• in the case of the following routes, on or after 9 April 2025:  
+o any of the Global Business Mobility routes 
+o Minister of Religion 
+o International Sportsperson 
+o Scale-up 
+o Seasonal Worker 
+ 
+S2.14. If we find you have done so, we will normally revoke your sponsor licence.  
+ 
+S2.15. For further information, see ‘Sponsorship fees’ in section L6 of Part 1: Apply 
+for a licence. 
+Page 19 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+S2.16. If you are sponsoring a Skilled Worker or a Senior or Specialist Worker, you 
+may also have to pay the Immigration Skills Charge each time you assign a 
+CoS.  
+ 
+Your CoS allocation  
+S2.17. When you apply for a licence, we ask you for an estimate of the number of 
+Undefined CoS you may wish to assign in your first year in each route in 
+which you are applying to be licensed. You must justify your request and we 
+may ask you for further information before we make a decision. 
+ 
+Deciding your allocation 
+S2.18. If we grant your licence application, we will tell you what your CoS allocation 
+is for the year. When we set your CoS allocation, we may consider relevant 
+factors including, but not limited to, the following: 
+ 
+• any agents you will use to recruit workers and whether they have been 
+linked to immigration abuse in the past 
+• your previous record in dealing with us, including under the current 
+sponsorship scheme or the previous Tier 2 and Tier 5 scheme 
+• the number of workers employed at your organisation 
+• the kind of business you conduct 
+• the extent of the business you conduct 
+• the length of time you have been trading 
+• if you are applying on the UK Expansion Worker route, whether the 
+Authorising Officer named in your sponsor licence application is based in 
+the UK or overseas – see section GBM3 of Sponsor a Global Business 
+Mobility worker for further information 
+ 
+We will apply the same considerations when deciding any applications for 
+Defined CoS under the Skilled Worker route. See section SK12 of Sponsor a 
+Skilled Worker for further information. 
+ 
+S2.19. If we allocate fewer CoS than you requested, or set your allocation to zero, 
+this could be for reasons including, but not limited to:  
+ 
+• you have a history of non-compliance 
+• we are not satisfied that you have provided sufficient justification for the 
+number of CoS you have requested 
+• we do not consider your need to be credible, based on your current 
+circumstances 
+• we are not satisfied you can offer work that meets the definition of ‘eligible 
+role’ in the glossary (including, but not limited to, any requirements relating 
+to salary or skill level) 
+• you are unsure whether or when you may need to recruit any workers in 
+the future 
+ 
+Page 20 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Your CoS year 
+S2.20. Once we have decided your CoS allocation, we will allocate them (if any) to 
+your SMS account. You will then have up to 12 months to use them. This is 
+known as your ‘CoS year’ (or ‘allocation year’). Your CoS year runs as 
+follows:  
+ 
+• if you held a valid Tier 2 (General) or Tier 2 (Intra-Company Transfer) 
+licence on 30 November 2020 and this was converted into a Skilled 
+Worker or Intra-Company routes licence on 1 December 2020 and your 
+allocation renewal has been automated: from 6 April in one year to 5 April 
+the following year 
+• if you held a valid Tier 2 (General) or Tier 2 (Intra-Company Transfer) 
+licence on 30 November 2020 and this was converted into a Skilled 
+Worker or Intra-Company routes licence on 1 December 2020 and your 
+allocation renewal has not been automated: 12 months from the date your 
+allocation renewal request was granted in 2021 and, in subsequent years, 
+12 months from the date your allocation renewal request is granted 
+• in all other cases: 12 months from the date your licence was granted and, 
+in subsequent years, 12 months from the date an allocation renewal 
+request is granted 
+ 
+Reducing your allocation 
+S2.21. We may reduce your allocation (or set it to zero) if your circumstances 
+change. This could be if you downsize, or if we believe you pose a threat to 
+immigration control – for example, if, after your original CoS allocation has 
+been decided, we take compliance action against you.  
+ 
+Increasing your allocation during the CoS year 
+S2.22. If, part way through your CoS year, you think you will not have enough CoS 
+to last until the end of the year, or if your allocation was previously set to 
+zero, you can apply to increase your allocation via your SMS account. You 
+must give reasons for doing so and we may ask for evidence. For guidance 
+on increasing your allocation, see guide 7 in SMS Manual 2: managing your 
+licence. 
+ 
+Renewing your annual CoS allocation 
+S2.23. Your CoS allocation will need to be renewed each year while your licence is 
+valid. Any CoS that remain unused at the end of your CoS year will be 
+removed from your SMS account. You cannot carry over any unused CoS to 
+the next CoS year.  
+ 
+S2.24. At the end of your CoS year, you will either:  
+ 
+• receive an automatic allocation for the following CoS year equal to the 
+number of CoS you assigned during the previous CoS year 
+• have to make a ‘manual’ request via your SMS account for a further 
+allocation (also known as a ‘follow-on’ allocation) 
+Page 21 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+S2.25. You will receive an automatic annual allocation if all of the following are true:  
+ 
+• your licence is A-rated 
+• your current annual CoS allocation is marked as ‘active’ in your SMS 
+account 
+• you are licensed on an eligible route, or routes 
+ 
+S2.26. An ‘eligible route’ is any Worker or Temporary Worker route, except for the 
+following routes (which are ineligible for automatic renewal): 
+ 
+• Seasonal Worker 
+• Secondment Worker 
+• Service Supplier 
+• UK Expansion Worker 
+ 
+S2.27. If you are eligible for automatic renewal, you will receive an annual allocation 
+equal to the number of CoS you assigned during the previous CoS year. For 
+example, if your allocation for one CoS year was 15, and you assigned 10 of 
+those CoS, you will receive an allocation of 10 for the following year. If you 
+need any more CoS, you will have to make a manual request to increase 
+your allocation.  
+ 
+S2.28. If you are licensed on the Skilled Worker route, you will only receive an 
+automatic allocation of Undefined CoS – you will need to continue to request 
+Defined CoS as and when you need them, using the process set out in 
+section SK12 of Sponsor a Skilled Worker.  
+ 
+S2.29. If you do not meet the eligibility criteria for automatic renewal, you will need to 
+submit a manual request via your SMS account (which will be considered by 
+a UKVI caseworker). You can submit your request up to 3 months before the 
+end of your CoS year.  
+ 
+S2.30. For further guidance on how to renew and manage your CoS allocation, see 
+guide 8 in SMS Manual 2: managing your licence.  
+ 
+Contents 
+Page 22 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S3. Assigning a CoS 
+Content in this section: 
+ 
+• Technical guidance on assigning a CoS 
+• Your sponsor rating (how this may affect whether you can assign a CoS) 
+• Restrictions on who a CoS can be assigned to 
+• Information you must include on the CoS (including start and end dates, what to 
+do if either of those change, and occupation codes) 
+• Amending or updating a CoS 
+ 
+Technical guidance on assigning a CoS 
+S3.1. Detailed information on how to assign a CoS, including how to complete an 
+application for a Defined CoS for a Skilled Worker, or report changes to the 
+details on the CoS, can be found in the Sponsorship management system 
+(SMS) manuals – see, in particular, Manuals 8, 9, 11 and 12.  
+ 
+Your sponsor rating 
+S3.2. Sponsors are rated either A or B (except for sponsors on the UK Expansion 
+Worker route where the Authorising Officer is based overseas, who will be 
+given a ‘Provisional’ rating initially). We will not grant you a licence unless you 
+are able to achieve an A-rating (or, in the case of UK Expansion Worker, at 
+least a Provisional rating). In some cases, after your licence has been 
+granted, we may downgrade you to a B rating if you are not meeting all of 
+your sponsor duties or we have other concerns about you. For further 
+information, see: 
+ 
+• ‘Sponsor ratings’ in section L8 of Part 1: Apply for a licence 
+• section C8 of Part 3: Sponsor duties and compliance 
+• for UK Expansion Worker sponsors, section GBM3 of Sponsor a Global 
+Business Mobility worker 
+ 
+S3.3. If you are sponsoring a Scale-up Worker or a Seasonal Worker, you can only 
+assign a CoS if you have an A-rating. For all other routes, you must be an A-
+rated sponsor, unless either of the following exceptions applies:  
+ 
+• you are a B-rated sponsor and all of the following are true: 
+o the worker is applying for permission to stay (from within the UK) on the 
+same route as in their last grant of permission 
+o you assigned the CoS which led to the worker’s last grant of permission 
+o you are continuing to sponsor the worker 
+• you are licensed on the UK Expansion Worker route, you have a 
+Provisional rating, and the person you assigned a CoS to is your 
+Authorising Officer 
+ 
+S3.4. You cannot assign a CoS if your licence is suspended, made dormant, or 
+revoked.  
+Page 23 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+Restrictions on who a CoS can be assigned to 
+S3.5. An SMS User must not assign a CoS to themselves, to their partner or to a 
+close relative of theirs. We will revoke your sponsor licence if we find out this 
+has happened. See the glossary for a definition of ‘partner or close relative’.  
+ 
+S3.6. The only exception to this is if you have a Provisional rating on the UK 
+Expansion Worker route, in which case your Authorising Officer (who must 
+also be the Level 1 User) must assign their own CoS to make an application 
+for entry clearance. See section GBM3 of Sponsor a Global Business Mobility 
+worker for more information.  
+ 
+S3.7. An SMS User must add a sponsor note to the CoS if they are aware (or can 
+reasonably be expected to be aware) they have assigned a CoS to a partner 
+or close relative of somebody else who is working for the sponsor.  
+ 
+Information you must include on the CoS 
+S3.8. When you assign a CoS, there is certain information you must include on it 
+for it to be valid. This includes: 
+ 
+• the route on which you are sponsoring the worker 
+• personal details of the worker, such as their name, nationality, date of 
+birth, passport details, contact address 
+• usual work address or addresses 
+• total weekly hours of work – if this varies, you should enter an average 
+figure 
+• details of the worker’s job, including job title, job description, start date, 
+end date, salary (unless applying as a Charity Worker) and occupation 
+code 
+• whether you used an agent (such as a recruitment agency, employment 
+business or other intermediary) to find the worker and, if so, details of that 
+agent 
+• whether you (the sponsor) wish to certify that the worker meets the 
+financial requirement 
+• for some routes, whether the worker needs an Academic Technology 
+Approval Scheme (ATAS) certificate 
+• any other information required for the specific route in which you are 
+sponsoring the worker – see the relevant route-specific guidance for 
+details 
+ 
+Job details 
+S3.9. It is essential that the role and job description for which you assign a CoS is 
+an accurate reflection of what the worker will actually be doing. If the worker's 
+role changes after they have been granted permission, and that change does 
+not require a change of employment application, you must inform us within 10 
+working days of the date from which the change in duties is effective.  
+ 
+Page 24 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S3.10. If you fail to report a permitted change in role and we identify as part of a 
+compliance check that a worker’s role is not accurately reflected on the CoS 
+you assigned to the worker, we are likely to take action against you. 
+ 
+Start date on the CoS 
+S3.11. You must enter a start date on the CoS. This should be the date you expect 
+the worker to start working for you if their application for entry clearance or 
+permission is granted. If the worker is making an extension of permission to 
+stay application, we recommend the start date is the day after the worker’s 
+current permission ends.  
+ 
+S3.12. The worker must use the CoS in an application for entry clearance or 
+permission no more than 3 months after the date it was assigned to them. 
+However, they cannot apply for entry clearance or permission more than 3 
+months in advance of their employment start date, as stated on their CoS. 
+You must make sure the timing of your recruitment and the date you assign 
+the CoS does not put the worker in a situation where they cannot make a 
+successful application for entry clearance or permission. 
+ 
+S3.13. If the start date (or end date) changes before the worker has applied for entry 
+clearance or permission, or before a decision has been made on their 
+application, you should report this, as this may affect the period of entry 
+clearance or permission that can be granted. You do this by adding a 
+sponsor note to the CoS.  
+ 
+S3.14. A worker can start working in their sponsored role as soon as they have 
+permission to enter or stay in the UK, even if this is before the start date 
+recorded on their CoS. You do not have tell us if the worker’s start date has 
+been brought forward after they have been granted permission.  
+ 
+S3.15. Once a worker has been granted permission, they should normally start 
+working in their sponsored role no later than 28 days after whichever is the 
+latest of: 
+ 
+• the start date on the worker’s CoS (taking into account any changes to that 
+date reported by you before their application for entry clearance or 
+permission was decided) 
+• the ‘valid from’ date on the worker’s eVisa or (if applicable) entry clearance 
+vignette 
+• the date the worker is granted permission to enter, if they entered the UK 
+without entry clearance under the Creative Worker visa concession (see 
+section CRW6 of Sponsor a Creative Worker for details of this concession) 
+• the date the worker is notified of a grant of entry clearance or permission 
+to stay 
+ 
+S3.16. If the worker does not start working in their sponsored role by the end of this 
+period, you must either: 
+ 
+Page 25 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+• tell us the worker’s new start date and the reasons for the delayed start, if 
+you wish to continue sponsoring them 
+• stop sponsoring the worker 
+ 
+S3.17. In either case, you must report this by the end of 10 working days after the 
+28-day period using the ‘Report migrant activity’ function in the SMS.  
+ 
+S3.18. If you wish to continue sponsoring the worker, you should be aware that 
+UKVI may cancel the worker’s permission if they do not consider there is a 
+valid reason for the delayed start. You must therefore ensure you carry out a 
+right to work check before they start their employment, and any follow-up 
+checks as required. If the worker tells you their permission has been 
+cancelled, you must stop sponsoring them and report this within 10 working 
+days via your SMS account. 
+ 
+S3.19. Acceptable reasons for a delayed start may include: 
+ 
+• travel disruption due to a natural disaster, military conflict or pandemic 
+• the worker is required to work out a contractual notice period for their 
+previous employer – if the worker is in the UK, their conditions of stay must 
+allow them to do this 
+• the worker requires an exit visa from their home country and there have 
+been administrative delays in processing this 
+• illness, bereavement or other compelling family or personal circumstances 
+ 
+S3.20. This is not a comprehensive list and each case will be judged on its merits.  
+ 
+S3.21. You do not have to report a change to start date (where the worker has been 
+granted permission) if it is delayed by no more than 28 days (as defined in 
+paragraph S3.15 above). 
+ 
+S3.22. If you are sponsoring a Scale-up Worker and they are granted entry 
+clearance or permission to stay, you must also tell us the date the worker 
+actually starts working for you via the ‘Report migrant activity’ function in the 
+SMS. You must do this within 10 working days of the actual start date.  
+ 
+End date on the CoS 
+S3.23. Unless you are sponsoring a Scale-up Worker, you must enter an end date 
+on the CoS. This should cover the period you intend to sponsor the worker, 
+up to the maximum period permitted for the route on which you are 
+sponsoring them.  
+ 
+S3.24. ‘Maximum period’ means the maximum period of entry clearance or 
+permission that can be granted on the relevant route if the worker’s 
+application is successful (excluding any additional period that may be granted 
+beyond the work end date). For example, if you are sponsoring a Skilled 
+Worker, you can assign a CoS for up to 5 years.  
+ 
+S3.25. In some cases, the SMS will prevent you from assigning a CoS beyond the 
+Page 26 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+maximum period. However, there may be other restrictions on how long you 
+should assign a CoS on a particular route or to a particular type of worker. 
+For example: 
+ 
+• if you are sponsoring an International Sportsperson, you must not assign a 
+CoS beyond the period stated on the worker’s sports governing body 
+endorsement letter 
+• if you are sponsoring a Skilled Worker who intends to claim points for 
+being a ‘new entrant’, the longest you can assign the CoS is 4 years (less 
+any time the worker has already spent in the UK as a new entrant on the 
+Skilled Worker or Tier 2 (General) routes, or on the Graduate route) 
+• most routes have a maximum cumulative period for which a worker can be 
+granted (including time they’ve already spent in the UK on that route) – for 
+example, a Charity Worker cannot be granted beyond 12 months in total 
+ 
+S3.26. If you assign a CoS for longer than the maximum period permitted on the 
+route, we will do one of the following: 
+ 
+• limit the amount of permission we will grant to the worker if they make a 
+successful application for entry clearance or permission 
+• refuse the application, if the worker has already spent the maximum period 
+permitted on that route 
+• if you are sponsoring a Government Authorised Exchange worker or 
+Seasonal Worker, report you to the relevant endorsing government 
+department – if they then withdraw their endorsement, we will revoke your 
+sponsor licence 
+ 
+S3.27. Read the relevant route-specific guidance for further information on maximum 
+periods.  
+ 
+S3.28. You do not have to enter an end date if you are sponsoring a Scale-up 
+Worker but you must confirm (when you complete the CoS declaration) that 
+the worker is expected to work for you for at least the first 6 months of their 
+permission. 
+ 
+Occupation code 
+S3.29. When you assign a CoS to a worker, you must specify the 4-digit occupation 
+code (also known as the ‘standard occupational classification (SOC)’ code) 
+relevant to the job. The SOC is a common classification of occupations 
+developed by the Office for National Statistics.  
+ 
+S3.30. For CoS assigned on or after 4 April 2024, you must specify the relevant 
+SOC 2020 occupation code from Appendix Skilled Occupations. The SOC 
+2020 system has replaced the SOC 2010 system previously in use. SOC 
+2010 occupation codes remain valid for CoS assigned on or before 3 April 
+2024. See the glossary for definitions of the terms ‘occupation code’, ‘SOC 
+2010 occupation code’ and ‘SOC 2020 occupation code’.  
+ 
+S3.31. Appendix Skilled Occupations contains information about each occupation 
+Page 27 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+code, including example job titles that fit within each code and whether the 
+code is eligible for PhD points on the Skilled Worker route. Tables 1 to 5 also 
+include information about the applicable salary ‘going rates’ for the Skilled 
+Worker, GBM and Scale-up routes.  
+ 
+S3.32. If you are sponsoring a Skilled Worker, the job must normally be in an 
+occupation code (or an eligible job within an occupation code) listed in Table 
+1, 2, or 3 of Appendix Skilled Occupations, depending on the option the 
+worker is claiming salary points under. These are jobs that are skilled to 
+graduate level or above. Occupations below graduate level are listed in 
+Tables 1a, 2aa, 2a and 3a and are only eligible if the job is on the 
+Immigration Salary List or the Temporary Shortage List, or the worker meets 
+a relevant transitional provision. See section SK4 of Sponsor a Skilled 
+Worker for further information.  
+ 
+S3.33. If you are sponsoring a worker on any of the GBM routes, the job must be in 
+an occupation code listed in Table 2, 2b or 3 of Appendix Skilled 
+Occupations. Occupations in Table 2b are only eligible under a transitional 
+provision. There is an exception for Service Suppliers, who may satisfy the 
+skill-level requirement if they have a degree or other eligible qualification and 
+relevant professional experience. In all other cases, if the job is not listed in 
+one of these tables, it is not eligible to be sponsored. See section GBM6 of 
+Sponsor a Global Business Mobility worker for further information. 
+ 
+S3.34. If you are sponsoring a Scale-up Worker, the job must be in an occupation 
+code listed in either Table 2 or Table 3 of Appendix Skilled Occupations. For 
+further information, see section SC4 of Sponsor a Scale-up Worker. 
+ 
+S3.35. If you are sponsoring a worker on the Government Authorised Exchange 
+route, the job must be in an occupation code listed in Table 1, 1a, 2, 2aa, 3 or 
+3a of Appendix Skilled Occupations. For further information, see section GA3 
+of Sponsor a Government Authorised Exchange worker.  
+ 
+S3.36. Table 6 of Appendix Skilled Occupations lists occupations which are not 
+eligible for the Skilled Worker, GBM (other than Service Suppliers in specified 
+circumstances) or Scale-up routes. They are also ineligible for the 
+Government Authorised Exchange route.  
+ 
+S3.37. For routes other than those listed above, the job can be in any table of 
+Appendix Skilled Occupations (including Table 6) but it must meet the 
+relevant eligibility criteria for the particular route. For further information, see 
+the relevant route-specific guidance.  
+ 
+S3.38. You are responsible for choosing the correct occupation code – we cannot 
+help you with this. If you are unsure which code to select, there is detailed 
+guidance on the SOC 2020 system on the Office for National Statistics 
+website. The University of Warwick has also developed a Computer Assisted 
+Structured Coding Tool (CASCOT) which can help you choose the correct 
+SOC 2020 code.  
+ 
+Page 28 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S3.39. It is essential that you select the correct occupation code. If you use the 
+wrong occupation code when assigning a CoS or applying for a Skilled 
+Worker Defined CoS, this could lead to an application being delayed or 
+refused. If you have provided false, misleading or otherwise incorrect 
+information about the skill or salary level of the job on a CoS – for example, 
+to enable the worker to score points on the Skilled Worker or GBM routes – 
+we will take compliance action against you. This could include revoking your 
+sponsor licence. For further information, see Part 3: Sponsor duties and 
+compliance. 
+ 
+‘Multiple-entry’ CoS 
+S3.40. If a worker is likely to need to travel abroad regularly in connection with their 
+job, you may choose to tick the ‘multiple-entry’ option on the CoS, although 
+you do not have to. For further information, see Leaving and returning to the 
+UK.  
+ 
+Group CoS for Creative Workers 
+S3.41. If you are sponsoring a group of people (for example, all members of a 
+musical group or dance troupe, or a creative worker and their entourage) on 
+the Creative Worker route, you can assign a ‘group CoS’ to all members of 
+the group. See Sponsor a Creative Worker for information on this. 
+ 
+Amending or updating a CoS 
+S3.42. After you’ve assigned a CoS, you can return to it and add a ‘sponsor note’ to 
+amend a start date or an end date, amend or update salary details or working 
+hours, correct minor errors, or provide additional information or clarification. 
+For example: 
+ 
+• if the CoS is for a Skilled Worker applying for a Health and Care visa, you 
+can use the sponsor note field to explain how the worker is eligible for that 
+visa 
+• if the CoS is for a Religious Worker, you must explain how the resident 
+labour consideration has been met by adding a sponsor note 
+ 
+S3.43. You can only add a sponsor note to a CoS that is showing in your SMS 
+account with the status of ‘Assigned’. If you need to report any changes after 
+a CoS has been used, you must use the ‘Report migrant activity’ function in 
+the SMS. For further information, see SMS Manual 9: Reporting worker 
+activity.  
+ 
+Correcting a minor error on a CoS 
+S3.44. You can use the sponsor note feature to amend a minor error on a CoS with 
+the status of ‘assigned’, such as a mistyped name or date of birth. However, 
+if you make more than one error in the worker’s personal details, you will 
+normally need to assign a new CoS (see below).  
+ 
+Page 29 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Significant error on the CoS 
+S3.45. You must withdraw a CoS and assign a new one if you’ve made a significant 
+error such as:  
+ 
+• you’ve entered the wrong occupation code 
+• you’ve assigned the CoS on the wrong route, or in the wrong sub-category  
+• you’ve given incorrect details for more than one of the following:  
+o the worker’s nationality  
+o the worker’s date of birth  
+o the worker’s surname 
+ 
+Contents 
+Page 30 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S4. Pay and conditions for sponsored 
+workers 
+Content in this section:  
+ 
+• How much you have to pay your workers 
+• Compliance with National Minimum Wage and the Working Time Regulations 
+• Salary information you must include on a CoS 
+• How you can pay your workers 
+• Absence from work without pay or on reduced pay 
+• Salary otherwise reduced 
+ 
+How much you have to pay your workers 
+S4.1. If you are sponsoring a Skilled Worker, Senior or Specialist Worker, Graduate 
+Trainee, UK Expansion Worker, Scale-up Worker or Seasonal Worker, you 
+must ensure the worker’s salary meets or exceeds the relevant salary 
+thresholds for those routes, as set out in the Immigration Rules and route-
+specific guidance. We will refuse any application for entry clearance or 
+permission, and reject any application for a Skilled Worker Defined CoS, if we 
+are not satisfied the worker will be paid the appropriate salary.  
+ 
+S4.2. In all cases (even if the Rules or this guidance do not specify a minimum 
+salary threshold for a particular route), you must ensure the worker will be 
+paid in accordance with National Minimum Wage legislation and the role will 
+comply with the Working Time Regulations.  
+ 
+S4.3. There are limited circumstances in which a worker can be paid less than the 
+relevant salary threshold, or the amount stated on their CoS. You will 
+normally need to report any salary reductions to us and the worker may need 
+to make a new application for permission – see:  
+ 
+• Absence from work without pay or on reduced pay 
+• Salary otherwise reduced 
+ 
+S4.4. We will make regular checks with HMRC (and, where necessary, compliance 
+checks) to ensure you are paying your sponsored workers the amount you 
+said you would. Unless an exception applies, if we find you are paying them 
+less, and the new amount would not be eligible for a grant of permission on 
+the relevant route, we will cancel the worker’s permission and take 
+compliance action against you – this could include revoking your licence.  
+ 
+S4.5. For more information on the salary requirements for the route in which you 
+are sponsoring the worker, and how we assess whether you are meeting 
+these requirements, refer to the relevant route-specific guidance.  
+ 
+Page 31 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Compliance with National Minimum Wage and the Working 
+Time Regulations 
+S4.6. The role you are sponsoring the worker for must always comply with both the:  
+ 
+• National Minimum Wage Regulations 2015 
+• Working Time Regulations 1998  
+ 
+S4.7. We will refuse an application for entry clearance or permission, or reject an 
+application for a Skilled Worker Defined CoS, if we have reasonable grounds 
+to believe the role does not comply with these regulations. We will also 
+normally revoke your licence if we find you are breaching these regulations. 
+ 
+National Minimum Wage 
+S4.8. The worker’s pay must always comply with National Minimum Wage 
+legislation. If you are sponsoring a worker on a route with a minimum salary 
+threshold (Skilled Worker, Senior or Specialist Worker, Graduate Trainee, UK 
+Expansion Worker, Scale-up, or Seasonal Worker), and their salary meets or 
+exceeds the relevant threshold, it is likely to be compliant with National 
+Minimum Wage. However, National Minimum Wage legislation is complex 
+and contains provisions not expressly covered by the Immigration Rules or 
+sponsor guidance. It is your responsibility to ensure you are compliant with 
+these.  
+ 
+S4.9. If you will not be paying National Minimum Wage to a worker because an 
+exemption in the legislation applies, you must explain this when you assign a 
+CoS. You can do this either in the salary details box or by adding a sponsor 
+note.  
+ 
+S4.10. For guidance on National Minimum Wage, how to calculate it, and 
+exceptions, see: 
+ 
+• The National Minimum Wage and Living Wage 
+• Minimum wage for different types of work 
+• Calculating the minimum wage – Department for Business and Trade 
+guidance 
+• National Minimum Wage – HMRC technical guidance 
+ 
+Working Time Regulations 
+S4.11. The Working Time Regulations provide a number of important protections for 
+workers on things like maximum weekly working hours, holiday entitlement 
+and rest breaks. You must ensure the role you are sponsoring the worker for 
+complies with these.  
+ 
+S4.12. For example, a worker aged 18 or over can choose to work more than 48 
+hours per week but, unless an exception in the Working Time Regulations 
+applies, you cannot force them to do this.  
+ 
+Page 32 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S4.13. For detailed guidance on the Working Time Regulations, see:  
+ 
+• Maximum weekly working hours 
+• Holiday entitlement 
+• Rest breaks at work 
+• Night working hours 
+ 
+Salary information you must include on a CoS 
+S4.14. When you assign a CoS to a worker, you must give the following information 
+about the salary you will pay them: 
+ 
+• the gross salary figure, which must:  
+o represent the total amount paid to the worker, gross of any tax paid, 
+whether paid in the UK or from overseas 
+o if the worker is being sponsored as a Skilled Worker, Senior or 
+Specialist Worker, Graduate Trainee or UK Expansion Worker, not 
+include any allowances, unless expressly permitted by the Immigration 
+Rules for those routes – see the relevant route-specific guidance for 
+further information 
+o for all other routes, include any allowances and guaranteed bonuses 
+• a separate figure for the total of all allowances and guaranteed bonuses 
+(where these are permitted by the route) 
+• a detailed breakdown of each allowance and each guaranteed bonus 
+showing their value (where these are permitted by the route) 
+• if you are sponsoring a Skilled Worker, Senior or Specialist Worker, 
+Graduate Trainee, UK Expansion Worker, or Scale-up Worker, the PAYE 
+scheme reference number through which the worker will pay tax and 
+national insurance – if you are not required to operate PAYE on that 
+worker’s earnings, you must provide a clear explanation of this (you 
+cannot sponsor a Scale-up Worker who will not be paid through PAYE) 
+ 
+S4.15. The figure you give for the gross salary must not be inflated in expectation of 
+any tax relief, such as relief on expenditure related to the employment, or tax 
+incurred by the employment of a settled worker, but not incurred for a 
+sponsored worker. For example, if the gross salary package is £34,500 per 
+year, but the sponsored worker will have the same net package after tax as a 
+settled worker who is paid £40,000 per year before tax, the CoS must show 
+that the salary package is £34,500, not £40,000. 
+ 
+Period the salary must cover 
+S4.16. When you assign a CoS to a worker, or apply for a defined CoS for them, the 
+gross salary figure you enter can cover any of the following time periods:  
+ 
+• hour 
+• day 
+• week 
+• month 
+• year (this option is not available for Seasonal Workers) 
+Page 33 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+• contract (this option is not available for Skilled Workers or Scale-up 
+Workers) 
+• performance (International Sportsperson and Creative Worker only) 
+ 
+How you can pay your workers 
+S4.17. Salary may be paid in the UK or from abroad but the salary you enter on a 
+CoS must always be in pounds sterling. Where the worker will be paid from 
+abroad in a currency other than pounds sterling, the salary you enter must be 
+based on the exchange rate for the relevant currency on the day the CoS is 
+assigned, taken from the rates published on OANDA. If you are applying for a 
+Defined CoS for a Skilled Worker, the amount must reflect the exchange rate 
+on the date you applied for that CoS. You should update this, by adding a 
+‘sponsor note’, when you assign the CoS to a worker. 
+ 
+S4.18. All payments to sponsored workers must be made into their own bank 
+account in the UK or overseas. You must not pay them in cash – if you do, 
+we are likely to revoke your licence. Pre-paid cards such as FOREX are 
+acceptable, but you must be able to give evidence that you have made 
+payments onto the worker’s card. If you pay the worker by cheque, this must 
+be paid into the worker’s own bank account. 
+ 
+Absence from work without pay or on reduced pay 
+S4.19. Unless a valid exception reason applies, you must normally stop sponsoring 
+a worker who is absent from their sponsored work without pay, or is absent 
+on reduced pay, for more than 4 weeks in total during either: 
+ 
+• if the worker is a Scale-up Worker, the period you have sponsorship 
+responsibility for that worker (see ‘Your responsibilities for the first 6 
+months of permission’ in section SC3 of Sponsor a Scale-up Worker) 
+• in all other cases, in any calendar year (1 January to 31 December) 
+ 
+S4.20. This applies whether the worker is absent from work for a single period of 
+more than 4 weeks, or if they have a number of absences which cumulatively 
+total more than 4 weeks.  
+ 
+S4.21. The 4 weeks is calculated according to the sponsored worker’s normal 
+working pattern. For example, if the worker normally works 5 days per week, 
+this would be 20 working days (5 (days) x 4 (weeks)). If they normally work 3 
+days per week, this would be 12 working days (3 (days) x 4 (weeks)).  
+ 
+S4.22. If a worker has been, or will be, absent from work without pay, or on reduced 
+pay, for more than 4 weeks in total (as defined above), you must either: 
+ 
+• stop sponsoring the worker and report this via your SMS account 
+• if the period of absence is due to a valid exception reason, or you believe 
+there are compelling reasons for you to continue sponsoring the worker, 
+report the period of absence (including reasons, duration and any changes 
+to salary) via your SMS account 
+Page 34 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+S4.23. You must also tell us if a sponsored worker has been absent from work for 
+more than 10 working days without your permission (‘unauthorised absence’), 
+whether or not you make any salary reductions for the period of unauthorised 
+absence.  
+ 
+S4.24. You do not have to report shorter absences without pay, or on reduced pay. 
+However, you may find doing so will help you monitor whether a sponsored 
+worker has exceeded, or is likely to exceed, the permitted periods of 
+absence.  
+ 
+S4.25. For more information on your reporting duties, including time limits for 
+reporting changes, see section C1 of Part 3: Sponsor duties and compliance. 
+ 
+Valid exception reasons: permissible absences 
+S4.26. The following are permissible absences. You do not have to stop sponsoring 
+a worker if they are absent without pay, or on reduced pay, for any of the 
+reasons listed below (and they would not otherwise have been absent without 
+pay, or on reduced pay, for more than 4 weeks): 
+ 
+• statutory maternity leave 
+• statutory paternity leave 
+• statutory parental leave 
+• statutory shared parental leave 
+• statutory adoption leave 
+• sick leave 
+• assisting with a national or an international humanitarian or environmental 
+crisis, provided you agreed to the absence for that purpose 
+• taking part in legally organised industrial action 
+• jury service 
+• attending court as a witness 
+• statutory neonatal care leave 
+ 
+S4.27. However, you should still report the period of absence via your SMS account, 
+as outlined above.  
+ 
+S4.28. If a valid exception reason does not apply but you believe there are 
+compelling reasons for you to continue sponsoring a worker who has been 
+absent from work without pay, or on reduced pay, for more than 4 weeks, you 
+must report the absence and reasons via your SMS account for UKVI to 
+consider. You should be aware that UKVI may cancel the worker’s 
+permission if they are not satisfied there is a satisfactory reason for 
+continuing to sponsor the worker. If this happens, you must stop sponsoring 
+the worker.  
+ 
+Salary otherwise reduced 
+S4.29. You must tell us via your SMS account if a worker’s salary is reduced for a 
+reason not related to absence after you have assigned a CoS (including after 
+Page 35 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+they have been granted entry clearance or permission). If you are sponsoring 
+a Skilled Worker or Tier 2 (General) Migrant, you must check if you will need 
+to assign a new CoS (and if the worker will need to apply for new permission) 
+before you can reduce their salary. See section SK8 of Sponsor a Skilled 
+Worker for further information.  
+ 
+S4.30. You must stop sponsoring the worker if their revised salary no longer meets 
+any salary, hourly or going rate requirement for the job or the route on which 
+they are being sponsored, or the change is otherwise not permitted by the 
+Immigration Rules or sponsor guidance. You must tell us you have stopped 
+sponsoring the worker via your SMS account. 
+ 
+Salary reductions: exceptions 
+S4.31. You must tell us via your SMS account if the worker’s salary is reduced in any 
+of the circumstances set out below but you do not have to stop sponsoring 
+the worker: 
+ 
+• the reduction coincides with a temporary reduction in the worker’s hours, 
+or a phased return to work, for individual health reasons, provided: 
+o this is supported by an occupational health assessment; and  
+o the reduction does not result in the hourly rate falling below any hourly 
+rate requirement which applied when the person obtained their most 
+recent grant of permission 
+• the worker is on a GBM route and a temporary reduction in salary 
+coincides with working for the sponsor group or linked overseas business 
+while the worker is not physically present in the UK 
+• the person is a Skilled Worker, GBM worker or Scale-up Worker and, after 
+the change in salary, would continue to be eligible for points for salary, as 
+set out in Sponsor a Skilled Worker, Sponsor a Global Business Mobility 
+worker, or Sponsor a Scale-up Worker 
+• despite the reduction, the worker otherwise continues to meet the salary 
+requirements on the route on which they are being sponsored 
+ 
+Contents 
+Page 36 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S5. Immigration Skills Charge  
+This section tells you about the Immigration Skills Charge (ISC) you may have to pay 
+to sponsor a Skilled Worker or a Senior or Specialist worker. 
+ 
+Content in this section: 
+ 
+• About the ISC 
+• When you have to pay the ISC 
+• When you are exempt from paying the ISC 
+• If you fail to pay the ISC in full: ‘top-up' payments’ 
+• ISC refunds 
+• How TUPE or similar protection affects the ISC 
+ 
+About the ISC 
+S5.1. You may have to pay the ISC each time you assign a Certificate of 
+Sponsorship (CoS) to a Skilled Worker or a Senior or Specialist Worker.  
+ 
+S5.2. The amount you have to pay is specified in the Schedule to the Immigration 
+Skills Charge Regulations 2017 and depends on:  
+ 
+• the size and type of your organisation on the date you assign the worker’s 
+CoS 
+• the length of employment stated on the CoS 
+ 
+S5.3. If you are a small or charitable sponsor, as defined in regulation 2 of the 
+Immigration Skills Charge Regulations, you will pay the ‘small’ ISC fee:  
+ 
+• £480 for any stated period of employment up to 12 months (or £364 where 
+the CoS was assigned before 16 December 2025) 
+• an additional £240 for each subsequent 6-month period stated on the CoS 
+(or £182 for each subsequent 6-month period where the CoS was 
+assigned before 16 December 2025) 
+ 
+S5.4. In all other cases, you must pay the ‘large’ ISC fee:  
+ 
+• £1,320 for any stated period of employment up to 12 months (or £1,000 
+where the CoS was assigned before 16 December 2025) 
+• an additional £660 for each subsequent 6-month period stated on the CoS 
+(or £500 for each subsequent 6-month period where the CoS was 
+assigned before 16 December 2025) 
+ 
+S5.5. When you apply for a licence, it is essential that you select the correct size or 
+type for your organisation, as this will determine both the licence fee you will 
+pay and the level of ISC you will pay throughout the life of your licence (or 
+until you tell us of a change of circumstances through the sponsorship 
+management system (SMS) and we have processed and accepted this 
+change).  
+Page 37 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+S5.6. To comply with your reporting duties, you must tell us as soon as possible 
+(and in any case within 20 working days) if the size or type of your 
+organisation changes. This will ensure you pay the correct ISC for each CoS 
+you assign. If you fail to tell us within 20 working days, we may take 
+compliance action against you. This could include downgrading, suspending 
+or revoking your licence. For further information on reporting changes to your 
+organisation, see section C2 of Part 3: Sponsor duties and compliance. 
+ 
+S5.7. You must not pass on any of the ISC to, or attempt to recoup it from, any of 
+your sponsored workers. If we find out that you have done so, we will 
+normally revoke your licence.  
+ 
+When you have to pay the ISC 
+S5.8. Unless an exception in paragraph S5.9 applies, you must pay the ISC each 
+time you assign a CoS to a Skilled Worker or a Senior or Specialist Worker 
+and the worker is either:  
+ 
+• applying from outside the UK for entry clearance (a visa) for a period of 6 
+months or more 
+• applying from within the UK for permission to stay of any duration, 
+including for less than 6 months 
+ 
+When you are exempt from paying the ISC 
+S5.9. You do not have to pay the ISC if you assign a CoS to a worker in any of the 
+following circumstances: 
+ 
+• a worker who is applying for entry clearance from outside the UK for a 
+period of less than 6 months 
+• a worker who is being sponsored for any of the following occupations: 
+o 2111 Chemical scientists 
+o 2112 Biological scientists 
+o 2113 Biochemists and biomedical scientists 
+o 2114 Physical scientists 
+o 2115 Social and humanities scientists 
+o 2119 Natural and social science professionals not elsewhere classified 
+o 2161 Research and development (R&D) managers 
+o 2162 Other researchers, unspecified discipline 
+o 2311 Higher education teaching professionals 
+• a worker you have previously assigned a CoS to (or who has transferred 
+to you under TUPE or similar protection), provided both of the following 
+conditions are met: 
+o you assign them a new CoS to work for you 
+o the new period of permission they intend to apply for will not exceed 
+their current period of permission – if the application would result in a 
+longer grant of permission, you must pay the ISC for the additional 
+period that would be granted, unless another exemption applies 
+Page 38 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+• a worker who has valid permission for the purpose of study (as defined in 
+paragraph S5.11 below) 
+• a worker who had valid permission for the purpose of study when you 
+previously sponsored them (and you therefore did not have to pay the 
+ISC), and you assign a new CoS to that worker to continue sponsoring 
+them in the same role (see also ‘How TUPE or similar protection affects 
+the ISC’ below) 
+• a worker who was assigned a CoS under Tier 2 (General) or Tier 2 (ICT) 
+Long-term Staff before 6 April 2017 and all of the following are true: 
+o that CoS resulted in a grant of entry clearance or permission to stay 
+o the worker undertook the role for which that CoS was assigned 
+o the worker has not since ceased to have permission under Skilled 
+Worker (or its predecessor route, Tier 2 (General)) or Senior or 
+Specialist Worker (or its predecessor routes, Intra-Company Transfer, 
+or the Long-term Staff sub-category of Tier 2 (Intra-Company Transfer)) 
+• a Senior or Specialist Worker who benefits from the ‘EU-UK Trade and 
+Co-operation Agreement’ exemption – this applies if all of the following 
+requirements are met: 
+o you assign the CoS to the worker on or after 1 January 2023 
+o the worker is a national of an EU country or is a Latvian non-citizen (this 
+concession does not apply if the worker is a national of Iceland, 
+Norway, Liechtenstein or Switzerland) 
+o the worker has been assigned to the UK by a business established in 
+the EU, and which forms part of the same ‘sponsor group’, as defined in 
+the glossary to Sponsor a Global Business Mobility Worker 
+o the worker has worked for the sponsor group for at least one year 
+before the CoS was assigned 
+o the end date of the assignment, as specified on the CoS, is no more 
+than 36 months after the start date 
+ 
+S5.10. You do not have to pay the ISC for any of the worker’s family members 
+(dependants) who are not themselves sponsored workers on the Skilled 
+Worker or Senior or Specialist Worker routes. The ISC does not apply to any 
+other sponsored work route.  
+ 
+‘Valid permission for the purpose of study’ exemption 
+S5.11. You are exempt from paying the ISC if you assign a CoS to a worker who has 
+current permission on one of the following routes: 
+ 
+• Student 
+• Child Student 
+• Tier 4 (General) 
+• Tier 4 (Child) 
+• Short-term Student (English Language) 
+ 
+S5.12. The exemption applies whether or not the worker is in the UK, provided they 
+have current permission on one of the above routes on the date you assign 
+the CoS. However, if the person has permission as a Short-term Student, 
+they must make their application from outside the UK, as they will not 
+Page 39 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+normally be allowed to ‘switch’ to either the Skilled Worker route or the Senior 
+or Specialist Worker route from within the UK. 
+ 
+S5.13. This exemption does not apply if the worker’s permission: 
+ 
+• has already expired by the time you assign the CoS 
+• is on any route not listed above – for the avoidance of doubt, you will not 
+be exempt from paying the ISC if the worker’s permission is as a Graduate 
+or as a dependant of someone on one of the study routes listed above 
+ 
+S5.14. If this exemption applies, you will continue to be exempt from paying the ISC 
+if you later assign a new CoS to the same worker to continue working in the 
+same role. See also ‘How TUPE or similar protection affects the ISC’ below.  
+ 
+If you fail to pay the ISC in full: ‘top-up’ payments 
+S5.15. If you fail to pay the ISC in full (where required), the relevant CoS will become 
+and remain invalid until the outstanding fee is paid in full. This means any 
+application for entry clearance or permission to stay made on the basis of 
+that CoS will be delayed until you have paid the outstanding amount.  
+ 
+S5.16. We will therefore ask you to make a ‘top-up’ payment if you have either:  
+ 
+• not paid any ISC at all: in this case, we will ask you to pay the full amount 
+appropriate to your size and status 
+• made a partial payment – for example, you a ‘large’ sponsor and you have 
+paid the ‘small’ fee: in this case, we will ask you to pay the difference 
+between the amount you have paid and the amount due 
+ 
+S5.17. Where a top-up payment is required, we will send a payment link via email to 
+your Key Contact. This link will be valid for 72 hours. If you do not make the 
+full top-up payment within 72 hours, the link will expire. We will send you one 
+further link (which will also be valid for 72 hours) to allow you to make the 
+necessary payment. If you fail to make the payment by the end of this period, 
+we will refuse the worker’s application. 
+ 
+ISC refunds 
+S5.18. Regulation 6 of the Immigration Skills Charge Regulations allows the 
+Secretary of State to refund or waive all or part of the ISC. This section sets 
+out the circumstances in which we may offer either a partial or full refund. 
+ 
+S5.19. We will always attempt to make any refund to the original payment method 
+you used. If this fails, we will contact you for alternative payment details. Do 
+not send any alternative payment details unless we ask you to. 
+ 
+Partial refund: change in size or charitable status 
+S5.20. We will make a partial refund of the ISC if both of the following are true:  
+ 
+Page 40 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+• you assign a CoS to a worker and pay the large ISC fee 
+• before you assigned that CoS, you had notified us that your company had 
+changed from large to small, or gained charitable status, and we have 
+verified this information 
+ 
+S5.21. In these circumstances, we will refund the difference between the large fee 
+and the small fee once we have verified the information you have provided. 
+We will only issue refunds for CoS issued on or after the date you notified us 
+of your change in status. It is therefore important you tell us of any change in 
+status as soon as possible. 
+ 
+Partial refund: other reasons 
+S5.22. We may issue a partial refund in the following circumstances: 
+ 
+• the worker is granted permission for a shorter period than the period 
+requested on their CoS 
+• the worker starts work for one sponsor but then voluntarily changes to 
+another sponsor (except where the worker has changed sponsor under 
+TUPE or similar arrangements) 
+• the worker otherwise leaves their post earlier than expected – for example, 
+if they return home due to ill health, are made redundant or dismissed, fail 
+their probation, or fail to secure a necessary professional qualification 
+ 
+S5.23. In these circumstances, we will always retain the first 12 months of any ISC 
+you have paid. We will issue a partial refund for any subsequent unused 6-
+month periods you have paid for. For example, if: 
+ 
+• you assigned a CoS (and paid the correct ISC) for 5 years but the worker 
+is granted permission for 3 years, we will refund the final 2 years 
+• you assigned a CoS (and paid the correct ISC) for 5 years but the worker 
+voluntarily changes to another sponsor after 18 months, we will refund 3 ½ 
+years 
+• you assigned a CoS (and paid the correct ISC) for 3 years and the worker 
+leaves their post after 6 months, we will retain the first 12 months but will 
+refund you for the final 2 years 
+ 
+Full refund 
+S5.24. We will make a full refund in the following circumstances: 
+ 
+• the worker’s application for entry clearance or permission is refused 
+• the worker withdraws their application before a decision is made on it 
+• the worker’s application is granted but the worker does not travel to the UK 
+or start work for you 
+• the relevant CoS expires before it is used in a valid application 
+• you withdraw the worker’s CoS before it is used in any application 
+ 
+Page 41 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+How soon decisions on refunds are made 
+S5.25. Decisions on refunds are made within 90 days of the relevant event, as 
+follows: 
+ 
+• the date you notified us via the SMS that the worker didn’t come to the UK 
+to start work or has left the relevant employment early 
+• the CoS expiry date, if no valid visa application is made by the worker – a 
+CoS expires if not used within 3 months of the date it was assigned 
+• the date you notified us that you had withdrawn the CoS 
+• the deadline date for making an administrative review application, if the 
+worker’s visa application has been refused and they have not applied for 
+an administrative review 
+• the date the worker’s administrative review is dismissed 
+• the date you notified us of the change in your organisation’s size or 
+charitable status 
+ 
+Contact UKVI if your refund hasn’t been paid within 90 days of the relevant 
+date. 
+ 
+When no ISC refund will be made 
+S5.26. We will not refund any ISC you have paid in the following circumstances: 
+ 
+• the worker changes job but remains working for the same employer or 
+sponsor 
+• the worker changes (‘switches’) from the Skilled Worker or Senior or 
+Specialist Worker route to another immigration route but remains 
+employed in the same job 
+• the worker moves to another sponsor under TUPE or similar protection 
+• your licence is made ‘dormant’ (for example, following a takeover of your 
+company) 
+• your licence is revoked 
+• the worker’s permission is cancelled (unless the reason for cancellation is 
+because the worker failed to start the relevant employment or finished the 
+employment early – in these circumstances, we may make either a full or 
+partial refund, as outlined above) 
+ 
+How TUPE or similar protection affects the ISC 
+S5.27. If a sponsored worker transfers to you under the Transfer of Undertakings 
+(Protection of Employment) (TUPE) Regulations or similar protection, you do 
+not have to pay the ISC if the worker still has valid permission and is not 
+changing role.  
+ 
+S5.28. You will need to pay the ISC if you later assign a CoS to sponsor an 
+application by that worker for further permission, unless an exemption 
+applies. You will not have to pay the ISC if the previous sponsor was exempt 
+from paying it and either of the following is true: 
+ 
+Page 42 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+• the new CoS will not result in the worker’s permission being longer than 
+their existing permission 
+• the previous sponsor was exempt from paying the ISC because the worker 
+had valid permission for the purpose of study when they were originally 
+sponsored and you are continuing to sponsor that worker in the same role 
+ 
+S5.29. If you were the original sponsor and the worker moves to another sponsor 
+under TUPE or similar protection, you will not receive a refund of any ISC you 
+have paid to sponsor that worker.  
+ 
+S5.30. For further information on TUPE and similar protection, see section C4 of 
+Part 3: Sponsor duties and compliance.  
+ 
+Contents 
+Page 43 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S6. After you have assigned a CoS 
+Content in this section: 
+ 
+• Using the CoS in an immigration application 
+• Cancelling or withdrawing a CoS 
+• Providing immigration advice or immigration services to your sponsored workers 
+or students 
+ 
+Using the CoS in an immigration application 
+S6.1. Once you have assigned a valid CoS to a worker, and you have paid any 
+Immigration Skills Charge, if required, they can use it to make an application 
+for entry clearance, permission to enter or permission to stay.  
+ 
+S6.2. When you assign a CoS, a reference number is generated and you must give 
+this number to the worker you wish to sponsor. They must then include the 
+reference number in their application for entry clearance, permission to enter 
+or permission to stay. When you give the CoS reference number to the 
+worker, you should treat it as secure and confidential information. 
+ 
+S6.3. You can give the worker a copy of their CoS if they ask for it (although they 
+do not need it to make an immigration application). There is a function within 
+your SMS account to print any CoS you have assigned. You can do this by 
+using the ‘View CoS’ function, where you can open the CoS and choose 
+‘Print’. The SMS user guide has more information on how to use this function.  
+ 
+S6.4. The worker must use the CoS in a valid application no more than 3 months 
+after the date you assigned it, otherwise it will expire. If this happens and you 
+still wish to sponsor the worker, you will need to assign (and pay for) a new 
+CoS for the worker. See ‘start dates’ in section S3 for further information.  
+ 
+S6.5. The CoS will show as ‘assigned’ in your SMS account until a decision has 
+been made on the worker’s application. Once a decision to grant or refuse 
+the application has been made, it will show as ‘used’. This means the CoS 
+cannot be used in another application, unless the worker is eligible to enter 
+the UK under the Creative Worker visa concession, in which case they can 
+use the same CoS each time they re-enter the UK, provided it’s still valid and 
+they continue to qualify under the concession.  
+ 
+S6.6. If the worker’s application is refused (and any administrative review is 
+dismissed), and you still wish to sponsor the worker, you must assign them 
+(and pay for) a new CoS.  
+ 
+S6.7. If the worker’s application is rejected as invalid or withdrawn, the CoS will still 
+show in your SMS account as ‘assigned’. The worker can reuse the same 
+CoS to make another application, provided the CoS has not expired. 
+ 
+Page 44 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+How to make an immigration application 
+S6.8. Once the worker is ready to make an application for entry clearance or 
+permission to stay, they must: 
+ 
+• complete the relevant online application form – the relevant forms can be 
+found in the Work visas section of the GOV.UK website 
+• pay the application fee – see the UK visa fees page on GOV.UK 
+• pay the immigration health charge, if required 
+• prove their identity (and provide any required biometrics) by either: 
+o attending a biometric appointment at a visa application centre 
+o if eligible, using the ‘UK Immigration: ID Check’ app 
+• in some cases, take a tuberculosis test 
+• provide all relevant documents and information with their application, as 
+specified in the application form or guidance notes 
+ 
+S6.9. Different arrangements are in place for people eligible to enter the UK without 
+entry clearance under the Creative Worker visa concession.  
+ 
+S6.10. All applications for entry clearance or permission to stay must now be made 
+online. As the sponsor, you should be prepared to give the worker any 
+assistance they need to complete the online application. This could include 
+allowing them to access a computer on your premises if the person would not 
+otherwise have access to a computer or the internet, or by offering technical 
+support to those who do not have the ability or confidence to use online 
+services on their own.  
+ 
+S6.11. You may also, subject to certain restrictions, provide immigration advice or 
+immigration services to individuals you are sponsoring.  
+ 
+Cancelling or withdrawing a CoS 
+S6.12. We can cancel a CoS assigned by you if we find it should not have been 
+assigned – for example, if it was assigned through misrepresentation or 
+fraud, or if you have not paid the correct CoS fee in full. 
+ 
+S6.13. You can withdraw a CoS assigned to an individual which has not yet been 
+used to support an application for entry clearance, permission to enter or 
+permission to stay. This can be done through your SMS account. 
+ 
+S6.14. A worker can normally only have one CoS assigned to them for use in an 
+application at any given time. The only exception to this is where the worker 
+is undertaking ‘consecutive engagements’ with more than one sponsor on the 
+Creative Worker route. 
+ 
+S6.15. If you have assigned a CoS to a person who intended to start working for 
+you, but they then decided to take up a job offer with a different sponsor, they 
+must contact you to arrange the withdrawal of their CoS. This is because the 
+sponsor they want to start work with will not be able to assign a CoS to them 
+until you have withdrawn the one you assigned. They must request this in 
+Page 45 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+writing or by email and give you 5 working days to withdraw the CoS. If you 
+do not carry out their request, they must send a reminder, after which you will 
+have a further 5 working days to withdraw it. 
+ 
+S6.16. If you refuse or fail to withdraw the CoS within this time, the individual can 
+ask us to cancel it. We will not cancel it until we have talked to you about why 
+you have not withdrawn the CoS as requested by the individual. We may take 
+compliance action against you if you fail to withdraw a CoS when requested 
+within the specified time limit.  
+ 
+S6.17. If a CoS is cancelled or withdrawn, we will not refund your CoS fee and we 
+will refuse any application that is supported by that CoS. 
+ 
+S6.18. If a worker is in the UK with entry clearance or permission, we will cancel or 
+shorten their permission if we find the CoS which supported their application 
+was improperly assigned. If this happens, their permission will be cancelled 
+or shortened in one of the following ways: 
+ 
+• if they were not actively involved in the CoS being improperly assigned, 
+permission will normally be shortened so they have 60 days’ permission 
+remaining to give them a chance to find a new sponsor, apply on another 
+immigration route or make arrangements to leave the UK (we will not 
+shorten their permission if they already have no more than 60 days’ 
+permission remaining) 
+• if they were actively involved in the CoS being improperly assigned, their 
+permission will be cancelled completely so that they have no permission 
+remaining and will be required to leave the UK immediately. 
+ 
+Providing immigration advice or immigration services to 
+your sponsored workers or students 
+S6.19. It is prohibited under section 84(1) of the Immigration and Asylum Act 1999, 
+and a criminal offence under section 91(1) of that Act, to provide immigration 
+advice or immigration services if you are not one of the following:  
+ 
+• registered with the Immigration Advice Authority (IAA) (formerly the Office 
+of the Immigration Services Commissioner (OISC)) 
+• authorised by either a designated professional body or a designated 
+qualifying regulator 
+• acting on behalf of and under the supervision of a person who meets 
+either of the above requirements 
+• otherwise exempt 
+ 
+S6.20. Licensed sponsors are exempt from the general prohibition, although this will 
+apply only in specified circumstances. As a licensed sponsor, you can 
+provide immigration advice and immigration services, free of charge, to 
+individuals you are sponsoring (and, where relevant, their eligible family 
+members), within the limits set out in the Immigration and Asylum Act 1999 
+(Part 5 Exemption: Licensed Sponsors) Order 2022 (‘the 2022 Order’).  
+ 
+Page 46 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S6.21. This Order has replaced the Immigration and Asylum Act 1999 (Part V 
+Exemption: Licensed Sponsors Tiers 2 and 4) Order 2009 from 11 April 2022. 
+Whereas the exemption created by that Order applied only to Worker and 
+Student sponsors, the exemption in the 2022 Order applies to all licensed 
+sponsors, including Temporary Worker sponsors.  
+ 
+S6.22. If you provide immigration advice or services in accordance with the 2022 
+Order, you must comply with the Code of Standards issued by the IAA.  
+ 
+What you can do 
+S6.23. Under the 2022 Order, you can only provide immigration advice and 
+immigration services if they are given: 
+ 
+• free of charge 
+• in relation to an individual you are sponsoring (‘the main applicant’) or an 
+‘eligible family member’ of the main applicant (see paragraphs S6.29 to 
+S6.35) 
+• in connection with a ‘relevant application’ 
+ 
+S6.24. In this section, a ‘relevant application’ is an application: 
+ 
+• by the main applicant for entry clearance or permission for the purpose of 
+work or study in the UK (where you are the main applicant’s sponsor in 
+relation to that work or study); or 
+• by a family member of the main applicant for entry clearance or permission 
+as their ‘eligible family member’ 
+ 
+S6.25. This includes an application the individual is proposing to make, has made 
+and is awaiting a decision on, or which has already been determined. 
+ 
+S6.26. Advice and services you can provide in connection with a relevant application 
+include: 
+ 
+• advising the individual how to make an application and of the immigration 
+requirements for the route on which they’re applying 
+• making enquiries with the Home Office on behalf of the individual about 
+the progress of the application 
+• advising the individual of the length of permission they have been granted 
+and the conditions attached to it 
+• assisting the individual in an administrative review application if their 
+application for entry clearance or permission has been refused, or their 
+permission has been cancelled –however, the exemption does not extend 
+to the provision of immigration advice or immigration services in relation to 
+an appeal or judicial review proceedings 
+ 
+S6.27. You can only provide immigration advice and immigration services to the 
+main applicant (and, where relevant, their eligible family members) during the 
+period for which you have sponsorship responsibility for the main applicant – 
+see paragraph C1.8 of Part 3: Sponsor duties and compliance for a definition 
+Page 47 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+of when this period begins and ends.  
+ 
+S6.28. If you are sponsoring a person with permission as a Scale-up Worker, you 
+will only sponsor them for the first 6 months of their permission – you cannot 
+provide immigration advice or immigration services to the worker (or their 
+family members) after this period, unless you are otherwise authorised or 
+exempt. The 6-month period is calculated from the date the worker’s entry 
+clearance as a Scale-up Worker becomes effective (the ‘valid from’ date on 
+their visa) or the date they are notified of a grant of permission to stay as a 
+Scale-up Worker.  
+ 
+Immigration advice or services provided to eligible family 
+members 
+S6.29. You can provide immigration advice and immigration services in relation to an 
+individual other than the person you are sponsoring (the main applicant) in 
+connection with their application for entry clearance or permission but only if 
+you reasonably believe both of the following:  
+ 
+• the application will be, or was, made as an eligible family member of the 
+main applicant 
+• the outcome of that application is, or was, dependent on the outcome of 
+the main applicant’s application 
+ 
+S6.30. This includes where the individual is applying, or has applied, as an eligible 
+family member at the same time as the main applicant, or after the main 
+applicant has already been granted permission.  
+ 
+S6.31. The 2022 Order also covers the situation where the individual has existing 
+permission as an eligible family member, and the main applicant 
+subsequently applies to vary their permission (for example, to work for 
+another sponsor, or to do a different job or course of study). In such 
+situations, the eligible family member may not necessarily need to apply to 
+vary their own permission in line with the main applicant (for example, if they 
+already have sufficient existing permission) but they may need advice on (for 
+example) their conditions of stay or whether they need to make a further 
+application.  
+ 
+S6.32. In all cases, to be eligible to provide immigration advice or services, you must 
+be the sponsor of the main applicant. Where the main applicant has more 
+than one sponsor (for example, if they’re doing secondary employment), each 
+sponsor can provide immigration advice and services to both the main 
+applicant and their eligible family members, if the requirements in this section 
+are met.  
+ 
+Meaning of ‘eligible family member’ 
+S6.33. For routes other than Child Student and Seasonal Worker, eligible family 
+members are the main applicant’s: 
+ 
+Page 48 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+• partner (spouse, civil partner or unmarried partner) 
+• dependent children aged under 18 
+• dependent children aged 18 or over if they have previously been granted 
+permission as a dependent child of the main applicant or of their partner 
+ 
+S6.34. A Child Student can be accompanied or joined by one parent (on the Parent 
+of a Child Student route) if the child is aged between 4 and 11 and is 
+attending an independent fee-paying school. The Seasonal Worker route 
+does not permit any family members.  
+ 
+S6.35. The exemption in the 2022 Order does not cover immigration advice or 
+services provided to family members other than those listed above.  
+ 
+What you cannot do 
+S6.36. You must not provide immigration advice or immigration services if they are 
+not covered by the 2022 Order. For example, you are not permitted to:  
+ 
+• charge any fee to the main applicant (or their eligible family members) for 
+providing immigration advice or services to them 
+• provide immigration advice or services if this is not in connection with a 
+relevant application – for example, you cannot provide advice in 
+connection with an application for settlement, an appeal, a judicial review 
+or other litigation, or on wider immigration issues 
+• provide immigration advice or services to individuals you are not currently 
+sponsoring (other than their eligible family members) – this applies even if 
+you have previously sponsored them 
+ 
+S6.37. If you wish to undertake any of the above activities (or provide any other 
+immigration advice or services not covered by the 2022 Order), you must 
+register with the IAA, or be otherwise qualified or exempt. If you are unsure 
+whether you can provide such advice or services, you should contact the IAA 
+for assistance. 
+ 
+Contents 
+ 
+Page 49 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S7. Immigration requirements 
+This section tells you about the main immigration requirements a Worker or 
+Temporary Worker must meet to qualify for entry clearance or permission.  
+ 
+It is not a complete statement of the requirements and you must refer to the relevant 
+Immigration Rules and route-specific guidance for further details.  
+ 
+Content in this section:  
+ 
+• Relevant Immigration Rules 
+• Applying from outside the UK: entry clearance 
+• Applying from inside the UK: permission to stay 
+• Former government-sponsored students 
+• Genuine intention requirement 
+• Financial requirement 
+• Academic Technology Approval Scheme (ATAS) requirement 
+• English language requirement 
+• Age requirement 
+• Decision on application: proof of immigration status 
+• Leaving and returning to the UK 
+• Further information on immigration requirements 
+ 
+Relevant Immigration Rules 
+S7.1. You must be satisfied that any workers you wish to sponsor can meet the 
+relevant Immigration Rules. The fact that you have assigned a valid 
+Certificate of Sponsorship (CoS) does not guarantee they will be granted 
+entry clearance or permission – UKVI will make the final decision on this.  
+ 
+S7.2. The relevant requirements are contained in the following parts of the 
+Immigration Rules: 
+ 
+• Appendix Skilled Worker 
+• Appendix Global Business Mobility – Senior or Specialist Worker 
+• Appendix Global Business Mobility – Graduate Trainee 
+• Appendix Global Business Mobility – UK Expansion Worker 
+• Appendix Global Business Mobility – Service Supplier 
+• Appendix Global Business Mobility – Secondment Worker 
+• Appendix Skilled Occupations  
+• Appendix Immigration Salary List 
+• Appendix T2 Minister of Religion  
+• Appendix Scale-up 
+• Appendix International Sportsperson  
+• Appendix Sports Governing Bodies 
+• Appendix Temporary Work – Seasonal Worker  
+• Appendix Temporary Work – Creative Worker 
+• Appendix Creative Worker Codes of Practice 
+Page 50 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+• Appendix Temporary Work – Religious Worker 
+• Appendix Temporary Work – Charity Worker 
+• Appendix Temporary Work – International Agreement  
+• Appendix Temporary Work – Government Authorised Exchange  
+• Appendix Government Authorised Exchange schemes 
+ 
+S7.3. Even if the worker meets all of the relevant Rules and you have met all of 
+your sponsorship duties, the worker can still be refused permission to enter 
+or stay in the UK, or have their permission cancelled, under Part Suitability of 
+the Immigration Rules, if the worker has (for example) used deception in their 
+application, has previously breached their conditions of stay, or has a criminal 
+record.  
+ 
+Applying from outside the UK: entry clearance 
+S7.4. If the worker you wish to sponsor is outside the UK, they must obtain entry 
+clearance (a visa) on the relevant route before they come to the UK. The only 
+exception to this is where the worker is eligible to enter the UK under the 
+Creative Worker visa concession. See section CRW6 of Sponsor a Creative 
+Worker for information on this concession.  
+ 
+S7.5. If a worker tries to enter the UK without the required entry clearance, they will 
+be refused entry, even if they meet all of the other requirements of the Rules.  
+ 
+S7.6. Some applicants applying for entry clearance may need to undergo a test for 
+pulmonary tuberculosis in order to get their visa – for further information, see 
+Tuberculosis test for visa applicants on GOV.UK. 
+ 
+Applying from inside the UK: permission to stay 
+S7.7. If the worker you wish to sponsor is already in the UK, they must apply for 
+‘permission to stay’ (also known as ‘leave to remain’). This could be to: 
+ 
+• extend their existing Worker or Temporary Worker permission, either to 
+continue working in the same job or to change employment – see section 
+S9 for further information 
+• ‘switch’ from a different immigration route where the Rules allow this 
+ 
+S7.8. Applicants applying from within the UK must not be either:  
+ 
+• in breach of immigration laws (that is, they must not be an overstayer, an 
+illegal entrant, in breach of their conditions of stay, or have used deception 
+in their most recent application for entry clearance or permission), except 
+that where the ‘Exceptions for overstayers’ section of Part Suitability of the 
+Immigration Rules applies, that period of overstaying will be disregarded 
+• on immigration bail, except where the ‘Exceptions for overstayers’ section 
+of Part Suitability applies 
+ 
+Page 51 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Switching immigration route while in the UK 
+S7.9. Switching is the term we use when a person who is already legally in the UK 
+changes from one immigration route to another, where the Rules allow this.  
+ 
+S7.10. People can switch to, or between, the Worker, Global Business Mobility or 
+Scale-up routes, provided they: 
+ 
+• were not last granted permission: 
+o as a Visitor (there is a limited exception to this for some people on the 
+International Sportsperson route – see section SPT3 of Sponsor an 
+International Sportsperson for details) 
+o as a Student, unless they meet the additional rules for people switching 
+from the Student route (as set out below) 
+o as a Short-term Student 
+o as a Parent of a Child Student 
+o as a Seasonal Worker 
+o as a Domestic Worker in a Private Household; or 
+o outside the Immigration Rules; and 
+• meet all of the requirements of the route they are applying to switch to  
+ 
+S7.11. Switching to, or between, the Temporary Worker routes (other than the 
+Global Business Mobility routes or the Scale-up route) is not generally 
+permitted. There is an exception which allows some students to switch to the 
+Government Authorised Exchange route (see section GA4 of Sponsor a 
+Government Authorised Exchange worker). 
+ 
+S7.12. If you want to sponsor a person who is already in the UK on another 
+immigration route, you should check that their current immigration status 
+allows them to switch. This is important because if the individual is in the UK 
+on a route that does not allow them to switch, we will normally reject their 
+application. If they are not in the UK on a route that allows them to switch, 
+they must leave the UK and apply for entry clearance.  
+ 
+Switching from the Student route 
+S7.13. If the person you wish to sponsor will be applying for permission to stay on 
+the Worker, Global Business Mobility or Scale-up routes, and they have, or 
+last had, permission as a Student (including as a Tier 4 (General) Migrant), 
+they must meet one of the conditions below on the date they make their 
+application to be allowed to switch:  
+ 
+• they must have completed the course of study for which they were being 
+sponsored as a Student 
+• they must be studying a full-time course of study at degree level or above 
+with a higher education provider which has a track record of compliance, 
+and the start date on their CoS must be no earlier than the course 
+completion date 
+• they must be studying a full-time course of study leading to the award of a 
+PhD with a higher education provider which has a track record of 
+Page 52 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+compliance, and the start date on their CoS must be no earlier than 24 
+months after the start date of their PhD 
+ 
+S7.14. A ‘higher education provider with a track record of compliance’ will be shown 
+on the register of student sponsors with the type ‘Higher Education Institution 
+(HEI)’ and with the status ‘Student Sponsor – Track Record’.  
+ 
+S7.15. If you wish to sponsor a worker who has, or last had, permission as a 
+Student, you must carefully check they can meet one of the above conditions 
+before you assign a CoS to them. If they do not meet one of these conditions, 
+they will not be permitted to switch. 
+ 
+Permission to work while a switching application is pending 
+S7.16. A person who has made an application to switch to a sponsored work route 
+must not start working for you until their application has been granted, unless, 
+on the date of application, they already have a type of immigration permission 
+which allows them to do the work in question (for example, if they have 
+permission as a dependant of a Skilled Worker and a right to work check 
+confirms they are not prohibited from doing the work in question).  
+ 
+S7.17. Where a person is allowed to work in these circumstances, you must stop 
+sponsoring them if their application to switch is eventually refused (and any 
+administrative review is finally dismissed), and must not continue to otherwise 
+employ them, unless (despite the refusal) they still have a valid immigration 
+permission that allows them to do the work in question.  
+ 
+S7.18. A Student who meets the second bullet point in paragraph S7.13 above, and 
+has made a valid application as a Skilled Worker, may be allowed to start 
+working for you immediately if they meet certain conditions – see section SK3 
+of Sponsor a Skilled Worker for further information.  
+ 
+Former government-sponsored students 
+S7.19. If you wish to sponsor a worker on any of the Worker, Scale-up, Global 
+Business Mobility, or Government Authorised Exchange routes, and they are 
+currently being financially sponsored for the purpose of study by a 
+government or international scholarship agency, or were so sponsored during 
+the 12 months immediately before their application, they must obtain the 
+written consent of that sponsor before applying for entry clearance or 
+permission to stay. If they do not provide this consent, we will refuse their 
+application.  
+ 
+Genuine intention requirement 
+S7.20. A sponsored worker must: 
+ 
+• genuinely intend, and be able, to do the role for which they are being 
+sponsored; and 
+• not intend to undertake employment other than in the role for which they 
+are being sponsored, or as otherwise permitted by their conditions of stay 
+Page 53 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+Financial requirement 
+S7.21. Sponsored workers are not permitted to claim public funds (benefits and 
+other assistance from the state). We must therefore be satisfied that any 
+worker you sponsor has enough money to support themselves, and any 
+family members (dependants) in the UK, until they start to receive an income. 
+This is known as the ‘financial requirement’ (or ‘maintenance requirement’).  
+ 
+S7.22. An applicant on the Worker and Temporary Worker routes must meet the 
+financial requirement if they are applying for: 
+ 
+• entry clearance 
+• permission to enter on the Creative Worker route, or  
+• permission to stay, if they have been in the UK for less than one year at 
+the date of application 
+ 
+S7.23. In most cases, you can ‘certify’ this requirement is met by ticking the relevant 
+‘maintenance’ box on the worker’s CoS. This is known as ‘certifying 
+maintenance’. You cannot certify maintenance on the UK Expansion Worker 
+route. For other routes, you are able to do so provided your licence is rated 
+A, A (Premium) or A (SME+). If you certify maintenance, the applicant does 
+not have to provide any further evidence of their finances.  
+ 
+S7.24. By ticking the box on the CoS, you agree to certify maintenance for both the 
+worker and (if relevant) any dependants of the worker. If you do not wish to 
+certify maintenance for dependants, you must add a ‘Sponsor note’ 
+confirming this after you have assigned the CoS. 
+ 
+S7.25. If you certify a worker’s maintenance, you confirm that you will, if necessary, 
+maintain and accommodate the worker up to the end of their first month of 
+employment in the UK. You may limit the amount of the undertaking, but any 
+limit must be no less than £1270.  
+ 
+S7.26. If you certify maintenance for dependants, you confirm that you will maintain 
+and accommodate them for the first month of any permission that is granted 
+to them. You may limit the amount, but it must be at least: 
+ 
+• £285 for a dependent partner  
+• £315 for the first dependent child 
+• £200 each for any other dependent child 
+ 
+S7.27. If you certify maintenance, you must make sure the individuals are aware 
+they must not claim public funds. If they claim public funds with your 
+knowledge, we may take enforcement action against them and compliance 
+action against you. See Part 3: Sponsor duties and compliance for further 
+information on this. 
+ 
+S7.28. If you do not wish to certify maintenance for either the worker or their 
+dependants, they must provide evidence they have the necessary level of 
+Page 54 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+funds with their application for entry clearance, permission to enter or 
+permission to stay. Acceptable evidence is set out in Appendix Finance to the 
+Immigration Rules. For further information, see the following guidance on 
+GOV.UK:  
+ 
+• Financial evidence for sponsored or endorsed work routes 
+• Financial requirement: caseworker guidance 
+ 
+S7.29. Applicants will automatically meet the financial requirement if, at the date of 
+application, they have been in the UK with permission for 12 months or 
+longer. This means you do not have to certify maintenance for such 
+applicants, and they do not need to provide evidence of their finances with 
+their application. 
+ 
+ATAS requirement 
+S7.30. If you assign a CoS on any of the routes listed below, you will need to check 
+and confirm on the CoS whether the worker needs an Academic Technology 
+Approval Scheme (ATAS) certificate: 
+ 
+• Skilled Worker 
+• the Global Business Mobility routes 
+• Government Authorised Exchange 
+• International Agreement 
+• Scale-up 
+ 
+S7.31. ATAS is a scheme administered by the Foreign, Commonwealth and 
+Development Office (FCDO). Its purpose is to prevent the transfer of 
+information, knowledge or technology which could develop, advance or 
+support an Advanced Conventional Military Technology (ACMT) and 
+Weapons of Mass Destruction (WMD) programme or their means of delivery.  
+ 
+S7.32. Overseas nationals who wish to undertake study or research at postgraduate 
+level or above in certain sensitive subject areas must apply for an ATAS 
+certificate before they can start their study or research in the UK. It is your 
+responsibility to check whether the person needs an ATAS certificate and, if 
+so, to ensure they apply for one. The person’s application is likely to be 
+refused, and you may lose your sponsor licence (or licences), if you do not 
+meet these responsibilities. 
+ 
+Who needs an ATAS certificate? 
+S7.33. A worker will need an ATAS certificate if all of the following are true: 
+ 
+• you are also licensed as a Student sponsor 
+• the worker is not an ‘exempt national’ 
+• you are sponsoring the worker on any of the following routes: 
+o Skilled Worker 
+o any of the Global Business Mobility routes 
+Page 55 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+o Government Authorised Exchange  
+o International Agreement  
+o Scale-up 
+• the role in which you are sponsoring the worker is in a ‘relevant occupation 
+code’ 
+• the role includes an element of research at PhD level or above in a 
+‘relevant subject area’ 
+ 
+S7.34. If all of the above are true, the worker must apply for an ATAS certificate 
+before they start their research and include a copy with their application for 
+entry clearance or permission to stay. An ATAS certificate is valid for 6 
+months once issued – if it has not been used in an application for entry 
+clearance or permission to stay within this period, the worker will need to 
+apply for a new one. 
+ 
+S7.35. If any of the above bullet points are not true, the worker does not need an 
+ATAS certificate.  
+ 
+S7.36. For a list of relevant occupation codes, relevant subject areas and exempt 
+nationals, see Annex S1 of this document. 
+ 
+Action for you as the sponsor 
+S7.37. When you assign a CoS on any of the routes listed above, you must confirm 
+(by answering ‘yes’ or ‘no’ to the relevant question) whether the worker needs 
+an ATAS certificate.  
+ 
+S7.38. You must make these checks each time you assign a CoS to a worker on 
+these routes. This includes for extension of permission applications, even if 
+the worker did not require an ATAS certificate when they were last granted 
+permission.  
+ 
+S7.39. You must take care to give accurate information. If you say a worker does not 
+need an ATAS certificate when they do, we will consider revoking your 
+sponsor licence (or licences).  
+ 
+If the worker needs an ATAS certificate 
+S7.40. If the worker needs an ATAS certificate, you should advise them to apply for 
+one as soon as possible, if they have not already done so. The worker will 
+need to include a copy of their certificate with their application for entry 
+clearance or permission to stay. You must also keep a copy of either their 
+ATAS certificate, or the electronic approval notice the worker received from 
+the FCDO, as part of your record-keeping duties (see Appendix D to the 
+sponsor guidance). 
+ 
+S7.41. You and the worker should bear in mind that it can take at least 2 weeks (3 
+weeks if applying between April and September) to process an application for 
+an ATAS certificate. You should therefore encourage the worker to apply in 
+plenty of time to ensure their immigration application is not delayed or 
+refused.  
+Page 56 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+S7.42. If a worker who requires an ATAS certificate does not obtain one and include 
+a copy with their application for entry clearance or permission to stay, we will 
+refuse their application. We will also consider revoking your sponsor licence 
+(or licences). You must not continue to sponsor a worker who is subject to 
+the ATAS requirement if they either refuse to apply for an ATAS certificate or 
+the FCDO refuses their application.  
+ 
+If the worker does not need an ATAS certificate 
+S7.43. If you state that the worker does not need an ATAS certificate, you must 
+provide additional information on the CoS if all of the following are true: 
+ 
+• you are also licensed as a Student sponsor 
+• the worker is not an exempt national  
+• the role in which you are sponsoring the worker is in a relevant occupation 
+code 
+ 
+S7.44. You must give a brief explanation of why the worker does not need an ATAS 
+certificate – for example, that the role does not involve any research at PhD 
+level or above in a relevant subject area. You can include this information in 
+either the job description field or by adding a sponsor note after you have 
+assigned the CoS.  
+ 
+S7.45. If any of the above bullet points are not true, you do not have to provide this 
+additional information.  
+ 
+Further information 
+S7.46. For more information on ATAS, including how to apply for a certificate, see 
+the ‘Academic Technology Approval Scheme’ page on GOV.UK. 
+ 
+S7.47. For additional information on your sponsor duties in relation to the ATAS 
+requirement, see ‘Complying with our immigration laws’ in section C1 of Part 
+3: Sponsor a worker. 
+ 
+English language requirement 
+S7.48. A worker will need to prove they have English language skills to the required 
+level if they are applying on any of the following routes: 
+ 
+• Skilled Worker 
+• T2 Minister of Religion 
+• International Sportsperson, if applying for entry clearance or permission to 
+stay for longer than 12 months 
+• Scale-up 
+ 
+S7.49. The level required depends on the route. For further information, see the 
+relevant guidance for work visa applicants on GOV.UK. For detailed 
+information, you can read the Home Office staff guidance on English 
+language requirements on GOV.UK.  
+Page 57 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+S7.50. If you are sponsoring a Seasonal Worker, you must ensure they are given an 
+employment contract in their first language, as well as in English. This is also 
+considered to be good practice for any other route on which the worker does 
+not have to meet a formal English language requirement.  
+ 
+Age requirement 
+S7.51. You cannot sponsor a worker who will be aged under 18 on the date they 
+apply for entry clearance or permission to stay, except in the following 
+circumstances: 
+ 
+• you can sponsor an International Sportsperson if they are aged at least 16 
+on the date they apply for entry clearance or permission to stay 
+• you are sponsoring a T2 Minister of Religion who applied before 6 October 
+2021, in which case the minimum age was 16 
+• there is no specified minimum age on the Creative Worker or Government 
+Authorised Exchange routes 
+• there was no specified minimum age for applicants applying on the former 
+T5 (Temporary Worker) routes (other than Seasonal Workers and private 
+servants in a diplomatic household) before 11 October 2021 
+ 
+S7.52. If you are sponsoring a worker who is aged under 18 (where this is 
+permitted), you must have regard to your duty to safeguard children’s welfare 
+– see ‘Safeguarding children’ in section L2 in Part 1: Apply for a licence for 
+further information on this. 
+ 
+S7.53. You have additional safeguarding duties if you are sponsoring a Creative 
+Worker who is under school-leaving age– see section CRW2 of Sponsor a 
+Creative Worker for further information.  
+ 
+S7.54. Workers aged under 18 (where permitted) must also meet a ‘parental 
+consent’ requirement to be eligible for a grant of entry clearance or 
+permission to enter or stay – see the relevant route-specific guidance for 
+information on this.  
+ 
+Decision on application: proof of immigration status 
+S7.55. The worker will normally receive a letter or an email telling them the outcome 
+of their application for entry clearance or permission to stay. If the application 
+is granted, this written notification is not proof of their immigration status and 
+cannot be used to show their right to work or access services. The worker will 
+be issued with separate proof of their immigration status.  
+ 
+S7.56. The UK has transitioned to a digital immigration system, replacing physical 
+immigration documents with a digital record of the holder’s identity and 
+immigration permission known as an ‘eVisa’. We stopped producing biometric 
+residence permits for applications submitted after 31 October 2024 and 
+started phasing out vignettes issued to entry clearance applicants from 15 
+July 2025. With the exception of workers entering the UK under the Creative 
+Page 58 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Worker visa concession (see paragraph S7.69), all successful applicants will 
+now receive an eVisa.  
+ 
+S7.57. Where the worker has been issued with an eVisa (either on its own or in 
+conjunction with another document), they must create a UKVI account to 
+access it and be able to share their status where required (for example, with 
+an employer or a landlord).  
+ 
+S7.58. A sponsored worker can start working in their sponsored role as soon as their 
+immigration permission becomes valid, provided you have carried out a 
+compliant right to work check before the employment begins, and any follow-
+up checks as necessary. If the worker has an eVisa, this must be an online 
+check using the Home Office ‘Check a job applicant’s right to work’ service on 
+GOV.UK. If you are not the worker’s direct employer, the employer must carry 
+out the check but you must retain evidence this has been done. For detailed 
+guidance on how to carry out the check, see:  
+ 
+• Right to work checks: an employer’s guide 
+• section 1.1 of Appendix D to the sponsor guidance 
+ 
+S7.59. You may also need to check (and retain evidence) of the date the worker 
+entered the UK – see section 1.2 of Appendix D to the sponsor guidance for 
+further information on this requirement.  
+ 
+S7.60. Your licence may be revoked if you fail to carry out these checks. 
+ 
+If the application is granted 
+S7.61. If the worker’s application for entry clearance or permission to stay is granted, 
+they will receive an eVisa as proof of their immigration status.  
+ 
+S7.62. In most cases, this is the only proof of immigration status the worker will now 
+receive. The only exceptions are where all of the following apply: 
+ 
+• the worker applied for entry clearance (a visa from outside the UK) 
+• the worker does not have a Home Office accepted passport or other 
+identity document (for example, if they have a passport or travel document 
+issued by a country or territory not recognised by the UK) 
+• we are otherwise satisfied as to the worker’s identity and nationality 
+• the worker’s application was granted on or after 1 July 2026 
+ 
+S7.63. In this case, the worker will receive both an eVisa and a ‘form for 
+accompanying an eVisa’. They must carry this form with them when they 
+travel to the UK. 
+ 
+Applications granted before 1 July 2026 
+S7.64. Where a worker without a Home Office accepted passport or identity 
+document was granted entry clearance before 1 July 2026, they will have 
+received both an eVisa and a vignette sticker attached to a ‘form for affixing a 
+Page 59 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+visa’ (FAV). 
+ 
+S7.65. The worker will also have received both an eVisa and a vignette if all of the 
+following apply:  
+ 
+• their application for entry clearance was granted before 20 May 2026 
+• they did not use the UK immigration: ID check app to prove their identity 
+when they made their application 
+• they applied before one of the following dates:  
+o 25 February 2026 as a Seasonal Worker and their application was 
+decided on or after 12 January 2026 
+o 30 October 2025 as a Minister of Religion or Scale-up Worker 
+o 15 July 2025 on any other sponsored work route (except for Seasonal 
+Worker) 
+ 
+S7.66. Where the worker submitted a Home Office accepted passport or identity 
+document with their application, the vignette will be affixed to their passport. 
+In all other cases, the vignette will be affixed to a FAV.  
+ 
+S7.67. Where the worker has been issued with a vignette, it will be valid for: 
+ 
+• 90 days if they were granted entry clearance for longer than 6 months 
+• the full duration of their permission if they were granted entry clearance for 
+6 months or less 
+ 
+S7.68. Where the worker has been issued with a 90-day vignette affixed to a FAV, 
+they must travel to the UK within that 90-day period. If they fail to do so, they 
+will need to apply for a form for accompanying an eVisa before they travel to 
+the UK. Where the vignette is affixed to a passport, the worker can still travel 
+to the UK after 90 days, provided they still have a valid eVisa.  
+ 
+Workers who will not receive an eVisa 
+S7.69. The worker will not receive an eVisa if they are granted permission to enter 
+under the Creative Worker visa concession. In this case, they will receive 
+either  
+ 
+• a ‘wet ink’ stamp in their passport (if they entered the UK from outside the 
+Common Travel Area) 
+• an electronic ‘remote clearance’ before they arrive in the UK (if they wish 
+to enter the UK from another part of the Common Travel Area) 
+ 
+S7.70. Seasonal Workers who were granted entry clearance before 12 January 
+2026 (and did not apply using the UK immigration: ID check app) will 
+normally have received a vignette only, valid for the full duration of their 
+permission.  
+ 
+If the application is refused 
+S7.71. If the worker’s application is refused, they will be informed of the reasons 
+Page 60 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+why. They may have a right of administrative review against the decision.  
+ 
+S7.72. You must not employ a worker whose application has been refused, unless 
+they were already legally working for you when they made that application, 
+and you’ve received a ‘Positive Verification Notice’ from the Home Office 
+Employer Checking Service confirming that the worker has an outstanding 
+administrative review or appeal.  
+ 
+S7.73. You must stop sponsoring a person whose application has been refused (and 
+tell us you have done so via your SMS account) if any of the following are 
+true: 
+ 
+• they do not apply for an administrative review within the relevant deadline 
+• their administrative review (or any onward right of appeal) is dismissed 
+• you receive a ‘Negative Verification Notice’ from the Home Office 
+Employer Checking Service 
+ 
+Leaving and returning to the UK 
+S7.74. If a worker:  
+ 
+• entered the UK with entry clearance (granted for any duration); or 
+• was granted permission to stay for more than 6 months  
+ 
+they can leave and re-enter the UK for business, holiday or personal reasons 
+as often as they wish, provided their entry clearance or permission to stay 
+has not expired or been cancelled and they otherwise continue to meet the 
+requirements of the route on which they were granted. 
+ 
+S7.75. If you know or anticipate that the worker you wish to sponsor will need to 
+travel in and out of the UK on a regular basis in connection with their job, you 
+can choose to (but do not have to) tick the ‘Multiple entry’ box when 
+assigning their CoS. If you do this, it does not involve any extra benefits or 
+restrictions on the worker’s ability to travel but does help to show their 
+intentions and likely travel plans to us.  
+ 
+S7.76. This type of CoS is not needed by a sponsored worker who simply wishes to 
+travel overseas for leisure or domestic purposes during the period you 
+sponsor them. If they take annual leave and return home during that period, 
+they can still return to the UK to resume work if their permission is still valid.  
+ 
+S7.77. If, however, a worker:  
+ 
+• has been granted permission to stay in the UK for 6 months or less 
+• has had their permission shortened so they have less than 6 months’ 
+permission remaining; or  
+• entered the UK without entry clearance under the Creative Worker visa 
+concession 
+ 
+Page 61 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+their permission to enter or stay will end (lapse) if they leave the Common 
+Travel Area (CTA). The CTA is the UK, Ireland, the Isle of Man and the 
+Channel Islands (Bailiwick of Guernsey and Bailiwick of Jersey). 
+ 
+S7.78. If a worker’s permission lapses, or expires, while they are outside the CTA, 
+they will not be able to re-enter the UK unless they make a further successful 
+application for entry clearance or permission to enter. In most cases, the 
+application must be supported by a new CoS. The only exception to this is 
+where the worker is eligible to re-enter the UK under the Creative Worker visa 
+concession. Such individuals can use their previous CoS to apply for a new 
+period of permission to enter, provided that CoS is still valid.  
+ 
+S7.79. Religious Workers and Charity Workers applying for entry clearance will be 
+subject to a ‘cooling-off’ period if they’ve been in the UK during the previous 
+12 months with permission on either of these routes – see Sponsor a Minister 
+of Religion or Religious Worker or Sponsor a Charity Worker for further 
+information on this. 
+ 
+Further information on immigration requirements 
+S7.80. There is general information on all work routes on the GOV.UK website in the 
+Work visas section. 
+ 
+S7.81. Sections S8 to S9 of this document contain information on conditions of stay, 
+extending permission to stay, change of employment applications, and 
+settlement.  
+ 
+S7.82. Detailed guidance for Home Office decision makers handling applications for 
+entry clearance and permission to stay can be found on GOV.UK: Working in 
+the UK (immigration staff guidance).  
+ 
+Contents 
+Page 62 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S8. Conditions of stay 
+This section tells you about the conditions of stay a sponsored worker will be subject 
+to if they are granted permission on the Worker or Temporary Worker routes. 
+ 
+Content in this section: 
+ 
+• Overview 
+• No access to public funds 
+• Employment restrictions 
+• Study 
+ 
+Overview 
+S8.1. All people granted entry clearance or permission on the Worker and 
+Temporary Worker routes are subject to the following conditions: 
+ 
+• no access to public funds 
+• restrictions on the employment they can take 
+• study is permitted, subject to certain restrictions 
+ 
+S8.2. It is important that you and the worker understand these conditions. If the 
+worker breaches their conditions of stay, we may take action against you 
+and/or the worker, including: 
+ 
+• cancelling or shortening the worker’s leave 
+• removing the worker from the UK 
+• downgrading, suspending or revoking your licence 
+• in serious cases, referring you or the worker to the police or other relevant 
+authorities 
+ 
+No access to public funds 
+S8.3. All workers granted permission on the Worker and Temporary Worker routes 
+will be subject to a ‘no access to public funds’ condition. This means they 
+may not claim most state benefits or tax credits or access homelessness or 
+housing assistance from the state. Read the guidance on public funds for 
+further information.  
+ 
+Employment restrictions 
+S8.4. Generally, workers granted permission on the Worker or Temporary Worker 
+routes must work for the sponsor, and in the employment, specified on their 
+Certificate of Sponsorship (CoS). Minor changes to the details of that 
+employment are permitted, provided: 
+ 
+• you notify us of the change via the sponsorship management system 
+(SMS) 
+Page 63 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+• the worker continues to meet any salary or other requirements of the route 
+on which they are being sponsored; and 
+• the change would not require a ‘Change of employment’ application 
+ 
+S8.5. In addition, depending on the route on which they have been granted, 
+sponsored workers may be allowed to: 
+ 
+• take additional employment (Scale-up Workers only) 
+• work out a contractual notice period 
+• take supplementary employment  
+• take secondary employment with a second CoS 
+• take limited temporary employment as a sportsperson or as a sports 
+broadcaster 
+• do voluntary work 
+ 
+The subsections below give further information on these allowances.  
+ 
+Additional employment for Scale-up Workers 
+S8.6. A person granted permission as a sponsored Scale-up Worker can take 
+employment (including self-employment and voluntary work) additional to the 
+work for which they are being sponsored. The only restriction on this 
+additional employment is that they must not work as a professional 
+sportsperson or sports coach.  
+ 
+Working out a contractual notice period 
+S8.7. A worker who is sponsored on a Worker route, or a Global Business Mobility 
+route other than Service Supplier, and is making a ‘change of employment’ 
+application, is permitted to work out a contractual notice period for their 
+existing employer, provided they were lawfully working for that employer on 
+the date of application. 
+ 
+Supplementary employment 
+S8.8. Some sponsored workers can take additional paid employment, known as 
+‘supplementary employment’. Except where the worker has completed 
+specialty training as a general practitioner, they must continue to work for 
+their sponsor and in the employment specified in their CoS while doing 
+supplementary employment. In all cases, the additional employment must 
+meet the conditions for supplementary employment set out below.  
+ 
+S8.9. Not all sponsored workers are permitted to take supplementary employment 
+– you and the worker must ensure you understand who can and who cannot 
+take this type of employment and, where it is permitted, what the conditions 
+of that employment are.  
+ 
+Who can take supplementary employment? 
+S8.10. A worker can take supplementary employment if they have been granted 
+entry clearance or permission on any of the following routes: 
+Page 64 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+• Skilled Worker 
+• the Intra-Company routes in place before 11 April 2022 
+• Senior or Specialist Worker (but only if they qualify under a transitional 
+arrangement) 
+• T2 Minister of Religion 
+• International Sportsperson 
+• Creative Worker 
+• Government Authorised Exchange 
+• International Agreement (but only if the worker has been granted as an 
+employee of an overseas government or international organisation) 
+• Religious Worker 
+ 
+S8.11. There are different rules for Scale-up Workers taking ‘additional employment’. 
+ 
+What are the rules of supplementary employment? 
+S8.12. Supplementary employment must meet all of the following requirements: 
+ 
+• it must be for no more than 20 hours a week 
+• the worker must continue working in the job specified in their CoS (except 
+where they have completed specialty training as a general practitioner, as 
+set out below) 
+• it must take place outside of the hours when the worker is contracted to 
+work for the sponsor in the job for which they are being sponsored 
+• it must be one of the following types of eligible employment:  
+o in the same profession and at the same professional level as the work 
+specified in the worker’s CoS 
+o a job which is in an occupation listed in Appendix Immigration Salary 
+List on the date the worker begins the relevant employment 
+o for Skilled Workers only, a job which is in an eligible SOC 2020 
+occupation code listed in Table 1, 2 or 3 of Appendix Skilled 
+Occupations 
+o for Skilled Workers who were granted permission under the Immigration 
+Rules in force before 22 July 2025, and have held continuous 
+permission as a Skilled Worker since then, a job which is in an eligible 
+SOC 2020 occupation listed in Table 1a, 2aa or 3a of Appendix Skilled 
+Occupations 
+ 
+S8.13. Where supplementary employment is permitted, it does not have to be with a 
+licensed sponsor. Sponsored workers do not need to advise us of any 
+supplementary employment they undertake as long as it meets these criteria. 
+ 
+S8.14. If the worker undertakes additional employment that does not meet the 
+supplementary employment criteria, and they have not been granted 
+permission to allow them to take such employment, the worker will be in 
+breach of their conditions of stay.  
+ 
+S8.15. A sponsored worker should advise their new employer that the employment 
+is supplementary to the work they are being sponsored to do, so their 
+Page 65 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+supplementary employer can make the necessary right to work checks 
+outlined in Right to work checks: an employer's guide.  
+ 
+Supplementary employment for general practitioners in specialty 
+training 
+S8.16. From 7 August 2023, where the worker is being sponsored on the Skilled 
+Worker route under occupation code 2211 as a general practitioner in 
+specialty training, they will be granted an additional period of 4 months 
+beyond the end date on their CoS. During this 4-month period they can take 
+supplementary employment even after they have finished working for their 
+sponsor. The supplementary employment must otherwise meet the 
+requirements set out above.  
+ 
+Who cannot take supplementary employment? 
+S8.17. Workers granted on the following routes are not permitted to take 
+supplementary employment – if they do, they will be in breach of their 
+conditions of stay: 
+ 
+• the Global Business Mobility routes (unless the transitional arrangement 
+described below applies) 
+• Charity Worker – however, Charity Workers can do additional voluntary 
+work for another organisation, provided it’s in the same role as the one 
+specified on their CoS 
+• Seasonal Worker 
+• International Agreement, unless they have been granted as an employee 
+of an overseas government or international organisation – however, a 
+private servant in a diplomatic household can take additional employment 
+as a domestic worker in a different household, provided their main 
+employment continues to be as a private servant in the household 
+specified on their CoS 
+ 
+Transitional arrangement for Senior or Specialist Workers  
+S8.18. A worker granted permission as a Senior or Specialist Worker can take 
+supplementary employment only if all of the following are true: 
+ 
+• the application which led to their current grant was for permission to stay 
+(not entry clearance) 
+• the worker was previously granted permission under the Intra-Company 
+routes in place before 11 April 2022 
+• the worker has, since then, continuously had permission as a Senior or 
+Specialist Worker (continuous permission may include short periods 
+without permission that were disregarded under the ‘Exceptions for 
+overstayers’ section in Part Suitability of the Immigration Rules) 
+ 
+S8.19. In all other cases, Senior or Specialist Workers are not permitted to take 
+supplementary employment.  
+ 
+Page 66 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Secondary employment (employment with a second CoS)  
+S8.20. A worker sponsored on any of the Worker routes (other than Senior or 
+Specialist Worker) may be allowed to take a second job which does not meet 
+the supplementary employment criteria described above. We call this 
+secondary employment. It is distinct from the supplementary employment and 
+requires a second CoS to be assigned to the worker.  
+ 
+S8.21. The worker must have used their first CoS in a successful application for 
+entry clearance or permission on a Worker route, and have started the 
+employment for which that CoS was assigned, before they can be assigned a 
+second CoS.  
+ 
+S8.22. Any secondary employment must be with a licensed sponsor and the worker 
+must meet the criteria relevant to the route in which their secondary 
+employment falls. The secondary employer must assign a new CoS to the 
+worker, so that the worker can make an application for permission to stay that 
+will allow them to undertake the secondary employment, in addition to their 
+main employment.  
+ 
+Employment as a sportsperson or sports broadcaster 
+S8.23. Workers granted permission on the International Sportsperson route can do 
+any of the following: 
+ 
+• employment as a sportsperson for their national team while their national 
+team is in the UK  
+• playing in British University and College Sport (BUCS) competitions 
+• temporary engagements as a sports broadcaster – this means providing 
+guest expert commentary on a particular sporting event 
+ 
+S8.24. They do not need to be assigned an additional CoS to do this.  
+ 
+Voluntary work 
+S8.25. People sponsored on the following routes are permitted to do voluntary work 
+in addition to the work for which they are being sponsored (and in addition to 
+any permitted supplementary employment or additional employment):  
+ 
+• Skilled Worker 
+• any of the Global Business Mobility routes 
+• Minister of Religion 
+• International Sportsperson 
+• Scale-up 
+• Charity Worker, provided any additional voluntary work is in the same role 
+as the one for which they are being sponsored and meets the definition of 
+‘eligible charity work’ on that route 
+ 
+S8.26. ‘Voluntary work’ has the same meaning as in section 44 of the National 
+Minimum Wage Act 1998. People doing voluntary work must receive no 
+Page 67 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+payment or other remuneration for this activity, other than reasonable 
+expenses and accommodation, as defined in section 44. For detailed 
+guidance, see section NMWM05090 of the HMRC internal manual. 
+ 
+S8.27. Workers sponsored on any route not listed above are only permitted to do 
+voluntary work if that is the role they are being sponsored for (in which case, 
+they can do that voluntary work only).  
+ 
+Study 
+S8.28. Workers and Temporary Workers may undertake courses of study if they 
+wish, provided their study does not affect their ability to carry out the job they 
+have been sponsored to do, and, if relevant, they meet the ATAS condition 
+below.  
+ 
+S8.29. Study may be undertaken anywhere the individual chooses and does not 
+have to be with a licensed Student sponsor. There is no limit on the number 
+of hours they can study or the level of course they undertake.  
+ 
+ATAS condition 
+S8.30. If a Worker or Temporary Worker (who is not an exempt national) intends to 
+undertake a course of study or research at postgraduate level or above in a 
+discipline specified in Appendix ATAS to the Immigration Rules, they must 
+obtain an Academic Technology Approval Scheme (ATAS) clearance 
+certificate from the Counter-Proliferation and Arms Control Centre of the 
+Foreign, Commonwealth and Development Office before starting the relevant 
+course or research.  
+ 
+S8.31. If they fail to do so, they will be in breach of their conditions of stay. 
+ 
+Contents 
+ 
+Page 68 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+S9. Extension of permission, change 
+of employment and settlement 
+Content in this section: 
+ 
+• Overview 
+• Extension of permission to stay (how to extend sponsorship of a worker) 
+• Change of employment 
+• Settlement 
+ 
+Overview 
+S9.1. A person who is already in the UK with permission on a Worker or Temporary 
+Worker route can apply for further permission to stay in the UK if they 
+continue to meet the requirements of the relevant route. This could be to: 
+ 
+• continue working for the same sponsor in the same employment or 
+occupation code – this is known as an ‘Extension of permission to stay’ 
+• change sponsor, employer or employment – this is known as a ‘Change of 
+employment application’ 
+ 
+S9.2. Applicants who are in the UK must apply before their existing permission 
+expires. If they apply after their permission has expired, their application will 
+be refused (unless the ‘Exceptions for overstayers’ section in Part Suitability 
+of the Immigration Rules applies).  
+ 
+S9.3. For routes other than Skilled Worker, Scale-up or International Sportsperson, 
+we can only grant permission to stay up to the maximum overall period 
+permitted on the relevant route – see the route-specific guidance for details. 
+ 
+S9.4. Workers sponsored on the Seasonal Worker route cannot apply for an 
+extension of stay. 
+ 
+S9.5. Workers on some routes can apply to settle permanently in the UK.  
+ 
+S9.6. Where reference is made in this section to the ‘same occupation code’, this 
+includes where the occupation code has changed as a result of the transition 
+from SOC 2010 occupation codes to SOC 2020 occupation codes. See 
+Tables 2, 2aa, 2a, 2b, 3 or 3a (as applicable) of Appendix Skilled 
+Occupations for details of equivalent occupation codes. 
+ 
+Extension of permission to stay 
+S9.7. If you are sponsoring a worker whose entry clearance or permission to stay is 
+about to expire, and you wish to sponsor them to continue in the same role, 
+or to do a different job in the same occupation code, you must assign them a 
+new Certificate of Sponsorship (CoS) and the worker must make an 
+‘extension of permission to stay’ application.  
+Page 69 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+ 
+S9.8. When you assign a CoS for an extension of permission to stay application, 
+the start date on the CoS should be the day after their current permission 
+expires. The worker must not apply for permission more than 3 months 
+before the start date on the CoS. 
+ 
+S9.9. Provided the worker applies before their permission expires, they can 
+continue working in the same role (or same occupation code) for which you 
+last sponsored them while their application is under consideration.  
+ 
+Different role in the same occupation code 
+S9.10. You can continue to sponsor a worker if they change to a different role within 
+the same occupation code (including where the occupation code has 
+changed as a result of the transition from SOC 2010 to SOC 2020 occupation 
+codes), provided all of the following conditions are met:  
+ 
+• you assigned the CoS which led to their last grant of permission 
+• the new role is within the same occupation code that was on the CoS 
+which led to their last grant of permission (or, if you were sponsoring the 
+worker in a SOC 2010 occupation code, the new role is in an equivalent 
+SOC 2020 occupation code) 
+• the new role is eligible to be sponsored on the relevant route – for 
+example, if you are sponsoring a person on the Skilled Worker, Global 
+Business Mobility, Scale-up or Government Authorised Exchange routes, 
+the role must meet the skill-level requirement for the relevant route – see 
+the relevant route-specific guidance for details and exceptions) 
+• if the worker is being sponsored on the Skilled Worker, Scale-up or Global 
+Business Mobility routes, the new role meets any relevant salary 
+requirements of the route 
+• if the worker is being sponsored on the Skilled Worker route, and they 
+were awarded points on the basis of a job in Appendix Immigration Salary 
+List (or the former Appendix Shortage Occupation List), the new role is 
+also listed in Appendix Immigration Salary List, or the transitional provision 
+in paragraph SW 11.2 of Appendix Skilled Worker applies (see ‘Options D 
+and I: job in Appendix Immigration Salary List’ in section SK6 of Sponsor a 
+Skilled Worker for further information) 
+ 
+S9.11. If a change of role as described above occurs during a period of permission 
+and before the worker needs to make an extension of permission application, 
+you do not need to assign a new CoS at this stage, but you must inform us of 
+the change via your sponsorship management system (SMS) account within 
+10 working days of the change. 
+ 
+S9.12. If the worker needs to make an extension of permission application, you must 
+assign them a new CoS, as described in paragraph S9.8.  
+ 
+Change of employment 
+S9.13. Unless an exception at paragraph S9.17 applies, a worker must be assigned 
+Page 70 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+a new CoS and make a new application for entry clearance or permission to 
+stay (even if their existing permission is not due to expire for some time) if 
+any of the following is true: 
+ 
+• you wish to sponsor the worker to do a job in a different occupation code 
+(except where the change of occupation code is as a result of the 
+transition from SOC 2010 occupation codes to SOC 2020 occupation 
+codes) 
+• the worker was previously sponsored in a job listed in Appendix 
+Immigration Salary List (or the former Appendix Shortage Occupation List 
+or Appendix K) and is moving to job that is not listed in Appendix 
+Immigration Salary List (even if the job is in the same occupation code), 
+unless the transitional provision referred to in paragraph S9.10 above 
+applies 
+• the worker wishes to work for a different sponsor or employer and none of 
+the exceptions at paragraph S9.17 apply 
+ 
+S9.14. This is known as a ‘change of employment’ application. The application must 
+be approved, and the sponsor must carry out relevant right to work checks, 
+before the worker can start work in their new job. This applies in all cases, 
+even if the new job is with the same sponsor. Provided the worker applies 
+before their current permission expires, they can continue working in the 
+same job and for the same sponsor as in their last grant of permission until 
+the change of employment application is granted, or (where their conditions 
+of stay permit it) while working out a contractual notice period. 
+ 
+S9.15. For some routes, you may need to take additional steps before you can 
+assign a CoS to the worker – for example: 
+ 
+• you may have to carry out a resident labour consideration before you can 
+sponsor a Religious Worker 
+• you may have to follow a specific code of practice before you can sponsor 
+a Creative Worker 
+• you will need to obtain an endorsement from the relevant sports governing 
+body to sponsor an International Sportsperson 
+ 
+S9.16. If you fail to comply with these requirements, we will revoke your licence. 
+ 
+Exceptions: change of employment application not required 
+S9.17. A worker will not be required to make a change of employment application if 
+any of the following exceptions apply: 
+ 
+• there is a change of sponsor, but the worker will continue working for the 
+same employer in the same occupation code – see Example 8 in Annex 
+C4 of Part 3: Sponsor duties and compliance for an example of this 
+• there is a change of employer or sponsor but the change is covered by the 
+Transfer of Undertakings (Protection of Employment) Regulations 2006 
+(‘TUPE arrangements’) or similar protection, provided the worker will 
+continue working in the same occupation code assigned by their previous 
+Page 71 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+employer or sponsor – see section C4 in Part 3: Sponsor duties and 
+compliance for further information on this 
+• there is a change of employer but no change of sponsor where the 
+conditions set out under ‘Working for a different branch or related 
+organisation’ in section S1 are met 
+• the worker is sponsored on a graduate training programme covering 
+multiple roles within your organisation and they change occupation during 
+the programme or at the end of the programme when you appoint them 
+permanently 
+• the worker is an International Sportsperson, is being sponsored by a 
+sports club, and is moving to another sports club on loan, where the sports 
+governing body permits this – see section SPT6 of Sponsor an 
+International Sportsperson for information on this 
+• the worker is being sponsored on the Government Authorised Exchange 
+route or the Seasonal Worker route, the change of employment is 
+authorised by the sponsor and is otherwise permitted on that route 
+• the worker is being sponsored in a SOC 2010 occupation code and the 
+change of occupation code is a result of the transition to SOC 2020 
+occupation codes 
+ 
+S9.18. In all of these cases (except where the change is solely as a result of the 
+transition from SOC 2010 to SOC 2020 occupation codes and the worker is 
+staying in the same role), you must tell us of the change of details via your 
+SMS account, in accordance with your reporting duties. See section C1 of 
+Part 3: Sponsor duties and compliance for further information on your 
+reporting duties. If the worker’s permission is about to expire, they will need a 
+new CoS and must make an extension of permission application instead as 
+described above.  
+ 
+Settlement 
+S9.19. Workers on the following routes can apply for settlement (also known as 
+indefinite leave to remain or permanent residence) if they have been 
+continuously and lawfully resident in the UK for 5 years on an eligible route, 
+or combination of routes:  
+ 
+• Skilled Worker 
+• T2 Minister of Religion 
+• International Sportsperson 
+• Scale-up (as an unsponsored worker) 
+ 
+S9.20. You must normally certify that a worker applying for settlement is still working 
+for you and will be required for the foreseeable future. You do not have to 
+make this certification if the worker is applying for settlement as a Scale-up 
+Worker. 
+ 
+S9.21. Applicants on the Skilled Worker and International Sportsperson routes must 
+also meet a minimum salary requirement. Where a minimum salary 
+requirement applies, you must certify you will pay the worker at least that 
+amount for the foreseeable future. We will verify with HMRC that you are 
+Page 72 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+paying the appropriate salary and may also check this during a compliance 
+check. You must not artificially inflate a worker’s salary just so they can 
+qualify for settlement – if we have reasonable grounds to suspect you have 
+done so, we will revoke your sponsor licence.  
+ 
+S9.22. If your licence is suspended when a sponsored worker applies for settlement, 
+we will not decide their application until the reason for the suspension has 
+been resolved.  
+ 
+S9.23. If your licence is revoked before a sponsored worker’s application for 
+settlement is decided, we will refuse their application. 
+ 
+S9.24. You can employ workers who have been granted settlement without needing 
+to sponsor them. If, however, you were previously sponsoring them, you must 
+notify us via your SMS account that they have been granted settlement and 
+that you are no longer sponsoring them. 
+ 
+S9.25. For further information, see the ‘Check if you can get indefinite leave to 
+remain’ tool on GOV.UK. 
+ 
+Contents 
+Page 73 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Annex S1: further information on the 
+ATAS requirement 
+This annex lists the occupation codes and subject areas relevant to the Academic 
+Technology Approval Scheme (ATAS) requirement and the nationalities exempt from 
+that requirement. 
+ 
+This information is based on Appendix ATAS to the Immigration Rules For further 
+information on the ATAS requirement, see section S7 of this document. 
+ 
+Relevant occupation codes 
+The occupation codes covered by the ATAS requirement are: 
+ 
+• 2111 Chemical scientists 
+• 2112 Biological scientists 
+• 2113 Biochemists and biomedical scientists 
+• 2114 Physical scientists 
+• 2115 Social and humanities scientists 
+• 2119 Natural and social science professionals not elsewhere classified 
+• 2122 Mechanical engineers 
+• 2123 Electrical engineers 
+• 2124 Electronics engineers 
+• 2125 Production and process engineers 
+• 2126 Aerospace engineers 
+• 2127 Engineering project managers and project engineers 
+• 2129 Engineering professionals not elsewhere classified 
+• 2161 Research and development (R&D) managers 
+• 2162 Other researchers, unspecified discipline 
+• 2311 Higher education teaching professionals 
+• 3111 Laboratory technicians  
+• 3112 Electrical and electronics technicians 
+• 3113 Engineering technicians 
+• 3114 Building and civil engineering technicians 
+• 5234 Aircraft maintenance and related trades 
+ 
+Relevant subject areas 
+The subject areas covered by the ATAS requirement are listed below by their 
+Common Aggregation Hierarchy (CAH3) code: 
+ 
+Subjects allied to Medicine: 
+CAH02-02-01 - Pharmacology 
+CAH02-02-02 - Toxicology 
+CAH02-02-03 - Pharmacy 
+CAH10-01-06 - Bioengineering, Medical and Biomedical Engineering 
+ 
+Page 74 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Biological Sciences: 
+CAH03-01-02 - Biology (non-specific) 
+CAH03-01-03 - Ecology and Environmental Biology 
+CAH03-01-06 - Zoology 
+CAH03-01-04 - Microbiology and Cell Science 
+CAH03-01-05 - Plant Sciences 
+CAH10-03-05 - Biotechnology 
+CAH03-01-07 - Genetics 
+CAH02-05-03 - Biomedical Sciences (non-specific) 
+CAH03-01-08 - Molecular Biology, Biophysics and Biochemistry 
+CAH03-01-01 - Biosciences (non-specific) 
+CAH03-01-10 - Others in Biological Sciences 
+ 
+Veterinary Sciences, Agriculture and related subjects: 
+CAH05-01-02 - Others in Veterinary Sciences 
+CAH06-01-02 - Agricultural sciences 
+ 
+Physical Sciences: 
+CAH07-02-01 - Chemistry 
+CAH10-03-07 - Materials Science 
+CAH07-01-01 - Physics 
+CAH07-01-02 - Astronomy 
+CAH26-01-05 - Others in Geographical Studies 
+CAH07-04-01 - Physical Sciences (non-specific) 
+CAH07-04-03 - Sciences (non-specific) 
+CAH07-04-04 - Natural Sciences (non-specific) 
+ 
+Mathematical and Computer Sciences: 
+CAH09-01-01 - Mathematics 
+CAH09-01-02 - Operational Research 
+CAH11-01-01 - Computer Science 
+CAH11-01-02 - Information Technology 
+CAH11-01-03 - Information Systems 
+CAH11-01-04 - Software Engineering 
+CAH11-01-05 - Artificial Intelligence 
+ 
+Engineering: 
+CAH10-01-01 - Engineering (non-specific) 
+CAH10-01-07 - Civil Engineering 
+CAH10-01-02 - Mechanical Engineering 
+CAH10-01-04 - Aeronautical and Aerospace Engineering 
+CAH10-01-05 - Naval Architecture 
+CAH10-01-08 - Electrical and Electronic Engineering 
+CAH10-01-09 - Chemical, Process and Energy Engineering 
+ 
+Technologies: 
+CAH10-03-03 - Polymers and Textiles 
+CAH10-03-01 - Minerals Technology 
+CAH10-03-02 - Materials Technology 
+CAH10-03-04 - Maritime Technology 
+Page 75 of 75 Sponsor guidance Part 2: sponsor a worker - version 08/26 
+Exempt nationalities 
+Nationals of the following countries are exempt from the ATAS requirement and 
+therefore do not require an ATAS certificate: 
+ 
+• Australia 
+• Austria 
+• Belgium 
+• Bulgaria 
+• Canada 
+• Croatia 
+• Republic of Cyprus 
+• Czech Republic 
+• Denmark 
+• Estonia 
+• Finland 
+• France 
+• Germany 
+• Greece 
+• Hungary 
+• Iceland 
+• Ireland 
+• Italy 
+• Japan 
+• Latvia 
+• Liechtenstein 
+• Lithuania 
+• Luxembourg 
+• Malta 
+• Netherlands 
+• New Zealand 
+• Norway 
+• Poland 
+• Portugal 
+• Republic of Korea 
+• Romania 
+• Singapore 
+• Slovakia 
+• Slovenia 
+• Spain 
+• Sweden 
+• Switzerland 
+• United States of America 
+ 
+Contents 
+ 

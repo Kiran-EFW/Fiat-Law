@@ -1,0 +1,25 @@
+# Build and tooling output
+node_modules
+.next
+out
+build
+__pycache__
+*.pyc
+.DS_Store
+*.tsbuildinfo
+
+# Local tool state
+.scalix
+
+# Environment — never commit real values; .env.example is tracked
+.env*
+!.env.example
+
+# Runtime lead database
+data/*.db
+data/*.db-*
+
+# Editor and OS
+.idea
+.vscode
+Thumbs.db

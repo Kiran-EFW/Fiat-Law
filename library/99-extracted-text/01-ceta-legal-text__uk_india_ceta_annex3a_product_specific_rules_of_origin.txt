@@ -1,0 +1,1946 @@
+# SOURCE: library/01-ceta-legal-text/uk_india_ceta_annex3a_product_specific_rules_of_origin.pdf
+# pages: 33
+
+ 
+Annex 3A - 1 
+ANNEX 3A 
+Product Specific Rules of Origin 
+ 
+Section A  
+Headnotes to the Annex  
+1. For the purposes of this Annex: 
+(a) “section” means a section of the Harmonized System;  
+(b) “chapter” means the first two digits of the tariff classification number 
+under the Harmonized System;   
+(c) “heading” means the first four digits of the tariff classification number 
+under the Harmonized System; and   
+(d) “sub-heading” means the first six digits of the tariff classification 
+number under the Harmonized System.  
+2. The product specific rule, or set of product specific rules, that appl y to a 
+particular chapter, heading or sub -heading are described in this Annex at 
+Column 3. Where, in some cases, a chapter or heading is preceded by “ex”, this 
+signifies that the product specific rule applies only to part of that chapter or 
+heading. Where a sub -heading is preceded by “ex”, this signifies that the 
+product specific rule applies only to part of that sub -heading, as per the 
+description at Column 2. 
+3. Section notes, where applicable, are found at the beginning of each section, and 
+are read in conjunction with the product specific rules of origin and may impose 
+further conditions on, or provide an alternative, product specific rule of origin. 
+4. A requirement of a change in tariff classification applies only to non-originating 
+materials. 
+5. If a chapter, heading or sub -heading is excluded as part of a change in tariff 
+classification rule, it means that non -originating materials of that chapter, 
+heading or sub -heading may not be used to meet the change in tariff 
+classification rule. 
+6. Note 5 does not apply where non-originating materials do not exceed either the 
+relevant value or weight percentage as specified for  that chapter as set out in 
+Article 3.9 (Tolerance). 
+7. Where a chapter, heading or sub -heading is subject to alternative product 
+specific rules, the requirements of this Annex will be considered to be satisfied 
+if a good satisfies one of the alternative rules.   
+8. If a good is subject to a product specific rule that includes multiple 
+requirements, the requirements of this Annex will be considered to be satisfied 
+for that good only if the good satisfies all applicable requirements.  
+ 
+Annex 3A - 2 
+9. For the purposes of Section B of this Annex:   
+(a) “WO” means wholly obtained as established in Article 3.3 (Wholly 
+Obtained); 
+(b) “CC” means that all non-originating materials used in the production of 
+the good have undergone a change in tariff classification at the two-digit 
+level; 
+(c) “CTH” means that all non-originating materials used in the production 
+of the good have undergone a change in tariff classification at the four-
+digit level; 
+(d) “CTSH” means that all non -originating materials used in the 
+production of the good have undergone a change in tariff classification 
+at the six-digit level;  
+(e) “QVC” means that the good must have a qualifying value content as 
+calculated under Article 3.5 (Qualifying Value Content) of not less than 
+the percentage specified in Column 3 , whether using the build -up 
+method or build-down method; 
+(f) “Standard QVC ” means that the good must have a qualifying value 
+content as calculated under Article 3.5 (Qualifying Value Content) of 
+not less than: 
+(i) 40 percent of the ex-works price under the build-down method; 
+(ii) 45 percent of the free -on-board value under the build -down 
+method; or 
+(iii) 35 percent of either the ex -works price or free -on-board value 
+under the build-up method; 
+(g) “build-down method” means the good has a qualifying value content 
+calculated using the build -down method under Article 3.5 (Qualifying 
+Value Content); 
+(h) “build-up method ” means the good has a qualifying value content 
+calculated using the build -up method under Article 3.5 (Qualifying 
+Value Content); 
+(i) “ex-works price ” means the good is valued in accordance with 
+Article 3.4 (Value of the Good); 
+(j) “free-on-board value” means the good is value d in accordance with 
+Article 3.4 (Value of the Good); and 
+(k) “Melt and Pour” means the process undertaken in one or both of the 
+Parties where the iron or steel is: (a) first produced in a n iron or steel-
+making furnace in a liquid state; and then (b) poured into its first solid 
+shape.  
+ 
+Annex 3A - 3 
+10. This Annex is based on the 2022 Edition of the Harmonized System, which 
+entered into force on 1 January 2022. 
+ 
+Section B 
+Product Specific Rules of Origin 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+Chapter 1 Live animals WO 
+Chapter 2 Meat and edible meat offal WO 
+Chapter 3 Fish and crustaceans, molluscs 
+and other aquatic invertebrates 
+WO 
+Chapter 4 Dairy produce; birds’ eggs; 
+natural honey; edible products of 
+animal origin, not elsewhere 
+specified or included 
+WO 
+Chapter 5 Products of animal origin ; not 
+elsewhere specified or included 
+WO 
+SECTION II 
+VEGETABLE 
+PRODUCTS 
+Section Note: An agricultural or horticultural good grown in 
+the territory of a Party is originating even if grown from seed, 
+bulbs, rhizomes, rootstock, cuttings, slips, grafts, shoots, buds, 
+or other live parts of plants that are imported from a non-Party. 
+Chapter 6 Live trees and other plants; 
+bulbs, roots and the like; cut 
+flowers and ornamental foliage 
+WO 
+Chapter 7 Edible vegetables and certain 
+roots and tubers 
+WO 
+Ex Chapter 8 Edible fruit and nuts; peel of 
+citrus fruit or melons 
+WO 
+0812 Fruit and nuts provisionally 
+preserved, but unsuitable in that 
+state for immediate consumption 
+CTH 
+0813 
+ 
+Fruit, dried, other than that of 
+headings 0801 to 0806; mixtures 
+of nuts or dried fruits of chapter 
+08 
+CTH 
+ 
+Annex 3A - 4 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+Ex Chapter 9 Coffee, tea, maté and spices WO 
+090112 Coffee, not roasted: 
+decaffeinated 
+CTSH 
+090121 Coffee roasted: not decaffeinated CTSH 
+090122 Coffee roasted: decaffeinated CTSH 
+090190 Coffee; coffee husks and skins; 
+coffee substitutes containing 
+coffee in any proportion 
+CTSH 
+090210 Green tea (not fermented) in 
+immediate packings of a content 
+not exceeding 3kg 
+CTSH; or  
+blending 
+090220 Green tea (not fermented) in 
+immediate packings of a content 
+exceeding 3kg 
+CC; or  
+blending 
+090230 Black tea (fermented) and partly 
+fermented tea, in immediate 
+packings of a content not 
+exceeding 3kg 
+CTSH; or  
+blending 
+090240 Black tea (fermented) and partly 
+fermented tea, in immediate 
+packings of a content exceeding 
+3kg 
+CC; or  
+blending 
+Chapter 10 Cereals WO 
+Ex Chapter 11 Products of the milling industry; 
+malt; starches; inulin; wheat 
+gluten 
+WO 
+1101 Wheat or meslin flour CC 
+1102 Cereal flours other than of wheat 
+or meslin 
+CC 
+110319 Groats and meal: of other cereals  CC 
+Ex 110320 Pellets of oats CC 
+ 
+Annex 3A - 5 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+110412 Rolled or flaked cereal grains: of 
+oats 
+CC 
+110422 Other worked grains (e.g. hulled, 
+pearled, sliced or kibbled): of 
+oats 
+CC 
+1107 Malt, whether or not roasted CC 
+Chapter 12 Oil seeds and oleaginous fruits; 
+miscellaneous grains, seeds and 
+fruit; industrial or medicinal 
+plants; straw and fodder 
+WO 
+Chapter 13 Lac; gums, resins and other 
+vegetable saps and extracts 
+CC 
+Chapter 14 Vegetable plaiting materials; 
+vegetable products not elsewhere 
+specified or included 
+WO 
+Ex Chapter 15 Animal, vegetable or microbial 
+fats and oils and their cleavage 
+products; prepared edible fats; 
+animal or vegetable waxes 
+CTH and Standard QVC 
+1505 Wool grease and fatty substances 
+derived therefrom (including 
+lanolin) 
+CC 
+151211 Sunflower-seed or safflower oil 
+and fractions thereof: crude oil 
+CC 
+151219 Sunflower-seed or safflower oil 
+and fractions thereof: other  
+CC 
+151221 Cotton-seed oil and its fractions: 
+crude oil, whether or not 
+gossypol has been removed 
+CC 
+151229 Cotton-seed oil and its fractions: 
+other 
+CC 
+151411 Low erucic acid rape or colza oil 
+and its fractions: crude oil 
+CC 
+ 
+Annex 3A - 6 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+151419 Low erucic acid rape or colza oil 
+and its fractions: other than 
+crude oil 
+CTSH 
+151491 Crude rape, colza or mustard oil 
+and fractions thereof, not 
+chemically modified: other than 
+low erucic acid rape or colza oil 
+and its fractions 
+CC 
+151499 Other rape, colza or mustard oil 
+and fractions thereof, not 
+chemically modified: other than 
+low erucic acid rape or colza oil 
+and its fractions 
+CTSH 
+1515 Other fixed vegetable or 
+microbial fats and oils (including 
+jojoba oil) and their fractions, 
+whether or not refined, but not 
+chemically modified 
+CC 
+1516 Animal, vegetable or microbial 
+fats and oils and their fractions, 
+partly or wholly hydrogenated, 
+inter-esterified, re-esterified or 
+elaidinised, whether or not 
+refined, but not further prepared 
+CC 
+1518 Animal, vegetable or microbial 
+fats and oils and their fractions, 
+boiled, oxidised, dehydrated 
+sulphurised, blown, polymerised 
+by heat in vacuum or in inert gas 
+or otherwise chemically 
+modified, excluding those of 
+heading 1516; inedible mixtures 
+or preparations of animal, 
+vegetable or microbial fats or 
+oils or of fractions of different 
+fats or oils of chapter 15, not 
+elsewhere specified or included 
+CC 
+1520 Glycerol, crude; glycerol waters 
+and glycerol lyes 
+CC 
+ 
+Annex 3A - 7 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+1521 Vegetable waxes (other than 
+triglycerides), beeswax, other 
+insect waxes and spermaceti, 
+whether or not refined or 
+coloured 
+CTH 
+Chapter 16 Preparations of meat, of fish, of 
+crustaceans, molluscs or other 
+aquatic invertebrates, or of 
+insects;  
+CC 
+Ex Chapter 17 Sugars and sugar confectionary CC 
+1702 Other sugars, including 
+chemically pure lactose, maltose, 
+glucose or fructose, in solid 
+form: sugar syrups not 
+containing added flavouring or 
+colouring matter; artificial 
+honey, whether or not mixed 
+with natural honey; caramel 
+CTH 
+1704 Sugar confectionery (including 
+white chocolate), not containing 
+cocoa 
+CTH 
+Ex Chapter 18 Cocoa and cocoa preparations WO 
+Ex 1806 Chocolate and other food 
+preparations containing cocoa 
+CTH, excluding non -
+originating materials from 
+heading 1805 
+180690 Other chocolate and other food 
+preparations containing cocoa 
+CTH 
+Ex Chapter 19 Preparations of cereal, flour, 
+starch or milk; pastrycooks’ 
+products 
+CC, in which the non -
+originating materials of 
+chapters 10 and 11 do not 
+exceed 30 percent of the 
+value or net -weight of the 
+good. Article 3.9 
+(Tolerance) does not apply 
+to non-originating 
+materials of chapters 10 
+and 11. 
+ 
+Annex 3A - 8 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+1901 Malt extract; food preparations 
+of flour, groats, meal, starch, 
+malt extract, not containing 
+cocoa or containing less than 
+40% by weight of cocoa 
+calculated on a totally defatted 
+basis, not elsewhere specified or 
+included; food preparations of 
+goods of headings 0401 to 0404, 
+not containing cocoa or 
+containing less than 5% by 
+weight of cocoa calculated on a 
+totally defatted basis, not 
+elsewhere specified or included 
+CC 
+1904 Prepared foods obtained by the 
+swelling or roasting of cereals or 
+cereal products (e.g. corn 
+flakes); cereals (other than maize 
+(corn)) in grain form or in the 
+form of flakes or other worked 
+grains (except flour, groats and 
+meal), pre-cooked, or otherwise 
+prepared, not elsewhere 
+specified or included 
+CC, in which  the non-
+originating materials of 
+chapters 10 and 11 do not 
+exceed 60 percent of the 
+value or net-weight of the 
+good. Article 3.9 
+(Tolerance) does not apply 
+to non-originating 
+materials of chapters 10 
+and 11. 
+1905 Bread, pastry, cakes, biscuits, 
+and other bakers’ wares, whether 
+or not containing cocoa; 
+communion wafers, empty 
+cachets of a kind suitable for 
+pharmaceutical use, sealing 
+wafers, rice paper and similar 
+products 
+CTH 
+Chapter 20 Preparations of vegetables, fruit, 
+nuts or other parts of plants 
+CTH and Standard QVC 
+Ex Chapter 21 Miscellaneous edible 
+preparations 
+CC, excluding non -
+originating materials from 
+chapter 4 
+210310 Soya sauce CTH 
+210320 Tomato ketchup and other 
+tomato sauces 
+CTSH 
+ 
+Annex 3A - 9 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+210330 Mustard flour and meal and 
+prepared mustard 
+CTH 
+210390 Other sauces and preparations 
+therefor; mixed condiments and 
+mixed seasonings 
+CTSH 
+2104 Soups and broths and 
+preparations therefor; 
+homogenised composite food 
+preparations 
+CTSH 
+2105 Ice cream and other edible ice; 
+whether or not containing cocoa 
+CTH 
+2106 Food preparations not elsewhere 
+specified or included 
+CTH 
+Ex Chapter 22 Beverages, spirits and vinegar CC 
+2203 Beer made from malt CC, excluding non -
+originating materials from 
+heading 1901 
+2204 Wine of fresh grapes, including 
+fortified wines; grape must other 
+than that of heading 2009 
+CC, excluding non -
+originating materials from 
+heading 2009 
+2205 Vermouth and other wine of 
+fresh grapes, flavoured with 
+plants or aromatic substances 
+CC, excluding non -
+originating materials from 
+heading 2009 
+2206 Other fermented beverages (e.g. 
+cider, perry, mead, saké); 
+mixtures of fermented beverages 
+and mixtures of fermented 
+beverages and non-alcoholic 
+beverages, not elsewhere 
+specified or included 
+CC, excluding non -
+originating materials from 
+heading 0409 
+Ex 2208 Undenatured ethyl alcohol of an 
+alcoholic strength by volume of 
+less than 80% volume; spirits, 
+liqueurs and other spirituous 
+beverages 
+CTH and Standard QVC 
+220830 Whiskies CTH 
+ 
+Annex 3A - 10 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+Ex 220850 Gin, in containers holding 2 
+litres or less 
+CTH  
+Ex Chapter 23 Residues and wastes from the 
+food industries; prepared animal 
+fodder 
+CC 
+2305 Oil-cake and other solid 
+residues, whether or not ground 
+or in the form of pellets, 
+resulting from the extraction of 
+ground-nut oil 
+CTH and Standard QVC 
+2306 Oil-cake and other solid 
+residues, whether or not ground 
+or in the form of pellets, 
+resulting from the extraction of 
+vegetable or microbial fats or 
+oils, other than those of heading 
+2304 or 2305 
+CTH and Standard QVC 
+2307 Wine lees; argol CTH and Standard QVC 
+2308 Vegetable materials and 
+vegetable waste, vegetable 
+residues and bi-products, 
+whether or not in the form of 
+pellets, of a kind used in animal 
+feeding, not elsewhere specified 
+or included 
+CTH and Standard QVC 
+2309 Preparations of a kind used in 
+animal feeding 
+CTH 
+Ex Chapter 24 Tobacco and manufactured 
+tobacco substitutes; products, 
+whether or not containing 
+nicotine, intended for inhalation 
+without combustion; other 
+nicotine containing products 
+intended for the intake of 
+nicotine into the human body 
+CTH 
+2401 Unmanufactured tobacco; 
+tobacco refuse 
+WO 
+ 
+Annex 3A - 11 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+Chapter 25 Salt; sulphur; earths and stone; 
+plastering materials, lime and 
+cement 
+CTSH and Standard QVC 
+Chapter 26 Ores, slag and ash CTSH and Standard QVC 
+Chapter 27 Mineral fuels, mineral oils and 
+products of their distillation; 
+bituminous substances; mineral 
+waxes 
+CTSH 
+SECTION VI 
+PRODUCTS OF 
+THE CHEMICAL 
+OR ALLIED 
+INDUSTRIES 
+Section Note 1: Chemical Reaction Rule 
+Notwithstanding the applicable product specific rules of origin, 
+a good of chapter 2 8 through 3 8 that is the product of a 
+chemical reaction satisfies the requirements of this Annex if the 
+chemical reaction occurs in the territory of one or both of the 
+Parties. For the purposes of this rule: “chemical reaction ” 
+means a process (including a biochemical process) which 
+results in a molecule with a new structure by breaking 
+intramolecular bonds and by forming new intramolecular 
+bonds, or by altering the spatial arrangement of atoms in a 
+molecule. The following are not chemical reactions: 
+(a)  dissolving in water or other solvents; 
+(b)  the elimination of solvents including solvent water; or 
+(c)  the addition or elimination of water of crystallisation. 
+Section Note 2: Mixing and Blending Rule 
+Notwithstanding the applicable product specific rules of origin, 
+a good of chapter 33, satisfies the requirements of this Annex 
+if mixing and blending occurred in the territory of one or both 
+of the Parties. For the purposes of this rule:  “mixing and 
+blending” means the deliberate and proportionally controlled 
+mixing or blending (including dispersing) of materials other 
+than the addition of diluents, to conform to predetermined 
+specifications which results in the production of a good having 
+physical or chemical characteristics which are relevant  to the 
+purposes or uses of the good and are different from the input 
+materials. 
+Chapter 28 Inorganic chemicals; organic or 
+inorganic compounds of precious 
+metals, of rare-earth metals, of 
+radioactive elements or of 
+isotopes 
+CTSH; or  
+Standard QVC; or 
+chemical reaction 
+ 
+Annex 3A - 12 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+Chapter 29 Organic chemicals CTSH; or  
+Standard QVC; or 
+chemical reaction 
+Chapter 30 Pharmaceutical products CTSH; or  
+Standard QVC; or 
+chemical reaction 
+Ex Chapter 31 Fertilisers CTSH; or 
+chemical reaction 
+3105 Mineral or chemical fertilizers 
+containing 2 or 3 of the 
+fertilising elements nitrogen, 
+phosphorus, potassium; other 
+fertilisers; goods of chapter 31 in 
+tablets or similar forms or in 
+packages of a gross weight not 
+exceeding 10 kg 
+CTH; or  
+chemical reaction 
+Chapter 32 Tanning or dyeing extracts; 
+tannins and their derivatives; 
+dyes, pigments and other 
+colouring matter; paints, 
+varnishes; putty, other mastics; 
+inks 
+CTSH; or  
+Standard QVC; or 
+chemical reaction 
+Chapter 33 Essential oils and resinoids; 
+perfumery, cosmetic or toilet 
+preparations 
+CTH; or  
+chemical reaction; or 
+mixing and blending 
+Chapter 34 Soap, organic surface-active 
+agents, washing preparations, 
+lubricating preparations, 
+artificial waxes, prepared waxes, 
+polishing or scouring 
+preparations, candles and similar 
+articles, modelling pastes, 
+“dental waxes” and dental 
+preparations with a basis of 
+plaster 
+CTH; or  
+chemical reaction 
+ 
+Annex 3A - 13 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+Chapter 35 Albuminoidal substances; 
+modified starches; glues; 
+enzymes 
+CTSH; or  
+chemical reaction 
+Chapter 36 Explosives; pyrotechnic 
+products; matches; pyrophoric 
+alloys; certain combustible 
+preparations 
+CTH; or  
+chemical reaction 
+Chapter 37 Photographic or cinematographic 
+goods 
+CTH excluding non-
+originating materials from 
+headings 3701, 3702  and 
+3703; or  
+chemical reaction 
+Chapter 38 Miscellaneous chemical products  CTSH; or  
+chemical reaction 
+SECTION VII 
+PLASTICS AND 
+ARTICLES 
+THEREOF; 
+RUBBER AND 
+ARTICLES 
+THEREOF 
+ 
+Section Note 1: Chemical Reaction Rule 
+Notwithstanding the applicable product specific rules of origin, 
+a good of chapter 39 that is the product of a chemical reaction 
+satisfies the requirements of this Annex if the chemical reaction 
+occurs in the territory of one or both of the Parties. For the 
+purposes of this rule: “chemical reaction ” means a process 
+(including a biochemical process) which results in a molecule 
+with a new structure by breaking intramolecular bonds and by 
+forming new intramolecular bonds, or by altering the spatial 
+arrangement of atoms in a molecule. The following are n ot 
+chemical reactions: 
+(a)  dissolving in water or other solvents; 
+(b)  the elimination of solvents including solvent water; or 
+(c)  the addition or elimination of water of crystallisation. 
+Ex Chapter 39 Plastics and articles thereof CTSH; or  
+chemical reaction 
+3915 Waste, parings and scrap, of 
+plastics 
+WO 
+Ex Chapter 40 Rubber and articles thereof CTH; or  
+Standard QVC  
+ 
+Annex 3A - 14 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+4001 Natural rubber, balata, gutta-
+percha, guayule, chicle and 
+similar natural gums; in primary 
+forms or in plates, sheets or strip 
+WO 
+4012 Retreaded or used pneumatic 
+tyres of rubber; solid or cushion 
+tyres, tyre treads and tyre flaps, 
+of rubber 
+CTSH and Standard QVC 
+4014 Hygienic or pharmaceutical 
+articles (including teats), of 
+vulcanised rubber other than 
+hard rubber, with or without 
+fittings of hard rubber 
+CTSH and Standard QVC 
+4015 Articles of apparel and clothing 
+accessories (including gloves, 
+mittens and mitts), for all 
+purposes, of vulcanised rubber 
+other than hard rubber 
+CTSH and Standard QVC 
+Chapter 41 Raw hides and skins (other than 
+furskins) and leather 
+CTSH and Standard QVC 
+Chapter 42 Articles of leather; saddlery and 
+harness; travel goods, handbags 
+and similar containers; articles of 
+animal gut (other than silk-worm 
+gut) 
+CTH and Standard QVC 
+ 
+Chapter 43 Furskins and artificial fur; 
+manufactures thereof 
+CTH and Standard QVC 
+ 
+Chapter 44 Wood and articles of wood; 
+wood charcoal 
+CTSH and Standard QVC 
+Chapter 45 Cork and articles of cork CTH and Standard QVC 
+Chapter 46 Manufactures of straw, of 
+esparto or of other plaiting 
+materials; basketware and 
+wickerwork 
+CTSH and Standard QVC 
+Chapter 47 Pulp of wood or of other fibrous 
+cellulosic material; recovered 
+CTSH and Standard QVC 
+ 
+Annex 3A - 15 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+(waste and scrap) paper or 
+paperboard 
+Chapter 48 Paper and paperboard; articles of 
+paper pulp, of paper or of 
+paperboard 
+CTSH and Standard QVC 
+Chapter 49 Printed books, newspapers, 
+pictures and other products of 
+the printing industry; 
+manuscripts, typescripts and 
+plans 
+CTSH and Standard QVC 
+Chapter 50 Silk CTH and Standard QVC 
+Chapter 51 Wool, fine or coarse animal hair; 
+horsehair yarn and woven fabric 
+CTH and Standard QVC 
+Chapter 52 Cotton CTH and Standard QVC 
+Chapter 53 Other vegetable textile fibres; 
+paper yarn and woven fabrics of 
+paper yarn 
+CTH and Standard QVC 
+Chapter 54 Man-made filaments; strip and 
+the like of man- made textile 
+materials 
+CTH and Standard QVC 
+Chapter 55 Man-made staple fibres CTH and Standard QVC 
+Chapter 56 Wadding, felt and nonwovens; 
+special yarns; twine, cordage, 
+ropes and cables and articles 
+thereof 
+CTH and Standard QVC 
+Chapter 57 Carpets and other textile floor 
+coverings 
+CTH and Standard QVC 
+Chapter 58 Special woven fabrics, tufted 
+textile fabrics, lace, tapestries, 
+trimmings, embroidery 
+CTH and Standard QVC 
+Chapter 59 Impregnated, coated, covered or 
+laminated textile fabrics; textile 
+articles of a kind suitable for 
+industrial use 
+CTH and Standard QVC 
+ 
+Annex 3A - 16 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+Chapter 60 Knitted or crocheted fabrics CTH and Standard QVC 
+Chapter 61 Articles of apparel and clothing 
+accessories; knitted or crocheted 
+CTH and Standard QVC 
+Chapter 62 Articles of apparel and clothing 
+accessories; not knitted or 
+crocheted 
+CTH and Standard QVC 
+Chapter 63 Other made up textile articles; 
+sets; worn clothing and worn 
+textile articles; rags 
+CTH and Standard QVC 
+Chapter 64 Footwear, gaiters and the like; 
+parts of such articles 
+CTH 
+Chapter 65 Headgear and parts thereof CTH and Standard QVC 
+Chapter 66 Umbrellas, sun umbrellas, 
+walking-sticks, seat-sticks, 
+whips, riding-crops and parts 
+thereof 
+CTSH and Standard QVC 
+Chapter 67 Prepared feathers and down and 
+articles made of feather or of 
+down; artificial flowers; articles 
+of human hair 
+CTSH and Standard QVC 
+Chapter 68 Articles of stone, plaster, 
+cement, asbestos, mica or similar 
+materials 
+CTSH and Standard QVC 
+Chapter 69 Ceramic products CC 
+Chapter 70 Glass and glassware CTH 
+Ex Chapter 71 Natural, cultured pearls; 
+precious, semi-precious stones, 
+precious metals, metals clad with 
+precious metal, and articles 
+thereof; imitation jewellery; coin 
+CTSH and Standard QVC 
+7102 
+ 
+Diamonds, whether or not 
+worked, but not mounted or set 
+CTSH and a QVC of not 
+less than 6% 
+ 
+Annex 3A - 17 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+7103 Precious stones (other than 
+diamonds) and semi-precious 
+stones, whether or not worked or 
+graded but not strung, mounted 
+or set; ungraded precious stones 
+(other than diamonds) and semi-
+precious stones, temporarily 
+strung for convenience of 
+transport 
+CTSH and a QVC of not 
+less than 20% 
+7106 
+ 
+Silver (including silver plated 
+with gold or platinum); 
+unwrought or in semi-
+manufactured forms, or in 
+powder form 
+CTSH and a QVC of not 
+less than 25% 
+7110 Platinum; unwrought or in semi-
+manufactured forms, or in 
+powder form 
+CC 
+Ex 711311 Silver jewellery: Plain CTSH and a QVC of not 
+less than 3.5% 
+Ex 711311 Silver jewellery: Studded with 
+Gemstones  
+CTSH and a QVC of not 
+less than 6% 
+Ex 711311 Silver jewellery: Studded with 
+Diamonds  
+CTSH and a QVC of not 
+less than 7% 
+Ex 711311 Parts CTSH and a QVC of not 
+less than 3.5% 
+Ex 711319 Gold jewellery: Plain CTSH and a QVC of not 
+less than 3.5% 
+Ex 711319 Gold jewellery: Studded with 
+Gemstones 
+CTSH and a QVC of not 
+less than 6% 
+Ex 711319 Gold jewellery: Studded with 
+Diamonds 
+CTSH and a QVC of not 
+less than 7% 
+Ex 711319 Gold jewellery: Studded with 
+Pearls 
+CTSH and a QVC of not 
+less than 6% 
+Ex 711319 Parts CTSH and a QVC of not 
+less than 3.5% 
+ 
+Annex 3A - 18 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+711320 Jewellery: of base metal clad 
+with precious metal, and parts 
+thereof 
+CTSH and a QVC of not 
+less than 3.5% 
+7114 Articles of goldsmiths’ or 
+silversmiths’ wares and parts 
+thereof, of precious metal or of 
+metal clad with precious metal 
+CTSH and a QVC of not 
+less than 3.5% 
+7117 Imitation jewellery CTSH and a QVC of not 
+less than: 
+(a)  35% of the ex -
+works price under 
+the build -down 
+method; or  
+(b)  40% of the free-on-
+board value under 
+the build -down 
+method; or  
+(c)  30% of either the 
+ex-works price or 
+free-on-board 
+value under the 
+build-up method 
+7118 Coin CTH and a QVC of not 
+less than 1.5% 
+Ex Chapter 72 Iron and steel Melt and Pour  in the 
+Parties 
+7201 Pig iron and spiegeleisen in pigs, 
+blocks or other primary forms 
+CTH and a QVC of not 
+less than: 
+(a)  50% of the ex -
+works price under 
+the build -down 
+method; or  
+(b)  55% of the free-on-
+board value under 
+the build -down 
+method; or 
+7202 Ferro-alloys 
+7203 Ferrous products obtained by 
+direct reduction of iron ore and 
+other spongy ferrous products, in 
+lumps, pellets or the similar 
+forms; iron having a minimum 
+purity of 99.94%, in lumps, 
+pellets or similar forms 
+ 
+Annex 3A - 19 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+7204 Ferrous waste and scrap; 
+remelting scrap ingots of iron or 
+steel 
+(c)  45% of either the 
+ex-works price or 
+free-on-board 
+value under the 
+build-up method 7205 Granules and powders, of pig 
+iron, spiegeleisen, iron or steel 
+Chapter 73 Articles of iron or steel  
+ 
+CTH and a QVC of not 
+less than: 
+(a)  50% of the ex -
+works price under 
+the build -down 
+method; or  
+(b)  55% of the free-on-
+board value under 
+the build -down 
+method; or 
+(c)  45% of either the 
+ex-works price or 
+free-on-board 
+value under the 
+build-up method 
+Chapter 74 Copper and articles thereof CTSH and Standard QVC 
+Chapter 75 Nickel and articles thereof CTSH and Standard QVC 
+Ex Chapter 76 Aluminium and articles thereof CTSH and Standard QVC 
+7601 Unwrought Aluminium 
+ 
+Standard QVC; or 
+thermal or electrolytic 
+treatment from unalloyed 
+aluminium or waste and 
+scrap of aluminium 
+7602 Aluminium waste and scrap 
+ 
+CTH; or  
+Standard QVC 
+7603 Aluminium powders and flakes CTH; or  
+Standard QVC 
+7604 Aluminium bars, rods and 
+profiles 
+CTH; or  
+Standard QVC 
+ 
+Annex 3A - 20 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+7605 Aluminium wire CTH; or  
+Standard QVC 
+7606 Aluminium plates, sheets and 
+strip, of a thickness exceeding 
+0.2 mm 
+CTH; or  
+Standard QVC 
+Chapter 78 Lead and articles thereof CTSH and Standard QVC 
+Chapter 79 Zinc and articles thereof CTSH and Standard QVC 
+Chapter 80 Tin and articles thereof CTSH and Standard QVC 
+Chapter 81 Other base metals;  cermets and 
+articles thereof 
+CTSH and Standard QVC 
+Chapter 82 Tools, implements, cutlery, 
+spoons and forks, of base metal; 
+parts thereof of base metal 
+CTSH and Standard QVC 
+Chapter 83 Miscellaneous articles of base 
+metal 
+CTSH and Standard QVC 
+Ex Chapter 84 Nuclear reactors, boilers, 
+machinery and mechanical 
+appliances; parts thereof 
+CTSH and Standard QVC 
+Ex 8401 
+ 
+Nuclear reactors; fuel elements 
+(cartridges), non-irradiated, for 
+nuclear reactors, machinery and 
+apparatus for isotopic separation 
+CTSH; or  
+Standard QVC 
+840140 Parts of nuclear reactors 
+ 
+CTH; or  
+Standard QVC 
+8407  Spark-ignition reciprocating or 
+rotary internal combustion piston 
+engines 
+CTH; or  
+No change in tariff 
+classification required, 
+provided there is a QVC of 
+not less than:  
+(a)  50% of the ex -
+works price under 
+the build -down 
+method; or  
+8408 Compression-ignition internal 
+combustion piston engines 
+(diesel or semi-diesel engines) 
+8409 Parts suitable for use solely or 
+principally with the engines of 
+heading 8407 or 8408 
+ 
+Annex 3A - 21 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+(b)  55% of the free-on-
+board value under 
+the build -down 
+method; or  
+(c)  45% of either the 
+ex-works price or 
+free-on-board 
+value under the 
+build-up method 
+Ex 8411 Turbo-jets, turbo-propellers and 
+other gas turbines 
+CTSH; or  
+Standard QVC 
+841191 Parts of turbo-jets and turbo-
+propellers 
+CTH; or  
+Standard QVC 
+841199 Parts of other gas turbines CTH; or  
+Standard QVC 
+Ex 8413 Pumps for liquids, whether or 
+not fitted with measuring device; 
+liquid elevators 
+CTSH; or  
+Standard QVC 
+841391 Parts of pumps CTH; or  
+Standard QVC 
+841392 Parts of liquid elevators CTH; or  
+Standard QVC 
+Ex 8414 Air or vacuum pumps, air or 
+other gas compressors and fans; 
+ventilating or recycling hoods 
+incorporating a fan, whether or 
+not fitted with filters; gas-tight 
+biological safety cabinets, 
+whether or not fitted with filters 
+CTSH; or  
+Standard QVC 
+841490 Parts of air or vacuum pumps, air 
+or other gas compressors and 
+fans; ventilating or recycling 
+hoods incorporating a fan, 
+whether or not fitted with filters; 
+gas-tight biological safety 
+CTH; or  
+Standard QVC 
+ 
+Annex 3A - 22 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+cabinets, whether or not fitted 
+with filters 
+Ex 8415 Air conditioning machines; 
+comprising a motor-driven fan 
+and elements for changing the 
+temperature and humidity, 
+including those machines in 
+which the humidity cannot be 
+separately regulated 
+CTSH; or  
+Standard QVC 
+841590 Parts of air conditioning 
+machines; comprising a motor-
+driven fan and elements for 
+changing the temperature and 
+humidity, including those 
+machines in which the humidity 
+cannot be separately regulated 
+CTH; or  
+Standard QVC 
+Ex 8419 Machinery, plant or laboratory 
+equipment, whether or not 
+electrically heated, (excluding 
+furnaces, ovens and other 
+equipment of heading 8514) for 
+the treatment of materials by a 
+process involving change of 
+temperature such as heating, 
+cooking, roasting, distilling, 
+rectifying, sterilising, 
+pasteurising, steaming, drying, 
+evaporating, vaporising, 
+condensing or cooling, other 
+than machinery or plant of a kind 
+used for domestic purposes; 
+instantaneous or storage water 
+heaters, non-electric 
+CTSH; or  
+Standard QVC 
+841990 Parts of machinery, plant or 
+laboratory equipment, whether 
+or not electrically heated 
+(excluding furnaces, ovens and 
+other equipment of heading 
+8514), for the treatment of 
+materials by a process involving 
+a change of temperature such as 
+heating, cooking, roasting, 
+distilling, rectifying, sterilising, 
+CTH; or  
+Standard QVC 
+ 
+Annex 3A - 23 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+pasteurising, steaming, drying, 
+evaporating, vaporising, 
+condensing or cooling, other 
+than machinery or plant of a kind 
+used for domestic purposes; 
+instantaneous or storage water 
+heaters, non-electric. 
+Ex 8421 Centrifuges, including 
+centrifugal dryers; filtering or 
+purifying machinery and 
+apparatus, for liquids or gases 
+CTSH; or  
+Standard QVC 
+842191  Parts of centrifuges, including 
+centrifugal dryers 
+CTH; or  
+Standard QVC 
+842199 Parts of filtering or purifying 
+machinery and apparatus, for 
+liquids or gases 
+CTH; or  
+Standard QVC 
+8430 Other moving, grading, 
+levelling, scraping, excavating, 
+tamping, compacting, extracting 
+or boring machinery, for earth, 
+minerals, or ores; pile-drivers 
+and pile-extractors; snow-
+ploughs and snow-blowers 
+CTH; or  
+Standard QVC 
+8431 Parts suitable for use solely or 
+principally with the machinery 
+of heading 8425 to 8430 
+ 
+CTH; or  
+Standard QVC 
+Ex 8443 Printing machinery used for 
+printing by means of plates, 
+cylinders and other printing 
+components of heading 8442; 
+other printers, copying machines 
+and facsimile machines, whether 
+or not combined 
+CTSH; or  
+Standard QVC 
+844391  Parts and accessories of printing 
+machinery used for printing by 
+means of plates, cylinders and 
+other printing components of 
+heading 8442  
+CTH; or  
+Standard QVC  
+ 
+Annex 3A - 24 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+844399 Parts and accessories of other 
+printers, copying machines and 
+facsimile machines, whether or 
+not combined; parts and 
+accessories thereof 
+CTH; or  
+Standard QVC  
+8460 Machine-tools for deburring, 
+sharpening, grinding, honing, 
+lapping, polishing or otherwise 
+finishing metal or cermets by 
+means of grinding stones, 
+abrasives or polishing products, 
+other than gear cutting, gear 
+grinding or gear finishing 
+machines of heading 8461 
+CTH; or 
+Standard QVC 
+8462 Machine-tools (including 
+presses) for working metal by 
+forging, hammering or die 
+forging (excluding rolling mills); 
+machine-tools (including 
+presses, slitting lines and cut-to-
+length lines) for working metal 
+by bending, folding, 
+straightening, flattening, 
+shearing, punching, notching or 
+nibbling (excluding draw-
+benches); presses for working 
+metal or metal carbides, not 
+specified above 
+CTH; or 
+Standard QVC 
+Ex 8479 Machines and mechanical 
+appliances having individual 
+functions, not specified or 
+included elsewhere in chapter 84 
+CTSH; or  
+Standard QVC 
+847990 Parts of machine and mechanical 
+appliances; having individual 
+functions, not specified or 
+included elsewhere in chapter 84 
+CTH; or  
+Standard QVC  
+Ex 8481 Taps, cocks, valves and similar 
+appliances for pipes, boiler 
+shells, tanks, vats or the like, 
+including pressure-reducing 
+CTSH; or  
+Standard QVC 
+ 
+Annex 3A - 25 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+valves and thermostatically 
+controlled valves 
+848190 Parts of taps, cocks, valves and 
+similar appliances for pipes, 
+boiler shells, tanks, vats or the 
+like, including pressure-reducing 
+valves and thermostatically 
+controlled valves 
+CTH; or  
+Standard QVC 
+8483 Transmission shafts (including 
+cam shafts and crank shafts) and 
+cranks; bearing housings and 
+plain shaft bearings; gears and 
+gearing; ball or roller screws; 
+gear boxes and other speed 
+changers, including torque 
+converters; flywheels and 
+pulleys, including pulley blocks; 
+clutches and shaft couplings 
+(including universal joints) 
+CTH; or  
+No change in tariff 
+classification required, 
+provided there is a QVC of 
+not less than:  
+(a)  50% of the ex -
+works price under 
+the build -down 
+method; or  
+(b)  55% of the free-on-
+board value under 
+the build -down 
+method; or  
+(c)  45% of either the 
+ex-works price or 
+free-on-board 
+value under the 
+build-up method  
+Ex Chapter 85 Electrical machinery and 
+equipment and parts thereof; 
+sound recorders and reproducers, 
+television image and sound 
+recorders and reproducers, and 
+parts and accessories of such 
+articles 
+CTSH and Standard QVC 
+8501 Electric motors and generators 
+(excluding generating sets) 
+CTH; or  
+Standard QVC 
+8502 Electric generating sets and 
+rotary converters 
+CTH; or  
+Standard QVC 
+ 
+Annex 3A - 26 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+8503 Parts suitable for use solely or 
+principally with the machines of 
+heading 8501 or 8502 
+CTH; or  
+Standard QVC 
+Ex 8504 Electric transformers, static 
+converters (e.g. rectifiers) and 
+inductors 
+CTSH; or  
+Standard QVC 
+850490 Parts of electric transformers, 
+static converters (e.g. rectifiers) 
+and inductors 
+CTH; or  
+Standard QVC 
+Ex 8506 Primary cells and primary 
+batteries 
+ 
+CTSH; or  
+Standard QVC 
+850690 Parts of primary cells and 
+primary batteries 
+CTH; or  
+Standard QVC  
+8507 Electric accumulators, including 
+separators therefor; whether or 
+not rectangular (including 
+square) 
+CTH or QVC 40% 
+Ex 8511 Electrical ignition or starting 
+equipment of  a kind used for 
+spark-ignition or compression-
+ignition internal combustion 
+engines (e.g. ignition magnetos, 
+magneto-dynamos, ignition 
+coils, sparking plugs and glow 
+plugs, starter motors); generators 
+(e.g., dynamos, alternators) and 
+cut outs of a kind used in 
+conjunction with such engines 
+CTSH; or  
+Standard QVC 
+851190 Parts of electrical ignition or 
+starting equipment of a kind used 
+for spark-ignition or 
+compression-ignition internal 
+combustion engines (e.g., 
+ignition magnetos, magneto-
+dynamos, ignition coils, sparking 
+plugs and glow plugs, starter 
+motors); generators (e.g., 
+dynamos, alternators) and cut-
+CTH; or  
+Standard QVC 
+ 
+Annex 3A - 27 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+outs of a kind used in 
+conjunction with such engines. 
+Ex 8517 Telephone sets, including 
+smartphones and other 
+telephones for cellular networks 
+or for other wireless networks; 
+other apparatus for the 
+transmission or reception of 
+voice, images or other data, 
+including apparatus for 
+communication in a wired or 
+wireless networks (such as local 
+or wide area network), other than 
+transmission or reception 
+apparatus of heading 8443, 8525, 
+8527, or 8528 
+CTSH; or  
+Standard QVC 
+851771 Aerials and aerial reflectors of 
+all kinds, parts suitable for use 
+therewith 
+CTH; or  
+Standard QVC 
+851779 Other parts of telephone sets, 
+including smartphones and other 
+telephones for cellular networks 
+or for other wireless networks; 
+other apparatus for the 
+transmission or reception of 
+voice, images or other data, 
+including apparatus for 
+communication in a wired or 
+wireless networks (such as local 
+or wide area network), other than 
+transmission or reception 
+apparatus of heading 8443, 8525, 
+8527, or 8528 
+CTH; or  
+Standard QVC 
+8536 Electrical apparatus for 
+switching or protecting electrical 
+circuits, or for making 
+connections to or in electrical 
+circuits (e.g., switches, relays, 
+fuses, surge suppressors, plugs, 
+sockets, lamp-holders and other 
+connectors, junction boxes), for 
+a voltage not exceeding 1000 
+volts; connectors for optical 
+CTH; or  
+Standard QVC 
+ 
+Annex 3A - 28 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+fibres, optical fibre bundles or 
+cables 
+8537 Boards, panels, consoles, desks, 
+cabinets and other bases, 
+equipped with two or more 
+apparatus of heading 8535, 8536 
+for electric control or the 
+distribution of electricity, 
+including those incorporating 
+instruments or apparatus of 
+Chapter 90, and numerical 
+control apparatus, other than 
+switching apparatus of heading 
+no. 8517 
+CTH; or  
+Standard QVC 
+8538 Parts suitable for use solely or 
+principally with the apparatus of 
+heading 8535, 8536 or 8537 
+CTH; or  
+Standard QVC 
+Ex 8539 Electric filament or discharge 
+lamps, including sealed beam 
+lamp units and ultra-violet or 
+infra-red lamps; arc lamps; light-
+emitting diode (LED) light 
+sources (excluding modules) 
+CTSH; or  
+Standard QVC 
+853951 
+ 
+Light-emitting diode (LED) 
+modules 
+CTH; or  
+Standard QVC 
+853990 Parts of electric filament or 
+discharge lamps, including 
+sealed beam lamp units and 
+ultra-violet or infra-red lamps; 
+arc lamps; light-emitting diode 
+(LED) light sources 
+CTH; or  
+Standard QVC 
+Ex 8541 Semiconductor devices (e.g. 
+diodes, transistors, 
+semiconductor based 
+transducers); light-emitting 
+diodes (LED), whether or not 
+assembled with other LEDs; 
+mounted piezo-electric crystals
+  
+CTSH; or 
+Standard QVC 
+ 
+Annex 3A - 29 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+854142 Photovoltaic cells not assembled 
+in modules or made up into 
+panels 
+CTSH and Standard QVC 
+854143 Photovoltaic cells assembled in 
+modules or made up into panels 
+CTSH and Standard QVC 
+854149 Other photosensitive 
+semiconductor devices 
+CTSH and Standard QVC 
+854159 Other semiconductor devices  CTSH and Standard QVC 
+854390 Parts of electrical machines and 
+apparatus, having individual 
+functions, not specified or 
+included elsewhere in chapter 85 
+CTH; or  
+Standard QVC  
+8544 Insulated (including enamelled 
+or anodised) wire, cable 
+(including co-axial cable) and 
+other insulated electric 
+conductors, whether or not fitted 
+with connector; optical fibre 
+cables, made up of individually 
+sheathed fibres, whether or not 
+assembled with electric 
+conductors or fitted with 
+connectors 
+CTSH; or  
+Standard QVC 
+Chapter 86 Railway or tramway 
+locomotives, rolling-stock and 
+parts thereof; railway or 
+tramway track fixtures and 
+fittings and parts thereof;  
+mechanical (including electro-
+mechanical) traffic 
+signalling equipment of all kinds 
+CTSH and Standard QVC 
+Ex Chapter 87 Vehicles other than railway or 
+tramway rolling- stock, and parts 
+and accessories thereof 
+CTH and a QVC of not 
+less than: 
+(a)  45% of the ex -
+works price under 
+the build -down 
+method; or  
+(b)  50% of the free-on-
+board value under 
+ 
+Annex 3A - 30 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+the build -down 
+method; or 
+(c)  40% of either the 
+ex-works price or 
+free-on-board 
+value under the 
+build-up method 
+8703 Motor cars and other motor 
+vehicles principally designed for 
+the transport of persons (other 
+than those of heading 8702), 
+including station wagons and 
+racing cars 
+A QVC of not less than 
+35% 
+8706 Chassis fitted with engines, for 
+the motor vehicles of heading 
+8701 to 8705 
+CTH; or  
+a QVC of not less than:  
+(a)  50% of the ex -
+works price under 
+the build -down 
+method; or  
+(b)  55% of the free on-
+board value under 
+the build -down 
+method; or  
+(c)  45% of either the 
+ex-works price or 
+free-on-board 
+value under the 
+build-up method  
+8707 Bodies (including cabs), for the 
+motor vehicles of heading 8701 
+to 8705 
+8708 Parts and accessories of the 
+motor vehicles of heading 8701 
+to 8705 
+8711 Motorcycles (including mopeds) 
+and cycles fitted with an 
+auxiliary motor, with or without 
+side-cars; side-cars 
+A QVC of not less than:  
+(a)  50% of the ex -
+works price under 
+the build -down 
+method; or  
+(b)  55% of the free on-
+board value under 
+the build -down 
+method; or  
+(c)  40% of either the 
+ex-works price or 
+free-on-board 
+ 
+Annex 3A - 31 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+value under the 
+build-up method  
+8714 Parts and accessories of vehicles 
+of heading 8711 to 8713 
+ 
+CTH; or 
+a QVC of not less than:  
+(a)  50% of the ex -
+works price under 
+the build-down 
+method; or  
+(b)  55% of the free on-
+board value under 
+the build -down 
+method; or  
+(c)  40% of either the 
+ex-works price or 
+free-on-board 
+value under the 
+build-up method  
+8716  Trailers and semi-trailers; other 
+vehicles, not mechanically 
+propelled; parts thereof 
+CTSH and Standard QVC 
+Chapter 88 Aircraft, spacecraft, and parts 
+thereof 
+CTH; or  
+Standard QVC 
+Chapter 89 Ships, boats and floating 
+structures 
+CTSH and Standard QVC 
+Ex Chapter 90 Optical, photographic, 
+cinematographic, measuring, 
+checking, precision, medical or 
+surgical instruments and 
+apparatus; parts and accessories 
+CTSH and Standard QVC 
+901814 Scientigraphic apparatus CTSH; or  
+Standard QVC 
+901841 Dental drill engines, whether or 
+not combined on a single base 
+with other dental equipment 
+CTSH; or  
+Standard QVC 
+ 
+Annex 3A - 32 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+901849 Other instruments and 
+appliances, used in dental 
+sciences: other 
+CTSH; or  
+Standard QVC 
+901850 Other ophthalmic instruments 
+and appliances 
+CTSH; or  
+Standard QVC 
+901910 Mechano-therapy appliances; 
+massage apparatus; 
+psychological aptitude-testing 
+apparatus 
+CTH; or  
+Standard QVC 
+9020 Other breathing appliances and 
+gas masks, excluding protective 
+masks having neither mechanical 
+parts nor replaceable filters  
+CTH; or  
+Standard QVC 
+902121 Artificial teeth CTSH; or  
+Standard QVC 
+902129 Other dental fittings CTSH; or  
+Standard QVC 
+902139 Other artificial parts of the body: 
+other 
+CTH 
+902213 Apparatus based on the use of x-
+rays for dental uses, including 
+radiography or radiotherapy 
+apparatus 
+CTSH; or  
+Standard QVC 
+902214 Apparatus based on the use of x-
+rays for medical, surgical or 
+veterinary uses, including 
+radiography or radiotherapy 
+apparatus 
+CTSH; or 
+Standard QVC 
+902229 Apparatus based on the use of 
+alpha, beta, gamma or other 
+ionising radiations for other than 
+medical, surgical, dental or 
+veterinary uses, including 
+radiography or radiotherapy 
+apparatus 
+CTSH; or  
+Standard QVC 
+ 
+Annex 3A - 33 
+Chapter/ 
+heading/ sub-
+heading 
+(Column 1) 
+Description 
+(Column 2) 
+Product Specific Rule of 
+Origin 
+(Column 3) 
+902290 Other X-ray generators, high 
+tension generators, control 
+panels and desks, screens, 
+examination or treatment tables, 
+chairs and the like, including 
+parts and accessories 
+CTSH and a QVC of not 
+less than: 
+(a)  35% of the ex -
+works price under 
+the build -down 
+method; or  
+(b)  40% of the free-on-
+board value under 
+the build -down 
+method; or 
+(c)  30% of either the 
+ex-works price or 
+free-on-board 
+value under the 
+build-up method 
+Chapter 91 Clocks and watches and parts 
+thereof 
+CTSH and Standard QVC 
+Chapter 92 Musical instruments; parts and 
+accessories of such articles 
+CTH and Standard QVC 
+Chapter 93 Arms and ammunition; parts and 
+accessories thereof 
+CTH and Standard QVC 
+Chapter 94 Furniture; bedding, mattresses, 
+mattress supports, cushions and 
+similar stuffed furnishings; 
+luminaires and lighting fittings, 
+not elsewhere specified or 
+included; illuminated signs, 
+illuminated name-plates and the 
+like; prefabricated buildings 
+CTH and Standard QVC 
+Chapter 95 Toys, games and sports 
+requisites; parts and accessories 
+thereof 
+CTH and Standard QVC 
+Chapter 96 Miscellaneous manufactured 
+articles 
+CTSH and Standard QVC 
+Chapter 97 Works of art, collectors’ pieces 
+and antiques 
+CTSH and Standard QVC 
+ 

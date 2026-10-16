@@ -1,0 +1,2716 @@
+# SOURCE: library/05-mobility-immigration/Sponsor-Global-Business-Mobility-worker-04-26-v1.0_.pdf
+# pages: 63
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Workers and Temporary Workers: 
+guidance for sponsors 
+ 
+Sponsor a Global Business Mobility worker 
+ 
+Version 04/26 
+ 
+This version of the guidance is valid from 8 April 2026.  
+Page 2 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Contents 
+About this guidance .................................................................................................... 6 
+Other guidance you must read ............................................................................... 6 
+Glossary ................................................................................................................. 6 
+Contacts ............................................................................................................... 10 
+Version number and publication ........................................................................... 10 
+Changes to this guidance ..................................................................................... 10 
+ Sponsoring a GBM worker: overview ..................................................... 12 
+What are the Global Business Mobility routes? .................................................... 12 
+Senior or Specialist Worker ............................................................................... 13 
+Graduate Trainee .............................................................................................. 13 
+UK Expansion Worker ....................................................................................... 13 
+Service Supplier ................................................................................................ 14 
+Secondment Worker ......................................................................................... 14 
+Who needs to be sponsored on the GBM routes? ................................................ 15 
+What are the sponsorship requirements for the GBM routes? .............................. 15 
+ How to get a GBM sponsor licence ........................................................ 16 
+General requirements ........................................................................................... 16 
+Sponsorship fees .............................................................................................. 16 
+Specific requirements for a GBM sponsor licence ................................................ 17 
+Qualifying overseas business link ..................................................................... 17 
+Meaning of ‘common ownership or control’ ................................................... 18 
+Joint venture agreements: Senior or Specialist Worker, Graduate Trainee ... 19 
+Evidence of graduate training programme: Graduate Trainee ....................... 20 
+Eligible contract: Service Supplier, Secondment Worker ............................... 20 
+How to keep your licence ...................................................................................... 21 
+ UK Expansion Worker: additional requirements ..................................... 22 
+Overview ............................................................................................................... 22 
+UK ‘footprint’ requirement ..................................................................................... 22 
+Overseas trading presence requirement ............................................................... 23 
+Credible expansion plan ....................................................................................... 23 
+Exceptions for certain types of business ............................................................... 24 
+Japanese and Australian businesses ................................................................ 24 
+Exceptions for businesses listed on specified stock exchanges ....................... 24 
+Appointing Key Personnel .................................................................................... 25 
+Who can be your Authorising Officer? ............................................................... 25 
+Page 3 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Who can be your Level 1 User? ........................................................................ 25 
+Your CoS allocation and licence rating ................................................................. 26 
+If your AO is based in the UK ............................................................................ 26 
+If your AO is based outside the UK ................................................................... 26 
+If the AO is granted permission ..................................................................... 26 
+If the AO is refused permission ...................................................................... 27 
+How long your licence will be valid for .................................................................. 27 
+When you have established a UK trading presence ............................................. 28 
+ Immigration requirements for GBM workers ........................................... 29 
+Overview ............................................................................................................... 29 
+Points requirement ................................................................................................ 29 
+Points for sponsorship ....................................................................................... 30 
+Genuine role requirement .............................................................................. 30 
+Working for a third party ................................................................................ 31 
+Compliance with National Minimum Wage and the Working Time Regulations
+ ...................................................................................................................... 31 
+Eligible contract requirement for Service Suppliers or Secondment Workers 31 
+Genuine intention requirement ............................................................................. 32 
+Financial requirement ........................................................................................... 32 
+Former officially-sponsored students .................................................................... 32 
+Nationality or residence requirements for Service Suppliers ................................ 33 
+Entry requirement ................................................................................................. 34 
+Extension of permission ........................................................................................ 34 
+‘Switching’ to the GBM routes ............................................................................... 34 
+Switching from the Student route ...................................................................... 35 
+How long a GBM worker will be granted for .......................................................... 35 
+Grant period for a Senior or Specialist Worker .................................................. 36 
+Grant period for a Graduate Trainee ................................................................. 36 
+Grant period for a UK Expansion Worker .......................................................... 36 
+Grant period for a Service Supplier ................................................................... 36 
+Annual limit for specified occupations under the UK-India CETA .................. 38 
+Grant period for a Secondment Worker ............................................................ 38 
+Maximum cumulative period of permission for GBM workers ............................... 38 
+How the maximum period is calculated ............................................................. 39 
+Transitional arrangement: Senior or Specialist Workers granted before 6 April 
+2011 .................................................................................................................. 40 
+Further information on immigration requirements ................................................. 40 
+Page 4 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ Overseas work requirement for GBM workers ........................................ 42 
+Overview ............................................................................................................... 42 
+Overseas work requirement for GBM routes other than Graduate Trainee .......... 42 
+Overseas work requirement for Graduate Trainees .............................................. 44 
+Exceptions to the overseas work requirement ...................................................... 44 
+ Skill level for GBM workers ..................................................................... 46 
+Overview ............................................................................................................... 46 
+Eligible occupation code ....................................................................................... 46 
+Transitional provision for skill level: occupations in Table 2b ............................ 47 
+Skill level for Service Suppliers (‘Option B’) .......................................................... 48 
+Qualifications requirement for Service Suppliers under Option B ..................... 48 
+Professional experience requirement for Service Suppliers under Option B ..... 49 
+ATAS requirement ................................................................................................ 50 
+ Salary requirements for GBM workers ................................................... 51 
+Overview ............................................................................................................... 51 
+How much you have to pay a GBM worker ........................................................... 51 
+Transitional general salary requirement for a Senior or Specialist Worker ........ 52 
+PAYE reference numbers ..................................................................................... 53 
+Absence without pay or on reduced pay ............................................................... 53 
+Salary otherwise reduced ..................................................................................... 53 
+ Calculation of salary for GBM workers ................................................... 55 
+Permitted allowances for GBM workers ................................................................ 55 
+Allowances you cannot include ......................................................................... 55 
+Calculation of general salary threshold for GBM workers ..................................... 56 
+Calculation of going rate for GBM workers ........................................................... 56 
+Occupation code in Table 2 or 2b ..................................................................... 56 
+Occupation code in Table 3 .............................................................................. 57 
+Calculation of salary: irregular working patterns ................................................... 57 
+Calculation of accommodation allowances for GBM workers ............................... 58 
+Accommodation allowance for Senior or Specialist Workers or UK Expansion 
+Workers ............................................................................................................. 58 
+Accommodation allowance for Graduate Trainees............................................ 59 
+ Certificate of Sponsorship for GBM workers ........................................... 60 
+Overview ............................................................................................................... 60 
+Fees ...................................................................................................................... 60 
+Use of the CoS ..................................................................................................... 61 
+What the CoS must confirm .................................................................................. 61 
+Page 5 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Reporting duties and record keeping .................................................................... 62 
+Page 6 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+About this guidance 
+This document forms part of the collection ‘Workers and Temporary Workers: 
+guidance for sponsors’. It provides guidance for employers on how to sponsor a 
+worker on the Global Business Mobility (GBM) immigration routes.  
+ 
+The GBM routes are for overseas businesses who need to temporarily send workers 
+to the UK for a specific purpose that cannot be done by a settled worker. There are 
+five GBM routes, which are: 
+ 
+• Senior or Specialist Worker 
+• Graduate Trainee 
+• UK Expansion Worker 
+• Service Supplier 
+• Secondment Worker 
+ 
+See section GBM1 for more information about these routes.  
+ 
+Other guidance you must read 
+To make sure you meet all of the relevant requirements and fulfil your sponsorship 
+duties, you must read the following parts of the sponsor guidance, in addition to this 
+document: 
+ 
+• Part 1: Apply for a licence – this contains detailed information on how to apply for 
+a sponsor licence and how we assess applications 
+• Part 2: Sponsor a worker – this contains detailed information on how to sponsor 
+Workers and Temporary Workers, including how to request and assign 
+Certificates of Sponsorship, immigration requirements, and conditions of stay 
+• Part 3: Sponsor duties and compliance – this contains detailed information about 
+your duties as a licensed sponsor and the action we can take if you fail to meet 
+these duties 
+• the appendices to this guidance (Appendix A, Appendix B and Appendix D) 
+• the glossary – this contains definitions of terms used through the sponsor 
+guidance (including this document) 
+ 
+This guidance is subject to change. If you have printed or downloaded a copy of this 
+guidance, check the version number and date on GOV.UK to ensure you are using 
+the most up-to-date version. 
+ 
+Glossary 
+There is a separate glossary of terms used throughout the sponsor guidance 
+(including in this document). 
+ 
+The following additional terms are used in this document: 
+ 
+Page 7 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Global Business Mobility (GBM) routes 
+ 
+This means any of the following routes under the Immigration Rules: 
+ 
+• Appendix Global Business Mobility – Senior or Specialist Worker 
+• Appendix Global Business Mobility – Graduate Trainee 
+• Appendix Global Business Mobility – UK Expansion Worker 
+• Appendix Global Business Mobility – Service Supplier 
+• Appendix Global Business Mobility – Secondment Worker 
+ 
+When referring to the maximum cumulative period on the GBM routes, this also 
+includes time spent in the UK on the predecessor Intra-Company routes, whether or 
+not explicitly stated in this guidance. 
+ 
+Global Business Mobility (GBM) worker 
+ 
+This means a person who is applying for, or has been granted, entry clearance or 
+permission to stay on any of the GBM routes; or who you are sponsoring, or intend 
+to sponsor, on these routes. 
+ 
+Graduate Trainee 
+ 
+This means a person who is applying for, or has been granted, entry clearance or 
+permission to stay on the Graduate Trainee route, or who you are sponsoring or 
+intend to sponsor on the Graduate Trainee route. 
+ 
+Graduate Trainee route 
+ 
+This means the route in Appendix Global Business Mobility – Graduate Trainee to 
+the Immigration Rules. Where the context requires it, it can also refer to its 
+predecessor routes: 
+ 
+• the Intra-Company Graduate Trainee route in Appendix Intra-Company Routes 
+to the Immigration Rules in force before 11 April 2022 
+• the Graduate Trainee sub-category of the Tier 2 (Intra-Company Transfer) route 
+in Part 6A of the Immigration Rules in force before 1 December 2020 
+ 
+High earner 
+ 
+This means a worker who is sponsored as a Senior or Specialist Worker or UK 
+Expansion Worker in a job with a gross annual salary of £73,900 or more (based on 
+working a maximum of 48 hours per week) as confirmed by you (the sponsor). 
+ 
+Intra-Company routes 
+ 
+This means the predecessor routes of Senior or Specialist Worker or Graduate 
+Trainee under the Immigration Rules:  
+ 
+• Appendix Intra-Company Routes in force before 11 April 2022 
+Page 8 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+• the Tier 2 (Intra-Company Transfer) routes in Part 6A of the Immigration Rules in 
+force before 1 December 2020. 
+ 
+Linked overseas business 
+ 
+This has the meaning given in section GBM2 of this guidance.  
+ 
+Maximum cumulative period 
+ 
+This has the meaning given in section GBM4 of this guidance.  
+ 
+Overseas service provider 
+ 
+On the Service Supplier route, this means a business (including the business of a 
+self-employed independent professional) that is based outside the UK, has no 
+commercial presence in the UK, and either: 
+ 
+• has a contract to provide services to a UK business which holds, or is applying 
+for, a sponsor licence for the Service Supplier route; or 
+• is subcontracted to provide services to a UK business (sponsor) by an overseas 
+business that meets the definition in the first bullet point above 
+ 
+Provisional rating 
+ 
+This means a sponsor on the UK Expansion Worker route which is recorded as 
+having a rating of ‘Provisional’ on the register of licensed sponsors: workers on 
+GOV.UK. See section GBM3 of this document for further information on sponsor 
+ratings for the UK Expansion Worker route.  
+ 
+Secondment Worker 
+ 
+This means a person who is applying for, or has been granted, entry clearance or 
+permission to stay on the Secondment Worker route, or who you are sponsoring or 
+intend to sponsor on the Secondment Worker route. 
+ 
+Secondment Worker route 
+ 
+This means the route in Appendix Global Business Mobility – Secondment Worker to 
+the Immigration Rules. 
+ 
+Senior or Specialist Worker 
+ 
+This means a person who is applying for, or has been granted, entry clearance or 
+permission to stay on the Senior or Specialist Worker route, or who you are 
+sponsoring or intend to sponsor on the Senior or Specialist Worker route. 
+ 
+Page 9 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Senior or Specialist Worker route 
+ 
+This means the route in Appendix Global Business Mobility – Senior or Specialist 
+Worker to the Immigration Rules. Where the context requires it, it can also refer to its 
+predecessor routes:  
+ 
+• the Intra-Company Transfer route in Appendix Intra-Company Routes to the 
+Immigration Rules in force before 11 April 2022 
+• the Long-term Staff sub-category of the Tier 2 (Intra-Company Transfer) route in 
+Part 6A of the Immigration Rules in force before 1 December 2020 
+ 
+Service Supplier 
+ 
+This means a person who is applying for, or has been granted, entry clearance or 
+permission to stay on the Service Supplier route, or who you are sponsoring or 
+intend to sponsor on the Service Supplier route. 
+ 
+Service Supplier route 
+ 
+This means the route in Appendix Global Business Mobility – Service Supplier to the 
+Immigration Rules. Where the context requires it, it can also refer to its predecessor 
+provisions for contractual service suppliers or independent professionals under:  
+ 
+• Appendix Temporary Work – International Agreement to the Immigration Rules 
+in force before 11 April 2022 
+• Appendix T5 (Temporary Worker) International Agreement Worker to the 
+Immigration Rules in force between 1 December 2020 and 10 October 2021 
+(inclusive) 
+• the International Agreement sub-category of the Tier 5 (Temporary Worker) 
+route under part 6A of the Immigration Rules in force before 1 December 2020 
+ 
+Sponsor group 
+ 
+On the Senior or Specialist Worker route, or the Graduate Trainee route, this means 
+you (the sponsor) and any business or organisation that is linked to you by common 
+ownership or control, or by a joint venture on which the worker is sponsored to work. 
+ 
+On the UK Expansion Worker route, this means you (the sponsor) and any business 
+or organisation that is linked to you by common ownership or control. 
+ 
+UK Expansion Worker 
+ 
+This means a person who is applying for, or has been granted, entry clearance or 
+permission to stay on the UK Expansion Worker route, or who you are sponsoring or 
+intend to sponsor on the UK Expansion Worker route. 
+ 
+UK Expansion Worker route 
+ 
+This means the route in Appendix Global Business Mobility – UK Expansion Worker 
+to the Immigration Rules.  
+Page 10 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ 
+Contacts 
+If you think this guidance has factual errors or broken links, you can email the 
+Business Helpdesk. 
+ 
+If you have read this guidance, and the guidance referred to above, and you still 
+have any queries, you can call us on 0300 123 4699 or email the Business 
+Helpdesk. 
+ 
+Version number and publication 
+Below is information on the version number of this guidance and when it was 
+published: 
+ 
+• version 04/26 
+• published on 8 April 2026 
+ 
+You can view previous versions of this guidance on the National Archives website.  
+ 
+Changes to this guidance 
+This version replaces version 03/26 (published on 6 March 2026). The guidance has 
+been updated to reflect changes to the Immigration Rules as set out in Statement of 
+Changes HC 1691 (published on 5 March 2026). These changes apply to 
+applications for entry clearance or permission to stay made on or after 8 April 2026, 
+unless otherwise stated.  
+ 
+Details of the changes are set out below. Paragraph numbers in brackets refer to the 
+previous version of this guidance where the number was different. Where new 
+paragraphs have been inserted into any section, or paragraphs deleted, any 
+subsequent paragraphs in that section have been renumbered accordingly, unless 
+otherwise indicated 
+ 
+• GBM4.2, sub-heading above GBM4.19 (former GBM4.20): ‘genuineness’ 
+requirement relabelled as ‘genuine intention’ requirement 
+• (former GBM4.12): empty paragraph deleted and reassigned to former GBM4.13 
+• GBM4.26 (former GBM4.27), GBM4.42 and GBM4.43 (former GBM4.41 and 
+GBM4.42): updated to make provision for sponsoring Service Suppliers under 
+the UK-India Comprehensive Economic and Trade Agreement (CETA) when this 
+comes into force (see note below); sponsors should note there is a combined 
+annual quota of 1,800 for certain occupations under this agreement (see new 
+paragraphs GBM4.44 to GBM4.46) 
+• GBM4.27, GBM4.28: paragraph numbers assigned to previously unnumbered 
+paragraphs 
+• GBM5: this section has been restructured and redrafted for clarity, and updated 
+to reflect that the overseas work requirement for Secondment Workers has been 
+reduced from 12 to 6 months for applications made on or after 8 April 2026 
+• GBM6.16: minor drafting amendment to align with the wording in the Immigration 
+Rules 
+Page 11 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+• other minor housekeeping changes 
+ 
+A note on the implementation of the UK-India CETA 
+ 
+The UK-India CETA is not in force at the date of publication of this document. 
+Sponsors should check the ‘Service Supplier visa: eligible trade agreements and 
+sectors’ page on GOV.UK for confirmation of when it comes into force.  
+ 
+Contents 
+Page 12 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ Sponsoring a GBM worker: 
+overview 
+This section provides an overview of the Global Business Mobility routes and the 
+sponsorship requirements you must meet.  
+ 
+What are the Global Business Mobility routes? 
+ The Global Business Mobility (GBM) routes allow overseas businesses 
+to send workers to the UK for a temporary work assignment with a linked 
+UK business that cannot be done by a settled worker. There are five 
+GBM routes, which are described in more detail below: 
+ 
+• Senior or Specialist Worker 
+• Graduate Trainee 
+• UK Expansion Worker 
+• Service Supplier 
+• Secondment Worker 
+ 
+ Applicants must be aged at least 18 to qualify on these routes.  
+ 
+ The job the worker is coming to do must meet the skill-level requirement 
+of the GBM routes. In most cases, this is level 6 on the Regulated 
+Qualifications Framework (graduate level).  
+ 
+ The worker must already be working for you or a qualifying linked 
+overseas business on the date they apply for entry clearance or 
+permission. They must also normally have worked overseas for an 
+eligible linked business for a specified minimum period (usually for at 
+least 12 months but there are exceptions to this).  
+ 
+ GBM workers must be paid appropriately. Senior or Specialist Workers, 
+Graduate Trainees and UK Expansion Workers must normally meet a 
+general salary requirement and a ‘going rate’ requirement. For workers 
+on the Service Supplier and Secondment Worker routes, their salary 
+arrangements must comply with UK National Minimum Wage legislation. 
+See sections GBM7 and GBM8 for further information.  
+ 
+ The GBM routes do not lead to settlement (indefinite leave to remain) in 
+the UK. In most cases, the maximum period a person can stay in the UK 
+on the GBM routes is a cumulative total of 5 years in any 6-year period. 
+High earners and people benefiting from transitional arrangements can 
+stay longer. Individual GBM routes have shorter grant periods.  
+ 
+ A GBM worker can be accompanied or joined by their partner and 
+dependent children if they meet the relevant requirements for 
+dependants.  
+ 
+Page 13 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Senior or Specialist Worker 
+ The Senior or Specialist Worker route allows you to sponsor overseas 
+workers to undertake temporary work assignments for you in the UK, 
+where the worker is a senior manager or specialist employee and is 
+being assigned to you by a linked overseas business.  
+ 
+ Except where a transitional arrangement applies, Senior or Specialist 
+Workers must be paid at least the general salary threshold (£52,500 per 
+year), or the specified going rate for the occupation, whichever is higher. 
+See Salary requirements for further details. 
+ 
+ A Senior or Specialist Worker can be granted permission to enter or 
+remain in the UK for up to 5 years initially, with the option to extend up to 
+the maximum cumulative period for workers on the GBM routes. 
+ 
+Graduate Trainee 
+ The Graduate Trainee route allows you to sponsor overseas workers to 
+undertake temporary work assignments with you in the UK, where the 
+worker is on a structured graduate training programme leading to a 
+senior management or specialist position with a linked overseas 
+business and is required to do a work placement in the UK as part of that 
+programme.  
+ 
+ Graduate Trainees must be paid at least the general threshold (£27,300 
+per year), or the applicable going rate for the occupation code, 
+whichever is higher. For most occupations, the applicable going rate is 
+70% of the full going rate but for some health and education 
+occupations, workers must be paid the full going rate. See Salary 
+requirements for further details.  
+ 
+ Graduate Trainees can come to the UK for up to one year at a time, up 
+to the maximum cumulative period permitted on the GBM routes.  
+ 
+ A person you are sponsoring on the Graduate Trainee route can work in 
+different job roles for you during their period of permission without 
+needing to make a new application for permission, provided you notify us 
+of any changes, each job is related to their graduate training programme, 
+and they continue to meet the requirements of the route.  
+ 
+UK Expansion Worker 
+ The UK Expansion Worker route is for overseas businesses who wish to 
+establish a branch or subsidiary in the UK. It allows eligible businesses 
+to sponsor senior managers or specialist workers who are being 
+assigned to the UK for a temporary period to undertake work related to 
+the business’s expansion to the UK.  
+ 
+ This route can only be used when the business has not yet begun 
+trading in the UK. If the business is already trading in the UK, you should 
+Page 14 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+apply for a licence on a different route (for example, the Senior or 
+Specialist Worker or Skilled Worker route) instead. 
+ 
+ UK Expansion Workers must be paid at least the general salary 
+threshold of £52,500 per year or the specified going rate for the 
+occupation, whichever is higher. See Salary requirements for further 
+details.  
+ 
+ A UK Expansion Worker can come to the UK for up to one year initially, 
+with the option to extend their stay by up to a further year. Two years is 
+the maximum continuous period a person can stay in the UK on this 
+route. UK Expansion Workers are also subject to the maximum 
+cumulative period for the GBM routes.  
+ 
+ You can only sponsor the number of workers you genuinely need to 
+establish the UK business (up to a maximum of 10 workers at any one 
+time). Once you have established a UK trading presence, you can add 
+other routes to your licence and sponsor workers on those routes.  
+ 
+ We expect you to establish a UK trading presence within two years. If 
+you fail to do so, you will no longer be permitted to sponsor any new 
+workers on this route, your existing sponsored workers will not be 
+permitted to extend their stay (even if they would otherwise be eligible), 
+and you may lose your sponsor licence.  
+ 
+Service Supplier 
+ The Service Supplier route allows you to sponsor overseas workers who 
+are undertaking temporary work assignments in the UK, where the 
+worker is either a contractual service supplier employed by an overseas 
+service provider, or is an independent professional established outside 
+the UK, and the work is part of a contract covered by one of the UK’s 
+international trade commitments that is currently in force or being 
+provisionally applied.  
+ 
+ Service Suppliers can come to the UK for up to 6 months or 12 months 
+(depending on the trade agreement) per assignment. Service Suppliers 
+can return to the UK for further assignments but are subject to the 
+maximum cumulative period for the GBM routes.  
+ 
+Secondment Worker 
+ The Secondment Worker route is for overseas workers who are 
+undertaking temporary work assignments in the UK, where the worker is 
+being seconded to the UK as part of a high value contract or investment 
+by their employer overseas. 
+ 
+ A Secondment Worker can come to the UK for up to one year initially, 
+with the option to extend their stay by up to a further year. Two years is 
+the maximum continuous period a person can stay in the UK on this 
+Page 15 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+route. Secondment Workers are also subject to the maximum cumulative 
+period for the GBM routes.  
+ 
+Who needs to be sponsored on the GBM routes? 
+ You will need to sponsor any overseas national you wish to employ if 
+they are not a settled worker or do not otherwise have immigration 
+permission to work for you in the UK. This includes most EU, EEA and 
+Swiss nationals who arrived in the UK after 31 December 2020. 
+ 
+ You do not have to sponsor certain categories of worker, including 
+ 
+• Irish citizens  
+• people who have been granted status under the EU Settlement 
+Scheme 
+• people with indefinite leave to enter or remain in the UK (also known 
+as ‘settlement’) 
+ 
+ This is not a complete list. For further information on who does, and 
+does not, need sponsorship, see section S1 of Part 2: Sponsor a worker. 
+ 
+What are the sponsorship requirements for the GBM 
+routes? 
+ If you wish to sponsor a GBM worker, you must: 
+ 
+• hold a valid sponsor licence for the relevant GBM route, or routes 
+• understand what the GBM routes are and who is eligible to be 
+sponsored on them  
+• understand the general requirements for sponsoring a worker – see 
+Part 2: sponsor a worker 
+• ensure the employment meets the skill-level and (where relevant) 
+salary requirements of the relevant GBM route 
+• only sponsor workers for eligible roles, as defined in the glossary 
+• assign a valid Certificate of Sponsorship (CoS) to the worker, pay the 
+CoS fee and (if sponsoring a Senior or Specialist Worker) the 
+Immigration Skills Charge 
+• have eligible Key Personnel in place to manage your licence and 
+assign CoS – see section L4 of Part 1: Apply for a licence (and, if you 
+are applying under UK Expansion Worker, section GBM3 of this 
+document) for guidance on Key Personnel 
+• keep records for each worker you sponsor, including information on 
+how you recruited the worker – see Appendix D to the sponsor 
+guidance 
+• understand and comply with all of your sponsor duties – see Part 3: 
+Sponsor duties and compliance 
+ 
+Contents 
+Page 16 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ How to get a GBM sponsor 
+licence 
+This section tells you about the requirements you must meet to be eligible for a 
+sponsor licence for the Global Business Mobility routes.  
+ 
+General requirements 
+ If you wish to sponsor a worker on any of the Global Business Mobility 
+(GBM) routes, you must hold a valid sponsor licence for the relevant 
+route, or routes. If you do not already hold such a licence, you must 
+apply for one by completing the online application form, paying the 
+relevant application fee, and submitting the supporting evidence 
+specified in Appendix A to the sponsor guidance. 
+ 
+ Before applying for your licence, you should read:  
+ 
+• Part 1: Apply for a licence for detailed information on the general 
+requirements and the application process 
+• this section (and, if relevant, section GBM3) for guidance specific to 
+the GBM routes  
+ 
+ If you already hold a valid licence to sponsor workers, but it does not 
+include any of the GBM routes, you can apply to add one or more these 
+routes to your existing licence. You may have to pay an additional fee if 
+you are adding the Senior or Specialist Worker route to your licence. For 
+further information on adding routes to your licence, see section L10 of 
+Part 1: Apply for a licence. 
+ 
+Sponsorship fees 
+ For sponsor licensing fee purposes, the Senior or Specialist Worker 
+route is classified as a ‘Worker’ route. This means that organisations 
+applying for this type of licence will pay the ‘large’ sponsor licence fee if 
+they do not meet the definition of ‘small or charitable sponsor’ in the 
+Fees Regulations.  
+ 
+ Certificates of Sponsorship (CoS) assigned to Senior or Specialist 
+Workers will be charged the ‘Worker’ CoS fee, regardless of company 
+size, status or duration of employment.  
+ 
+ The remaining four GBM routes are classified as ‘Temporary Worker’ 
+routes for sponsor licensing fee purposes. This means that organisations 
+applying for a licence on one or more of these routes will pay the 
+standard fee for a Temporary Worker sponsor licence, regardless of their 
+size or charitable status. CoS assigned to workers on these routes will 
+be charged the standard Temporary Worker CoS fee.  
+ 
+Page 17 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ You are responsible for paying the sponsor licence fee, Certificate of 
+Sponsorship (CoS) fee and any associated administrative costs. If you 
+are granted a licence, we will normally revoke your licence if we find you 
+have recouped, or attempted to recoup, any part of the sponsor licence 
+fee, CoS fee, or associated administrative costs, by any means, from a 
+worker you are sponsoring on or after 9 April 2025. For further 
+information, see ‘Sponsorship fees’ in section L6 of Part 1: Apply for a 
+licence. 
+ 
+ For further information current fee levels, see the UK Visa Fees page on 
+GOV.UK.  
+ 
+Specific requirements for a GBM sponsor licence 
+ In addition to the general requirements set out in Part 1: Apply for a 
+licence, to be eligible for a sponsor licence on any of the GBM routes, 
+you must be able to satisfy us that you:  
+ 
+• can offer employment which: 
+o meets the skill-level requirement for the relevant route 
+o where relevant, meets the salary requirements of the route 
+o is genuine 
+o where relevant, meets the rules on third-party working 
+o complies with National Minimum Wage and the Working Time 
+Regulations 
+o otherwise meets the definition of ‘eligible role’ in the glossary 
+• have a qualifying overseas business link 
+• if applying on the UK Expansion Worker route, meet the additional 
+requirements for that route 
+ 
+Qualifying overseas business link 
+ You must show there is a qualifying link between you (the sponsor) and 
+the overseas business that will send workers to you. The nature of the 
+link depends on the route, as set out in the table below: 
+ 
+Route Qualifying overseas business link 
+Senior or Specialist Worker You must be linked by common ownership or 
+control or by a joint venture agreement to an 
+overseas business. 
+Graduate Trainee You must be linked by common ownership or 
+control or by a joint venture agreement to an 
+overseas business. 
+ 
+In addition, the linked overseas business must offer 
+a structured graduate training programme that has a 
+legitimate work placement in the UK. 
+UK Expansion Worker The UK business you are seeking to establish must 
+be linked by common ownership or control to the 
+Page 18 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Route Qualifying overseas business link 
+overseas business in one of the ways set out in 
+paragraphs GBM3.12 to GBM3.13.  
+ 
+The overseas business must normally have been 
+trading overseas for a minimum of 3 years (although 
+there are some exceptions to this requirement). 
+ 
+See section GBM3 for further details of the 
+requirements for this route.  
+Service Supplier You must have an eligible contract with an overseas 
+service provider for the supply of a service which is 
+covered by a relevant UK trade commitment that is 
+currently in force or being provisionally applied. 
+Secondment Worker You must have an eligible contract with an overseas 
+business for goods or investment worth at least £10 
+million per year (and no less than £50 million in 
+total).  
+ 
+ When you apply for your licence, you must provide details of any linked 
+overseas business (referred to as a ‘linked overseas entity’ in the 
+sponsor licence application form and sponsorship management system) 
+and, where necessary, update these details during the course of your 
+licence.  
+ 
+Meaning of ‘common ownership or control’ 
+ If you are applying on the Senior or Specialist Worker route or the 
+Graduate Trainee route, you can show you are linked by common 
+ownership or control to the overseas business by one of the following: 
+ 
+• one entity controls the composition of the other entity’s board 
+• one entity holds enough shares in the other entity to have more than 
+half of the voting rights in that other entity  
+• both entities have a common parent entity, and that parent entity 
+(either by itself or through other entities) meets one of the two bullet 
+points above 
+• one part of the business is a representative office or branch of the 
+other part of that business – for example, a registered UK 
+establishment of an overseas company of an overseas company 
+• one entity is related to the other entity as both are party to a joint 
+venture agreement 
+• one entity is related to the other entity in that one is a party to a joint 
+venture agreement and the other entity is formed by that joint venture 
+agreement 
+• one entity is related to the other by an agreement that would 
+constitute a joint venture agreement other than for the fact that joint 
+venture agreements are not permitted in the country of operation or 
+one of the entities is not permitted to enter into joint ventures in the 
+country of operation 
+Page 19 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+• one entity is related to the other in that one entity is party to an 
+agreement that would constitute a joint venture agreement other than 
+for the fact that joint venture agreements are not allowed in the 
+country of operation or that entity is not allowed to enter into joint 
+ventures in the country of operation, and the other entity is the entity 
+formed by that agreement 
+• where both entities are either accountancy or law firms, one entity is 
+related to the other by an agreement which allows both to use a 
+trademark registered or established under UK law and the jurisdiction 
+of the other entity’s country of operation 
+• where both entities are either accountancy or law firms, one entity is 
+related to the other by agreement which allows both to run under the 
+same name in the UK and in the jurisdiction of the other entity’s 
+country of operation 
+• in the case of unincorporated associations, we may accept that the 
+UK entity is linked to the overseas entity if there is evidence (such as 
+a written constitution or Articles of Association) to show that one entity 
+controls the other – for example, a member of one entity has the 
+power to appoint the other entity’s trustees 
+ 
+ Where the link between the two entities between which the transfer will 
+take place is that an individual owns shares in each entity, that individual 
+must have a majority shareholding in each entity. You must provide 
+documentary evidence of your shareholding in terms of percentages 
+held. 
+ 
+ If you are applying under UK Expansion Worker, only the first 4 bullet 
+points above are applicable and you must meet any relevant additional 
+requirements in paragraphs GBM3.12 to GBM3.13. Joint venture 
+agreements and other types of common ownership or control are not 
+accepted on this route.  
+ 
+Joint venture agreements: Senior or Specialist Worker, Graduate 
+Trainee 
+ Where the link between you and the overseas business is through a joint 
+venture, we must be satisfied that the worker will be working as part of 
+the joint venture agreement before we accept that you can sponsor 
+someone as a Senior or Specialist Worker or Graduate Trainee.  
+ 
+ There are many forms of joint venture and we will ask you to provide 
+evidence to show that the venture is in operation. You should supply as 
+many of the following which are applicable to your circumstances:  
+ 
+• if a new company has been formed, you should provide the relevant 
+Companies House reference number or numbers and confirm which 
+entities are involved in the joint venture and who are the owners of the 
+new company 
+• public announcements of the joint venture 
+Page 20 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+• a copy of an official letter from the overseas company (or foreign 
+investor) to Ministers confirming their intention to invest in the UK, 
+naming the entities involved in the joint venture 
+• a copy of the binding contract or partnership agreement, signed 
+appropriately, between the entities in the joint venture agreement – 
+this must include the names and positions of the signatories, the 
+investment or ownership agreement of the enterprise, and timescales 
+and phases of the project 
+• if the joint venture has a previous history of working with the 
+Department for International Trade (DIT) or economic devolved 
+government departments in Scotland, Wales or Northern Ireland, we 
+may accept evidence via the DIT listing online of the joint venture 
+ 
+ The above is not a complete list and we may ask you for further 
+evidence to assess your circumstances. 
+ 
+ We will not accept informal agreements of co-operation as sufficient 
+evidence that a worker is required to be in the UK. The joint venture 
+must already be operating and we must be satisfied there is a 
+requirement for the worker to be here as part of the agreement before 
+you can sponsor them as a Senior or Specialist Worker route or a 
+Graduate Trainee. 
+ 
+Evidence of graduate training programme: Graduate Trainee 
+ If you are applying on the Graduate Trainee route, you must provide 
+evidence that you are offering a structured graduate training programme. 
+This could be a brochure for the course, evidence of the recruitment for 
+the programme, or the address of a corporate website giving details of 
+the programme.  
+ 
+Eligible contract: Service Supplier, Secondment Worker 
+ If you are applying on the Service Supplier or Secondment Worker 
+routes, you must register any contract you have with a qualifying 
+overseas business through which you intend to sponsor workers. You 
+must do this when you apply for your licence via your SMS account.  
+ 
+ For the Service Supplier route, you must have at least one contract with 
+an overseas service provider for a service that is covered by one of the 
+UK’s international trade agreements. The overseas service provider 
+must have no commercial presence in the UK.  
+ 
+ The service supplied must be in line with a genuine contract with an 
+overseas service provider for a period not exceeding 12 months. The 
+contract must have been awarded through an open tendering or other 
+procedure which guarantees that it’s a genuine contract and that you will 
+be the final consumer of the service. You cannot sponsor a Service 
+Supplier if you will then supply them as labour to another organisation. 
+ 
+Page 21 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ For the Secondment Worker route, there must exist a contract for goods 
+or investment between you and an overseas business worth at least £10 
+million per year and no less than £50 million overall. This means that if 
+the duration of the contract is less than 5 years, it must be valued at 
+least £50 million. If the contract is 5 years or more, it must be worth at 
+least £10 million per year. If the contract has no specified end date, it 
+must be worth at least £50 million over the first five years. 
+ 
+ If your application for a sponsor licence on either the Service Supplier or 
+Secondment Worker route is approved, you can only assign a Certificate 
+of Sponsorship (CoS) to a worker who is coming to the UK to fulfil that 
+specific contract and no others. 
+ 
+ If you want to bring workers to the UK under a new contract, you must 
+tell us about this and not assign any CoS in connection with the new 
+contract until we have agreed that it meets the requirements set out in 
+this guidance. You can use the ‘Request change of circumstances 
+function’ in your SMS account to tell us about any new contract and 
+request an increase in your CoS allocation. Once reported, we will ask 
+you for any relevant supporting evidence and you must send us any 
+documents or information within the time limit set. 
+ 
+ We will revoke your sponsor licence if you assign a CoS in connection 
+with a contract that: 
+ 
+• you have not told us about 
+• you have told us about, but for which we have not yet confirmed that 
+you can assign a CoS 
+• we have told you does not meet the requirements set out in this 
+guidance 
+ 
+How to keep your licence 
+ If you are granted a licence, you must comply with all of your sponsor 
+duties. If you do not, we may take action against you, including: 
+ 
+• downgrading your licence rating 
+• suspending your licence 
+• revoking your licence 
+• reporting you to the police or other relevant authorities 
+ 
+ For details, you must read Part 3: Sponsor duties and compliance. 
+ 
+Contents 
+ 
+Page 22 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ UK Expansion Worker: 
+additional requirements 
+This section provides further detail on the requirements for a UK Expansion Worker 
+sponsor licence and your additional responsibilities if you are granted a sponsor 
+licence.  
+ 
+Overview 
+ If you are applying for a sponsor licence on the UK Expansion Worker 
+route, in addition to the requirements set out in Part 1: Apply for a 
+licence and section GBM2 of this document, you must also show that 
+you have: 
+ 
+• a UK ‘footprint’ 
+• an overseas trading presence 
+• credible plans to expand to the UK and establish a trading presence 
+within two years 
+ 
+ In addition, you must ensure you understand the rules on: 
+ 
+• exceptions for some businesses 
+• appointing Key Personnel 
+• your Certificate of Sponsorship (CoS) allocation and licence rating 
+• how long your licence will be valid for 
+• what you need to do after you have established a trading presence 
+ 
+UK ‘footprint’ requirement 
+ Unlike other sponsored work routes, if you are applying for a sponsor 
+licence on the UK Expansion Worker route, you must not already be 
+actively trading in the UK. If you are already trading, you should apply on 
+another route (for example, Senior or Specialist Worker, or Skilled 
+Worker).  
+ 
+ You must, however, show you have a UK ‘footprint’. You can show this 
+by providing evidence you have either: 
+ 
+• UK business premises – for example, a lease agreement or 
+documents showing you have purchased the premises 
+• registered your UK business with Companies House as either an 
+overseas company branch or a new company that is a subsidiary of 
+the overseas linked business – in this case, you need only provide 
+your Companies House reference number, or numbers 
+ 
+ We will reject your application if you do not provide any evidence of your 
+UK footprint. We will refuse your application if you submit evidence (or 
+we otherwise have evidence) that shows that you do not have a UK 
+Page 23 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+footprint, or shows you already have a UK trading presence. For the 
+purposes of this paragraph, ‘trading presence’ does not include where 
+you are conducting limited pre-trade activities, such as employing a 
+member of staff who you wish to nominate as your Authorising Officer.  
+ 
+Overseas trading presence requirement 
+ The overseas business that is expanding to the UK must:  
+ 
+• be currently active and trading overseas; and 
+• have been active and trading overseas for at least 3 years before the 
+date of application (there are exceptions to this requirement for certain 
+types of business) 
+ 
+ To be considered to be ‘trading’ for the purposes of the UK Expansion 
+Worker route, your business must be engaged in a business or 
+professional activity, such as buying, producing or selling goods, with the 
+intention of generating a profit or surplus, or otherwise providing a 
+service.  
+ 
+ Businesses whose primary activity involves holding investments such as 
+private equity funds, venture capital firms, or other entities that do not 
+actively provide goods or services to customers, are not considered to 
+be trading for the purposes of this route. Investment-only businesses are 
+therefore not eligible to be licensed on the UK Expansion Worker route.  
+ 
+ You must provide evidence that the overseas business has been trading 
+throughout the 12-month period immediately before your application for 
+a sponsor licence (for example, corporate bank statements covering the 
+entire period). You must also provide evidence that shows the business 
+was trading at the start of the 3-year period before the date of application 
+and was actively trading throughout that 3-year period (for example, 
+audited accounts). Appendix A to the sponsor guidance contains a 
+detailed list of documents you can provide.  
+ 
+ We reserve the right to ask for more documents or information if we are 
+not satisfied that the evidence you have submitted with your application 
+shows you meet this requirement. 
+ 
+Credible expansion plan 
+ You must show you genuinely intend, and are able, to expand to the UK 
+and establish a UK trading presence within two years. To determine this, 
+we will consider evidence of your business planning and finances. We 
+may also consider the size of your business, its previous activity and its 
+potential.  
+ 
+ The planned expansion must be in the same type of business that you 
+conduct overseas – it cannot be a new business venture by the 
+Page 24 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+company. The business you are establishing in the UK must satisfy one 
+of the following: 
+ 
+• it is either wholly owned by the overseas business or part of the same 
+legal entity (such as a branch)  
+• it is wholly owned by a non-trading holding company where that 
+holding company is in turn wholly owned by an immediate overseas 
+parent company which is seeking to expand 
+• it is a sister company of the company seeking to expand, where both 
+of those companies are wholly owned by the same immediate parent 
+and either share the same directors or are linked by common 
+ownership or control as set out in the first two bullets of paragraph 
+GBM2.12 above 
+ 
+ A conglomerate with multiple businesses may expand multiple individual 
+businesses within that corporate structure, providing each business they 
+are seeking to expand operates in different sectors to each other and 
+otherwise satisfies one of the above requirements. 
+ 
+Exceptions for certain types of business 
+ Some businesses may not have to provide specific evidence to show 
+that they satisfy all of the criteria above. This depends on the type of 
+business. 
+ 
+Japanese and Australian businesses 
+ You do not have to show you have been trading overseas for at least 3 
+years if you are seeking to establish a UK branch or subsidiary of either: 
+ 
+• a Japanese business under the UK-Japan Comprehensive Economic 
+Partnership Agreement 
+• an Australian business under the Free Trade Agreement between the 
+United Kingdom of Great Britain and Northern Ireland and Australia 
+ 
+ You must, however, show you are genuinely trading overseas and are 
+capable of making a credible expansion to the UK, and meet all of the 
+other requirements set out in this section.  
+ 
+ If you have been trading for less than 3 years, or do not submit evidence 
+to show you have been trading overseas for at least 3 years, you will be 
+limited to sponsoring one worker at a time. If you wish to sponsor more 
+than one worker, you must provide evidence that you have traded for 3 
+or more years as outlined above. 
+ 
+Exceptions for businesses listed on specified stock exchanges 
+ You will not normally have to provide evidence of your overseas trading 
+presence or ability to expand to the UK if the overseas business is listed 
+on either: 
+Page 25 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ 
+• the London Stock Exchange Main Market or AIM market 
+• an international stock exchange that the Financial and Conduct 
+Authority (FCA) considers to have an equivalent level of regulation to 
+UK markets – see FCA List of Regulated Markets 
+ 
+ You must, however, provide evidence of which exception applies to you 
+(for example, a link to the relevant online listing), and meet all of the 
+other requirements in this section. We also reserve the right to ask for 
+more documents or information if necessary to determine your 
+application. 
+ 
+Appointing Key Personnel 
+ In common with other sponsored work routes, you must have an 
+Authorising Officer, a Key Contact and at least one Level 1 User in place 
+at the time you apply for your licence. These must meet the 
+requirements set out in section L4 of Part 1: Apply for a licence. 
+ 
+Who can be your Authorising Officer? 
+ Your Authorising Officer (AO) can be either: 
+ 
+• a worker who is already based in the UK and will be overseeing your 
+expansion to the UK 
+• if there no suitable person based in the UK who can take this role, a 
+senior employee of the overseas business who will be assigned to the 
+UK to oversee the expansion 
+ 
+ In either case, they must be the most senior person in your organisation 
+responsible for the recruitment of migrant workers and ensuring that you 
+meet all of your sponsor duties, or are otherwise responsible for your 
+activity as a licensed sponsor. 
+ 
+Who can be your Level 1 User? 
+ If the AO is a worker based in the UK, they must appoint a Level 1 User 
+(and a Key Contact) who is also be based in the UK. The Level 1 User 
+must also be a settled worker (unless an exception set out in section L4 
+of Part 1: Apply for a licence applies).  
+ 
+ The AO can appoint themselves as the Level 1 User and/or Key Contact 
+(if they meet the relevant requirements), or another person or people can 
+fill these roles if they meet the requirements.  
+ 
+ If the AO named in your sponsor licence application is an employee of 
+the overseas business, they must also be the Level 1 User. They can 
+also be your Key Contact. If your licence application is approved, that 
+person must assign a Certificate of Sponsorship (CoS) to themselves in 
+order to make an application for entry clearance. The AO can appoint 
+different people to these roles once they are legally resident in the UK 
+Page 26 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+and you have obtained an A-rating for your licence. See ‘Your CoS 
+allocation and licence rating’ below for further information.  
+ 
+Your CoS allocation and licence rating 
+ You will only be permitted to sponsor as many people as you genuinely 
+need to establish your business in the UK, up to a maximum of 10. Your 
+CoS allocation will therefore not be higher than 10 at any time. You can 
+replace individual workers within this allocation (for example, if a 
+sponsored worker leaves the company or returns to their employer 
+overseas) but you will not be permitted to sponsor more than 10 workers 
+on this route at any one time. 
+ 
+ Your CoS allocation and licence rating will depend on whether the AO 
+named in your licence application is based in the UK or overseas, as 
+explained below. For further information on licence ratings, see section 
+L8 of Part 1: Apply for a licence.  
+ 
+If your AO is based in the UK 
+ If the person named in your licence application as your AO is already 
+based in the UK, and you are granted a sponsor licence, you will be 
+given an A-rating and your full CoS allocation (up to a maximum of 10).  
+ 
+If your AO is based outside the UK 
+ If the person named in your licence application as your AO is outside the 
+UK, you will be given a CoS allocation of 1 initially, and you will be given 
+a Provisional licence rating.  
+ 
+ The AO (who must also be the Level 1 User) must assign that CoS to 
+themselves in order to make a successful application for entry clearance 
+to the UK. They will need to take certain actions to update your licence 
+details and uprate your licence rating after they have been granted, as 
+explained below.  
+ 
+If the AO is granted permission 
+ If the AO is granted entry clearance, they must update their details on 
+the sponsorship management system (SMS) as soon as possible to 
+include the following details: 
+ 
+• the type of permission they have (this will be ‘UK Expansion Worker’) 
+• the expiry date of their permission 
+• their Home Office reference number (this can be their Visa Application 
+Form number, their biometric residence permit number, or any other 
+reference number provided by the Home Office to the applicant) 
+• their UK address (when they know this) 
+ 
+Page 27 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ Before you can sponsor any other workers, the AO must also make a 
+request via your SMS account for your organisation’s licence rating to be 
+changed from Provisional to an A-rating.  
+ 
+ The AO can report these details (and make this request) as soon as they 
+have been granted permission to come to the UK – they do not have to 
+wait until they are in the UK. However, the AO must actually come to the 
+UK to start their sponsored role no more than 28 days after the start date 
+recorded on their CoS or the date their entry clearance becomes 
+effective (whichever is the later), as set out in section S3 of Part 2: 
+Sponsor a worker. 
+ 
+ Once you have an A-rating for your sponsor licence, you can ask to 
+increase your CoS allocation via your SMS account, up to a maximum of 
+9.  
+ 
+ For guidance on how to make these changes, see ‘Guide 4: How to 
+request other changes to your details’ in SMS Manual 2. 
+ 
+If the AO is refused permission 
+ If the AO’s entry clearance application is refused, or if their permission is 
+cancelled, we will normally revoke your licence. However, we may 
+exceptionally give you the opportunity to nominate an alternative AO, 
+Level 1 User and Key Contact instead. If the new AO is based outside 
+the UK, they will need to meet all of the rules set out in this section and 
+make a successful entry clearance application.  
+ 
+How long your licence will be valid for 
+ If your sponsor licence application is successful, your licence will be 
+valid for 4 years. You cannot hold a UK Expansion Worker licence for 
+longer than 4 years.  
+ 
+ As the purpose of this route is to enable genuine overseas businesses to 
+expand to the UK, we expect you to have established a full trading 
+presence in the UK within two years from the date your licence was 
+granted. At the end of this two-year period, we will reduce your CoS 
+allocation on this route to zero. This means you will be unable to sponsor 
+any applications from new workers, or extension applications from your 
+existing sponsored workers, on this route. If you have been granted a 
+licence to sponsor workers on any other routes, the CoS allocations on 
+those routes will not be automatically altered at the end of this two-year 
+period.  
+ 
+ We may also undertake a compliance visit to see if you are continuing to 
+meet the conditions of your licence and if there is a realistic prospect that 
+you will be able to establish a UK trading presence. If we are not 
+satisfied that you are continuing to meet the requirements of this route, 
+we are likely to revoke your licence. See section C7 of Part 3: Sponsor 
+Page 28 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+duties and compliance for information on compliance visits and action 
+we can take if you are not meeting your sponsorship responsibilities.  
+ 
+When you have established a UK trading presence 
+ Once you have established a UK trading presence, you can apply to add 
+other routes to your licence (for example, Skilled Worker or Senior or 
+Specialist Worker). Your sponsored workers can then apply to switch to 
+these routes if they meet the relevant requirements.  
+ 
+ You can choose whether or not to have your licence for the UK 
+Expansion Worker route made dormant. In either case, it will 
+automatically expire after 4 years and you will not have the option to 
+renew it.  
+ 
+Contents 
+ 
+Page 29 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ Immigration requirements for 
+GBM workers 
+This section tells you about the immigration requirements applicants must meet to 
+come to the UK on the Global Business Mobility routes and where you can find 
+further information.  
+ 
+Overview 
+ People who wish to come to the UK on the Global Business Mobility 
+(GBM) routes must meet the validity, suitability and eligibility 
+requirements of the relevant appendix to the Immigration Rules: 
+ 
+• Appendix Global Business Mobility – Senior or Specialist Worker 
+• Appendix Global Business Mobility – Graduate Trainee 
+• Appendix Global Business Mobility – UK Expansion Worker 
+• Appendix Global Business Mobility – Service Supplier 
+• Appendix Global Business Mobility – Secondment Worker 
+ 
+ These requirements include that the applicant: 
+ 
+• is aged at least 18 on the date of application 
+• meets the points requirement 
+• meets the genuine intention requirement 
+• meets the financial requirement 
+• if they were previously an officially sponsored student, has the 
+consent of that sponsor to making the application 
+• if they are applying as a Service Supplier, meets the nationality or 
+residence requirements 
+• meets the requirements relating to entry to the UK, extension of 
+permission or ‘switching’, as appropriate 
+ 
+ This is not the full list of requirements – you must refer to the relevant 
+Immigration Rules for these. 
+ 
+ As the sponsor, you must be aware of the maximum cumulative period 
+of permission a GBM worker can be sponsored for. 
+ 
+Points requirement 
+ All applicants on the GBM routes must meet a ‘points’ requirement.  
+ 
+ Applicants applying as a Senior or Specialist Worker, Graduate Trainee, 
+or UK Expansion Worker must score 60 points against the following 
+three criteria: 
+ 
+Page 30 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Points type Further information Points 
+available 
+Sponsorship See ‘Points for sponsorship’ below this 
+table. 
+20 
+Job at an 
+appropriate 
+skill level 
+See section GBM6. 20 
+Salary at 
+required level 
+See section GBM7. 20 
+ 
+ Applicants applying as a Service Supplier or Secondment Worker must 
+score 40 points against the following two criteria: 
+ 
+Points type Further information Points 
+available 
+Sponsorship See ‘Points for sponsorship’ below this 
+table. 
+20 
+Job at an 
+appropriate 
+skill level 
+See section GBM6. 20 
+ 
+ Although Service Suppliers and Secondment Workers are not required 
+to score points for salary, you must ensure they are paid in accordance 
+with National Minimum Wage legislation.  
+ 
+Points for sponsorship 
+ To score points for sponsorship, the applicant must: 
+ 
+• have a valid Certificate of Sponsorship (CoS) assigned by you (the 
+sponsor) on the relevant GBM route 
+• be sponsored for a job role which:  
+o is genuine 
+o where relevant, meet the rules on working for a third party 
+o complies with National Minimum Wage and the Working Time 
+Regulations 
+• meet the overseas work requirement 
+• if applying as a Service Supplier or Secondment Worker, meet the 
+eligible contract requirement 
+ 
+Genuine role requirement 
+ We will not award points for sponsorship if we have reasonable grounds 
+to believe that the job role you are sponsoring the applicant for: 
+ 
+• does not exist 
+• is a sham; or 
+• has been created mainly so the worker can apply for entry clearance 
+or permission to stay 
+ 
+Page 31 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ If you assign a CoS for a role which is not genuine, we will refuse the 
+worker’s application and we will revoke your licence. 
+ 
+Working for a third party 
+ You must not assign a CoS to a worker for a role which amounts to 
+either: 
+ 
+• the hire of the worker to a third party who is not the sponsor to fill a 
+position with that party, whether temporary or permanent 
+• contract work to undertake an ongoing routine role, or to provide an 
+ongoing routine service, for a third party who is not the sponsor, 
+regardless of the nature or length of any arrangement between the 
+sponsor and the third party 
+ 
+ If we have reasonable grounds to believe you have done so, we will not 
+award points for sponsorship. If that happens, we will refuse the worker’s 
+application and we are likely to revoke your licence. 
+ 
+ For further information, see ‘Working on a contract basis’ in section S1 of 
+Part 2: Sponsor a worker. 
+ 
+Compliance with National Minimum Wage and the Working Time 
+Regulations 
+ The role you are sponsoring the worker for must always comply with the 
+National Minimum Wage Regulations 2015 and the Working Time 
+Regulations 1998. We will refuse any application for entry clearance or 
+permission where we have reasonable grounds to believe it does not. 
+We will also consider revoking your sponsor licence if we find you are 
+breaching these Regulations. 
+ 
+ For further information, see ‘Compliance with National Minimum Wage 
+and the Working Time Regulations’ in section S4 of Part 2: Sponsor a 
+worker. 
+ 
+Eligible contract requirement for Service Suppliers or Secondment 
+Workers 
+ If you are sponsoring a Service Supplier or Secondment Worker, you 
+must have at least one eligible contract with an overseas service 
+provider. This must be the contract the applicant will be working on 
+whilst in the UK. You must have registered the contract with the Home 
+Office via your SMS account, either when you applied for your sponsor 
+licence or before assigning a CoS to the worker. You must confirm which 
+contract the applicant will be working on when you assign the CoS. 
+ 
+ If the applicant is a Service Supplier, the contract must be for a service 
+covered by one of the UK’s international trade agreements that is 
+currently in force or being provisionally applied (for example, the UK-EU 
+Trade and Cooperation Agreement or the General Agreement on Trade 
+Page 32 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+in Services), and the applicant must meet the relevant nationality or 
+residence requirements. For further information on eligible agreements, 
+see Service Supplier visa: eligible trade agreements and sectors. 
+ 
+Genuine intention requirement 
+ The applicant must: 
+ 
+• genuinely intend, and be able, to do the role for which they are being 
+sponsored; and 
+• not intend to take employment other than in the role for which they are 
+being sponsored, or as otherwise permitted by their conditions of stay 
+(see section S8 of Part 2: Sponsor a worker for more information on 
+conditions of stay) 
+ 
+Financial requirement 
+ If the applicant is applying for entry clearance from outside the UK, or 
+has been in the UK for less than one year at the date of application, they 
+must show they have enough funds to support themselves and any 
+family members in the UK.  
+ 
+ For routes other than UK Expansion Worker, if you are an A-rated 
+sponsor, you can certify this requirement is met when you assign a CoS 
+to the worker (also known as ‘certifying maintenance’). Otherwise, the 
+applicant must provide evidence of funds as specified in Appendix 
+Finance to the Immigration Rules. 
+ 
+ You cannot certify maintenance if the worker you are sponsoring is 
+applying as a UK Expansion Worker.  
+ 
+ If the applicant is applying for permission to stay and has been living in 
+the UK with permission for 12 months or longer on the date of 
+application, they will meet the financial requirement and do not need to 
+show evidence of funds. 
+ 
+ For further information on the financial requirement, see section S7 of 
+Part 2: Sponsor a worker.  
+ 
+Former officially-sponsored students 
+ If the applicant has, in the 12 months before the date of application, 
+received an award from a Government or international scholarship 
+agency covering both fees and maintenance, they must provide written 
+consent to their application from that Government or agency. If they do 
+not, we will reject their application as invalid. 
+ 
+Page 33 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Nationality or residence requirements for Service 
+Suppliers 
+ An applicant on the Service Supplier route must be, and provide 
+evidence they are, one of the following: 
+ 
+• where the service that the applicant will provide is covered by a 
+contractual service supplier commitment in the General Agreement on 
+Trade in Services and the applicant’s employer is established in a 
+country or territory that has made a notification under Article 
+XXVIII(k)(ii)(2) of that agreement, a permanent resident of that country 
+or territory – the countries that have made such a notification are 
+Armenia, Australia, Canada, New Zealand, and Switzerland 
+• where the service that the applicant will provide is covered by a 
+commitment in the Temporary Agreement between the Swiss 
+Confederation and the United Kingdom of Great Britain and Northern 
+Ireland on Services Mobility, a permanent resident of Switzerland 
+• where the service that the applicant will provide is covered by a 
+commitment in the United Kingdom-European Union Trade and 
+Cooperation Agreement, a national of any Member State of the 
+European Union or any other person included in the definition of 
+‘natural person of a Party’ for the European Union in Article 512(k) of 
+that agreement 
+• where the service that the applicant will provide is covered by a 
+contractual service supplier commitment in the CARIFORUM-United 
+Kingdom Economic Partnership Agreement, a national of any 
+CARIFORUM State that has provisionally applied or brought into force 
+that agreement 
+• where the service that the applicant will provide is covered by a 
+commitment in the Free Trade Agreement between the United 
+Kingdom of Great Britain and Northern Ireland and Australia, a 
+permanent resident of Australia 
+• where the service that the applicant will provide is covered by a 
+commitment in the Free Trade Agreement between the United 
+Kingdom of Great Britain and Northern Ireland and New Zealand, a 
+permanent resident of New Zealand 
+• where the service that the applicant will provide is covered by a 
+commitment in the UK-India Comprehensive Economic and Trade 
+Agreement (CETA) (when that agreement comes into force), a 
+national of India 
+• where the service that the applicant will provide is covered by a 
+commitment in the Comprehensive and Progressive Agreement for 
+Trans-Pacific Partnership (CPTPP), either a permanent resident of 
+Australia or (for independent professionals only) of New Zealand, or a 
+national of a party to that agreement – current parties to the CPTPP 
+are: 
+o Australia 
+o Brunei 
+o Chile 
+o Japan 
+Page 34 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+o Malaysia 
+o Peru 
+o New Zealand (independent professionals only) 
+o Vietnam (contractual service suppliers only) 
+• in all other cases, a national of the country or territory in which the 
+overseas service provider is based 
+ 
+ A service can only be covered by a trade commitment when the relevant 
+agreement is in force or provisionally applied. To see which agreements 
+are in force, refer to the published list of eligible trade agreements.  
+ 
+ Where the relevant trade agreement is CPTPP, both the country where 
+the overseas service provider is located and the country of which the 
+service supplier is a national must have ratified the UK’s accession to 
+CPTPP.  
+ 
+Entry requirement 
+ Applicants must apply for entry clearance (a visa) to be able to come to 
+the UK on these routes. If they arrive in the UK without the relevant visa, 
+they will be refused entry, even if they otherwise meet the requirements.  
+ 
+Extension of permission 
+ Those already in the UK with permission on a GBM route can apply to 
+extend their stay on the same route, up to the maximum continuous 
+period for the route (where one exists), or up to the maximum cumulative 
+period for the GBM routes (whichever of these ends sooner) if they meet 
+the relevant requirements – this could be to continue in the same 
+employment or to change employer or employment. See section S9 of 
+Part 2: Sponsor a worker for further information on extension and 
+change of employment applications. 
+ 
+‘Switching’ to the GBM routes 
+ People in the UK on a non-GBM immigration route may be able to 
+‘switch’ (change route) to a GBM route if they meet all the relevant 
+immigration requirements (including the overseas work requirement) and 
+were not last granted permission: 
+ 
+• as a Visitor 
+• as a Student, unless they meet the additional rules for people 
+switching from the Student route (as set out below) 
+• as a Short-term student 
+• as a Parent of a Child Student 
+• as a Seasonal Worker 
+• as a Domestic Worker in a Private Household 
+• outside the Immigration Rules 
+ 
+Page 35 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ If a person you wish to sponsor is in the UK on any of the above routes, 
+or was last granted outside the Immigration Rules, they will normally 
+need to leave the UK and apply for entry clearance on the relevant GBM 
+route. 
+ 
+ People in the UK with permission on one GBM route may be able switch 
+to another GBM route if they meet the relevant requirements.  
+ 
+Switching from the Student route 
+ If the person you wish to sponsor will be applying for permission to stay 
+(from within the UK) and they have, or last had, permission as a Student 
+(including as a Tier 4 (General) Migrant), they must meet one of the 
+following conditions on the date they make their application to be 
+allowed to switch to the GBM routes: 
+ 
+• they must have completed the course of study for which they were 
+being sponsored as a Student 
+• they must be studying a full-time course of study at degree level or 
+above with a higher education provider which has a track record of 
+compliance, and the start date on their CoS must be no earlier than 
+the course completion date 
+• they must be studying a full-time course of study leading to the award 
+of a PhD with a higher education provider which has a track record of 
+compliance, and the start date on their CoS must be no earlier than 
+24 months after the start date of their PhD 
+ 
+ A ‘higher education provider with a track record of compliance’ will be 
+shown on the register of student sponsors with the type ‘Higher 
+Education Institution (HEI)’ and with the status ‘Student Sponsor – Track 
+Record’.  
+ 
+ If you wish to sponsor a worker who has, or last had, permission as a 
+Student, you must carefully check they can meet one of the above 
+conditions before you assign a CoS to them. If they do not meet one of 
+these conditions, they will not be permitted to switch. 
+ 
+How long a GBM worker will be granted for 
+ The period of permission we will grant to a GBM worker if they make a 
+successful application for entry clearance or permission to stay depends 
+on the GBM route on which they are being sponsored, and whether they 
+have had previous permission on any of the GBM routes. GBM workers 
+are subject to a maximum cumulative period (in most cases, 5 years 
+permission on any GBM route or Intra-Company route in any 6-year 
+period). 
+ 
+ If the applicant does not currently have permission on a GBM route, any 
+permission granted for the period between the date of decision and the 
+start date of the job detailed on their CoS will be excluded from the 
+Page 36 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+cumulative permission for the purpose of determining the period of grant 
+of permission below (but not when determining the maximum cumulative 
+period of permission below). 
+ 
+Grant period for a Senior or Specialist Worker 
+ A Senior or Specialist Worker will be granted permission for whichever is 
+the shortest of the following: 
+ 
+• 5 years after the start date of the job detailed on the CoS 
+• 14 days after the end date of the job detailed on the CoS 
+• to the date at which they will have reached the maximum cumulative 
+period for the GBM routes 
+ 
+Grant period for a Graduate Trainee 
+ A Graduate Trainee will be granted permission for whichever is the 
+shortest of the following: 
+ 
+• 1 year after the start date of the job detailed on the CoS 
+• 14 days after the end date of the job detailed on the CoS 
+• to the date at which they will have reached the maximum cumulative 
+period for the GBM routes  
+ 
+Grant period for a UK Expansion Worker 
+ A UK Expansion Worker will be granted permission for whichever is the 
+shortest of the following: 
+ 
+• 1 year after the start date of the job detailed on the CoS 
+• 14 days after the end date of the job detailed on the CoS 
+• to the date at which the applicant will have had continuous permission 
+as a UK Expansion Worker totalling 2 years 
+• to the date at which they will have reached the maximum cumulative 
+period for the GBM routes  
+ 
+Grant period for a Service Supplier 
+ An applicant for entry clearance on the Service Supplier route will be 
+granted for whichever is the shortest of the following: 
+ 
+• 14 days after the end date of the job detailed on the CoS 
+• the maximum single assignment period, which is:  
+o if the applicant is covered by a relevant commitment in the UK-EU 
+Trade and Cooperation Agreement, 12 months 
+o if the applicant is covered by a relevant commitment in the 
+Temporary Agreement between the Swiss Confederation and the 
+United Kingdom of Great Britain and Northern Ireland on Services 
+Mobility, 12 months 
+Page 37 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+o if the applicant is covered by a relevant commitment in the Free 
+Trade Agreement between the United Kingdom of Great Britain and 
+Northern Ireland and Australia, 12 months 
+o if the applicant is covered by a relevant commitment in the 
+Comprehensive and Progressive Agreement for Trans-Pacific 
+Partnership (CPTPP), and is a person included in the definition of 
+‘business person’ under Article 12.1 of that agreement, 12 months 
+o if the applicant is an Indian national covered by a relevant 
+commitment in the UK-India Comprehensive Economic and Trade 
+Agreement (CETA) (when that agreement comes into force), 12 
+months 
+o in all other cases, 6 months 
+• to the date at which they will have reached the maximum cumulative 
+period for the GBM routes  
+ 
+ If the application is for permission to stay, the applicant will be granted 
+for whichever is the shortest of the following: 
+ 
+• 14 days after the end date of the job detailed on the CoS 
+• the maximum single assignment period, which is: 
+o if the applicant is covered by a relevant commitment in the UK-EU 
+Trade and Cooperation Agreement, the difference between the 
+period the applicant has already spent in the UK since their last 
+grant of permission as a Service Supplier and 12 months 
+o if the applicant is covered by a relevant commitment in the 
+Temporary Agreement between the Swiss Confederation and the 
+United Kingdom of Great Britain and Northern Ireland on Services 
+Mobility, the difference between the period the applicant has 
+already spent in the UK since their last grant of permission as a 
+Service Supplier and 12 months 
+o if the applicant is covered by a relevant commitment in the Free 
+Trade Agreement between the United Kingdom of Great Britain and 
+Northern Ireland and Australia, the difference between the period 
+the applicant has already spent in the UK since their last grant of 
+permission as a Service Supplier and 12 months 
+o if the applicant is covered by a relevant commitment in the 
+Comprehensive and Progressive Agreement for Trans-Pacific 
+Partnership (CPTPP), the difference between the period the 
+applicant has already spent in the UK since their last grant of 
+permission as a Service Supplier and 12 months 
+o if the applicant is an Indian national covered by a relevant 
+commitment in the UK-India Comprehensive Economic and Trade 
+Agreement (CETA) (when that agreement comes into force), the 
+difference between the period the applicant has already spent in 
+the UK since their last grant of permission as a Service Supplier 
+and 12 months 
+o in all other cases, the difference between the period the applicant 
+has already spent in the UK since their last grant of permission as a 
+Service Supplier and 6 months 
+Page 38 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+• to the date at which they will have reached the maximum cumulative 
+period for the GBM routes 
+ 
+Annual limit for specified occupations under the UK-India CETA 
+ The total number of grants of entry clearance or permission to stay for 
+the following occupation codes and job roles sponsored under the UK-
+India CETA (when this agreement comes into force) must not exceed 
+1,800 in any calendar year (1 January to 31 December): 
+ 
+• 3415: classical musician 
+• 3433: yoga instructor 
+• 5434: traditional chef 
+ 
+ This annual limit applies to these job roles collectively, not to each job 
+role.  
+ 
+ We will update the sponsorship management system (SMS) when the 
+annual limit is close to being reached, or has been reached. You should 
+not assign a CoS if the limit has been reached. If you do, the worker’s 
+application may be rejected or refused.  
+ 
+Grant period for a Secondment Worker 
+ A Secondment Worker will be granted permission for whichever is the 
+shortest of the following:  
+ 
+• 1 year after the start date of the job detailed on the CoS 
+• 14 days after the end date of the job detailed on the CoS 
+• to the date at which the applicant will have had continuous permission 
+as a Secondment Worker totalling 2 years 
+• to the date at which they will have reached the maximum cumulative 
+period for the GBM routes  
+ 
+Maximum cumulative period of permission for GBM 
+workers 
+ Except where a transitional arrangement for Senior or Specialist 
+Workers applies, all workers on the GBM routes are subject to a 
+maximum cumulative period of permission.  
+ 
+ When you sponsor a GBM worker, you should make yourself aware of 
+any previous permission the worker has had on these routes. This will 
+determine what, if any, permission they can be granted.  
+ 
+ If the worker is a high earner applying as a Senior or Specialist Worker, 
+they can stay in the UK for a cumulative total of 9 years in any 10-year 
+period.  
+ 
+Page 39 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ In all other cases, the maximum period of permission is a cumulative 
+total of 5 years in any 6-year period. 
+ 
+ These maximum periods include all time spent in the UK on any of the 
+GBM routes, including the predecessor Intra-Company routes. There are 
+shorter maximum periods for specific routes – see the grant periods 
+above and the example below: 
+ 
+Example 1 
+A worker is granted permission for one year to come to the UK on the 
+Secondment Worker route. They extend their stay up to 2 years (which 
+is the maximum period permitted on that route). At the end of the 2 
+years, the worker leaves the UK and immediately starts a new 
+secondment with a different sponsor in the UK. After a further 2 years 
+with permission on this route, if the overseas business wanted to send 
+them on another secondment to the UK, the worker would be limited to 1 
+year as this would be the point at which they had been in the UK for 5 
+years in a 6-year period.   
+ 
+Example 2 
+A worker is assigned to the UK on the Senior or Specialist Worker route 
+for 3 years and is then sent on a work assignment to Sweden for 6 
+months. If they were then reassigned to the UK, the maximum time they 
+could stay on the Senior or Specialist Worker route is 2 years (unless 
+they are a high earner paid over £73,900). At the end of those 2 years, 
+they have reached the limit of 5 years in a 6-year period.  
+ 
+If, after a further 6 months outside the UK, the worker then wished to 
+return on the Senior or Specialist Worker route, they would be able to 
+stay a further 3 years before they reached the limit again. 
+ 
+Example 3 
+A worker on a graduate training programme is sent to the do a 12-month 
+work placement in the UK on the Graduate Trainee route. After their 
+placement, they have been promoted to a specialist position and the 
+sponsor wishes them to extend their assignment to the UK on the Senior 
+or Specialist Worker route. Because they have already had 1 year on a 
+Global Business Mobility route, they can only stay for a further 4 years 
+before they reach the limit of 5 years in 6. 
+ 
+At the end of this assignment, the worker has been promoted once again 
+and their new assignment is paid over £73,900. Since their new position 
+qualifies as a high earner, the sponsor can extend their assignment on 
+the Senior or Specialist Worker route for a further 4 years before they 
+reach the limit of 9 years in a 10-year period.  
+ 
+How the maximum period is calculated 
+ When calculating the cumulative periods of permission referred to 
+above, all of the following are included: 
+Page 40 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ 
+• all previous periods of permission granted on any of the GBM routes 
+• all previous periods of permission granted on the predecessor Intra-
+Company routes 
+• if the applicant doesn’t currently hold permission on a GBM route, any 
+permission they could be granted as a result of their current 
+application for permission, beginning on the start date of the job 
+stated on their CoS 
+• if the applicant is applying for permission to stay and has, or last had, 
+permission on the GBM routes, any permission they could be granted 
+as result of their current application, beginning on the date of decision 
+• any period of permission on the GBM routes or the Intra-Company 
+routes extended under section 3C of the Immigration Act 1971 (that is, 
+when the applicant had an in-time application for permission to stay 
+under consideration, during any period they could appeal against, or 
+apply for an administrative review of, a decision on that application, or 
+pending such an appeal or administrative review) 
+ 
+ You should plan carefully when assigning a CoS to a worker on the GBM 
+routes and choose work start and end dates appropriately so that the 
+worker is not prevented from coming to, or staying in, the UK when you 
+need them.  
+ 
+Transitional arrangement: Senior or Specialist Workers granted 
+before 6 April 2011 
+ A Senior or Specialist Worker is not subject to the maximum cumulative 
+period of permission if all of the following requirements are met: 
+ 
+• they are applying for permission to stay from within the UK (not entry 
+clearance from overseas)  
+• they previously had permission on the Tier 2 (Intra-Company 
+Transfer) route under the rules in place before 6 April 2011, or as a 
+Work Permit holder under the rules in place before 27 November 
+2008 
+• they have had continuous permission as a Senior or Specialist Worker 
+(or its predecessor routes) since then (including any short period of 
+overstaying disregarded under the ‘Exceptions for Overstayers’ 
+section in Part Suitability of the Immigration Rules) 
+ 
+ Senior or Specialist Workers who meet these conditions can extend their 
+stay for up to 5 years with each application. 
+ 
+ This transitional arrangement does not apply to any other GBM route. 
+ 
+Further information on immigration requirements 
+ You can find more information in the Work visas section of GOV.UK. 
+ 
+Page 41 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ You should also refer to sections S7 to S9 of Part 2: Sponsor a worker 
+for further information on immigration requirements, conditions of stay, 
+extension applications and change of employment applications. 
+Contents 
+Page 42 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ Overseas work requirement for 
+GBM workers 
+This section tells you how an applicant on the Global Business Mobility (GBM) routes 
+can meet the overseas work requirement.  
+ 
+Overview 
+ Unless an exception in paragraph GBM5.13 applies, applicants on the 
+GBM routes must show they have worked overseas for an eligible 
+business for a minimum period of: 
+ 
+• 12 months in the case of a Senior or Specialist Worker, UK Expansion 
+Worker or Service Supplier 
+• 6 months in the case of a Secondment Worker applying on or after 8 
+April 2026 (the minimum period was 12 months for applications 
+submitted before that date) 
+• 3 months in the case of a Graduate Trainee 
+ 
+ In this section, an ‘eligible business’ means: 
+ 
+• where the applicant is a Senior or Specialist Worker, Graduate 
+Trainee or UK Expansion Worker, any business that forms part of the 
+sponsor group 
+• where the applicant is a Service Supplier, the overseas service 
+provider you have a services contract with under an eligible trade 
+agreement 
+• where the applicant is a Secondment Worker, the overseas business 
+you have an eligible contract with for goods or investment 
+ 
+ In this section, time spent working for clients of the eligible business can 
+count towards any required continuous period of work. Where this work 
+is undertaken outside the UK, it can be counted towards the required 
+time spent working outside the UK. 
+ 
+ Applicants do not normally need to submit evidence of their overseas 
+work with their application. However, the Home Office reserves the right 
+to ask for this. You should therefore retain any necessary evidence of 
+the worker’s overseas employment.  
+ 
+Overseas work requirement for GBM routes other than 
+Graduate Trainee 
+ To meet the overseas work requirement for GBM routes other than 
+Graduate Trainee, the applicant must: 
+ 
+• be currently working for an eligible business, as defined in paragraph 
+GBM5.2 
+Page 43 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+• have been working for an eligible business, either in or out of the UK, 
+for a continuous period of at least 12 months (or 6 months in the case 
+of a Secondment Worker applying on or after 8 April 2026) 
+immediately before the date of application; and 
+• have spent at least 12 months (or for 6 months in the case of a 
+Secondment Worker applying on or after 8 April 2026) working 
+outside the UK for an eligible business during that period of 
+continuous work 
+ 
+ The minimum required period of overseas work does not have to have 
+been continuous, provided it was accumulated during a period of 
+continuous work for an eligible business before the date of application.  
+ 
+ The continuous period of work referred to above will not be broken by 
+any of the absences listed below (but these periods of absence do not 
+count towards the minimum required period of working outside the UK):  
+ 
+• statutory maternity, paternity, parental, or shared parental leave 
+• statutory adoption leave 
+• sick leave 
+• assisting with a national or international humanitarian or 
+environmental crisis, with the agreement of the eligible business 
+• taking part in legally organised industrial action 
+• jury service 
+• attending court as a witness 
+ 
+ The examples below explain how this requirement works in the case of 
+an applicant applying as a Senior or Specialist Worker. The same 
+principles apply to UK Expansion Workers, Service Suppliers and 
+Secondment Workers (except, in the case of Secondment Workers, 
+references to 12 months should be read as 6 months, and references to 
+6 months as 3 months): 
+ 
+Example 1 
+An applicant has worked for the sponsor group for 2 years and during 
+that time has moved regularly between offices in the UK and overseas. 
+They would meet the overseas work requirement, provided at least 12 
+months was spent working outside the UK and they are still working for 
+the sponsor group at the time of their application. 
+ 
+Example 2 
+An applicant worked for the sponsor group outside the UK for 6 months 
+before taking parental leave for 1 year. They then returned to work for 
+the same business for a further 6 months before being assigned to the 
+UK. In this scenario, the two 6-month periods of employment can be 
+combined. Since the applicant worked for the sponsor group for 12 
+months in total and all the work was outside the UK, they will meet the 
+overseas work requirement. 
+ 
+Page 44 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Example 3 
+An applicant worked overseas for the sponsor group for 2 years. They 
+left their job to come to the UK to study for 3 years. During their final 
+year of study, they started working for the sponsor group again on a 
+part-time basis, and are now applying to switch to the Senior or 
+Specialist Worker route. In this scenario, the applicant would not meet 
+the overseas work requirement. Although they have worked overseas for 
+the sponsor group for more than 12 months, this did not occur during 
+their most recent period of continuous work for the sponsor group.  
+ 
+ Where the applicant is a self-employed Service Supplier (independent 
+professional), the 12 months working outside the UK can include both 
+self-employment and time working for other businesses, provided this 
+work was in the same sector as the service they are, or will be, providing 
+to you. 
+ 
+Overseas work requirement for Graduate Trainees 
+ Graduate Trainees must be working for the sponsor group on the date of 
+application, and have worked outside the UK for the sponsor group for a 
+continuous period of at least 3 months immediately before the date of 
+application.  
+ 
+ This 3-month period must be continuous with no breaks (even where it 
+would be a ‘permitted absence’ on the other GBM routes) and cannot 
+include time spent working in the UK.  
+ 
+ Because of this requirement, it will not normally be possible to ‘switch’ in-
+country to the Graduate Trainee route, and a person granted permission 
+as a Graduate Trainee will not normally be able to extend that 
+permission while in the UK, as they are unlikely to meet the overseas 
+work requirement for this route.  
+ 
+Exceptions to the overseas work requirement 
+ The applicant does not have to meet the overseas work requirement if 
+they are applying as any of the following and meet the conditions 
+specified in the bullet points below:  
+ 
+• a Senior or Specialist Worker or a UK Expansion who meets the 
+definition of ‘high earner’, provided they are working for the sponsor 
+group on the date of application 
+• a UK Expansion Worker who is working for the sponsor group on the 
+date of application and they are one of the following: 
+o a Japanese national seeking to establish a UK branch or subsidiary 
+of the sponsor group under the UK-Japan Comprehensive 
+Economic Partnership Agreement 
+o a national or permanent resident of Australia seeking to establish a 
+UK branch or subsidiary of the sponsor group under the UK-
+Australia Free Trade Agreement 
+Page 45 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+• a Secondment Worker who is applying for an extension of their 
+Secondment Worker permission (from within the UK) to continue 
+working for the same sponsor as in their last grant of permission on 
+this route 
+ 
+ Where the precise requirements specified in paragraph GBM5.13 are not 
+met, the applicant must meet the overseas work requirement described 
+in paragraphs GBM5.5 to GBM5.8.  
+ 
+Contents 
+Page 46 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ Skill level for GBM workers 
+This section tells you how to ensure that any jobs you wish to sponsor workers for on 
+the Global Business Mobility routes are at the appropriate skill level.  
+ 
+Overview 
+ All applicants applying on the Global Business Mobility (GBM) routes 
+must score 20 points for having a job at the appropriate skill level. To 
+meet this requirement, the applicant must: 
+ 
+• be sponsored in an eligible SOC 2020 occupation code 
+• if relevant, meet the Academic Technology Approval Scheme (ATAS) 
+requirement 
+ 
+ There is an alternative way for Service Suppliers to meet the skill-level 
+requirement, based on their previous qualifications and experience 
+(known as ‘Option B’).  
+ 
+ In most cases, the job the applicant is being sponsored to do must be 
+skilled to level 6 or above (graduate level) on the Regulated 
+Qualifications Framework for England and Northern Ireland, or the 
+equivalent level in Wales or Scotland. The applicant does not 
+necessarily need to have a degree-level qualification but the work they 
+do must be at that level.  
+ 
+ If the applicant is applying as a Graduate Trainee, in addition to the 
+requirements in this section, the job must be part of a structured 
+graduate training programme, with clearly defined progression towards a 
+managerial or specialist role within the sponsor group. You must provide 
+evidence of the graduate training programme when you apply for your 
+sponsor licence. 
+ 
+Eligible occupation code 
+ The job the applicant is being sponsored to do must be in a SOC 2020 
+occupation code listed in Table 2, Table 2b or Table 3 of Appendix 
+Skilled Occupations. Jobs listed in Table 2b are only eligible to be 
+sponsored if the transitional provision for skill level described at 
+paragraph GBM6.11 is met. Where the job is a healthcare occupation in 
+Table 3 subject to ‘Agenda for Change’ pay scales, it must not be below 
+Band 5. There is an alternative way for some Service Suppliers to meet 
+the skill-level requirement.  
+ 
+ When you assign a Certificate of Sponsorship (CoS), you must take care 
+to choose the appropriate occupation code for the job the worker will do. 
+The University of Warwick has developed a Computer Assisted 
+Structured Coding Tool (CASCOT) which can help you choose the 
+Page 47 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+correct SOC 2020 code. There is also guidance in section S3 of Part 2: 
+Sponsor a worker.  
+ 
+ We will not award points to an applicant if we have reasonable grounds 
+to believe you have chosen a less appropriate occupation code for either 
+of the following reasons: 
+ 
+• the most appropriate occupation code is not eligible under the GBM 
+routes 
+• the most appropriate occupation code has a higher going rate (where 
+the applicant is subject to a going rate requirement) than the proposed 
+salary 
+ 
+ If this happens, we will refuse the worker’s application and are likely to 
+revoke your licence. 
+ 
+ When assessing if you have chosen an inappropriate occupation code, 
+we may consider a number of factors, including, but not limited to: 
+ 
+• whether you have shown a genuine need for the job as described 
+• whether the worker has the appropriate skills, qualifications and 
+experience needed to do the job as described - we may request 
+evidence 
+• your history of compliance with the immigration system including, but 
+not limited to, paying sponsored workers appropriately 
+• any additional information you may provide 
+ 
+ If we find you have provided false, misleading or otherwise incorrect 
+information about the skill level of the job on a CoS, we will take 
+compliance action against you. 
+ 
+Transitional provision for skill level: occupations in Table 2b 
+ Table 2b of Appendix Skilled Occupations lists occupations which are 
+generally no longer eligible for the GBM routes. However, you may 
+sponsor a worker in these occupations if they meet all of the following 
+requirements: 
+ 
+• they were granted permission on one of the GBM routes under the 
+Immigration Rules in force before 4 April 2024 
+• they have had continuous permission on the same GBM route since 
+then (continuous permission can include short periods without 
+permission that were disregarded under the ‘Exceptions for 
+overstayers’ section in Part Suitability of the Immigration Rules) 
+• they are applying for further permission on the same GBM route as in 
+their last grant of permission 
+• the application is made before 4 April 2030 
+ 
+ You cannot sponsor a GBM worker in these occupation codes if they do 
+not qualify under the above transitional provision. A worker cannot 
+Page 48 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+qualify under this transitional provision if they are applying for permission 
+on a different GBM route to the one they were last granted permission 
+on. 
+ 
+Skill level for Service Suppliers (‘Option B’) 
+ Service Suppliers can meet the skill-level requirement under either 
+‘Option A’ or ‘Option B’. 
+ 
+ Under Option A, the applicant can meet the skill-level requirement in the 
+normal way by being sponsored for a job in an eligible occupation code, 
+as set out above.  
+ 
+ Under Option B, the applicant can be sponsored in a job that’s not listed 
+as eligible for the GBM routes in Appendix Skilled Occupations if they 
+meet the qualifications and professional experience requirements set out 
+below. 
+ 
+Qualifications requirement for Service Suppliers under Option B 
+ A Service Supplier claiming points for skill level under Option B must 
+have one of the following qualifications: 
+ 
+• a university degree 
+• a technical qualification that’s equivalent to a university degree – this 
+includes (but is not limited to) the following Swiss qualifications that 
+have been assessed by UK ENIC to be equivalent to a UK degree 
+(names are given in English, German, French and Italian respectively, 
+with feminine (F) and masculine (M) forms where required):  
+o Advanced Federal Diploma of Higher Education (Diplom HF; 
+Diplôme ES; Diploma SSS) delivered by Colleges of Higher 
+Education (Höhere Fachschulen (HF); écoles supérieures (ES); 
+scuole specializzate superiori (SSS)) 
+o Advanced Federal Diploma of Higher Education (Eidgenössisches 
+Diplom; Diplôme fédéral; Diploma federale), awarded after an 
+Advanced Federal Professional Examination (Höhere Fachprüfung; 
+Examen professionnel fédéral supérieur; Esame professionale 
+federale superiore), when awarded from 2014 onwards 
+o Federal Diploma of Higher Education, General Foreman Timber 
+Construction (Holzbau-Polierin mit eidgenössischem Fachausweis 
+(F) / Holzbau-Polier mit eidgenössischem Fachausweis (M); 
+Contremaître charpentière avec brevet fédéral (F) / Contremaître 
+charpentier avec brevet fédéral (M); Capa carpentiera con attestato 
+professionale federale (F) / Capo carpentiere con attestato 
+professionale federale (M)) 
+o Federal Diploma of Higher Education, Chartered Specialist in 
+Accounting and Financial Management (Fachfrau im Finanz- und 
+Rechnungswesen mit eidgenössischem Fachausweis (F) / 
+Fachmann im Finanz- und Rechnungswesen mit eidgenössischem 
+Fachausweis (M); Spécialiste en finance et comptabilité avec 
+Page 49 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+brevet fédéral; Specialista in finanza e contabilità con attestato 
+professionale federale) 
+• if they are employed by an overseas service provider (not a self-
+employed independent professional) supplying one of the services 
+listed in the first column of the table below, the qualification listed in 
+the second column of the table: 
+ 
+Sector Qualification required 
+Advertising and translation 
+services  
+Relevant qualifications 
+Chef de cuisine services (provided 
+under the CARIFORUM-UK 
+Economic Partnership Agreement) 
+Advanced technical qualification 
+Entertainment services (excluding 
+audio-visual services under the –
+CARIFORUM-UK Economic 
+Partnership Agreement) 
+None required 
+Fashion and modelling None required 
+Management consulting services 
+and services related to 
+management consulting 
+(managers and senior consultants) 
+University degree (not a technical 
+qualification of an equivalent level) 
+Technical testing and analysis 
+services 
+University degree or a relevant 
+technical qualification 
+ 
+ In addition to the qualifications listed above, any worker applying as a 
+Service Supplier must also hold any professional qualifications or 
+registrations required to provide the services under UK law, regulations 
+or sectoral requirements. 
+ 
+Professional experience requirement for Service Suppliers 
+under Option B 
+ A Service Supplier claiming points for skill level under Option B must 
+have relevant professional experience in the sector in which they will 
+supply services, as set out in the table below:  
+ 
+Type Experience required 
+Chef de cuisine services supplied 
+under the CARIFORUM-UK 
+Economic Partnership Agreement 
+6 years’ relevant experience at the 
+level of chef de cuisine 
+Self-employed overseas service 
+provider (‘independent 
+professional’) 
+6 years’ professional experience in 
+the sector concerned 
+All other cases 3 years’ professional experience in 
+the sector concerned 
+ 
+Page 50 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ATAS requirement 
+ When you assign a CoS to a worker on any of the GMB routes, you must 
+check and confirm whether the worker needs to apply for an Academic 
+Approval Technology Scheme (ATAS) certificate from the Foreign, 
+Commonwealth and Development Office before they can start (or 
+continue) working for you. 
+ 
+ A GBM worker will need an ATAS certificate if all of the following are 
+true: 
+ 
+• you are also licensed as a Student sponsor 
+• the worker is not an ‘exempt national’ 
+• you are sponsoring the worker in a ‘relevant occupation code’ 
+• the work involves research at PhD level or above in ‘relevant subject 
+area’ 
+ 
+See Annex S1 of Part 2: Sponsor a worker for a definition of the terms 
+‘exempt national’, ‘relevant occupation code’ and ‘relevant subject area’. 
+ 
+ If the worker needs an ATAS certificate, you should encourage them to 
+apply for one as soon as possible, as they will need to include a copy of 
+the certificate with their application for entry clearance or permission to 
+stay. If they fail to do so, we will refuse their application and you may 
+lose your sponsor licence (or licences). 
+ 
+ For further information on the ATAS requirement, and your 
+responsibilities in relation to it, see under ‘ATAS requirement’ in section 
+S7 of Part 2: Sponsor a worker. 
+ 
+Contents 
+ 
+Page 51 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ Salary requirements for GBM 
+workers 
+This section tells you about the salary requirements for workers sponsored on the 
+Global Business Mobility routes, and your responsibilities if a sponsored worker 
+takes unpaid leave or you reduce their salary.  
+ 
+Overview 
+ You must ensure any worker you sponsor on the Global Business 
+Mobility (GBM) routes is paid in line with the salary rates set out in the 
+Immigration Rules and in this guidance.  
+ 
+ Applicants on the Senior or Specialist Worker, Graduate Trainee route 
+and UK Expansion Worker routes must meet both a ‘general salary’ 
+requirement and a ‘going rate’ requirement. These rates have been set 
+to make sure the resident labour market is not undercut. They will be 
+reviewed and updated regularly to reflect the latest available salary data. 
+ 
+ Applicants on the Service Supplier route or Secondment Worker route 
+do not have to meet a general salary or going rate requirement but must 
+be paid in accordance with UK National Minimum Wage legislation.  
+ 
+ If the amount you intend to pay the worker is below these rates, we will 
+refuse their application for entry clearance or permission to stay. If we 
+grant permission but later find you are not paying the worker in line with 
+these rates, we will consider cancelling the worker’s leave and revoking 
+your licence – for further information, see.  
+ 
+• Absence without pay or on reduced pay 
+• Salary otherwise reduced 
+ 
+ In addition to compliance visits, we will undertake regular checks with 
+HMRC to ensure you are paying at least the salary you stated on the 
+sponsored worker’s Certificate of Sponsorship (CoS), in any sponsor 
+note you have added to the CoS, or in any other notification of a change 
+in salary.  
+ 
+How much you have to pay a GBM worker 
+ The table below sets out the minimum amount you must pay a GBM 
+worker. Where reference is made to the ‘going rate’, this means the 
+going rate for the occupation code in which the worker is being 
+sponsored, as stated in Tables 2, 2b or 3 (whichever is relevant) of 
+Appendix Skilled Occupations. 
+ 
+Page 52 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Route Minimum salary 
+Senior or Specialist 
+Worker 
+ 
+UK Expansion Worker 
+Unless the transitional arrangement for Senior or 
+Specialist Workers below applies, the worker’s salary 
+must equal or exceed both: 
+ 
+• the general salary threshold of £52,500 per year 
+• the full going rate for the job as stated in Table 2 
+or Table 2b Appendix Skilled Occupations 
+ 
+Graduate Trainee  The worker’s salary must equal or exceed both: 
+ 
+• the general salary threshold of £27,300 per year 
+• the applicable going rate, which is: 
+o 70% of the going rate for the job if the worker 
+is being sponsored for a job in Table 2 or 
+Table 2b of Appendix Skilled Occupations 
+o the full going rate for the job if the worker is 
+being sponsored for a job in Table 3 of 
+Appendix Skilled Occupations 
+ 
+Service Supplier 
+ 
+Secondment Worker 
+Salary must comply with UK National Minimum Wage 
+legislation.  
+ 
+ The general salary thresholds and going rates are for gross annual 
+salary packages. You must also ensure that you understand and follow 
+the rules on calculation of salary set out in section GBM8. 
+ 
+Transitional general salary requirement for a Senior or 
+Specialist Worker 
+ The applicant does not have to meet the general salary requirement if 
+they meet all of the following: 
+ 
+• are applying for permission to stay (from within the UK) 
+• were previously granted permission as a Tier 2 (Intra-Company 
+Transfer) Migrant under the rules in force before 6 April 2011, or as a 
+Work Permit Holder under the rules in force before 27 November 
+2008 
+• since then have continuously had permission as a Senior or Specialist 
+Worker (including any short period of overstaying that was 
+disregarded under the ‘Exceptions for overstayers’ section in Part 
+Suitability of the Immigration Rules) 
+ 
+ Applicants who benefit from this transitional arrangement must still be 
+paid at least the full going rate for the relevant occupation code as stated 
+in Table 2, 2b or 3 of Appendix Skilled Occupations.  
+ 
+Page 53 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+PAYE reference numbers 
+ When you assign a CoS to a Senior or Specialist Worker, Graduate 
+Trainee or UK Expansion Worker, you must tell us the Pay As You Earn 
+(PAYE) scheme reference number through which the worker will pay 
+income tax and national insurance. We will use this information to check 
+with HMRC that you are paying the worker the amount you said you 
+would. If you are not required to operate PAYE on the worker’s earnings, 
+or if you are a UK Expansion Worker sponsor and you have not yet been 
+able to register for PAYE, you must explain this on the CoS.  
+ 
+ Before you assign any CoS, we recommend you first add any PAYE 
+scheme reference numbers for your sponsored workers to your licence, 
+using the ‘PAYE References’ tab in your sponsorship management 
+system (SMS) account. You will then be able to select the relevant 
+PAYE scheme when you assign a CoS to a sponsored worker. 
+ 
+ If the PAYE scheme through which a worker pays tax and national 
+insurance changes, you do not need to report this to us in relation to the 
+individual worker. You must, however, ensure that the new PAYE 
+scheme is listed in your SMS account. 
+ 
+ For further information on managing PAYE reference numbers, see 
+Guide 9 in SMS Manual 2: manage your sponsorship licence.  
+ 
+Absence without pay or on reduced pay 
+ You must normally stop sponsoring a worker if they are absent from 
+work without pay, or absent on reduced pay, for more than 4 weeks in 
+total according to their normal working pattern, during any calendar year 
+(1 January to 31 December), unless the absences are due to any of the 
+following:  
+ 
+• statutory maternity, paternity, parental, shared parental, adoption or 
+neonatal care leave 
+• sick leave 
+• assisting with a national or international humanitarian or 
+environmental crisis, with your agreement 
+• taking part in legally organised industrial action 
+• jury service 
+• attending court as a witness 
+ 
+See ‘Absence without pay or on reduced pay’ in section S4 of Part 2: 
+Sponsor a worker for more information. 
+ 
+Salary otherwise reduced 
+ If the worker’s salary is reduced for any reason not related to absence, 
+their revised salary must continue to meet the minimum salary rate for 
+Page 54 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+the route on which they are being sponsored. The only exceptions to this 
+are if the reduction coincides with: 
+ 
+• a period where the worker is working outside the UK for the sponsor 
+group or a linked overseas business 
+• a temporary reduction in the worker’s hours, or a phased return to 
+work, for individual health reasons, provided:  
+o this is supported by an occupational health assessment; and  
+o the reduction does not result in the hourly rate falling below any 
+hourly rate requirement which applied when the worker obtained 
+their most recent grant of permission 
+ 
+ You must always tell us if the worker’s salary has been reduced for any 
+reason (and what their revised salary is) via your SMS account. 
+However, provided the requirements above are met, you do not need 
+assign a new CoS and the worker does not need to make a new 
+application for permission. 
+ 
+ If the worker’s salary is reduced below the applicable minimum rate, and 
+neither of the exceptions above apply, you must stop sponsoring the 
+worker and tell us you have done so within 10 working days via your 
+SMS account.  
+ 
+ Remember, we will make regular checks with HMRC to ensure you are 
+paying the worker appropriately. If we find you are paying the worker 
+less than the amount that would be eligible for points on the GBM routes, 
+or the change is not otherwise permitted by the Immigration Rules or this 
+guidance, we will revoke your licence. 
+ 
+Contents 
+ 
+Page 55 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ Calculation of salary for GBM 
+workers 
+This section tells you how we calculate whether a salary meets the general salary 
+and going rate requirements for Global Business Mobility routes (where these 
+thresholds apply), including the rules on allowances, pro-rating and accommodation. 
+ 
+This section applies to workers sponsored on the Senior or Specialist Worker route, 
+the Graduate Trainee route, or the UK Expansion Worker route. If you are 
+sponsoring a worker on the Service Supplier or Secondment Worker routes, you 
+must ensure you pay them in line with UK National Minimum Wage legislation.  
+ 
+Permitted allowances for GBM workers 
+ When calculating the worker’s salary, we will only take into account: 
+ 
+• guaranteed basic gross pay (before income tax and including 
+employee pension and national insurance contributions); and 
+• allowances which are guaranteed to be paid for the duration of the 
+worker’s employment in the UK (such as London weighting) or are 
+paid as a mobility premium or to cover the additional cost of living in 
+the UK 
+ 
+ Where allowances are solely for the purpose of accommodation, they 
+will only be taken into account up to a value of either: 
+ 
+• 30% of the total salary package, where the applicant is applying on 
+the Senior or Specialist Worker route, or the UK Expansion Worker 
+route 
+• 40% of the total salary package, where the applicant is applying on 
+the Graduate Trainee route 
+ 
+See Calculation of accommodation allowances for further information. 
+ 
+Allowances you cannot include 
+ When entering the worker’s salary on their CoS, you must not include, 
+and we will not take into account, other pay and benefits, such as any of 
+the following: 
+ 
+• flexible working where the nature of the job means that hours fluctuate 
+and pay cannot be guaranteed 
+• additional pay such as shift, overtime or bonus pay, whether or not it 
+is guaranteed 
+• employer pension and national insurance contributions 
+• any allowances, other than those identified as ‘permitted allowances’ 
+above 
+Page 56 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+• in-kind benefits, such as equity shares, health insurance, school or 
+university fees 
+• company cars or food 
+• one-off payments, such as ‘golden hellos’ 
+• any payments relating to immigration costs, such as the fee or 
+Immigration Health Charge 
+• payments to cover business expenses, including (but not limited to) 
+travel to and from the applicant’s country of residence, equipment, 
+clothing, travel or subsistence 
+ 
+Calculation of general salary threshold for GBM workers 
+ To determine whether the worker is being paid at least the general 
+salary threshold of £52,500 per year (for Senior or Specialist Workers or 
+UK Expansion Workers) or £27,300 per year (for Graduate Trainees), we 
+will only take into account earnings stated on the CoS up to a maximum 
+of 48 hours a week, even if the worker works for longer than this. For 
+example, a worker who works 60 hours a week for £18 per hour will be 
+considered to have a salary of £44,928 (£18 x 48 x 52) and not £56,160 
+(£18 x 60 x 52) and will therefore not meet the general salary 
+requirement for the Senior or Specialist Worker route or the UK 
+Expansion Worker route. 
+ 
+ If the worker works part time, we will only consider their actual gross 
+earnings to determine if they are being paid at least the general salary 
+threshold – we will not pro-rate their salary to the equivalent full-time 
+earnings. For example, if the worker works 20 hours per week for £35 
+per hour, their annual salary will be £36,400 (20 x 35 x 52) and they will 
+not meet the general salary threshold for the Senior or Specialist Worker 
+route or the UK Expansion Worker route. We will, however, pro-rate part-
+time earnings when determining whether the worker is being paid the 
+going rate (see below). 
+ 
+Calculation of going rate for GBM workers 
+ When assessing whether the applicant is being paid the going rate for 
+the job they are being sponsored for, we will take into account their full 
+weekly working hours, as stated on their CoS, and pro-rate accordingly. 
+This applies even if the applicant works more than 48 hours per week. 
+The calculation we use depends on whether the occupation code is 
+listed in Table 2, 2b or 3 of Appendix Skilled Occupations. 
+ 
+Occupation code in Table 2 or 2b 
+ Going rates for occupation codes listed in Tables 2 and 2b of Appendix 
+Skilled Occupations are based on a 37.5-hour week. 
+ 
+ If the applicant is applying as Senior or Specialist Worker or a UK 
+Expansion Worker, we will perform the following calculation: 
+ 
+Page 57 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+1 x (the going rate for the occupation code stated in Table 2 or 2b of 
+Appendix Skilled Occupations) multiplied by (the number of weekly 
+working hours stated by you on the CoS ÷ 37.5) 
+ 
+ This means, for example: 
+ 
+• a Senior or Specialist Worker or a UK Expansion Worker who will 
+work 60 hours a week in an occupation code in Table 2 with a going 
+rate of £60,000 must be paid at least £96,000 (1 x £60,000 x 60 ÷ 
+37.5) per year to meet the going rate requirement 
+• a Senior or Specialist Worker or a UK Expansion Worker who will 
+work 35 hours per week in an occupation code in Table 2 with a going 
+rate of £60,000 must be paid at least £56,000 (1 x £60,000 x 35 ÷ 
+37.5) per year to meet the going rate requirement 
+ 
+ If the applicant is applying on the Graduate Trainee route, we will 
+perform the following calculation: 
+ 
+0.7 x (the going rate for the occupation code stated in Table 2 or 2b of 
+Appendix Skilled Occupations) multiplied by (the number of weekly 
+working hours stated by you on the CoS ÷ 37.5) 
+ 
+ This means, for example: 
+ 
+• a Graduate Trainee who will work 60 hours per week in an occupation 
+code in Table 2 with a going rate of £50,000 must be paid at least 
+£56,000 (0.7 x £50,000 x 60 ÷ 37.5) per year to meet the going rate 
+requirement 
+• a Graduate Trainee who will work 30 hours per week in an occupation 
+code in Table 2 with a going rate of £50,000 must be paid at least 
+£28,000 (0.7 x £50,000 x 30 ÷ 37.5) per year to meet the going rate 
+requirement 
+ 
+Occupation code in Table 3 
+ If the applicant is being sponsored for a job in one of the health or 
+education occupation codes listed in Table 3 of Appendix Skilled 
+Occupations, they must be paid the full going rate. This applies to all 
+GBM routes for which there is a going rate requirement. The going rate 
+will be pro-rated according to the number of weekly working hours stated 
+by you on the CoS and the rules set out in Tables 3, 4 or 5 of Appendix 
+Skilled Occupations. 
+ 
+Calculation of salary: irregular working patterns 
+ The following rules apply where the applicant’s working hours vary each 
+week, resulting in uneven pay: 
+ 
+• work in excess of 48 hours in some weeks can be considered towards 
+the general salary threshold, provided the average over a regular 
+Page 58 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+cycle (which can be no more than 17 weeks) is not more than 48 
+hours a week 
+• any unpaid rest weeks will count towards the average when 
+considering whether the salary thresholds are met 
+• any unpaid rest weeks will not count as absences from employment 
+ 
+ For example, an applicant who works a pattern of 60 hours a week for 
+£28 per hour for two weeks, followed by an unpaid rest week, will be 
+considered to work 40 hours a week on average and have a salary of 
+£58,240 (£28 x 40 x 52) per year. 
+ 
+Calculation of accommodation allowances for GBM 
+workers 
+ If you wish to pay the worker an accommodation allowance, how we 
+calculate this depends on which route they are being sponsored on. 
+ 
+Accommodation allowance for Senior or Specialist Workers or 
+UK Expansion Workers 
+ Accommodation allowances for these routes must not be more than 30% 
+of the total salary package (including permitted allowances) on offer.  
+ 
+ Below are two examples of how we calculate accommodation 
+allowances for these routes. 
+ 
+Example 1 
+The CoS gives the following salary information: 
+ 
+• salary and other (non-accommodation) permitted allowances: £42,000 
+• accommodation allowances: £14,000 
+ 
+Add these two figures together to get the total salary package offered = 
+£56,000. 
+ 
+We work out the maximum package we can take into account by dividing 
+the salary and other (non-accommodation) permitted allowances by 70% 
+(0.7): £42,000 ÷ 0.7 = £60,000. 
+ 
+The total offered is less than the maximum package we can take into 
+account. We will therefore take the entire package of £56,000 into 
+account, which meets the general salary threshold requirement. 
+ 
+Example 2 
+The CoS gives the following salary information: 
+ 
+• salary and other (non-accommodation) permitted allowances: £35,000 
+• accommodation allowances: £21,000 
+ 
+Page 59 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+Add these two figures together to get the total package offered = 
+£56,000. 
+ 
+We work out the maximum package we can take into account by dividing 
+the salary and other (non-accommodation) allowances by 70% (0.7): 
+£35,000 ÷ 0.7 = £50,000. 
+ 
+The total offered is more than the maximum package we can take into 
+account. We will therefore only take into account £50,000, which is 
+below the general salary threshold for these routes. The application 
+would therefore be refused.  
+ 
+Accommodation allowance for Graduate Trainees 
+ Due to higher costs for short-term accommodation, we will take account 
+of accommodation allowances up to 40% of the gross salary in the 
+Graduate Trainee route. This means the worker’s salary and other (non-
+accommodation) permitted allowances must be at least 60% of the 
+maximum package that we will take into account.  
+ 
+ Below is an example of how we calculate accommodation allowances in 
+the Graduate Trainee route. 
+ 
+Example 
+The CoS gives the following salary information: 
+ 
+• salary and other (non-accommodation) permitted allowances: £18,000 
+• accommodation allowances: £10,000 
+ 
+Add these two figures together to get the total package offered = 
+£28,000.  
+ 
+We work out the maximum package we can take into account by dividing 
+the salary and other (non-accommodation) allowances by 60% (0.6): 
+£18,000 ÷ 0.6 = £30,000.  
+ 
+The total package offered is less than the maximum package we can 
+take into account. We will therefore take the entire package of £28,000 
+into account, which meets the Graduate Trainee general salary 
+threshold. 
+ 
+Contents 
+ 
+Page 60 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ Certificate of Sponsorship for 
+GBM workers 
+This section tells you how to assign a valid Certificate of Sponsorship on the Global 
+Business Mobility routes.  
+ 
+Overview 
+ If you have followed all the rules in this guidance and you wish to 
+sponsor a worker on a Global Business Mobility (GBM) route, you must 
+assign them a valid Certificate of Sponsorship (CoS), using your 
+sponsorship management system (SMS) account. 
+ 
+ Before assigning a CoS, you should satisfy yourself that the worker can 
+meet the relevant immigration requirements. 
+ 
+ You must be an A-rated sponsor for the route on which you are 
+sponsoring the worker, unless one of the following exceptions applies:  
+ 
+• you are a B-rated sponsor, you sponsored the application which led to 
+the worker’s last grant of permission on the relevant route, and you 
+are continuing to sponsor them on the same route 
+• you are sponsoring a UK Expansion Worker, the worker holds the role 
+of Authorising Officer on your licence, and you have a Provisional 
+rating for that route  
+ 
+ For information on who can be an Authorising Officer, see section L4 of 
+Part 1: Apply for a licence and (for the UK Expansion Worker route) 
+section GBM3 of this guidance. For information on sponsor ratings, see 
+section L8 of Part 1: Apply for a licence. 
+ 
+ For detailed information on what a CoS is, and how many you can 
+assign, see section S2 of Part 2: Sponsor a worker. 
+ 
+ You can find detailed technical guidance on how to assign a CoS in User 
+manuals: sponsorship management system (SMS) – see in particular 
+Manual 8. 
+ 
+Fees 
+ You must pay a fee for each CoS you assign – see UK visa fees on 
+GOV.UK for information on current fee levels.  
+ 
+ For CoS assigned on or after 9 April 2025, you must not recoup, or 
+attempt to recoup, by any means, any part of the CoS fee, or associated 
+administrative costs, from any workers you sponsor. If we find you have 
+done this, we will normally revoke your licence. 
+ 
+Page 61 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ 
+ Subject to certain exceptions, if you are sponsoring a Senior or 
+Specialist Worker, you must also pay the Immigration Skills Charge for 
+each worker you sponsor on that route. For further information, see 
+section S5 of Part 2: sponsor a worker.  
+ 
+Use of the CoS 
+ Once you have assigned a CoS, the worker must use it within 3 months 
+to apply for: 
+ 
+• entry clearance (a visa) if they are outside the UK 
+• permission to stay if they are in the UK and eligible to extend their 
+permission or switch to the GBM routes 
+ 
+ If the CoS was issued more than 3 months before the date of 
+application, we may reject their application and not consider it.  
+ 
+ The worker must not apply for a visa or permission to stay more than 3 
+months before the start date recorded on their CoS. If they do, we will 
+refuse their application.  
+ 
+ We will also refuse the application if the CoS: 
+ 
+• has been withdrawn by you or cancelled by the Home Office – see 
+section S6 of Part 2: Sponsor a worker for information on when a CoS 
+can be withdrawn or cancelled 
+• was used in a previous application that was refused  
+ 
+What the CoS must confirm 
+ For a CoS to be valid, it must confirm all of the following: 
+ 
+• the GBM route on which you are sponsoring the worker 
+• if you are sponsoring a Senior or Specialist Worker, whether the 
+Immigration Skills Charge applies – you do this by selecting the 
+appropriate category from the drop-down list (‘ISC liable’ or ‘ISC 
+exempt’); if you choose ‘ISC exempt’, you must then give details of 
+which ISC exemption applies 
+• the worker’s personal information (such as name, date of birth, 
+nationality), passport details and contact details 
+• the start and end date of their employment – see section S3 of Part 2: 
+Sponsor a worker for guidance on entering start and end dates 
+• how many hours they will work each week – enter an average figure if 
+this varies 
+• where the worker will carry out their employment – this should include 
+their main work address and any other regular work addresses, if 
+relevant 
+Page 62 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+• whether you used an agent (such as a recruitment agency, 
+employment business or other intermediary) to find the worker and, if 
+so, details of that agent 
+• the job title 
+• the relevant SOC 2020 occupation code for the role (choose from the 
+drop-down list under ‘Job type’) – see section S3 of Part 2: Sponsor a 
+worker for more information on occupation codes 
+• the main duties of the role for which the worker is being sponsored 
+(enter these in the ‘Summary of job description’ box) 
+• details of the worker’s salary, including (where relevant) any permitted 
+allowances 
+o note: if you are sponsoring a Service Supplier, and you are not 
+responsible for paying the worker’s salary or fee, you can enter a 
+nominal figure of £0.01 and provide information about their 
+payment arrangements in the free text box below the salary box 
+• if you are sponsoring a Senior or Specialist Worker, Graduate Trainee 
+or UK Expansion Worker, whether the job is on a client contract and 
+details of that contract 
+• that the job is in an eligible occupation code or otherwise meets the 
+skill level for the GBM routes 
+• where requested, that the worker has worked for an eligible linked 
+business for the minimum required period 
+• where requested, professional registration details of the worker, if 
+there is a legal requirement for them to be registered with a 
+professional or other official organisation in the UK (for example, a 
+doctor must be registered with the GMC) 
+• whether you wish to certify maintenance for the worker (and, if 
+relevant, their dependants) 
+o note: you can only do this if you’re an A-rated sponsor (and not 
+sponsoring a UK Expansion Worker) 
+• whether the worker needs an Academic Technology Approval 
+Scheme (ATAS) certificate 
+• if the worker is a Senior or Specialist Worker, Graduate Trainee, or 
+UK Expansion Worker, the PAYE scheme reference number through 
+which the worker will pay income tax and national insurance – if you 
+are not required to operate PAYE on the worker’s earnings (for 
+example, if the worker is covered by an exception set out in HMRC 
+EP Appendix 4, or is self-employed), you must explain this on the CoS 
+• if you are sponsoring a Service Supplier or Secondment Worker, 
+confirmation of which contract they will be working on – this must be a 
+contract you’ve already registered with the Home Office and which 
+we’ve confirmed is eligible for sponsorship 
+ 
+Reporting duties and record keeping 
+ Once you’ve assigned a CoS to a worker, you must tell us if they fail to 
+start their employment, are absent without permission, or there are any 
+significant changes to the nature of their work or salary, or to your 
+organisation. For full details of your reporting and other duties, see: Part 
+3: Sponsor duties and compliance. 
+Page 63 of 63 Sponsor a Global Business Mobility worker – version 04/26 
+ 
+ You must also keep records for each worker you sponsor as specified in 
+Appendix D to the sponsor guidance.  
+ 
+ If you fail to meet these duties, we may revoke your sponsor licence. 
+ 
+Contents 

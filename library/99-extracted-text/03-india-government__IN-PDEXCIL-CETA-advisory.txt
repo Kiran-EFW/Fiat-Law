@@ -1,0 +1,153 @@
+# SOURCE: library/03-india-government/IN-PDEXCIL-CETA-advisory.pdf
+# pages: 3
+
+ 
+  
+ADVISORY FOR PDEXCIL MEMBERS 
+IMPORTANT ADVISORY – India–UK CETA 
+Guidance for Shipments in Transit During the Transition Period 
+Dear Members, 
+Many PDEXCIL members have recently sought clarification on the treatment of 
+consignments that have already been exported from India and are expected to arrive in 
+the United Kingdom on or after 15 July 2026, in the context of the India –UK 
+Comprehensive Economic and Trade Agreement (CETA).  
+This advisory is intended to provide interim guidance, based on our reading of 
+Notification No. 62/2026-Customs (N.T.) dated 3 July 2026 , which notifies the Rules of 
+Origin for India–UK CETA with effect from 15 July 2026.  
+As of today, the facility for issuance of Preferential Certificates of Origin (PCoO)/Origin 
+Declarations for India –UK CETA on DGFT’s Trade e‑Connect platform is yet to become 
+operational, and exporters are understandably concerned about shipments already in 
+transit. 
+ 
+1. Shipments Arriving On/After 15 July 2026 
+ 
+Based on Rule 20(1) of the India –UK CETA Rules of Origin, the importing Party (UK) 
+shall accept claims for preferential tariff treatment for goods that enter or are released 
+into customs control on or after the date on which the Agreement comes into force, i.e. 
+15 July 2026.  
+ 
+Implication for PDEXCIL members: 
+ 
+Consignments reaching a UK port on or after 15 July 2026 may be eligible for 
+preferential duty treatment, subject to compliance with the applicable Rules of Origin 
+and other conditions.  
+ 
+Members should proactively inform their UK buyers/importers that consignments 
+arriving on or after 15 July 2026 could potentially qualify for CETA benefits once the 
+necessary Proof of Origin is issued. 
+ 
+2. Possibility of Retrospective Proof of Origin 
+ 
+Rule 16(7) provides flexibility by allowing Proof of Origin to be completed after import, 
+subject to specified conditions.  
+ 
+Under this Rule, Proof of Origin may be issued/completed retrospectively where: 
+The goods were “originating” at the time of import; 
+The Proof of Origin is issued/completed after import; 
+The document bears the endorsement “Completed Retrospectively”; and 
+The reason for retrospective completion is indicated in the PCoO.  
+ 
+ 
+ 
+
+                             
+ 
+           Implication for PDEXCIL members: 
+ 
+For shipments where the PCoO/Origin Declaration could not be issued before export 
+solely due to non‑availability of the India –UK CETA facility on Trade e‑Connect, 
+exporters may be able to obtain the PCoO retrospectively once the system becomes 
+operational.  
+ 
+Members should maintain complete origin‑related documentation (inputs, production 
+records, costing, etc.) to demonstrate that the goods satisfied the CETA Rules of Origin at 
+the time of export/import. 
+ 
+3. Delayed Claims and Refund of Customs Duty by UK Importer 
+ 
+Rule 21 provides for delayed claims for preferential tariff treatment where such claim 
+was not made at the time of import.  
+ 
+In such cases, the UK importer may:  Submit a delayed claim for preferential tariff 
+treatment; and Seek refund of excess customs duty paid, provided that the goods were 
+eligible at the time of import and the requisite Proof of Origin is furnished.  
+ 
+Implication for PDEXCIL members: 
+ 
+Exporters should advise UK buyers/importers to clear the goods as per normal 
+procedures on arrival and retain all import documents and duty payment records.   
+Once the exporter secures the retrospectively issued PCoO indicating “Completed 
+Retrospectively”, the UK importer can file a delayed claim with HMRC (or the relevant 
+UK customs authority) for refund of duties, in line with Rule 21 and applicable UK 
+regulations. 
+ 
+4. Time Limit for Delayed Claims 
+ 
+Rule 21(3) stipulates that the delayed claim should ordinarily be made within one year 
+from the date of import, or within such longer period as may be permitted under the 
+laws and regulations of the importing Party.  
+ 
+Illustrative example for PDEXCIL members: 
+Goods exported from India: 10 July 2026 
+Shipment arrives at UK port: 16 July 2026 (i.e. after CETA enters into force) 
+India–UK CETA PCoO could not be issued prior to shipment due to non‑availability of the 
+Trade e‑Connect module.   
+In this scenario:  Once the Trade e‑Connect system becomes operational for India –UK 
+CETA, the Indian exporter may apply for PCoO retrospectively, with appropriate 
+endorsement and justification.  
+ 
+The UK importer may then lodge a delayed claim for preferential tariff treatment within 
+one year from the date of import (or such extended period as allowed by UK law), and 
+seek a refund of the excess customs duty paid.  
+ 
+ 
+ 
+
+ 
+                                                                                                                                                   
+5. Recommended Immediate Action Points for PDEXCIL Members 
+ 
+To make this advisory more actionable and dynamic for members, PDEXCIL suggests the 
+following steps:  
+Map your shipments:  Identify all consignments to the UK that have already been 
+shipped and are expected to arrive on or after 15 July 2026; share shipment details with 
+your internal compliance team.  
+Engage with UK importers:  Inform your UK buyers/importers in writing about the 
+possibility of claiming CETA benefits retrospectively, and advise them to retain all 
+customs and duty payment documents for future refund claims.   
+Prepare origin documentation:  Ensure that bills of materials, production records, 
+costing sheets, and supplier declarations are compiled and safely stored to substantiate 
+origin under CETA Rules.   
+Monitor Trade e‑Connect updates:  Regularly check DGFT notifications and the Trade 
+e‑Connect portal for activation of the India –UK CETA PCoO facility, and be ready to file 
+retrospective PCoO applications promptly once enabled.   
+Coordinate with PDEXCIL:  Members may share specific transaction‑level issues with 
+PDEXCIL so that systemic concerns can be escalated in a consolidated manner to the 
+concerned authorities. 
+ 
+6. Important Disclaimer and Ongoing Engagement 
+ 
+This advisory is based solely on our reading of Notification No. 62/2026‑Customs (N.T.) 
+dated 3 July 2026 and the published Rules of Origin under the India –UK CETA as 
+currently notified.   
+The final treatment of any shipment will depend on the implementation practices and 
+decisions of customs authorities in both India and the UK, as well as any further 
+clarifications or procedural guidelines that may be issued.  
+PDEXCIL is actively engaging with the Ministry of Finance, DGFT, CBIC, and other 
+concerned authorities to: 
+Seek formal clarification on the treatment of shipments in transit during the transition 
+period; Request clear operational guidelines for retrospective issuance of PCoO and 
+delayed claims under CETA, including system‑related aspects on Trade e‑Connect.   
+Any official clarification, FAQs, or additional instructions received from the Government 
+of India or UK authorities will be promptly circulated to members through email alerts, 
+the PDEXCIL website, and social media channels.  
+Members are encouraged to consult their customs brokers, legal advisors, and UK 
+counterparts for transaction‑specific advice, and may also write to PDEXCIL with 
+case‑specific queries for possible escalation. 
+ 
+Kind regards, 
+ 
+Mahesh N. Sanil 
+Executive Director  
+Powerloom Development & Export Promotion Council (PDEXCIL) 
+ 

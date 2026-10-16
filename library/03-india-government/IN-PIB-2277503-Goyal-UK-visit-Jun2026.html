@@ -1,0 +1,1041 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Press Release Page | Press Information Bureau
+</title><link href="css/style.css" rel="stylesheet" type="text/css" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="alternate stylesheet" href="css/change.css" media="screen" title="change" /><link rel="alternate stylesheet" href="css/green.css" media="screen" title="green" /><link rel="alternate stylesheet" href="css/yellow.css" media="screen" title="yellow" /><link rel="stylesheet" type="text/css" href="css/prtint.css" media="print" /><link rel="stylesheet" href="css/style3.1.css" type="text/css" />
+
+
+      <script src="js/jquery.min.js" type="text/javascript"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true" /><link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet" />
+
+      <script type="text/javascript">
+            $(document).ready(function () {
+                  function getParameterByName(name) {
+                        var url = window.location.href;
+                        name = name.replace(/[\[\]]/g, '\\$&');
+                        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                              results = regex.exec(url);
+                        if (!results) return null;
+                        if (!results[2]) return '';
+                        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+                  }
+                  // Get the IDs from the current page's URL
+                  let prid = parseInt(getParameterByName('PRID'), 10);
+
+                  if (!isNaN(prid) && prid > 0) {
+                        $.ajax({
+                              type: "POST",
+                              url: "AjaxMethod.aspx/UpdatePRHitCount",
+                              async: false,
+                              data: JSON.stringify({ 'PermId': prid }),
+                              contentType: "application/json; charset=utf-8",
+                              dataType: "json",
+                              success: function (response) {
+                                    console.log(response);
+                              },
+                              error: function (error) {
+                                    console.log("Error in AJAX request", error);
+                              }
+                        });
+                  } else {
+                        console.log("Invalid parameters:", prid);
+                  }
+
+            });
+      </script>
+      <style type="text/css">
+            .table-responsive {
+                  width: 100%;
+                  overflow-x: auto;
+            }
+
+            .banner {
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: center;
+                  background-color: #000;
+                  color: #fff;
+                  padding: 20px;
+            }
+
+            full-width {
+                  width: 100%;
+            }
+
+            .logo-left, .logo-center, .countdown {
+                  display: flex;
+                  align-items: center;
+            }
+
+                  .logo-left img, .logo-center img {
+                        height: 70px;
+                  }
+
+            .countdown {
+                  text-align: center;
+                  background-color: #444;
+                  border-radius: 10px;
+                  padding: 10px;
+                  border: 2px solid grey;
+            }
+
+            .firstnumber {
+                  color: #000000;
+                  position: absolute;
+                  top: 50px;
+                  right: 90px;
+                  font-size: 30px;
+            }
+
+            .secondnumber {
+                  position: absolute;
+                  color: #000000;
+                  right: 45px;
+                  top: 50px;
+                  font-size: 30px;
+            }
+
+            .countdown .days {
+                  font-size: 35px;
+                  color: gold;
+            }
+
+            .countdown p {
+                  margin: 0;
+            }
+
+            .countdown .text {
+                  font-size: 16px;
+            }
+
+            a {
+                  word-break: break-all;
+            }
+
+            iframe, img {
+                  max-width: 100%;
+            }
+
+            @media(max-width:1199px) {
+                  .firstnumber {
+                        top: 40px;
+                        right: 72px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 35px;
+                        top: 40px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:990px) {
+                  .firstnumber {
+                        top: 25px;
+                        right: 54px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 25px;
+                        top: 25px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:768px) {
+                  .countdown, .days {
+                        font-size: 12px !important;
+                  }
+
+
+                  .firstnumber {
+                        top: 25%;
+                        right: 8%;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 4.5%;
+                        top: 25%;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:475px) {
+                  .countdown, .days {
+                        font-size: 10px !important;
+                        top: 20%;
+                  }
+
+                  .bannerimgdiv {
+                        padding: 0 !important;
+                  }
+
+                  .bannerimg {
+                        width: 108% !important;
+                  }
+            }
+      </style>
+      <script type="text/javascript">
+            $(function () {
+                  $("[id*=printPDF]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+            $(function () {
+                  $("[id*=printPDFEvent]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+      </script>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112591026-1"></script>
+      <script>
+
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() { dataLayer.push(arguments); }
+
+            gtag('js', new Date());
+
+
+
+            gtag('config', 'UA-112591026-1');
+
+      </script>
+
+<meta property="og:title" content="Union Minister of Commerce and Industry Shri Piyush Goyal to Visit United Kingdom from 25–27 June Ahead of India-UK CETA and DCC Implementation" /><meta property="og:url" content="www.pib.gov.in/Pressreleaseshare.aspx?PRID=2277503" /><meta property="og:description" content="Union Minister of Commerce and Industry, Government of India, Shri Piyush Goyal, will undertake an o" /><meta property="og:image" content="https:/pib.gov.in/images/indian-emblem.png" />
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="C4E7H-KSCMC-422L4-W3EM5-U36MF",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"C4E7H-KSCMC-422L4-W3EM5-U36MF";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="m6mwq4lhuwtcq2tscx3q-f-43d980acf-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1825201","ak.ai":parseInt("1215205",10),"ak.ol":"0","ak.cr":19,"ak.ipv":4,"ak.proto":"h2","ak.rid":"41661663","ak.r":47177,"ak.a2":n,"ak.m":"dscb","ak.n":"ff","ak.cport":25147,"ak.gh":"103.165.166.36","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1785861623","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==5la6hYid5QR5RsA/yekw48/NVniYJTOTCwBaZS3bgeBwo5MWZrXf1KcLyy8bvchtfDmQJpcde2NAMyps2pJ3fS101eFbD5E55dxBedLVX0lRWMZDWFepaaFxTRNE7ZzrmXdaNcF5fYbykw58tBvxNu1EdMgYfh2ry+mRUKKt0wBZekOfMgt+6ZkQWHhWRPOa7n70xE8CvVZjXQ2tuotODJEz4ymV0Y11S7f57/e/9hL4LHOGHk89xtgargeiWcEkuSfe6ks3kEFDJ3QVp3s9AuHG2Wv1z5b/BfVKe2Xd5H/sGOmPeZzT3zjx25ZrBPM/t17J7kNrF5JxfcdnT1yKdrVGXgEx7e1fCdyZ5/ySNOhP88CghoNU28uGPwfIPHMbBfUUtsEmL0RP2CjqO9ZSR7+cI9p6jMtQhFu1dMiONXk=","ak.pv":"9","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+      <form method="post" action="./PressReleasePage.aspx?PRID=2277503&amp;reg=3&amp;lang=1" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="sc_HiddenField" id="sc_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="iLAxAN/cfcAQo32fkggNdtrV97nMXc8C/o1d+eri7365iky3lOK/KidN5WUAfYnRyOTCK5gSCM4hSbk0mcGKnQRqo5JEkAl2vrTagwicmt1Tkm9cZm8Fu0/qarPuFIMTLJNbRfE6iXV/yCTColUvVWIXA9KZ/t8InY1DtZoWEaEomZkSiS5MKwYuJqETlXCuEusf+8t8wJYZnD4JRfjcFOYnTui40nF0BOLb+cKY35c4/H+nzTCfbo5/GnuHjxfyOixmzFC1HTnT6KpPnIHcOfwPWXH7qL9myMQnAPJ55O16or8GpSyD4xEkzjUgo9kDvoFe6UzGvBXygQ3lS2tsrVwIfF5IIkinWk1OhfqGfqF5Ms6gHfcgGT7glF+Zkiv0VOxX0Yvimn1/J68eegTLQBWBLWyBvO/T7YUC3DSwee2OUsvGYweJNPmUVKmkE00Ry6ZNryvGdWUarwA8Cy7MWdeATGKjfcCV7M5dx5ahmtTLnLgZW2ijBfQVnCB6+kFtlT8RlnFMMWGDgaDQRfrrh7cRSjm0ahSFH891vTL2/etS+Hd9ITx42buyRsls2whggnEjcAZGzCAnMqwciIcdXbtqTfJKPtm0PuM91sEr9fAECGdbx7ALlJxD4NRN3C2oTw8eqHpDubngGfnJZb3xGY5t0pXfOxsjwqAWqm5cV/qYW0WotRCftjeFN9TcPPF7CDJtAhXXhuDdz98EmPi2uHncX3CQd4xK5Wh8Rilc6ut+yIq3vtJVTdo5Qd9ar+73cUvYz6YNFlQ76jJqJhNcHn4VjT/JTBHV7OH36jnI/IiHpNoPXBPmsnWC1vr6HW44maySehmvsc2fuGC7QtH7JZYBXpp+7ViD8jpgWTBT8etSSq2smWpFT32E+Gk93vUzo+no7BMg7kcIeCmeqgQ+8l2SsLhFEEvO06LFky6C/1fGtAVUylpbc+YoQ9fhiocSJIusgGkiRlqTqj3/bOLc2gnKahGlVwPEo6SOswYiDLTVToY7pwXM/SjBo8lL/u6GNg5NYSmPMwKmUFSWyGOESZy1EBtfbNkHsmufYGGxKNBLYngaDdUBi153w4noda6TNjsBly+/hU4N59OI6QaOKSSCkADz3IJoeewgsn0T9Y77AGgeBbf7fLahtXmcULNsOS4M8AcmhMaE+GyP2v7W+J3lg8krWco9SJkkmhXvPrxUa8Pxd2+71+ck1nj4B0PvKF/SN5TJG/axf1uEFOa8pM4+bHUtpp14g7NSdM554/BH47dC8GuFmzLi0aGjyaIRgiDd+o1oBz7qzdw1fD5uqv7lK93mK4UbFalbifw5vu0mTXNJ8KUL8Pw+JFchsWnJ1ql95BOJciHhR2XRndM4VK6B8MvmQFnOXUul4oanQwpzZhfPjUFyOOBrhYxPxeGVtQfFKmxGtdvkzz0rgfNeEK0sTah2uryfc8xXhnA9g29KR4pkeYltWkwm4wKnrCDFPAxqDEvlGfi83AM8xIHLElvv9Ir10Lnr3fAbZ21TZJ0j50aLnnvub66eK/WIkca+VKIGe5FtVpUPULPbyzS+QZgh96+gLASxUWu5hNf03UopklFIU5yAUdOnHZa5nDORTq1MaCzL4NJyQJ5m8b4tLyldQIy+m0iJLLhOAEfL9BZx8RBsOGzvEMZkaiXrqe6pTKJysu8NRHayQip1680jC3q6hTEf/qY0S+hEXH5/77LJH1JqV38aU8YwKv+keUpjJJUQ6HCC+DNrw44SeIMyFlFu4k66qK5wvVoOAHpv3bnQ4KG0jVmtijMgSYuyzXb711rbod/o6vn/54Apkxlul2NU6gP8YDOhcRfVNs5j89xnxKEmNXyndVaDovMRljqY9iE/ZJ/p0Cr/a6/MjH2/vfVNIVYwWFcQGYKLbiObRKigKd2Z+znTKxzefgH+iC/zHBF3LWYi1P+1GF7mMfWgec4sggQvZKRliJs5b091gOngJdk8qymYCSblCpiAKQ97Pjv2M2yCmUOLE5TDrAIUuwLo6Jn5TeZ7BKiAQEHYFdYan4RF6pCzidf1EVWeX84YcK0tB+vsMPRMok6tMNmaLqwj1DdUM+DKibd90U0drTIiFZwN51tB9nPdeU7DlGd/ALy2y8DxoF5h6apylX8BRFUFmh8gcvlF2xee2j3lXci24Nf+hyWMXiq4eZNLVP3I1Ns3oJYyhjg31rZpfnFKSpExFPmQeWv9iOCWmh1zqrw5474DNDCUHj/hVYW9fMOPr1ng1WNqKAbaRdqvNXcv82xk8hv3MR5GDeh+WOB7Wq1zneCnF2AjXWYn0aMblUjw77/v2rtWRpa30lg5OhibUVp3/Wi58cXtoEcvw40UvCi+sTbl6dWrMozS8HW1KQEDh49mQxPgzUbpqNqLkRVCiobZXotUPjkv2ZhVlWMAJoFADq33FLb9moNPnz67EH9ATtIN6ndsxDqXPJsxuYw4Xwi3GoWHcL1p5lux9ZyjP3buWTJ68FaYe5cWbbqfiCDTD1zQzGap/FmrhOg6pSFnO6dx5PlTXW6x04sGjXyF3REl/6f3ryK6Yg65E0KJxujE/XzFrnc/SpT3uAmnPPSCeQk1sAX/CaD29qFfitNDN3oVfX/aSw7yKBCFbARvUY81fAvWODDPNpoOb261Klgw/nTv0a2EcKkHA2CCDJQ6REKqXX+BIRonruTisVLF+/u8xVml8dDqKysE6JgGS0tTbcvisvqTcZD5bc55kH+Wd+leOsUOuW4uDAjw0/o6QweFr4SVm5TLRM/wcdP3ZUwHjLMEjWPI0IXBVNH5g7sRuBkqJNbxa2Yan608JVeMWfO00fAcNk0CcLBUNTwYIWpLomUzKA1vByNnoYy3Sp0HtOJGGbj3trYsYOt59rUd+u794FTinoMRTrrWBmLAGoeb1f414ES4vbzSI1FVeF5Odox/+h5t4UM9WP3ntjjierFpEaEPLaglIJI3+wrXlagAW8nPusgZCX/MFmvsGTQQJSc0mVbVVBQ+Q/iF8SSwsK3d4CfW49AXnFthyE5rqBfEf0rbw0ztuagHogclJcmcntbb49mOhD/HBirO6ncUGDLXc0ioDQHiuV8d80NaY4ZBorN3EWJqeuIQcQGhiX6ntdOb9BuXHZwFswFbQ+cwfLOkirgqJuKQB2yOvma0GRGpZ9J8crklBjZ3QnIq4uGS01vdjw8R58pF2ZSZKTZqlgP3/RI8458+9PUw/OMLtM+OhdxKfEGLgNSrmXXXPwlrTvmhoaFQg4NlOE34fsoy27u+JvIZH/gC1chn4fw1cS/X8147HoZrhji34cPLf5hI/w58veToHGWSpGGcdqw7LHe3R4BTDde49r2Apdnf1Kvh/Y7n8DjcziH7dAMp2tgf4fsgxf8GMXm4/cxywEPyxLOrVSug1Lj7XJNuoBtZy/5XLH/24Gw9p55LPBPPBZ7Gbu4Vrh861EAh54gBp7XuYV3+MhWiBb3vg3eLtsxESjP2AWKTJ4IDkkguEBhjs7j24W48A2E3octY85tMa6j/89JCmu3wkGE7GLQCl6jz8wjU5tJM3ecL5M2Ocng6TUGpJ9R8IzPohfbZX/2mtuZsrplsHW5SRuMAAeyNyOo7x3iJ+hdXsLmRS6+F5Vhx4mQewnSia2gUb8ZJ7oOqJWNgEvC37bvZvQzGqONGre+pxvDs7an2lmC5xWgJgBNu4F4jjHFCBZJEhMTUXlb9jF4OIhqWzlF8eESvKygHangDsQnjD1S9LG1qfZ9LpipfKGsIdWBAcDGUkRbkALf4wt2LFK7lby8JcvHnWc6OKh19eNzrVzH8ZZ0gsP54KOYtUwbvjI5nUSF/VzFYmpw3dfLjFYZenhQZJncyuHu2JJ7Pfqj2qa952JSvVPk9/tSTKdWZx1wmOdo9nTt0FztdsXRufWJqJfSgptIir0/0f5MgkD5PxIYnMdJoYvmMnhH9FAwsZx6GVGAnEVkD7ywWFVdRGdDh92LuzsWbjuIOhu7gthtG4ZnWaTbuaaxrgQLLmc7yKSU0HSwKnSD3Fe7givWfUhdBeeTUGG/Rx8F6eBFmQYyaoXtjs0obAFvBdkeRsun3Vbtu5XEWnTjkElZPdlbZaOYaavjhfqXeu/SGiHRBcSlZlrKwWPl3alCGLZB612j4QDxddwZ+SqYFjI+mbey4h0pC+sgiLVkIfBLjmOt3Y4whxpf3WBwgHj0mmGAGhJ+gDtxRJCShQreGBaIe3hOajBfhnG+GBYv7TDnedT0R3ksMGw7qHshMaaLdTOVTJdvq/NDseGQWoVxa8jF5Da+IAUirh3+N6mulXpl6HbXElXWkevPjHwJTWRVO+cfuqkjC9ta1RqY8yYvlDosNDq0VMbd5kdbnPliiD2ffWYpRwRyFH4H1YkBkOYoVmnRnwQy9vxAimVoXUqpMyma+eg0IHC0k0LrK4/jBZY3IdHdrL87EbrntcDQgw7AKCF/1bRp6dfuQjjKiRXbNHrtykhQXr4Tgzyg5guQT+pvPJAMBNC/4m5JN2iMvhTBOSj+A/6yWwMeWoYLC0MZ6FuIGQmhdFFu/5UfEVN7sCAZ4DKBlWOYCHqucCofPM9hFDynP/yY7zl+P+ijRQXtOv7lhcuP2NUD3gTtRnOIZSmN/0ec2oz3BMN3ZmMI1h6jnG7T7vn0g2poVuMOwif0bKxVhj994oTwpkncXCbUNcbeGE5+bc+Oaz5w4vPp+f0+nSGjs6EfzSMk/s+rfj1y397IfHzZ1FasHIm5FKoIxpGR7L+90WEwzHR+Kq0lZrjHBscI1zkpG/gNL3ptRHOz77h/kG2Sqk7xPC2e0kOt7YilyjJEez5y9SQc9+6fbDJi+d3ZSJb132hJ88L//au7OM24NYR7pOmB+JDZCmcJUpCFxwi9yasaUSA1ZsdzObByUT3PO31E3vGWCCmxK87VZFg0dRXP6SLMZueoJJTtoPyOflHjhe+2HGd28y8SqWkFKlojbUU/UBLy6+J17ZgjGTgTFarJD1pbf7BZvi1wBruOzW7v8PKcu8TCEy0KGDPbyBSIpPhJ1crFMHlSDjjdwhSRFLxN0XKVX/AjEZYErClhHPusN2zXhdWg2jhU1896icCXQNBhhXlMBXG4FaMVVMddDeiM5fx5mSMHK4xF7iWB93nCOhP7/8/BTmWk4pZc+/yJY+SVVnqFaaLayxAHuYrcZw2w5Vk5B/f3lbZfvLnR7uD/0K9H0wEyfODThQzDMmeBQuonuNf1SxEsUWIL7RepyijWQrI7WYLgsUF8Wn1aTir40AqkG6v4gAHlMucseBRDe1hlFt+2JwSjFDceiHKIlCd8PvRzXLCyyiKK2h1hF49mC6wtcB8tOGbVit+t+KI0kNjiBtu0oKuJAv8hBsA3gIG7rMenPJZjhBwn2a0jR/V/ZDMO/jHs1KcNgX+qAVB9Si1icXqN2e1CJs7Vb/h4Sp4wFmPu/h0VZZ0zVOJy+Sobmu17SRidKAYw7NixrC1b48r7pCO0JjMBHGEN0lcIKpsvvD43I/YvlQETQccBzZYez0gjNHrTHswpa0f3yzzFFrRTEoBpo65fEfS+LFl4zZiqw7z0e/BHpnIwq5dYFJCjTZpqfYbRFyZ0RKeynQ1d7Pz6gMdoar+LYhjBOIs8okEYuFKktocCd4aR18/x2fsyoQhm0174v8ixwa0kr0qKkyORdETtO945pjc4Xn3joGj9Anrgpj01u0yCJZmKKmRkL3X9ZWaYfx1+jGsHVkkqW4S3GrtHWXw58ASDgXofi+UVJReN1F7aYugXkiRnaIjfIs7zvp4zY358VbP03XjKYiFW4Vz2ULMBLz0DqDfuAyLOyOyRr6O6zuXeZuuM7pAMQeSVWSZnUi6yq8OozXjatcv+YR8dRm5N6ihq/5PUWjkb0CaapWe4gIR5TTSkP/r5SMot4ki6GmnRz7uasm6vw9xMicMji0x/jtkGlTjHlvpTssEqcvGC/bEhq44XhP89jxNqCgL/7ByNVs+pij1Pxch7ZjAo6Fi894X8d9PVhgcK9httmIuFHov0G75NlD9IE32vqJmFUJfSzV9vWeNgQKOFJbWTSa543HjuIwMtIbTDwjmxiie17BElX5aH1tyKoI3t2b0RZYi9OZzv7rOdGm0IzAYqy516jU+IFscmP9QVCFSxkixXZ9Edn16cMcrBtB61TbDZHv1p6dotPSMk3wbji/xi1/XlV11bNK8spPholexrIYXHq/pAGAXXo2zIZ9Zq5c4U5tDaY9/ZqAaHxvEJojAB2F8Re14qG219JCD6J0FsyH7KzbGH+ov5D7FoKvBK54a2TUj/fPZtoQ2OoAL9yfzbFPo3wH57Y55ZXMwI2Aq2+mgoErS2ltKc2fn/Ccn64vBEaBDJDLLBKNtysfmOwSWpa+2+qStOlUiAdbakL60MFUw1q0hH7SScR4fFb7VZp1g7SnIBbOBhALa1H/mskNrZl0eCHJwG2HfzWEFmqdpVUVhKWJxSuV/4V+gpHZUHFwoRYok8OIhUMAq9w7uRdprv/nBGiOrfGOZQip2vNwXsT7zM3xZoUnX8V26YXsnXBxmDP5o6Pu0ul1GH30U4OIwknoYi9K9MJVssZceZc2hhVDR1pusx4eoLAEquG6uYb7zboGnG34jWQYBwcYA3coeQZLPVnf+LmhSUJDw6YsK/MfYjiswcy98FUpgnV0y2biUn0SrOOLCi30GIrWl74NurZT+uG/ZHIU2EtY4KI7VPF7VpgaNV+3WhYL9FgRM4xSNS2u/JDNwrvshFphwEVgRbNslwtdge1VagHEcZ4Fhn/mO3xUBBEjebmqPMq+X3oKgyfvf1yFD6FWKu+Ebji+8rgaRouVXdoWGOdfWwmP82RmL+LP1Pu/vf63K99ZMDpy0dNQpgwkAxtly37ebTj/wJeaMcQUR583Wb5vCu1rc1KwER9pHZt5NmDZOS3KxUIdugY0i5p73fd+Rp+KFsOm2BSKK7MQj1bpN+Cd9YmM6GcVMflE9q9FfCldsoNyEqjzvmjWvBZsxYvnGq5OLxveQZV3HZoOhV8DSKgxVgk42741Q+cWR2a2L0i+BBSwHdNqVP9/ND1+gH3ohSDTWFKH7LTiEzvHfYYcbj/h3Oo6kzChdc642Eeoab70Aabbmxka3aZIUqoHmTAR8O27NLuyJLJ3HudOxhHbYY3Nn/+x16/NaP77r3EaC/HtrbrV74Sa07Izhow/J0gmC/J9J0xFDeDXQ1ylHVi7SP7AeCYLNQo2zADlccwre18OpljkT4Zxh0IfdB9hq6CMU6CdpYV8BDZW/5ZHYMzDmUQTZXonG8HpTdPpYa1mQ1MRkNJRbt3+xQ7m4nPmBL6PCCv6bHkgHD3M3WLINIYdihD7ip+wBq1CIKSz+R9WM8uQIlbCVKLbAxPwNop/80lHtocIHjEJQurra8c0Fdse+1eXs4THdLUHkvKNc1x2G+tVppPVOXO6LMPgTI65NXD1vreNNJ4Fgxkw0MmIVdvQ1ajLhHlrWEXS9jj1gGPDtCdfjzussbKOhAgOW8DLooPKan+NYkCkNF8C5He8Cn+gq5B4tF0G8gACYga5NkL4j3WDSIhTQkCrxshE5SYUzBcgFzACOcKMTmkgBRuch0oWSgb6rm/LOKyXOwm2K5EdzXes+jivA5qsF1qojTYX9SVg3bAMeP6IWpkGROFx3uAV/8NQLQFTdOgZnjPq9v7dN9V+AFWG4bhrmqEWPxAIwZlexh5wZanfeKWvqH0tFvKZAh5y0A4bL8YpGPSEKcbxjJ80P7SqatBA5Zo+ODv3QAS/5qK2Ttp3GOvvjFjgB7qS0kzEMTsldlPmSVBw/w2dbxUFUTufcBfs/1yhiUpHiZYPf4yV9N+lZ4fnhtvsbYWbEz8Y4rmQKiq/Erk4ABvKnGOzrzzK1gV+iOHzlVGHOYIQKIX7jy4X+M5/lmViAd5HckLh0RccEH4Bd+dFjEdbFobJKo61kKAIaw1NhQJhkWfj71ZUDC4l7FS3/pO+PssCbzoP7BrBQeDCyKlXgD5PkKTNfKsKctjHOCHARUyZJKRLE/Jxj3Fie8bjviX7FohvmuTvhXmu90hrhv5E7+5L3o5l/kTPtDvOGH6doLWBPd5XIgTY3cvgjiR+Y/CRDWdtD/LLNxIw3RiRZAT66LaHrejaa5LYW/RaWlQFoXR2b5av4kSWZwOh3gBrzk34dS5Hm2q/xwf1aR6Fdyjq/zwbJ4UMalqZJ2f6etbroI+idIOkkh9jahGWjMVAYmjggbTrnFLw+2vZaCiOQvOdcoLzvnXyNBBwFF+lJ5ZwSJ+ns2FIiYb95WWvPsQc6dS//jWWgHt0GLcNM3fxJxbvXzl4MyMgaAvg5IWBhGcWsP4iSWRLYQMT5D/rtnYVx+5Aa5/9j/WrQ3MjczkOfNxqTx99XPe+asCimo3gNwDdUfGk/QDn2/0+j01ekSyuCLY2xEXbVbj3w5XvYsn0lZY1vUaLUxJV/8pVM2hooA1tzGWAshg824QLZnphI1i0WxdzatKNBtpYR7ZeydTt8zT1xn+hLPgkCIHk6BPuZF4HoiWUUjvaZNKBk5DYrLrnAW4qSplvUSmzgK5bEaK09qxYQPQsshGAMcInGZ/WrCThBIOnO2tsNAGa3DdJtm90Unxod0lkwfLWlfNXc7RlAmufC5434Ri1R5d7nWekAWZdPW3GaatXcqn85HHDsOWut4mB42+ScWKw8FeoF1fcjFWBC1YIZmQa3zmb2QoZ/iOEwsvgpGeIvnbIXo6aBZAeEgfX9zldjFOhPhyspapwyS0eZwHzOyNBHNh8KBrLC8qzjITvmwrglf5XlZ1vLg13LgoddXZUGeB5MFQgbrkoY2UGNFXVqgAvxnqHczWgaJFFaE6+i2QMaYDOO9fkJ/HHXaBNO+Cav6CrvukhEzCWvGch2SINqP8Ay/SB7gO4A1s2d3rOUcdkju4l0jfTcrEl7OZ23NoCjDAbDtkNuq8RQ9o/9DVnDEsU1vQJvqs04N8LzOk6/JCpchHyZ0N+LlYQNBen/OzJxK4FdMq31jir7qOjaxFW/WJbd8WDPfvKrOELflC6yGE3Zph+hviKYz1A8kRzhGsyU3DkJ6SWHNTWnf+KZZqTT4PcBMelPcAWz7fNE1YCobpxIX4lJN6j1KzT3ovD4Ah3HB7iMA+ZahzwyBOjkgangO38Z7ZcwRVX4Cxn/vBILZpe1RLwzaDBH7WXkpu1t/T68joJG6gJM5a761mu4GBDsBK/P/L1XmFMqINgAfPZCa2Y0kkjraNBQDIzGNzQfXZK1bEUOwSxgWVx4X874oKMU+h9ghzffjcrZ1kPaHK+KCKCVLA8hybTsRe7MBXdsIbj/guEAX/j03REOLCzCO9TlV8IE8/Dzwnuu82s5/3A/s7Lp8CUhuf0mZrpLlDUyRwonBpf/FxNXG79YscjExk6N0Xv2u/KLszDpHxnb+I7o8vMVXVkOxZXD9D9nbbjcxm4gnTUfsw7LEwrlcThfk3mxxrwa706bW8ZZAZWp9eX/EemJF2MUaAO64PXd6GPqGZHedy7fwZ52IrIUyTIiLUympEsoSRmI+dK9j8GtjFD4JG9lG0pNWTp6Lan2WYYIaUvSdeWMmo6RN1CgzIQLZB0opyHR1Wxf9VW9WVDUY0cB+6VvMKWfHWRhnr5eOe18/hKX4U3WmODWyVntX/IBxfHZKimJuALwzOsBVvIeZenfi29yV9S86DhQOmsAAQBMUuvawg3eZFT7RKDNUYBZEsAc8NsFBiWs9Jc7XUHx+fJD44h4h/EAJLCcU71nkZ3pp5kFr4WL00KCeSs1oQtBThzRyEc2af7q1iaWIg2BOYN7VwODDvod5NjaFnDmcJve4aB2cv0EpnVBuhqtWKn8jCzU3yCpfO3ZpOjsLMQtNSW3+nDELyTyf6+sWL+F9+wkPNoErTvo9bbozL7EFSFrWUoaUYmUu/UdkC6tizG6O+TkZabmnA59n0ZNxLJPFARjzBZYyPse+Pg6UUnAUhh/F0FnHW7trjBrNpX4uxSmbwBKQCfFgTUAliVaE2GiegxAxAhYu3mJJ81rEvx31NjNxsqrsWnrSa0wSc10iWEjO8GeYU3iYQzAr4uFDGYUO0ysdMD4HWgdOXjh/czfJORfQ1whNHto9wnW4/MVaNIDgGyjyvvV2ijBFd3SqCVIE3vgMYSa6DkFPnM6rigcZALGFhxYa3+clw9mW/zTJVGXxICab8UFAv+W8MTx83Rsy7/+TdjgOaPZVBhT80slEYRCy5y1mJ4MuYSvc3RMipElnnWhW0ocKMdRPGGRIbDgsjiFZ+skABfbN8sjJRfoxfFj08t0qx1S558LfUCF0tHua4h13ZEF/U6EF3DtGJSEY1yuO5rbjxJTGt7TA+1SxTLoaabdrkmyeBUvUnEGXGTOxFAv4fV39ov5oXvBRRKwX4FMMLj3+OpruxFJsyS5Ia642lTk7HU/wHidq074yXk7cIRl4NbpteV5LNAW7RUxGEmfJbEEBYVjL08TiMU/kc6QYiZYbPI7e24KwKCACmGO5IrP1Ma2e+F2rN8jdOFlX0fq3SLw5ODoePsvYv1ZTjjh+7Z5n7IgOphX9OSyIbzNl89k/0FRJfa9pVOECUAy9BzuYP7XqJaTtCKul8sHxmgQjikh4s6TTGWkqq7RlJNjNj5F3aUmt9nT0Q0FYVQ3JoIoAVO/MbfGYHNYfuXxt/SWZfZrc3Gm5Vv1bjMQvETGm911aWOrNfzmtnBBnoABEyish3bFNWWlQcgEHhQkMS6/FLMi6MV18RfEnoKSarph4WSXoJeMuzSzglyF7gdELjUmEERHLdvpreawnpZWRQ0BNIocdFDRTjB5jSpOTRlczsfOOniMmDp1rnV+hUFcMxhxdZjVegYlc+V797j58N8bmXuR4lhuz17nWYitr5epA7/mGdu9mC8wAWm77rhzii7aDZvcAkJGQO4RLLOx0Gii1MX2wySVgBEcydY1OgLSZKWydseKthj7IBilywz8wTX93if/W95xXPts7NbCu1TJg6W6e2sVwUOCcHpfw+8NMyU0OeuypDL1/71NPVmfvJX9KfVvggXNy8wB8/qmc13QXtZsnBzP5TRJjEsMx5r9xlVtIvyIPDlfk8H4siNpZ2Ugmw+QAtxsK3vNFAcH7lgjLfDGXNmW9dYER5m424yIPozbAqBAEFPxpfE6gj+JwcF0XAqMBL2uaec6cr5tqGVw4XBfpXPlsh1F3hLlTWFqirXTMlq/EN4Aj0gZtFAYXzLjVceHp2zxVo+m871phBTb/Pjsz3n4pZJfC73BIdV9yui7CWXtB6Jh04Ee56BTwewAb0IKc3viwmq7RSA1Cjv0knXSU7PfiMLjUYdU4Kz6r8HJ7DeN4nHoF7+5/dJT5mNOWH79vSWmdjFcfIhz185ZmABnVOVMlKckJ9DLFCpVeWfPPcepwAfm9vOaGARu3OledCTZhctLltCXCyhnFlhJuPjtk0FS6z7HTox9owa1m1c+rcBW6g1HyTkwend8BWu7XMyBg8RZiXhglL4gljh2Ti2mkHdEBdfg3Bl6+vNR9mwVuCwzD+tAeBnW7V9RbaChQaMdLDvf01J2t/IvQ5Z/EjQZss302XOwnTvw6psFpm5/TMz+UVeQOLozSIcb6gEES/GiWjnt35+oYksDRJs5LdZAQJCQEvh3u6KJ1c3EI39adLE/kGYpgBdg/HzsAY8UQaTt4nSYYOTxotRzKwAohDVIoZxcpalj0OqS3x0XBMu/AkePGzKoIbJj2WSq3ITfnNQ7ER67RbbSrdRbJ9FPAqI07+Lp152BYLhUsvmE4E8Wh11qo+WPcP+az2Ss8V3tJVJf2yQp9eWs2B3oP/Ne9iBwY71BO5oUmT1itlfQnHbwzDNEQfP4IE4JMGWLhRNj1462Yt2RU04MidTrvaDFIXheOO4VlGnoGR17dy6K6gu428sm1hef2D0zoBIrCOmGf+jlVa6yH1zpGzQXvZ6FLkBPqXgMdi/52nEzKqO5DZpmsW2Vh1vIH0G7ERMaSftGMGzPUUh1Di916BLLmoN+1qFWpwf3OLgBoFlK+r2UNRjPDMlmkoDCW2gjNqVK/p/kcTGP+7OOlF7BMGGtlRoNufva2mvWIyohI8hZg9JiPRpYrq299/uJ/zZbX3KFJhi9in8+mJj4uvee2mVsZDWHGVlSy9VFjreBGGAqO1Bk1NAJeoL3xcQBfzdYjT0w4kDaPBS0rBluJHYmpCCrJ29zs3zQZjozumBZgljym53qZzeCU0mHWBbYSJfqa4hQFbBJQpw7i+yukdYK49xd4Hp8+BzyBsIHZPyDo6X61+MT859PXRpFJwFUDO+d1I3H9IS+pyGBMwisG1h+7bhaUROJKFBhB0+fsiTCAcXRRibb3X+pmqHistguWxtmuEwWdEYPAcB8qJO61ugg3k54bDiSjTWQJXGcTiQ6J9aQiKi1wU3QDZO2Bv1AHJQAPCkXk7yDF6cGtRGnF2g8S7trwRxHEfk6e/BeiUF12aU0PW6vNE5L5sKsqd/PMmpJ2qUdDP1OUffTWpV6QzDLVMWydXiex8JuzTF65dmzm3InfmFzSTHAd40IdGq5qt8mtk0WkrTXbF2HECzVDe59N0xChx4/dlJTm+bTHM2HatTCqoZzrRHjcO43B6piBzBB4+KYNgpifGTQrDyBudFlxme6qHkc9pWvKHYTppI5Kw+rsjB7kQ/CivkzlZlR/I0knlswNlA/PKRM2STz4wzu/+QD7cBjasWM3bv20m3JGC0tM0wrTa+RfaPYUjjDFLr5k5KsY3lGK2aeDGtb0NBvZj9CfxmEPLlSkivBIwvf4MnyA9ojhmjBTKuDVdK4rOIA7dyCB7uhZd9wod3ABJm7AUIlUBifeSZmZYX2cKGrYSec9XC4Cdz+eT2gsPqqcHj8lmvlaHYxs2JQ3WwwCgns38zjoku0hz4S8gv8E7ibEQOzfGWSuK01EEftKhSc3Ox/c9iGJVy4W1zNXwg7UKFC0jgWTaPE+mNXWlASW+FfiTBSe7sTVFjy52BbhiezkalNenYh++oNSwfOYMg37YbNHMZbYNgIrzQI3SsBilzrjKcUurO3syUyMxgVwQMe9xkZfp74EwiJGNWy7CIYWhlS3dJay0k/ZWEhxcpMkQswQgnvvgmgzFPRelgxbGuVsIlNvXUOODDwXYJ6AwdZraDgDddKFyoBrdBy6oXDO/8GK+wdSL69kBgmVugPQQ6EQtkKmVoawEGXtZbK1VNp96c19WKQt2zGt7NHupZe2Lb7AJT8lSBqK4CQ1s94lErkJYUbKJrIyzENLq72kYvZre7XTUBKqPCfsCKw90RrhF1eGlMX+9LJlW4zM0gGoQ9I63hMMkaSKhSyugDwfDDa+pvSdrRFnH5yHlj138VLmBC/dNAApiZn+1orGKrExILuiNYoYEdtI+tioCkZKgVhlBpD/f0syMsCCaV+mioBpVob56Nt6cYQH6wqLGEiqnMH6GN0GMsuvJwLQTJUUjP56vgwRiyH4Yl4no87JbF5bDV+xalGp48TSAHQ8I1Az1nNzNi4FJxNhJGy8/gt5vM07o3kJhr3Eix1AYWfeZG9uPz3GnbNWrlI9FL1O7uJQkXq+4t/ZZtLo07wR3/IHWRcCgd7nRzOGhTF0hApIrFwCaq+X9P0s2H+fAVpluK2k0+7/O2NQbwk/THJNTqaqot5MwqknwVtnT1I4MiC9NHC6c7HZkN25z0kYDsKJyIT3gVoSK2SGt4K+pWWgLy0FQpo6UbipoM3NHQqv8DMaiEESPyojuD6hrYVZCyb6oD0A7LbVKj+kfaeQ3KxAo+MpnLTjoBNei+TBgnH3HyvVSxhDxg3SzUCPm4zhZOgHY8PH+TDOQhpKAGXGGKb1tMDtv4HUW2tZgMzDVriNgiGoFZUJZirW10ylxbUF2hnLhjmxSy4lnR2t/byhwkOQvwTZ+GK/3d78AZMsA71T7xvs1Nxg/zCG7ZVaUH9lFvLSfhw5H06lLC0AVwXfUybOOm/XkRKkrLHc3QnmBwRMKX91Wrh86F2vDlepw9GL5XPsamjw4fqeH9LHaG9Chu1HoUCWHjENk2y7pLKXVT8ap7kkBNP+tPGw+4/aFz7CLv4K50T7bc04tIpbjQtHZfAm/AVn6HzHD0UnLeE3ObGFIHZLG2cn4jmbeR3L2ppMP3ZRa+W9IXsj1BDGKPEwrIxu/1AWbperb70JZ0Mxv2vuY28EBbsITxqG8+9WlyT/A40A8Os01GVfK/xTedeftkw/XM6NI1ubfhbXCsy3kG+mpQvtlEIhQ5Tf0lmfrxvyLjkn9HNPE1M5o0BSsaU5wVk6fZTUBKVCOAwyTYhyE5GF8IlOM3nt0wB74EWR91stEv+ReSN+Ahv12M8hTc977OIsU5ONFJiE28VmRQ4Z//VH9QFBnXqJ0J86RtWJMh6kCKrIel5KcMeV3ATlG3cNHUags2Zr9KZ3hML3B2JOIO9nIGoQDHsVRwHeYbgDpPz5Gs7aGzO3Bt/32lnyY9LxQkmCGqvvpg6bqwsp8YNGKzaEsU0xsjEI/kl2dkH2BGnF4WIDB0r8+naU4sONC2CrYNeSjEb87nIcstCTA54QE76bzHYTzSUIRNIHG6ShfWyLDdTsYjvbdzHtXKJvdrhITeTsU0VzRedokpKDL/zJgZX+mB4wHUW7iFP4EGUo17dfGnOGsnCtm9pNnBBKleGLMVC/qE2sgfdiPlgikAIqpVWX86BOSsp4pprwpreiyzeYKFPHlw6vgGTOck3aeE/Zt3IUem7j4MnhP7oYt3Pr3pcBR3e+s0vEyuBS1REkH6Bdx6ujaG+gCmnzTT+HZYcVSSNT7JESOvCRqorLM0jZ4SDBMz8upr4qxCPDedJpme7jVIxRPCIbRNMzQPw7ylRG7OSZtCrLROX0t1aEEViJ9fV6riQXJ4Kqr9JZMfddt0IQocVvwtp40RyHbc45/BM2DwTDOcNGJ2om+AxZDVXVScWSguAiQcDc+kemjR/1akEQpdDUdFy890N2zzUoT4+WcG181gG/DmWnkuph3AlOU0oRn8qgTqk5h6Ytmy6ciIK9qFVQ8VGzErRndqih7ulJAQwqbQaDJDkVrR3sa6y/tPt6Gr9/VlZyK2FWD6PdBaEFxIEmVbZQZmK04oglY/y6Q/EcvfZ774zcbTJnF+WxyCWOcgu7ZdA0Cw4PcLVmXzeGc1PeqfLcejWw7OjlGXOCiKOaBsCBpEngVQanEU2QbIBTz+RzDnlxKRaCCJT1YKv7Ojrv4pclosNAD6W/xMHcWN7wt0N8ubK+9k0h32ht4hRDcusOsZcDOkiAp21Blx04KT+8MNL9yjabDfPjq64+/ZDEbJ9+xfk/ZeaEiezj1f0PnUxXjL54SLqeAQSOdTfSz+2wXqrvjCdbWKq5+Q9LLN3f7N1Q5XJ+sm04KC07FoiIbmXH1562bl2emJPxcm5cpudnJquBpch3/1bSEPtP4lHgEMnbW6y+SItxeUsDBu1NKkKrAxJ+RD5lRg8Md7sz0QquYKdUi3I6tIeSmVLBSY/ewFHq0nd/k4r/g82jfgd4GoghKsuNEZ1zbvhY6xJJ+7Hvdza8HArAc8wBW/939fyfaCs6Hku9uR529MVkL6KLsK4mM4Pa6ippNIWn30gb7pySYWWiLrpGtKU5kb4TdzwrBf+fRUoiXpzMwhfRbbUFSN4ad/VUOW6c7YS5uxwhKzsQySOByxgC9pZA5tfCIUx/1ayO+R2uXrSW0NWPpe8EdSmSVkLWrubkPtVQDU+TXZFEo2GegqrRjtRYHjCFZ9gaBNhYqW7De0AByiWwRiTRlOCSKT/vgjwEbVikLf0/99Jd2PBMbrnopvYZpAOsL5KWOKBpwEtVVMcKt+lejpSUtl6pLMRwtisP5BlBYDSm727sFGT685h0kd3UakBNi6JLylm/rQAd26+D6QgNE1ymKM75obhvpDFRMALJjkPZXF/YX/K22ZeZ7jPUHEty/wcvPm9jLc5tD6iCfpawT+oaUNEpUK4Q2ne0W6ceWCxLHnoJBWNpDbKVYT0ZHNZuDRIbz5W2cc0LxDOyY3lM0jCDIPbDyQvQCO6yeXpShOsm3mdkoZ7DGQIn/urnxj7N3RNxBrPv4gLK/CLL5p6dh9WwwnJcVcOvfStFO6iRdN/SPhpZcJybT6sOH2qXl25luWi1q05ulAoXW22BikjSHFOx2aQWavhnfvr5LoQq0hpuSK0C+Vjpstpp8gGPknf3AKDGY+4Bgbq6qA8dKBB1Mj0KTEHo7Dq97aN9zvCl3lXd8BhuFc9W9vnIJmqPAVDR/emiu6XjEy09gQzO9pTsbr2oTapyu3mIqTLxPDMhqD1i39htNEgVRiy/Dvb/nKG2JWIl1FZ+Keemkbh88gig1EOt1+T4mjcsLORqM74s3lzhU3cfhv/8+l7+cs/sorNt9cK4O32aqJiOAcbxJxavFfrRzg7BcIGyoS5d9bnjsQBBLzrtogpjI78xYsOjvz1b2040nQM9SVOOFFr+DfSeggNryY7Guy54pZNyqqeb+E8qxe1IJnfoMuF9nxVo5YOLATs40uXON8gtbhMiEXbXAjy8AeGcokpb0E07RZSIw1aU3zayUbbOF0gfplY+Ejo3971KE7tRS4fgoTpWyS9RHYH0dRr6574QBYtFNCHYD0+1lyQbVXREDxeOPbHAm9JFXLnmtvoHIKIipEgJF+E1drSK+XgqCBEwKb2I2sdofAo/yw8mBN8n98oHkE7jQU06OXryO+bPOkQPm/wfAeIJO9R8CgZwvwyjXV+3zZTJVQl4AIfOT7sraw/qHhLBiMdRI9wU/vbCFvIbVLTEdValX/A9OKd3K9ON894Up3A0rVm31vrXm+S+v4i/NcuIzr9taF5HhkvjzDC+s3nJiYYf8yFpVFGtZqO/ZQzRK2f2PQn4MSIEk04ZSnq7wePgQI2OGGIKfiYrWT4MhDSYBCPFYnFsrxBV+m/S5PjrhcU/kwstbaaHP6s3kMVKRSMQn2PT43yG/Ls3L9+bfd38bE9tXZnbG88KL3jwGO6xmWtayfUNqxrtcjseErm7cnbyaVG8O7Cz3k6+guP0u02/3wgobsQ5dysHJ7F8M1DcyBCHxBOfjac0ZlMJhMC7lkoju5cFz4OvSFJZ6TvEwpSOW0pWCDvzp2zISatIeYjMuWV+UmWQ9OMH2RXHUi4RrmLBSTNTw8hSslMZQF1lywv6f5DsOVOJ4xWlzJWnLz1KE3sybYXLs0G9H8owuLWS7mGbW7x8BspyKU/wOvwSBN1ui2X7uU8aiGNocTLGoCRIV9klVQRdpiVVm7QSMIWmdeqAQkrAaGH8nDA3lHgepMwE2W+MRzxoV0W9sO5CWn7FkGU210uharJy6NZdjG6jI/FW6OiukIFKvPvDT6wAYH58emwlDqqg/nKU6Sd63Ide7fG17mFByuWN84gpQJKvbH3hbX9ubRrrADXJ6nfWZVuHsJNEIDr6Cdpp3BNjyAYVdxbq7WTlddDnwHMfF1KcOAZGKvfXZh0zZOjAwl3vDUtRM/SOPGnj3g1RV9WS5YLROO9Lj2AqvsYLRn9gsaTohfnJflLNf95LZHDXC/qQ7qvSSsrfTYjsVNQ5OR36jFL3CiCyrjl4/ezzvFH+rZobNyED46xR1A6VzwbGLwwDPAkFFa7jGdgHi9sv5rRhxU0R8748Dxkx8pvtTK80MuuqJ8+Kny9r9JWwBXDxCrrw3AgufTk/WY/GQSlJIv6Nz8NYIQuHBv60UFKo6psaRKQ3Gk5MwHpBxwFb2oT5J8U5vUqZ1s82WCvHce8vGcpP/d3yZBVHyEPuk8xXkSDY9Ey/p7dPhFsesdeAPYAWsP2ExgFfe1nsQfdrb4mwny0bK9Lp5zEOp4yLYdyT2fwFLmKh6Nwe7b9vByRYYLqhqeJ5NDlWpmQCIzncB80TxcasT0IxwGfjZLVvqkkAGJTDao4QBU7R5wBg1Pt4cPraFezkiw0ab44MmqN6k+8+y0bZY/LfKVd1/JxSrfPm5K5ZpiJbmyVNHItECSGiuSB9RjAP0Izv4PEpb7Kpc7t+HbUiFccOIbXB5NHLmv0NQgeKUj4z6WvnPloisJZBFN4BqlUKN9diWKA/nvwETfi/FVKDOy2jnpvPp30J+3qSKjbcHE8528cOfS73Aimv1MQzl/5RWCfHOVhi5ozmawP7jQj6B/m9lmrU9V0twbVAk6JDLlRaG+5dTHKSL/irJmLmArilkPybnqgo0t/MjWudNc6nn21cacrUWvQQhanOj7wdaqM6dOv45vrGLrKwGM+kJcICx/IQWohBEsB9WYVVCbL7D9ELe/IcmAjxP+HhSdVOm+4J3jVcAijAV3f+EsZMlz14juus+nx7443F0jvtFppsiU6jrA8p0Usw6pegXnyhzZSzO2aaoqXvTIx5nuGnf231Cwu18ID+7z5ODLglamIH4DaJnhPs1QJbRsLDap+xjdbf/cj0HbX+qGgPto09XfqzccPRf1NfARUh8Cr/QT5KoRhpTEsYmSu20Ahy8u3FzrKnZ+0Zrg79o4KSEG8iw5/HbhCJqzd45Cg2ldGkzJE8E9S8z5XVDLSaK6lUevo+/3F93EsmQfQh0suj4tqy5ioedzK9PClV4OyqJhcNstZQu/oNOgXXZGvyQYp1IWXrK1SQ/SwGiAilQyCRH2cBav7QkH5jmWZnvwW+f3uWnTUnAaA5sm8ix5bjYWPUxg0hhghBZxRLtWNgDVFK8XI+LDvFCG+lFv8BEbdQt2WRVn2obBJA0iWgJcADkEpDkKVq906iw+V7Ux65IQLjhn1mJyOp7RwEB8Nt+y2+7fgyRCv6e7h8f0MjRpwBiUS88MbEdDIr9ybXky1Tvejpx6g1t6ZfhWtedN8PimaOc8PUHJxx+KYF2LlJ7/BuzX/CD/lPoEmuEXUwLjZxlFh7UfiypG3mTW/sE2NaBn7Y0j9YbaO1e/lJJBMs8ZADD/an2DgqFAYEzB5uf/a1gsroU3zN/97DUi+aiLtODYL99itpr/YNpaGs0E2ChQJoUzyPqAJYlVh0Qbxv5pI0vn4nVF9JcXcjEbefu/rDEXuKa4I/gjXCsHo6YlQIqFqvIZz58isjNZ+ZX0fTA2g2PO2Z/2XhUlr6/g/CrOwDny39bQr7S/9310r2FasPmmpOKwxhu1qVC3Ob5oY6XhzAGQoj0trs1r55B/a+r+a6eOyXzdYUtJtzINmUQTkSBrHtY8HnGeHp3VGbP3EJrhEzTzKSGXjsS7yTrtIfod6YRP21Jsvcm5dcqsA199po2/ZhClMy7ecjDm48UvfpqVEs1+jN75InGpXizTkxoYs7XdGbSBYZJVb8Np/ESFhtUWnxlhMJDSwrttDadPeBv984vgqPJs8dKPX3uno66837PDUASiMmMbN20azuUM6gaeu+hZSleXoNL4Y1HEg7TVU5tANpVKy3b5DOS7bu4RoEBRbB/W1cBz8cJ/nNAU4o6X+wrDUafip/iUz0z4dvewlnP/yLzGeVkne2G/wvXo/PLzpTEiZZ7Jhs6Lj8wU1GEe3xYCIXCmQaSHH0rH1LZB3THg8xvknrTJxGxivRDUVC+5Gc5FvyBrWDm3OSBI5U12yLQtNPLtLgCk3MTp5oeSzVcmWnoK4llDWXBWI0/RriDiYx3/KqheqahsuBtL/Bx/xhrG+AsisL+YV+yaEH/DXk0+yDN1Y7D62FV9kyVr28D96qYD91MjPG1kk3XmzvJeieQJ5JjLP7mp13EajxNrRpfOrLKKCeBwlWKnHprLkZsyntnnVJT47oWmlUCAvHv07+cD4/6uXvKUfOgYsy4q3iLq8NUC+uLcPXxytYDV5lzInvDlzarrw1FA3v6+kKNz9FR+Myjz6icOPWZ8zJY5rbQ6VTOFf30SAcTQh6wQR0UtzbMDbIy9K3WvZ7BsgLvPfZUcjiDNQY5nmWZlUXeIVtUvdgAup9/umJFc+ZCjY3XoquktSozpE6yAiyk7NddCJl1GM0jcXOgRrUheC3+y6mXF6ZbrXFYVQOTdMznXLWwLbgAkfUNfWBcOJZvlz8R7CP5PDdOEOXh0BxEWyQkEjy3ns4ITMZpMyOu+ciuynIYE+CpslDJ+aF8W+844AoHqgg7zef/PJwlAdMmOd+Zn9Ms9IThFxVCSoPzgZd8AiJOVEoeniwBSdP37UHGriqdV9UF0AxPVwhhTut4fOauZt1KzKvlhvf5LxPQYXf2iJSOM6jg+zB58tOmcTl2zmgKaUiCsxDDJi0IADDhm3bq2SgygbBIzKGQ9fJLvFgg5ekIrLMmJLcp729HbfccucRWX8OQGs3RMDFeTGgdkCVyC1rnQufaUz7X9bwlVDd5AZos9Dp9FmWG38iZLkmy5aPno+4YVswNMAO8dp3jUkSFOF7I8vrEO/N767CIJlwrfIKmWvH9Du306GZGH+jERnR3c5TTHFWApjcOCOLPZGNeLhLix91s+L73aw/hphdagqQYjvB4h5xKwDcmCQ/A3ejnijuToeAc2RCO1sRlGhqm6NNc5LLFyA2GUVoF/CXAwrhk/bz3SnR4wpd9dwYJCGj1cnjsT67kH6iItMrxvOe9NWpG5It4zopzbbM38Wd0C8GkjXCnKO1HWkl9nZQToWXhgnsyDYnaVZxDDRRVGXCtz/a4d8TtzMN6BNjPHHocBLslejTXe2j3kzctsnQBJtwP52WpLlFMK4er/cvkLIBeymuRGIRNO3oEOfKKA/WmvoVVDi48WfqFa9FUjSHDEFVGqRXFlC1ykpko6fna3ExU0LuD1CQO+6xdmv/GKF0mwYjtN3DspzElT6kWjw3oHsI//ooWgVaOPbcObHu8pcURMjNsxncoBQNmnQ6VzB/+xAgetQt+JKXsYAaG1GDZkpzQkyS9TWqMNS34OtJuV7pBi2Qklxdoy9OBZAi0Z9K5zPf4dzqxl11D05ll5gWnbWOXmZfWQ9quedfbLUxSTf7D6DSl8YVkm12pR/uD3/VyUtvbtdlguMzqpBPXhAIPHo9/w7H0BOAqoVxcsyHGfiN9FRS7m9St/qW16p2EPlEDlrgOWmsi0H9SyJYiNPNYg7C8EKosg3/Eei2v82MYQU/HqQ6vJgRxutAe8rEakI6S0IWqlok0YOcWrhMZE+zcCrxVCD5SC75+hd8FU7Tl/4A1OIOenm0Py+tehBOkyaMcQ2AA3B+QDL5iTFVU/UEzJ27vZQd1zfGc06eQNs6rdnEJUwRVeS3DX+mw/2TOG2Nv76NGuaqGAQb2ZKZQ1y5LmXSAdMXWda6/1Kkplr7tdvScdbFDgwhzE6HN5ItZNvH2T5i+DvYU9epkkxZiJhb29QWgCl2e2gPwFoXOecxcZk2v7FdvPipNGK0ydKHoU1lrWK3DJ7/Yt091CefVNf5ceC7YV6MHkPnPUslC+uHQk8RlI86J7gG4z4Ig82UXWiB4LL3TiTGEgbY8emyNFbB+N+JOySEqltPD04P70RKw3frPqxCfpcrQdwVp+Yh+ACzMYJmyTRXIkoVsAHUfPeu0F+n/vBokxQay26G+r+XW6Av9aehPVRIGVwRQDaFhkZRijjQmmx50OfrEX2Qu+ZD0ingjKfDbCLp/X2y8a2cLZE7xiYrOD4yLerJxwqQoJxKuszb9VpLEHdqCeHNpbHLMwmm6sN0Q1scVC0H4Ovynib+qJAuj51oqOEqV9fv7eXqzuc6JTVPgtzZn3JFQSh9b1x9zWNms3WeIXgHPXZ+bFjIfTrFOGK7/DLbO6lJgY9yFcBlhvRjvnYD2OXPk6tmlfw8ZW2oqo+LDsdYNePnUbHSABw17Zj6We3OY3mcUot6Ekww5TnOf9fT8BSI2ZasgbNkf5KWeL12txkeGrRtl0a1kHx454t7LHW9MTYOEFG6pyGPyD0p6pOjYyNG/1HhzEPvF52z+fioLYX+k6MJy9c9Qp+dT3kIhoZD0NaDIjqhBrC/M8V7loLLBoxPdZAiTt944gV090x6qhgjL2DoMEA4yXwZeQrVrUjlUZNO9RpjlpDGAwTa6j91GJWQ1ub1lhX4PZayb3+KmKFBYddRGDTqTk8qShKllgptLe98Z0o2iiQybc1Z/sTaC5Fz8o4rN6baIzJa1kEnZIlZcNzooC7tmagYyuHo+HFN7t/v9MSZ2djb5QI+Nc0VU7DGWI7Yo49u8W8WD5N5a6MjSj5BlHQEpJGqe7aDwAHFwT4Ar67emOq9LSIlvTwpghhGM9rLtYGv/PjDMRR/6ii4hwbsXH/4woDCqFmxRU8p7emhjtxFxA4Mth5d9iurrBOPqA2W5CQz1fFxonlHQOi6YN/+N/DvGUr9iuG3kIEWDMgoKpevxRafkcGFbJ4v7v+xYQ2SRrxy4+4L0+6z14nWqB78uWcBw8BwZy7Q29Y2gi1wwmLbwHf8gSKfzSSetF+NXar9RGnUlRhXeRBItGydUF7KKXlf3BIHDipzULshpjODRnAh73bbGhiwbd/Zai+qGqWWzhCZMUfNFbZ3edTA6sQROkSmsH7UxI5zeU1UAiDHPhYKksZm/IH1vujJEQJaTYY9tE1ZXbl8BSUbXeIo8KcCGYo1SfGL7WeqdHNCtPrctJdVgGvwzbKgIrSN0l+GnFhphVrjla2KnPcUg/lQs8eSJaqpV+aPOogUzdPlgrpmdiDCSo0VoKwnPUJyRofcNmoKFhy3P+iit8VMzt8DGN1KRraq6f9Ax+c53503+usVXO6E7k9acFxb0QxHXwV84a0geT8sL8qtPIwTbzufhWbQys6OS981K0bK8zkj0f1QywKASfxJFM1pAHYiZhRHPbo+qDy12+TzdpoJusYlxYZ7MoH/rYZKSr2iJYQcIeXi3+EAijL/hEnoyiq+0qf66EKajzHf1KKJyL+rOYpeMZ8UfgqXYOls3VNtIN+SBsG1ZR0IOllkpV2qgDyxPTHMvoAinAFO5y/JExBhgQw26joofQeNPSkVK21TZkHNu/Na47ZlbyXzLXjPL6Pn4jdZQ9aCsdyI8K5a0GF/WzFlg2zkugO/IPEbwAia+vfZi5n9B3pKp5SUokyI4TZHVo+RN79B7JMmfNcRMfbeIgoFyK3IwOUw+XdHjj5Qu3Ivpy3bT+Hcp2PsGWVDOyW0l+T+77CzMt4KecGgHC3epn130ervfvN/QVngUGOMwcW6bounWB/TI9vvJqrrEqiiGT0i9daY5klb+szsXblLrkHPB7Cjw9QjV2zD316LVF1wt+w5kdR6WZ/jiil0TTYEhR3zA5nmIjuiNMWqM5S7weN48Qd8EEbDI86F+MN/cdSzF9kgAhddw2QNg9ZWSSADXsjI292V9pTzibKXg/ahA72gwzxN0AVUsZ2L2deYvx6LdfuAB39tsbmx1a6t+FRRavU/i/UG//xUs8AtsLTolbZWNPIIH+Y6p5I/k1eFYstXaHW/l6XPNvU/aI14PZ/uEC9k4VrcB8kwwLMOxRmq+afptlwP+QvW6oTtKYnqm/CTwq+l61cCHRZNar0i2vNuAUWUX8i7ldFmUCJyrrhA9aP+nEk8lJUoAVsUGEIQoJ23KVILTcZzqEpi+gGLaSY4PQTEa+TdyO/6PItQXu12gyYMwQEY6a2LavUsBT74mzqrB7L7rUncOlNs3H0igl52zxDiXJGY5cJ37nu3m+4iQEJaAGmTdVZ4PtBoijS2KHwxWuB60Q6AKc0igXYPsK3m9egyrU3z3IJy2Xucf+UZfdYP2xUO43pZT60f2uAGLs6GT1oYzDj7bEvuK0U6Tb5Thd32DbJnhDcFgxlDjDGMojAIxi3Y+/oXamwzYjrQErJoelRAb9UlISl/OoY0ZsIaRfn5sDveLsmMSBC8QE3Q5FAyDffU+JrlVC8aOhq98BB4VsIGr6GqAuQNcMXyhlUjvWuAOAJgSgrC6B3vQu8Xh3II2o48D7KUVSCSaSJGLhV14HW46UmNcwIfHw8v/tnCvvGAmFb8GVpO2qEBFBaJDQUOSxqXZlEtz62/qVZjCA+7Xk1SUx8JdDHr41UJfNHgrMVMWyH5nF0uESX3P6mlkzwLBsSKQpm1zrkNKOmpseSBPWwbt5swFkPpRsONZarewKi6uBFiwILNnhDUM9MkLgTehsvgU5fH1NWzlO3mLXERa1qox+H2xeA98KUGrRlUhwP+WHE/LE10FRsbuxXetvrCYdHksMNaXs766TjgBrkoaGIySReihvyexYNy9xmjrhkDsduRiyi91yO4VJyQNDlww1gjnYn56jWaeKa/ybbLGe/X+e9CgWWXFe9eU6Fqz+bJt1gi4aC6TKbu0IJOp7VHyJCac8iuOJBWuhEZM9apYgvzIZT+O44rO/OZdfiwzAjhQV34GK1eIRIf/xEvAMJizFo+jkbZPekMSxmvBDAEmKSKEjoMRyvSZ5Nuck50/W+c4BhTycStgf+nmnMHSyQUMgMUoHxxix06KjMY7qrKlCRsRjMhCrb1iwc9wuy1JFaGULrVJornUHxM4NJUS/TMITCPYo+M03JQ6Yif/aeD5vIWPBkoe0dDHNjgnZkVJpNtmyQAM54LsL2DHRJyvWY+8mOytQQo24wetqkuXt3g6JmMi6FUoaqRlOO4gwSrkS5tinRo6ZOAoYc95fs4fcyG/IwhYzcoCOd+WP18YpiyRK8jNIP+bLNM7L1AnHlmiKbPicrT0LQZJR7xExWToVNNLDborv9P67dG4Th5T//b+sNTsdOCbwxxelt+KA3+iaPevjTgt2T7m71XGUs0uEiffMc77n7G+hOB5ylQpiYY/jjFg7UPkv8The9O4kOqKxq6u9k3gE7S/IX2obq9A+uJCWy14yOGn891nNMVCbtcwQTTZcwSzX3/VTY/KPyDe6yAlt8XbYWHWmWe3TB35KBagRH3kvZfcX/A/y+YEZy0q1jfywtEbc3bGlA==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=b94hX14NMWluUQ9a73g0LYFvtKhY52TK8cbDkYB_F2GuPre4tdh-ebiiI4xuhXnRu6Q5dQjaQA4oN3PEeL0GrtKEyEY1&amp;t=638942408819057530" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=YwOa_0w_u3oCLFqmIIOf-XEz4GWZ1DuyQIpxIA4LVkywj39sZSps12NbK5wNl5XN9JF3m7d-ey7BFDgj6i0380qRQ5IMWCL54sYNVU1IjMmiOWpp0&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=_shmykYI80CxCNR43Ii1nLy9PBGhuSe6SPp3CEYu0wDEuLqDAuIcsXVNhTIgQn0iyiwPorMflXuK31FftDX9GnB0m366MCEoOmY-eKQ3YAO9xRL0gIigzgRbtbVOgSQkJbJpFg2&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/PressReleasePage.aspx?_TSM_HiddenField_=sc_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a5a4df314-b4a2-4da2-a207-9284f1b1e96c%3ade1feab2%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3aa67c2700%3aab09e3fe%3a87104b7c%3a8613aea7%3a3202a5a2%3abe6fb298" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59B53027" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="K9BO4ttzUw7epqFOTAddwjGoeYLG3dHEcIZ7EluFfZE3amsZkogqgdRxpv8ptVmw+rmAMPQiHodozkWGHUbeOlBnamOJDZEiQEwOOfhL/u2x4dJgPoGZR1jaBcn9flEjFLGcwsy3p0KgQt/SNIeLhvpOYRaqIRQ17bbaZsTrffjf27XwmDQlzI9wDyxeeU9HxwS+Y94E6k9j2LMKM2PbC7b4Sb0Otg2Donj02S6r6vwKN/Y5jvpW1uj7LOmTw6InEGDXgfmosQFFSk0JOnxyw6XKOE3HeiX/MH7+n0FuQ/MP5GQ4" />
+</div>
+                              
+            <div id="templateCss"></div>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('sc', 'form1', ['tupdate12','update12'], [], [], 90, '');
+//]]>
+</script>
+
+            <input type="hidden" name="hfGridHtml" id="hfGridHtml" />
+            <div class="container" style='margin-bottom: 50px;'>
+                  <div id="accessories">
+
+                        
+                        <div class="pull-right" style="display: flex">
+                              <div id="voll"></div>
+                              <div id="vollDT"></div>
+                              
+                              
+<div class="print-icons">
+<input type="image" name="Print1$print" id="Print1_print" aria-label="Print" src="images/printer_icon.png" alt="print page button" style="padding: 5px 10px 5px 10px;" />
+</div>
+                        </div>
+                  </div>
+                  <input type="hidden" name="hydpermid" id="hydpermid" value="2277503" />
+                  
+
+
+
+                  <div class="innner-page-main-about-us-content-right-part">
+
+                        <div id="MinistryName" class="MinistryNameSubhead text-center">
+                              Ministry of Commerce & Industry
+                        </div>
+                        
+                        <div id="lg_g"><div class='log_oo'>  <img src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2021/aug/ph202183101.png' alt='azadi ka amrit mahotsav' /> </div></div>
+
+
+
+
+
+                        <div class="text-center event-heading-background">
+                              
+                              <h2 id="Titleh2">
+                                    Union Minister of Commerce and Industry Shri Piyush Goyal to Visit United Kingdom from 25–27 June Ahead of India-UK CETA and DCC Implementation
+                              </h2>
+                              <h3 id="Subtitleh3">
+                                    <span id="ltrSubtitle"><br/><br/>Shri Goyal will hold a high-level bilateral meeting with Rt. Hon. Peter Kyle, Secretary of State for Business and Trade, Government of the United Kingdom.<br/><br/>Shri Piyush Goyal to Address India Global Forum, Lead G2B Engagements During UK Visit<br/><br/>Shri Piyush Goyal to Lead Asia House Roundtable with Global Investors and Industry Leaders in London</span>
+                              </h3>
+                        </div>
+
+                        <div id="PrDateTime" class="ReleaseDateSubHeaddateTime text-center pt20">
+                              Posted On:
+                24 JUN 2026 6:13PM by PIB Delhi
+                        </div>
+                        
+                        <div class='pt20'>
+                        </div>
+                        <input type="hidden" name="hydphotoUrl" id="hydphotoUrl" />
+                        
+                        <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Union Minister of Commerce and Industry, Government of India, Shri Piyush Goyal, will undertake an official visit to London, United Kingdom, from 25 to 27 June 2026. The visit comes ahead of the entry into force of the landmark India-UK Comprehensive Economic and Trade Agreement (CETA) and the companion Double Contribution Convention (DCC) on 15 July 2026.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">During the visit, Shri Goyal will hold a high-level bilateral meeting with the Rt. Hon. Peter Kyle, Secretary of State for Business and Trade, Government of the United Kingdom. The engagement marks an important step towards the operationalisation of the agreements and the strengthening of the economic partnership between the two countries.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The bilateral discussions will focus on aligning regulatory roadmaps, streamlining cross-border customs coordination and finalising administrative mechanisms to facilitate the smooth implementation of CETA and the DCC. The Ministers will review preparedness for the implementation of CETA&#39;s tariff liberalisation commitments, which will provide enhanced market access opportunities for Indian exports in the United Kingdom. Discussions will also cover the operational roadmap for the Double Contribution Convention, which is expected to establish a streamlined mechanism to address dual social security contribution requirements for eligible temporary workers, thereby supporting greater mobility of professionals and businesses.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The two sides will further discuss the operationalisation of mutual market access commitments across key services sectors and review measures aimed at strengthening bilateral trade and investment ties. The engagement reflects India&#39;s continued efforts under the Viksit Bharat vision to expand global economic opportunities while safeguarding domestic economic interests and promoting a transparent, rules-based framework for bilateral commerce.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">As part of the visit, Shri Goyal will participate in a series of Government-to-Business (G2B) engagements with industry leaders, investors and corporate representatives to further strengthen commercial partnerships between India and the United Kingdom.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Minister will address the opening plenary session of the India Global Forum (IGF), where he will speak on the theme, &quot;Capital, Innovation and the UK-India Moment.&quot; The session will focus on emerging opportunities for global businesses in the context of the forthcoming implementation of the India-UK CETA.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Shri Goyal will also hold standalone interactions with senior executives of leading global companies, including HSBC (Global Trade Solutions) and Rolls-Royce, to discuss strategic investments, industrial collaboration and the expansion of manufacturing partnerships in India.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Minister will participate in a business plenary session and interactive luncheon hosted by the UK-India Business Council (UKIBC). The engagement will bring together C-suite executives and representatives from leading multinational companies, including Tata, TCS, HSBC, Prudential, De Beers and Baker McKenzie, to discuss opportunities for trade, investment and business collaboration under the India-UK economic partnership.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">To deepen engagement with institutional investors and global industry leaders, Shri Goyal will lead an exclusive roundtable discussion hosted by Asia House. Senior executives from leading international financial and industrial institutions, including J.P. Morgan, Standard Chartered, Lloyds, Morgan Stanley and Arup, will participate in discussions on India&#39;s industrial competitiveness, investment landscape and integration with global supply chains.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The trade and investment programme will conclude with a dedicated interaction with the visiting Indian industry delegation, alongside engagements with representatives of the British-Indian business community and global education groups such as GEDU.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The visit underscores India&#39;s commitment to engaging with global businesses and investors and is expected to contribute to the shared objective of expanding India-UK economic cooperation and advancing the target of achieving USD 120 billion in bilateral trade by 2030.</span></span></p>
+
+<p style="text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">*** </span></span></p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Abhijith Narayanan / Garima Singh / Ishita Biswas</strong></span></span></p>
+
+
+                        
+                        <div id="reel_pic">
+                        </div>
+
+
+
+                        
+                        <br />
+                        <span id="ReleaseId">(Release ID: 2277503)</span>
+                        <span id="lblViews">Visitor Counter : 1547</span>
+                        <div>
+                              
+                        </div>
+                        
+
+                        <span id="lblRefPhoto"></span>
+
+                        <div class="BackgroundRelease">
+                              
+                        </div>
+                        <div>
+                              
+                        </div>
+                        <div class="ReleaseLang">Read this release in: 
+                        
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2277519' target="_blank">
+                                          Urdu </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2277532' target="_blank">
+                                          हिन्दी </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2277591' target="_blank">
+                                          Marathi </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2277664' target="_blank">
+                                          Bengali </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2277686' target="_blank">
+                                          Punjabi </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2277538' target="_blank">
+                                          Gujarati </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2277561' target="_blank">
+                                          Tamil </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2277584' target="_blank">
+                                          Malayalam </a>
+                              
+                        </div>
+
+                        <div class="RelTag">
+                              <ul>
+                                    
+                              </ul>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div id="RelLink" class="RelLink">
+                              <ul>
+                                    
+                                    
+                              </ul>
+                        </div>
+                        <center>
+                              
+                        </center>
+                  </div>
+
+                  <div id="update12">
+	
+                              
+                              <input type="hidden" name="Hidden" id="Hidden" />
+                              <div id="P_CategoryManagement" class="ModalWindow" style="border-width:0px;height:60%;width:60%;overflow:auto;display: none">
+		
+                                    <div>
+                                          <input type="image" name="btnClose" id="btnClose" src="images/close_flat_icon.png" />
+                                    </div>
+                                    <div id="description">
+                                    </div>
+                                    <div class="text-center">
+                                          <h2>
+                                                
+                                                <br>
+                                                
+                                          </h2>
+                                    </div>
+                                    <br />
+                                    <div class="clear">
+                                    </div>
+                                    
+                              
+	</div>
+                        
+</div>
+            </div>
+            
+            <div id="PdfDiv" style="display: none;">
+                  <table width="100%">
+                        <tr>
+                              <td style="font-weight: 200; text-align: center">
+                                    Ministry of Commerce & Industry
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          Union Minister of Commerce and Industry Shri Piyush Goyal to Visit United Kingdom from 25–27 June Ahead of India-UK CETA and DCC Implementation
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          <div style='height:30px;width:100%;'></div><div style='height:30px;width:100%;'></div>Shri Goyal will hold a high-level bilateral meeting with Rt. Hon. Peter Kyle, Secretary of State for Business and Trade, Government of the United Kingdom.<div style='height:30px;width:100%;'></div><div style='height:30px;width:100%;'></div>Shri Piyush Goyal to Address India Global Forum, Lead G2B Engagements During UK Visit<div style='height:30px;width:100%;'></div><div style='height:30px;width:100%;'></div>Shri Piyush Goyal to Lead Asia House Roundtable with Global Investors and Industry Leaders in London
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="text-align: center; font-size: 14px;">
+                                          Posted On:
+                        24 JUN 2026 6:13PM by PIB Delhi
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: left; font-size: 16px;">
+                                          <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Union Minister of Commerce and Industry, Government of India, Shri Piyush Goyal, will undertake an official visit to London, United Kingdom, from 25 to 27 June 2026. The visit comes ahead of the entry into force of the landmark India-UK Comprehensive Economic and Trade Agreement (CETA) and the companion Double Contribution Convention (DCC) on 15 July 2026.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">During the visit, Shri Goyal will hold a high-level bilateral meeting with the Rt. Hon. Peter Kyle, Secretary of State for Business and Trade, Government of the United Kingdom. The engagement marks an important step towards the operationalisation of the agreements and the strengthening of the economic partnership between the two countries.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The bilateral discussions will focus on aligning regulatory roadmaps, streamlining cross-border customs coordination and finalising administrative mechanisms to facilitate the smooth implementation of CETA and the DCC. The Ministers will review preparedness for the implementation of CETA&#39;s tariff liberalisation commitments, which will provide enhanced market access opportunities for Indian exports in the United Kingdom. Discussions will also cover the operational roadmap for the Double Contribution Convention, which is expected to establish a streamlined mechanism to address dual social security contribution requirements for eligible temporary workers, thereby supporting greater mobility of professionals and businesses.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The two sides will further discuss the operationalisation of mutual market access commitments across key services sectors and review measures aimed at strengthening bilateral trade and investment ties. The engagement reflects India&#39;s continued efforts under the Viksit Bharat vision to expand global economic opportunities while safeguarding domestic economic interests and promoting a transparent, rules-based framework for bilateral commerce.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">As part of the visit, Shri Goyal will participate in a series of Government-to-Business (G2B) engagements with industry leaders, investors and corporate representatives to further strengthen commercial partnerships between India and the United Kingdom.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Minister will address the opening plenary session of the India Global Forum (IGF), where he will speak on the theme, &quot;Capital, Innovation and the UK-India Moment.&quot; The session will focus on emerging opportunities for global businesses in the context of the forthcoming implementation of the India-UK CETA.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Shri Goyal will also hold standalone interactions with senior executives of leading global companies, including HSBC (Global Trade Solutions) and Rolls-Royce, to discuss strategic investments, industrial collaboration and the expansion of manufacturing partnerships in India.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Minister will participate in a business plenary session and interactive luncheon hosted by the UK-India Business Council (UKIBC). The engagement will bring together C-suite executives and representatives from leading multinational companies, including Tata, TCS, HSBC, Prudential, De Beers and Baker McKenzie, to discuss opportunities for trade, investment and business collaboration under the India-UK economic partnership.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">To deepen engagement with institutional investors and global industry leaders, Shri Goyal will lead an exclusive roundtable discussion hosted by Asia House. Senior executives from leading international financial and industrial institutions, including J.P. Morgan, Standard Chartered, Lloyds, Morgan Stanley and Arup, will participate in discussions on India&#39;s industrial competitiveness, investment landscape and integration with global supply chains.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The trade and investment programme will conclude with a dedicated interaction with the visiting Indian industry delegation, alongside engagements with representatives of the British-Indian business community and global education groups such as GEDU.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The visit underscores India&#39;s commitment to engaging with global businesses and investors and is expected to contribute to the shared objective of expanding India-UK economic cooperation and advancing the target of achieving USD 120 billion in bilateral trade by 2030.</span></span></p>
+
+<p style="text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">*** </span></span></p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><strong>Abhijith Narayanan / Garima Singh / Ishita Biswas</strong></span></span></p>
+
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 100; text-align: left; font-size: 16px;">
+                                          (Release ID: 2277503)
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                              </td>
+                        </tr>
+                        <tr>
+                              <td style="font-weight: 200; text-align: center; font-size: 24px;"></td>
+                        </tr>
+                  </table>
+            </div>
+            <div class="clearfix">
+            </div>
+
+            
+
+            <div class="section1">
+                  <div id="frst_t">
+                        <div id="arr_rm"><div class='sticky-social_mb'><ul class='social_mb'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2277503' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='40' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2277503&text=Union Minister of Commerce and Industry Shri Piyush Goyal to Visit United Kingdom from 25–27 June Ahead of India-UK CETA and DCC Implementation' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='40' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2277503' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='40' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Union Minister of Commerce and Industry Shri Piyush Goyal to Visit United Kingdom from 25–27 June Ahead of India-UK CETA and DCC Implementation&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2277503&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='40' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2277503&title=Union Minister of Commerce and Industry Shri Piyush Goyal to Visit United Kingdom from 25–27 June Ahead of India-UK CETA and DCC Implementation&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='40' /></li></a></ul></div></div>
+                  </div>
+                  <div id="second_t">
+                        <div id="sndr_rm"><div class='sticky-social'><ul class='social'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2277503' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='35' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2277503&text=Union Minister of Commerce and Industry Shri Piyush Goyal to Visit United Kingdom from 25–27 June Ahead of India-UK CETA and DCC Implementation' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='35' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2277503' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='35' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Union Minister of Commerce and Industry Shri Piyush Goyal to Visit United Kingdom from 25–27 June Ahead of India-UK CETA and DCC Implementation&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2277503&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='35' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2277503&title=Union Minister of Commerce and Industry Shri Piyush Goyal to Visit United Kingdom from 25–27 June Ahead of India-UK CETA and DCC Implementation&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='35' /></li></a></ul></div></div>
+                  </div>
+            </div>
+            <input type="hidden" name="ltrTitlee" id="ltrTitlee" value="Union Minister of Commerce and Industry Shri Piyush Goyal to Visit United Kingdom from 25–27 June Ahead of India-UK CETA and DCC Implementation" />
+            <input type="hidden" name="ltrSubtitlee" id="ltrSubtitlee" value="&lt;br/>&lt;br/>Shri Goyal will hold a high-level bilateral meeting with Rt. Hon. Peter Kyle, Secretary of State for Business and Trade, Government of the United Kingdom.&lt;br/>&lt;br/>Shri Piyush Goyal to Address India Global Forum, Lead G2B Engagements During UK Visit&lt;br/>&lt;br/>Shri Piyush Goyal to Lead Asia House Roundtable with Global Investors and Industry Leaders in London" />
+            <input type="hidden" name="ltrDescriptionn" id="ltrDescriptionn" value="&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Union Minister of Commerce and Industry, Government of India, Shri Piyush Goyal, will undertake an official visit to London, United Kingdom, from 25 to 27 June 2026. The visit comes ahead of the entry into force of the landmark India-UK Comprehensive Economic and Trade Agreement (CETA) and the companion Double Contribution Convention (DCC) on 15 July 2026.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>During the visit, Shri Goyal will hold a high-level bilateral meeting with the Rt. Hon. Peter Kyle, Secretary of State for Business and Trade, Government of the United Kingdom. The engagement marks an important step towards the operationalisation of the agreements and the strengthening of the economic partnership between the two countries.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The bilateral discussions will focus on aligning regulatory roadmaps, streamlining cross-border customs coordination and finalising administrative mechanisms to facilitate the smooth implementation of CETA and the DCC. The Ministers will review preparedness for the implementation of CETA&amp;#39;s tariff liberalisation commitments, which will provide enhanced market access opportunities for Indian exports in the United Kingdom. Discussions will also cover the operational roadmap for the Double Contribution Convention, which is expected to establish a streamlined mechanism to address dual social security contribution requirements for eligible temporary workers, thereby supporting greater mobility of professionals and businesses.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The two sides will further discuss the operationalisation of mutual market access commitments across key services sectors and review measures aimed at strengthening bilateral trade and investment ties. The engagement reflects India&amp;#39;s continued efforts under the Viksit Bharat vision to expand global economic opportunities while safeguarding domestic economic interests and promoting a transparent, rules-based framework for bilateral commerce.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>As part of the visit, Shri Goyal will participate in a series of Government-to-Business (G2B) engagements with industry leaders, investors and corporate representatives to further strengthen commercial partnerships between India and the United Kingdom.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The Minister will address the opening plenary session of the India Global Forum (IGF), where he will speak on the theme, &amp;quot;Capital, Innovation and the UK-India Moment.&amp;quot; The session will focus on emerging opportunities for global businesses in the context of the forthcoming implementation of the India-UK CETA.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Shri Goyal will also hold standalone interactions with senior executives of leading global companies, including HSBC (Global Trade Solutions) and Rolls-Royce, to discuss strategic investments, industrial collaboration and the expansion of manufacturing partnerships in India.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The Minister will participate in a business plenary session and interactive luncheon hosted by the UK-India Business Council (UKIBC). The engagement will bring together C-suite executives and representatives from leading multinational companies, including Tata, TCS, HSBC, Prudential, De Beers and Baker McKenzie, to discuss opportunities for trade, investment and business collaboration under the India-UK economic partnership.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>To deepen engagement with institutional investors and global industry leaders, Shri Goyal will lead an exclusive roundtable discussion hosted by Asia House. Senior executives from leading international financial and industrial institutions, including J.P. Morgan, Standard Chartered, Lloyds, Morgan Stanley and Arup, will participate in discussions on India&amp;#39;s industrial competitiveness, investment landscape and integration with global supply chains.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The trade and investment programme will conclude with a dedicated interaction with the visiting Indian industry delegation, alongside engagements with representatives of the British-Indian business community and global education groups such as GEDU.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The visit underscores India&amp;#39;s commitment to engaging with global businesses and investors and is expected to contribute to the shared objective of expanding India-UK economic cooperation and advancing the target of achieving USD 120 billion in bilateral trade by 2030.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:center&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>*** &lt;/span>&lt;/span>&lt;/p>
+
+&lt;p>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>&lt;strong>Abhijith Narayanan / Garima Singh / Ishita Biswas&lt;/strong>&lt;/span>&lt;/span>&lt;/p>
+" />
+            <script type="text/javascript">
+                  var mPlayer = document.getElementById("background_music");
+                  var mPlayAction = document.getElementById("playbutton");
+
+                  var isPlaying = false;
+
+                  function playAudio() {
+                        mPlayer.play();
+                        isPlaying = true;
+                        document.getElementById('stopA').style.display = "block";
+                        document.getElementById('playA').style.display = "none";
+                  }
+
+                  function pauseAudio() {
+                        mPlayer.pause();
+                        isPlaying = false;
+                        document.getElementById('playA').style.display = "block";
+                        document.getElementById('stopA').style.display = "none";
+                  }
+                  //function HandleAudio() {
+                  //    if (isPlaying == true) {
+                  //        //Playing already Pause it
+                  //        pauseAudio();
+                  //    } else {
+                  //        //Play the music
+                  //        playAudio();
+                  //    }
+                  //}
+            </script>
+            <script type="text/javascript">
+                  var synth = window.speechSynthesis;
+
+            
+                  function CleanHtml(html) {
+
+                        html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+
+                        return html;
+                  }
+                  function stripHtml(html) {
+                        let tmp = document.createElement("DIV");
+                        tmp.innerHTML = CleanHtml(html);
+                        return tmp.textContent || tmp.innerText || "";
+                  }
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        //for responsive tables
+                        $("table").each(function () {
+                              if (!$(this).closest(".table-responsive").length) {
+                                    $(this).wrap("<div class='table-responsive'></div>");
+                              }
+                        });
+
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            
+            <style type="text/css">
+                  @media print {
+                        .sticky-social, .sticky-social_mb, .pull-right, #printPDF {
+                              display: none !important;
+                        }
+                  }
+
+                  .f_vl {
+                        padding-right: 30px;
+                        font-size: 17px;
+                        cursor: pointer;
+                  }
+
+                  .log_oo {
+                        // width: 20%;
+                        display: flex;
+                        justify-content: space-between;
+                  }
+
+                        .log_oo img {
+                              width: 150px;
+                              /*width: 100%;
+                    height: auto;*/
+                        }
+
+                  .sticky-social_mb {
+                        position: fixed;
+                        bottom: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                        width: 100%;
+                  }
+
+                  .social_mb {
+                        list-style: none;
+                        display: flex;
+                        width: 100%;
+                        margin-bottom: -8px;
+                  }
+
+                        .social_mb a {
+                              padding: 8px 0px;
+                              font-size: 30px;
+                              transition: all 0.8s ease-in-out;
+                              width: 20% !important;
+                              text-align: center;
+                        }
+            </style>
+            <style type="text/css">
+                  .section1 {
+                        position: relative;
+                        padding: 10px 0px;
+                        width: 100%;
+                  }
+
+
+
+                  .sticky-social {
+                        position: fixed;
+                        top: 20px;
+                        left: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                  }
+
+                  .social {
+                        list-style: none;
+                  }
+
+                        .social a li {
+                              padding: 8px 12px;
+                              font-size: 25px;
+                              transition: all 0.8s ease-in-out;
+                        }
+
+                              .social a li:hover {
+                                    margin-right: -30px;
+                                    box-shadow: 2px 5px 10px grey;
+                              }
+
+                                    .social a li:hover .fa {
+                                          margin-left: 20px;
+                                    }
+
+                  .fb_b {
+                        /* background-color: rgb(59, 89, 152);*/
+                        background-color: rgba(65,103,178,255);
+                  }
+
+                  .twitter_r {
+                        /* background-color: rgb(29, 161, 242);*/
+                        background-color: #000000;
+                  }
+
+                  .whatsapp_r {
+                        /* background-color: rgb(77, 194, 71);*/
+                        background-color: rgba(13,191,67,255);
+                  }
+
+                  .fa-envelope_r {
+                        /* background-color: rgb(219, 68, 55);*/
+                        background-color: #e2123d;
+                  }
+
+                  .fa-linkedin_r {
+                        background-color: rgb(0, 119, 181);
+                  }
+            </style>
+            <style type="text/css">
+                  @media only screen and (max-device-width: 767px) {
+                        p span img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        p img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        h2 {
+                              font-size: 20px !important;
+                              font-weight: 600 !important;
+                        }
+
+                        h3 {
+                              font-size: 18px !important;
+                              font-weight: 600 !important;
+                        }
+                  }
+            </style>
+            <style type="text/css">
+                  /* === Film Roll Badge Styling(IFFI2025 countdown) === */
+                  .film-roll-badge {
+                        position: absolute;
+                        top:82%;
+                        right: 20px;
+                        width: 230px;
+                        height: 70px;
+                        background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 18px, #6e2b8b 18px, #6e2b8b 36px );
+                        border-top: 8px solid #9a2375;
+                        border-bottom: 8px solid #9a2375;
+                        border-radius: 8px;
+                        overflow: hidden;
+                        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+                        animation: moveFilm 8s linear infinite;
+                        z-index: 10;
+                  }
+
+                        /* film sprocket holes */
+                        .film-roll-badge::before,
+                        .film-roll-badge::after {
+                              content: "";
+                              position: absolute;
+                              width: 100%;
+                              height: 10px;
+                              background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 10px, #fff 10px, #fff 20px );
+                              left: 0;
+                              z-index: 2;
+                        }
+
+                        .film-roll-badge::before {
+                              top: -4px;
+                        }
+
+                        .film-roll-badge::after {
+                              bottom: -4px;
+                        }
+
+                  .film-roll-inner {
+                        position: relative;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        animation: flicker 2s infinite ease-in-out;
+                  }
+
+                  .countdown-text {
+                        font-size: 1.3rem;
+                        font-weight: 700;
+                        color: #fff;
+                        text-shadow: 0 0 6px rgba(255, 255, 255, 0.4), 0 0 10px #000;
+                        white-space: nowrap;
+                  }
+
+                  /* === Animations === */
+                  @keyframes moveFilm {
+                        0% {
+                              background-position: 0 0;
+                        }
+
+                        100% {
+                              background-position: 120px 0;
+                        }
+                  }
+
+                  @keyframes flicker {
+                        0%, 100% {
+                              opacity: 1;
+                        }
+
+                        50% {
+                              opacity: 0.9;
+                        }
+
+                        25% {
+                              opacity: 0.95;
+                        }
+
+                        75% {
+                              opacity: 0.85;
+                        }
+                  }
+
+                  /* === Responsive Adjustments === */
+                  @media (max-width: 1500px) {
+                        .film-roll-badge {
+                              top: 68%;
+                              right: 18px;
+                              /* width: 220px; */
+                              height: 65px;
+                              font-size: 0.85rem;
+                        }
+
+                        .press-section {
+                              margin-top: 35px;
+                        }
+                  }
+
+                  @media (max-width: 992px) {
+                        .film-roll-badge {
+                              top: 52%;
+                              right: 10px;
+                               width: 200px; 
+                              height: 60px;
+                        }
+                  }
+
+                  @media (max-width: 768px) {
+                        .film-roll-badge {
+                              top: 56%;
+                              right: 10px;
+                               width: 124px; 
+                              height: 55px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.9rem;
+                        }
+                  }
+
+                  @media (max-width: 576px) {
+                        .film-roll-badge {
+                              top: 59%;
+                              right: 5px;
+                              /* width: 160px; */
+                              height: 50px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.85rem;
+                        }
+                  }
+            </style>
+          <script type="text/javascript">
+                const festivalStart = new Date("2025-11-20T00:00:00").getTime();
+                const festivalEnd = new Date("2025-11-28T23:59:59").getTime();
+
+                const countdownElement = document.getElementById("countdown");
+
+                const interval = setInterval(() => {
+                      const now = new Date().getTime();
+
+                      // BEFORE FESTIVAL — show days + hours left
+                      if (now < festivalStart) {
+                            const diff = festivalStart - now;
+                            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                            const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+                            countdownElement.innerHTML = `
+              ${days} Day${days !== 1 ? 's' : ''} 
+              ${hours} Hour${hours !== 1 ? 's' : ''} to go
+          `;
+
+                      }
+
+                      // DURING FESTIVAL — show 56th IFFI - Day X
+                      else if (now >= festivalStart && now <= festivalEnd) {
+                            const dayNumber = Math.floor((now - festivalStart) / (1000 * 60 * 60 * 24)) + 1;
+                            countdownElement.innerHTML = `56th IFFI - Day ${dayNumber}`;
+                      }
+
+                      // AFTER FESTIVAL — new message
+                      else {
+                            countdownElement.innerHTML = `✨ IFFI closes but never ends…`;
+
+                            // Width change logic
+                            const elements = document.querySelectorAll('.film-roll-badge');
+                            elements.forEach(el => el.style.width = "350px");
+
+                            clearInterval(interval);
+                      }
+
+                }, 1000);
+          </script>
+ <script type="text/javascript">
+
+               const miffStart = new Date("2026-06-15T00:00:00").getTime();
+               const miffEnd = new Date("2026-06-15T23:59:59").getTime();
+
+               const miffElement = document.getElementById("miff");
+
+               if (miffElement) {
+
+                   const miffInterval = setInterval(() => {
+
+                       const now = new Date().getTime();
+
+                       // Before MIFF
+                       if (now < miffStart) {
+
+                           const diff = miffStart - now;
+                           const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                           const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+        
+
+                   /*  miffElement.innerHTML = `${days} Day${days !== 1 ? 's' : ''} ${hours} Hour${hours !== 1 ? 's' : ''} to MIFF`;*/
+                           miffElement.innerHTML = `${days} Day${days === 1 ? '' : 's'} to MIFF ...`;
+
+
+                     }
+
+                       // During MIFF
+                       else if (now >= miffStart && now <= miffEnd) {
+
+                           const dayNumber =
+                               Math.floor((now - miffStart) / (1000 * 60 * 60 * 24)) + 1;
+
+                           miffElement.innerHTML = `19th MIFF - Day ${dayNumber}`;
+                       }
+
+                       // After MIFF
+                       else {
+
+                           miffElement.innerHTML = `✨ MIFF concludes, cinema lives on...`;
+
+                           document.querySelectorAll('.film-roll-badge')
+                               .forEach(el => el.style.width = "350px");
+
+                           clearInterval(miffInterval);
+                       }
+
+                   }, 1000);
+               }
+
+</script>
+
+      
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("sc_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"P_CategoryManagement","dynamicServicePath":"/PressReleasePage.aspx","id":"mpe"}, null, null, $get("Hidden"));
+});
+//]]>
+</script>
+<input type="hidden" name="__ncforminfo" value="EhfNa6U_zNQ9jlp5a0XjQppolna8I2Oa1UHtCFD0zgYVHlt8C9msNBDgK1yqmyF9_-KAg77QXGtDD2-9QxdI9gARsgJCECra01EKZetiwIi98qovK05lFA=="/></form>
+</body>
+</html>
+

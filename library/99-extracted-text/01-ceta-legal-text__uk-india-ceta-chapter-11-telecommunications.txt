@@ -1,0 +1,496 @@
+# SOURCE: library/01-ceta-legal-text/uk-india-ceta-chapter-11-telecommunications.pdf
+# pages: 13
+
+  
+11 - 1 
+CHAPTER 11 
+ TELECOMMUNICATIONS 
+ 
+Article 11.1 
+Definitions 
+For the purposes of this Chapter:  
+“cost-oriented” means based on cost, and may include a reasonable profit, and may 
+involve different cost methodologies for different facilities or services; 
+“end-user” means a final consumer of  or subscriber to a public telecommunications 
+service, including a supplier other than a supplier of public telecommunications 
+services; 
+“essential facilities ” means facilities of a public telecommunications network or 
+service that: 
+(a) are exclusively or predominantly provided by a single or limited number 
+of suppliers; and 
+(b) cannot feasibly be economically or technically substituted in order to 
+provide a service; 
+“interconnection” means linking with suppliers providing public telecommunications 
+networks or  services in order to allow the users of one supplier of a public 
+telecommunications network or service to communicate with users of another supplier 
+of a public telecommunications network or service, and to access services provided by 
+another supplier of public telecommunications networks or services; 
+“international mobile roaming service” means a commercial mobile service provided 
+pursuant to a commercial agreement between suppliers of public  telecommunications 
+services that  enables an end -user whose mobile  handset or other device normally 
+accesses public telecommunication  services in the territory of  one Party to use their 
+mobile handset or other device for voice, data or messaging services in the territory of 
+the other Party;  
+“intra-corporate communications ” means telecommunications through which a 
+company communicates within the company or with or among its subsidiaries, branches 
+and, subject to the laws and regulations of a Party, affiliates. For these purposes, the 
+terms “subsidiaries”, “branches” and, where applicable, “affiliates” shall be as defined 
+by each Party. In this Chapter, “intra-corporate communications” excludes commercial 
+or non -commercial services that are supplied to companies that are not related 
+subsidiaries, branches or affiliates, or that are offered to customers or potential 
+customers; 
+“leased circuits” means telecommunications facilities between two or more designated 
+points that are set aside for the dedicated use of, or availability to, a user;  
+  
+11 - 2 
+“licence” means any formal authorisation that a Party may require of a person, in 
+accordance with its laws and regulations, in order for that person to offer a public 
+telecommunications network or service, including licences, concessions, permits, or 
+registrations; 
+“major supplier” means a supplier of public telecommunications networks or public 
+telecommunications services which has the ability to materially affect the terms of 
+participation, having regard to price and supply, in a relevant market for public 
+telecommunications networks or services as a result of control over essential facilities 
+or the use of its position in that market; 
+“Mobile number portability ” means the ability of end -users of public  
+telecommunications services  who so request to  retain the same telephone numbers  
+when switching between the same category of suppliers of public telecommunications 
+services; 
+“non-discriminatory” means treatment no less favourable than that accorded to any 
+other user of like public telecommunications  networks or  services under like 
+circumstances; 
+“public telecommunications network” means any telecommunications infrastructure 
+used for the provision of public telecommunications services between and among 
+defined network termination points, as provided for in the laws and regulations of each 
+Party; 
+“public telecommunications service”1 means any telecommunications service that is 
+offered to the public generally; 
+“reference interconnection offer ” means interconnection offer by a major supplier 
+that is made publicly available, so that any supplier of public telecommunications 
+services that is willing to accept it may obtain interconnection with the major supplier 
+on that basis; 
+“telecommunications” means the transmission and reception of signals by any 
+electromagnetic means; 
+“telecommunications dispute resolution authority” means any authority, including, 
+where applicable, the telecommunications regulatory authority pursuant to the Party’s 
+laws and regulations, responsible for the resolution of disputes concerning 
+telecommunications; 
+“telecommunications network ” means transmission systems and, if applicable, 
+switching or routing equipment and other resources, including network elements which 
+are not active, which permit the transmission and reception of signals by wire, radio, 
+optical, or other electromagnetic means; 
+“telecommunications regulatory authority” means the body or bodies responsible for 
+the regulation of telecommunications networks and services covered by this Chapter; 
+ 
+1 For greater certainty, in India those services shall be provided by a public telecommunications service 
+supplier licensed in India. 
+  
+11 - 3 
+“telecommunications service” means a service which consists wholly or mainly in the 
+transmission and reception of signals over telecommunications networks, and 
+“user” means a service consumer or a service supplier using a public 
+telecommunications network or service. 
+ 
+Article 11.2 
+Scope 
+1. This Chapter  shall apply to measures by a Party affecting trade in  
+telecommunications services. 
+2. For greater certainty,  those measures by a Party affecting trade in 
+telecommunications services are subject to the rights and obligations contained 
+in Chapter 8 (Trade in Services), including the Party’s schedules of specific 
+commitments. 
+3. This Chapter shall apply subject to rules, regulations and licence conditions, as 
+applicable within the territory of each Party , provided that they are not 
+inconsistent with this Agreement. 
+4. This Chapter shall not apply to:  
+(a) a measure affecting services providing, or exercising editorial control 
+over, content transmitted using telecommunications networks or  
+services;  
+(b) a measure relating to broadcast or cable distribution of radio or 
+television programming, except a measure to ensure that a cable or 
+broadcast service  supplier has continued access to and use of public 
+telecommunications networks and services; or 
+(c) a measure relating to the supply of new services.2 
+5. In the event of any inconsistency between this Chapter and another Chapter of 
+this Agreement, this Chapter shall prevail to the extent of the inconsistency. 
+ 
+2 For the purposes of this Chapter, “new services” for a Party shall not include a telecommunications 
+service that meets any of the following conditions: 
+(a) is covered under the Provisional Central Product Classification , published by the 
+United Nations in 1991; 
+(b) is specified under that Party’s Schedule in Annex 8B (Schedules of Specific 
+Commitments); 
+(c) is a service which: 
+(i) for the United Kingdom, already exists at the date of entry into force of this 
+Agreement, including if the character of that existing service is subsequently 
+changed; 
+(ii) for India, is authorised by it at the date of entry into force of this Agreement. 
+  
+11 - 4 
+Article 11.3 
+Access and Use 
+1. Each Party shall ensure that  a service supplier of the other Party  is accorded 
+access to and use of  any public telecommunications network or service, 
+including leased circuits, offered in its territory or across its borders on a timely 
+basis and  on reasonable, transparent and non -discriminatory terms and 
+conditions. This obligation shall be applied, among other things,  through 
+paragraphs 2 through 6. 
+2. Each Party shall ensure that a service supplier of the other Party is permitted to:  
+(a) purchase or lease and attach terminal or other equipment that interfaces 
+with a public telecommunications network and which is necessary to 
+supply a supplier’s services; 
+(b) provide services to individual or multiple end-users over circuits leased 
+or owned by another service supplier  to the extent that the scope and 
+type of those services are consistent with the laws and regulations of the 
+Party; 
+(c) interconnect leased or owned circuits with public  telecommunications 
+networks or services or with circuits leased or owned by another service 
+supplier; and 
+(d) use operating protocols of their choice in the supply of any service, other 
+than as necessary to ensure the availability of telecommunications  
+networks and services to the public generally. 
+3. Each Party shall ensure that a service supplier of the other Party may use public 
+telecommunications networks or services for the movement of information in 
+its territory or across its borders, including for intra-corporate communications 
+of that service supplier, and for access to information contained in databases or 
+otherwise stored in machine-readable form in the territory of a Party.  
+4. Notwithstanding paragraph 3, a Party may take such measures as are necessary 
+to ensure the security and confidentiality of  communications and protect the 
+privacy of personal data of users, subject to the requirement that such measures 
+are not applied in a manner that would constitute a means of arbitrary or 
+unjustifiable discrimination or a disguised restriction on trade in services. 
+5. Each Party shall ensure that no condition is imposed on access to and use of 
+public telecommunications networks or services other than as necessary to: 
+(a) safeguard the public service responsibilities of suppliers  of public  
+telecommunications networks or services, in particular their ability to 
+make their networks or services available to the public generally;  
+(b) protect the technical integrity of public telecommunications networks or 
+services; or 
+(c) ensure that such access to and use of public telecommunications  
+networks and services shall not constitute a security and safety hazard 
+  
+11 - 5 
+and is not in contravention of any statute, rule or regulation (including 
+those related to public policy of the Party) which are publicly available 
+and applied without discrimination on the suppliers and users of services 
+of similar categories. 
+6. Provided that they satisfy the criteria set out in paragraph 5, conditions for 
+access to and use of public  telecommunications networks or services may 
+include:  
+(a) a requirement to use specified technical interfaces, including interface 
+protocols, for interconnection with those networks and services; 
+(b) restrictions on shared use of those networks and services; 
+(c) a requirement, if n ecessary, for the interoperability  of those networks 
+and services; 
+(d) type approval of terminal or other equipment that  interfaces with the 
+network and technical requirements relating to the attachment of that 
+equipment to those networks; and 
+(e) notification, registration, and licensing. 
+ 
+Article 11.4 
+Access to Essential Facilities 
+1. Subject to paragraph 2, eac h Party shall ensure that a major supplier in its 
+territory provides to suppliers of public telecommunications networks or  
+services of the other Party  access to essential facilities for the purpose of 
+providing public telecommunications networks or  services, on a timely basis, 
+on terms and conditions, and at rates, which are reasonable, non-discriminatory 
+and transparent. 
+2. Each Party shall provide its telecommunications regulatory authority with the 
+power to determine  the essential facilities to which a major supplier must 
+provide access.  
+3. Each Party shall endeavour to ensure that its telecommunications regulatory 
+authority bases any determination under paragraph 2 on matters including 
+achieving effective competition and the long-term interests of end-users. 
+ 
+Article 11.5 
+Submarine Cable Systems 
+Each Party may provide reasonable and non -discriminatory treatment for access to 
+submarine cable systems (including landing facilities) in its territory, where a supplier 
+is authorised to operate a submarine cable facility as a public telecommunications 
+service. 
+  
+11 - 6 
+ 
+Article 11.6 
+Co-location 
+Each Party shall endeavour to ensure that a major supplier which has control over 
+essential facilities in its territory allows suppliers of public telecommunications 
+networks or services of another Party to locate their equipment at the major supplier’s 
+premises on a timely basis and on terms and conditions, including technical feasibility 
+and space availability where applicable, and at rates, that are reasonable, non -
+discriminatory and transparent. 
+ 
+Article 11.7 
+Resale 
+1. Each Party may determine, in accordance with its laws and regulations, which 
+public telecommunications services must be offered for resale by major 
+suppliers, taking into account the need to promote competition or benefits to the 
+long-term interests of end-users. 
+2. Where a Party has determined that a public telecommunications service must be 
+offered for resale by a major supplier, that Party shall ensure that any major  
+supplier of public telecommunications networks or services in its territory does 
+not impose unreasonable  or discriminatory conditions or limitations on the 
+resale of that public telecommunications service. 
+ 
+Article 11.8 
+Interconnection 
+1.  Each Party shall ensure that a supplier of public telecommunications networks 
+or services in its territory: 
+(a) enters into negotiations for interconnection with a supplier of public 
+telecommunications networks or  services of the other Party who is 
+within the same territory, if requested to do so by that supplier; or 
+(b) provides interconnection with a supplier of public telecommunications 
+networks or services of the other Party, to the extent provided for in its 
+laws and regulations. 
+ 
+Article 11.9 
+Interconnection with Major Suppliers 
+1. Each Party shall ensure that a major supplier in its territory provides 
+interconnection for the facilities of suppliers of public telecommunications 
+networks or services of the other Party:  
+  
+11 - 7 
+(a) at any technically  and commercially feasible point in the major 
+supplier’s network;  
+(b) under non -discriminatory terms and conditions (including as regards 
+rates, technical standards, specifications,), and of a quality no less 
+favourable than that provided by the major supplier for its own like 
+services, for like services of non -affiliated su ppliers, or for its 
+subsidiaries or other affiliates;  
+(c) on a timely basis and on terms, conditions (including technical standards 
+and specifications), and cost -oriented rates that are transparent  and 
+reasonable (having regard to economic feasibility); and  
+(d) upon request, at points in addition to the network termination points 
+offered to the majority of users, subject to charges that reflect the cost 
+of construction of necessary additional facilities and mutually agreed 
+terms and conditions.  
+2. Each Party shall ensure that a major supplier in its territory offers access to 
+network elements on an unbundled basis on terms and conditions that are 
+reasonable, non -discriminatory and transparent for the supply of public 
+telecommunications services.  A Party may determine the network elements 
+required to be made available in its territory, and the suppliers that may obtain 
+those elements, in accordance with its laws and regulations. 
+3. Each Party shall ensure that a major supplier in its territory provides suppliers 
+of public telecommunications networks or services of the other Party with the 
+opportunity to interconnect their facilities and equipment with those of the 
+major supplier through at least one of the following options:  
+(a) a reference interconnection offer; 
+(b) another standard interconnection offer containing the rates, terms and 
+conditions that the major supplier offers generally to suppliers of public 
+telecommunications networks or services; or 
+(c) the terms and conditions of an interconnection agreement in effect. 
+4. In addition to the options provided in paragraph 3, each Party shall ensure that 
+suppliers of public telecommunications networks or services of the other Party 
+have the opportunity to interconnect their facilities and equipment with those of 
+the major supplier through the negotiation of a new interconnection agreement. 
+5. Each Party shall ensure that the applicable procedures for interconnection with 
+a major supplier in its territory are made publicly available.  
+6. Each Party shall ensure that major suppliers in its territory make publicly 
+available either their interconnection agreements or a reference interconnection 
+offer.  
+ 
+  
+11 - 8 
+Article 11.10 
+Competitive Safeguards on Major Suppliers 
+1. Each Party shall adopt or maintain  appropriate measures for the purpose of 
+preventing suppliers of public telecommunications networks or  services that, 
+alone or together, are a major supplier from engaging in or continuing anti -
+competitive practices.  
+2. For the purposes of paragraph 1, anti-competitive practices shall include: 
+(a) engaging in anti-competitive cross-subsidisation; 
+(b) using information obtained from competitors with anti -competitive 
+results; and 
+(c) not making available to other suppliers of public telecommunications 
+networks or services, on a timely basis , technical information about 
+essential facilities and commercially relevant information  that is  
+necessary for them to provide services. 
+ 
+Article 11.11 
+Treatment by Major Suppliers 
+1. Each Party shall ensure that a major supplier in its territory accords suppliers of 
+public telecommunications networks or services of the other Party treatment no 
+less favourable than that major supplier accords in like circumstances to itself, 
+its subsidiaries, its affiliates, or  any non-affiliated supplier of public 
+telecommunications networks or services regarding the: 
+(a) availability, provisioning, rates, or quality of like public 
+telecommunications networks or services; and 
+(b) availability of technical interfaces necessary for interconnection. 
+ 
+Article 11.12 
+Mobile Number Portability 
+Each Party shall ensure that suppliers of public telecommunications services in its 
+territory provide mobile number portability on a timely basis and on reasonable and 
+non-discriminatory terms and conditions. 
+ 
+Article 11.13 
+International Mobile Roaming 
+1. The Parties shall endeavour to cooperate on promoting transparent  and 
+reasonable rates for international mobile roaming services that can help promote 
+the growth of trade between the Parties and enhance consumer welfare. 
+  
+11 - 9 
+2. Each Party shall adopt or maintain measures to enhance transparency and 
+competition with respect to international mobile roaming rates which may 
+include ensuring that information regarding retail rates is easily accessible to 
+consumers.  
+3. Nothing in this Article shall require a Party to regulate rates or conditions for 
+international mobile roaming services. 
+ 
+Article 11.14 
+Universal Service 
+1. Each Party has the right to define the kind of universal service obligation it 
+wishes to maintain. 
+2. Each Party shall administer any universal service obligation that it defines and 
+maintains in a transparent, non -discriminatory and competitively neutral 
+manner, and shall endeavour to ensure that its universal service obligation is not 
+more burdensome than necessary  for the kind of universal service that it has 
+defined. Universal service obligations defined according to those principles 
+shall not be regarded, in themselves, as anti-competitive.  
+ 
+Article 11.15 
+Allocation and Use of Scarce Resources 
+1. Each Party shall administer its procedures for the allocation and use of scarce 
+telecommunications resources, including radio frequencies, numbers and rights 
+of way in an open, objective, timely, transparent and non -discriminatory 
+manner. 
+2. When allocating radio spectrum for public telecommunications services, each 
+Party shall endeavour to rely on an open and transparent process that considers 
+the public interest, including the promotion of competition. 
+3. Each Party shall make publicly available the current state of allocated frequency 
+bands but shall not be required to provide detailed identification of radio 
+frequencies allocated or assigned for specific government uses. 
+4. Each Party retains the right to establish and apply spectrum and frequency 
+management policies which  may affect the number of suppliers of public 
+telecommunications networks or services, provided that it does so in a manner 
+that is consistent with this Agreement.  Each Party also retains the right to 
+allocate frequency bands taking into account current and future needs and 
+spectrum availability. 
+ 
+  
+11 - 10 
+Article 11.16 
+Flexibility in the Choice of Technology 
+1.  Neither Party shall prevent a supplier of public telecommunications  networks 
+or services from choosing the technologies it wishes to use to supply its services. 
+2. Notwithstanding paragraph 1, a Party may take measures to protect a legitimate 
+public policy interest, provided that any measure is not applied in a manner that 
+creates unnecessary obstacles to trade. 
+ 
+Article 11.17 
+Licensing Process 
+1. Where a licence is required for the supply of a public telecommunications 
+network or service, a Party shall make publicly available: 
+(a) all the licensing criteria and procedures that it applies; 
+(b) the terms and conditions of individual licences and the period of time  
+normally required to obtain  a decision concerning an application for a 
+licence. Each Party shall endeavour to ensure that the decision is taken 
+within the stated period of time.  
+2. Each Party shall ensure that any licensing criteria or applicable procedure, as 
+well as any obligation or condition imposed on or associated with a licen ce, is 
+objective, transparent, non -discriminatory, and related to and not more 
+burdensome than necessary for the kind of network or service provided.  
+3. Each Party shall ensure that, upon request, an applicant receives the reasons for 
+the denial of a licence in writing, which may include in electronic form.  
+ 
+Article 11.18 
+Independent Regulatory and Dispute Resolution Authority 
+1. Each Party shall ensure that its telecommunications regulatory  authority and 
+telecommunications dispute resolution authority are separate  from, and not 
+accountable to, any supplier of public telecommunications networks  and 
+services.  
+2. Each Party shall ensure that its telecommunications regulatory authority does 
+not hold a financial interest or maintain an operating or management role in any 
+supplier of public telecommunications networks or services. 
+3. Each Party shall ensure that regulatory decisions of, and the procedures used 
+by, its telecommunications regulatory authority and telecommunications 
+dispute resolution authority related to provisions contained in this Chapter are 
+impartial with respect to all market participants.  
+ 
+  
+11 - 11 
+Article 11.19 
+Enforcement 
+Each Party shall provide its telecommunications regulatory authority with the power to 
+ensure that suppliers of public telecommunications networks or services provide it, 
+promptly on request, with all the information, including financial information, which is 
+necessary to enable the t elecommunications regulatory authority to carry out its tasks 
+in accordance with this Chapter. Information requested shall be treated in accordance 
+with the Party’s law relating to confidentiality. 
+ 
+Article 11.20 
+Transparency 
+1. Each Party shall make publicly available online the functions of its 
+telecommunications regulatory authority. 
+2. Each Party shall endeavour to ensure that suppliers of public 
+telecommunications networks or services are provided with adequate advance 
+notice of, and opportunity to comment on, a regulatory decision of general 
+application that its telecommunications regulatory authority proposes. 
+3. Each Party shall make publicly available , including  online, its measures or 
+information relating to public telecommunications networks or services: 
+(a) tariffs and other terms and conditions of service; 
+(b) specifications of technical interfaces with those networks and services; 
+(c) bodies responsible for the preparation and adoption of relevant 
+standards; 
+(d) conditions applying to the attachment of terminal or other equipment to 
+the public telecommunications networks; and 
+(e) notification, registration or licensing requirements, if any. 
+ 
+Article 11.21 
+Confidentiality 
+Each Party shall ensure, in accordance with its laws and regulations, the confidentiality 
+of telecommunications and related traffic data transmitted in the use of public 
+telecommunications networks or public telecommunications services, subject to the 
+requirement that measures are not applied in a manner which constitutes a means of 
+arbitrary or unjustifiable discrimination, or a disguised restriction on trade in services. 
+ 
+  
+11 - 12 
+Article 11.22 
+Dispute Settlement and Appeal 
+1. Each Party shall ensure that any supplier of public telecommunications 
+networks or  services affected by a decision of the  telecommunications 
+regulatory authority or telecommunications dispute resolution authority has the 
+right to appeal against that decision to an independent judicial or administrative 
+authority. Pending the outcome of the appeal, the decision of the 
+telecommunications regulatory authority or telecommunications  dispute 
+resolution authority shall stand, unless interim measures are granted  in 
+accordance with the Party’s law. 
+2. Each Party shall ensure that a supplier  of public telecommunications networks 
+or services that is supplying those networks or services in the territory of a Party 
+has timely recourse to its telecommunications dispute resolution authority to 
+resolve disputes in accordance with the law of that Party. 
+3. Each Party shall ensure that a decision issued by its telecommunications dispute 
+resolution authority is made publicly available, having regard to the Party’s law 
+relating to confidentiality. 
+4. Each Party shall ensure that the suppliers of public telecommunications 
+networks or services involved in the dispute: 
+(a) are given a full statement of the reasons on which the decision is based; 
+and  
+(b) may appeal the decision to a body that is independent of the 
+telecommunications dispute resolution  authority, in accordance with 
+paragraph 1. 
+ 
+Article 11.23 
+Cooperation 
+1. The Parties recognise the transformational impact of telecommunications 
+networks, infrastructure and technologies (including those that are new and 
+emerging), and the importance of those technologies to the Parties’ respective 
+economies and societies. Accordingly, the Parties shall endeavour to: 
+(a) exchange information on the opportunities and challenges associated 
+with telecommunications networks, infrastructure and technologies; 
+(b) work together in international fora to promote a shared approach to these 
+opportunities and challenges; and 
+(c) exchange information and experience in spectrum management. 
+2. The Parties further recognise the importance of promoting diversified and 
+secure telecommunications markets. To this end, each Party shall: 
+  
+11 - 13 
+(a) encourage a diverse and competitive market for public 
+telecommunications networks and services in its territory; and 
+(b) protect the security and integrity of  its telecommunications 
+infrastructure. 
+3. The Parties recognise the importance of international standards for global 
+compatibility and interoperability of public telecommunications networks and  
+services, and endeavour to promote those standards bilaterally and through the 
+work of relevant international organisations. 

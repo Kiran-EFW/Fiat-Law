@@ -1,0 +1,2053 @@
+# SOURCE: library/01-ceta-legal-text/uk-india-ceta-chapter-13-intellectual-property-rights.pdf
+# pages: 50
+
+ 
+13 - 1 
+CHAPTER 13 
+INTELLECTUAL PROPERTY RIGHTS 
+ 
+Section A 
+General Provisions 
+Article 13.1 
+Definitions 
+For the purposes of this Chapter: 
+“Beijing Treaty” means the Beijing Treaty on Audiovisual Performances  done at 
+Beijing on 24 June 2012; 
+“Berne Convention” means the Berne Convention for the Protection of Literary and 
+Artistic Works done at Berne on 9 September 1886, as revised at Paris on 24 July 1971 
+and amended on 28 September 1979; 
+“broadcasting” means the transmission by wire or wireless means, including by cable 
+or satellite, for public reception of images, sounds  or of images and sounds  or of the 
+representations thereof, and including transmission of encrypted signals if the means 
+for decrypting are provided to the public by the transmitting broadcasting organisation 
+or with its consent, and “broadcast” shall be construed accordingly; 
+“Budapest Treaty” means the Budapest Treaty on the International Recognition of the 
+Deposit of Microorganisms for the Purposes of Patent Procedure done at Budapest on 
+28 April 1977, as amended on 26 September 1980; 
+“ccTLDs” means country-code top level domains; 
+“competent authority ” includes the appropriate judicial, administrative  or law 
+enforcement authorities under a Party’s law; 
+“covered subject matter” means each and all of the subject matter categories covered 
+in Section G (Copyright and Related Rights), being works, performances, phonograms 
+and broadcasts; 
+“Declaration on TRIPS and Public Health ” means the Declaration on the TRIPS 
+Agreement and Public Health (WT/MIN(01)/DEC/2) adopted at Doha on 14 November 
+2001; 
+“fixation” means the embodiment of sounds, moving images or representations thereof, 
+in each case, from which they can be perceived, reproduced or communicated through 
+a device; 
+“geographical indication” means an indication that identifies a good as originating1 in 
+the territory of a Party, or a  region or locality in that territory, where a given quality, 
+ 
+1The definition of “originating” in Article 1.4 ( General Definitions - Initial Provisions and General 
+Definitions) shall not apply to this Chapter. 
+ 
+13 - 2 
+reputation or other characteristic of the good is essentially attributable to its 
+geographical origin;  
+“intellectual property ” refers to all categories of intellectual property that are the 
+subject of Sections 1 through 7 of Part II of the TRIPS Agreement; 
+“Joint Recommendation Concerning Provisions on the Protection of Well-Known 
+Marks” means the Joint Recommendation Concerning Provisions on the Protection of 
+Well-Known Marks adopted by the Assembly of the Paris Union for the Protection of 
+Industrial Property and the General Assembly of WIPO at the Thirty -Fourth Series of 
+Meetings of the Assemblies of the Member States of WIPO in 1999;  
+“Locarno Agreement” means the Locarno Agreement Establishing an International 
+Classification for Industrial Designs done at Locarno on 8 October 1968, as amended 
+on 28 September 1979; 
+“Madrid Protocol” means the Protocol Relating to the Madrid Agreement Concerning 
+the International Registration of Marks  done at Madrid on 27 June 1989, as amended 
+on 3 October 2006 and on 12 November 2007; 
+“Marrakesh Treaty” means the Marrakesh Treaty to Facilitate Access to Published 
+Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled done 
+at Marrakesh on 27 June 2013; 
+“Nice Agreement ” means the Nice Agreement Concerning the International 
+Classification of Goods and Services for the Purposes of the Registration of Marks done 
+at Nice on 15 June 1957, as revised at Geneva on 13 May 1977 and amended on 28 
+September 1979; 
+“Nice Classification” means the international system for the classification of goods 
+and services for the purpose of the registration of marks established under the Nice 
+Agreement; 
+“Paris Convention ” means the Paris Convention for the Protection of Industrial 
+Property done at Paris on 20 March 1883, as revised at Stockholm on 14 July 1967 and 
+as amended on 28 September 1979; 
+“PCT” means the Patent Cooperation Treaty done at Washington on 19 June 1970, as 
+amended on 28 September 1979, and modified on 3 February 1984 and on 3 October 
+2001; 
+“performers” means actors, singers, musicians, dancers, and other persons who act, 
+sing, deliver, declaim, play in, interpret, or otherwise perform literary or artistic works 
+or expressions of folklore, and “performances” shall be construed accordingly; 
+“phonogram” means the fixation of the sounds of a performance or of other sounds  
+other than in the form of a  fixation incorporated in a cinematographic or other audio -
+visual work; 
+“producer of a phonogram ” means a person that takes the initiative and has the 
+responsibility for the first fixation of the sounds of a performance or other sounds; 
+ 
+13 - 3 
+“Rome Convention” means the Rome Convention for the Protection of Performers, 
+Producers of Phonograms and Broadcasting Organisations  done at Rome on 26 
+October 1961; 
+“trade secret” means information that: 
+(a) is secret in the sense that it is not, as a body or in the precise 
+configuration and assembly of its components, generally known among 
+or readily accessible to persons within the circles that normally deal with 
+the kind of information in question; 
+(b) has commercial value because it is secret; and 
+(c) has been subject to reasonable steps under the circumstances, by the 
+person lawfully in control of the information, to keep it secret; 
+“trade secret holder” means any person lawfully in control of a trade secret; 
+“Vienna Agreement” means the Vienna Agreement Establishing an International 
+Classification of the Figurative Elements of Marks done at Vienna on 12 June 1973, as 
+amended on 1 October 1985; 
+“Washington Treaty ” means the Treaty on Intellectual Property in Respect of 
+Integrated Circuits done at Washington on 26 May 1989; 
+“WCT” means the WIPO Copyright Treaty, done at Geneva on 20 December 1996; 
+“WIPO” means the World Intellectual Property Organization; 
+for greater certainty, “work” includes a cinematographic work, photographic work, and 
+computer program; and 
+“WPPT” means the WIPO Performances and Phonograms Treaty, done at Geneva on 
+20 December 1996. 
+ 
+Article 13.2 
+Objectives 
+1. The objectives of this Chapter are: 
+(a) that the protection and enforcement of intellectual property rights should 
+contribute to the promotion of technological innovation and to the 
+transfer and dissemination of technology, to the mutual advantage of 
+producers and users of technological knowled ge and in a manner 
+conducive to social and economic welfare, and to a balance of rights and 
+obligations; and 
+(b) to reduce distortion and impediments to trade and investment by 
+promoting deeper economic integration and cooperation through 
+effective and adequate creation, utilisation, protection and enforcement 
+of intellectual property rights. 
+ 
+13 - 4 
+ 
+Article 13.3 
+Principles 
+1. A Party may, in formulating or amending its law, adopt measures necessary to 
+protect public health and nutrition, and to promote the public interest in sectors 
+of vital importance to its socio -economic and technological development, 
+provided that those measures are consistent with the provisions of this Chapter. 
+2. Appropriate measures, provided that they are consistent with the provisions of 
+this Chapter, may be needed to prevent the abuse of intellectual property rights 
+by right holders or the resort to practices which unreasonably restrain trade or 
+adversely affect the international transfer of technology. 
+ 
+Article 13.4 
+Understandings in Respect of this Chapter 
+1. Having regard to the underlying public policy objectives of their national 
+systems, while recognising the different levels of economic development and 
+capacity and differences in national legal systems, which are reflected in this 
+Chapter, the Parties recognise the need to: 
+(a) promote innovation and creativity; 
+(b) facilitate the diffusion of information, knowledge, technology, content, 
+culture and the arts; 
+(c) foster competition and open and efficient markets; 
+(d) maintain an appropriate balance between the rights of intellectual 
+property right holders and the legitimate interests of users and the public 
+interest; 
+(e) establish and maintain transparent intellectual property systems; and 
+(f) promote and maintain  adequate and effective protection and 
+enforcement of intellectual property rights to provide confidence to right 
+holders and users, 
+through their respective intellectual property systems, while respecting the 
+principles of transparency and due process, and taking into account the interests 
+of relevant stakeholders, including right holders, service providers, users, and 
+the general public. 
+ 
+ 
+13 - 5 
+Article 13.5 
+Nature and Scope of Obligations 
+1. Each Party affirms its rights and obligations under the TRIPS Agreement, 
+including their commitment to the Declaration on TRIPS and Public Health. 
+This Chapter complements and further specifies the rights and obligations 
+between the Parties under the TRIPS Agreement and other international treaties 
+in the field of intellectual property to which both Parties are a party. 
+2. Each Party shall give effect to the provisions of this Chapter and provide in its 
+territory to the nationals of the other Party adequate and effective protection and 
+enforcement of intellectual property rights. A Party may, but shall not be obliged 
+to, provide more extensive protection for, or enforcement of, intellectual 
+property rights under its law than is required by this Chapter, provided that such 
+protection or enforcement does not contravene this Chapter. Each Party shall be 
+free to determine the appropriate method of implementing the provisions of this 
+Chapter within its own legal system and practice. 
+ 
+Article 13.6 
+Understandings Regarding TRIPS and Public Health Measures 
+1. The Parties recognise the preferable and optimal route to promote and ensure 
+access to medicines is through voluntary mechanisms, such as voluntary 
+licensing which may include technology transfer on mutually agreed terms. 
+2. The Parties reaffirm the Declaration on TRIPS and Public Health. In particular, 
+the Parties have reached the following understandings regarding this Chapter: 
+(a) the Parties affirm the right to fully use the flexibilities as duly recognised 
+in the Declaration on TRIPS and Public Health; 
+(b) the Parties agree that this Chapter does not and should not prevent a 
+Party from taking measures to protect public health; and 
+(c) the Parties affirm that this Chapter can and should be interpreted and 
+implemented in a manner supportive of each Party’s right to protect 
+public health and, in particular, to promote access to medicines for all. 
+3. Each Party has the right to determine what constitutes a national emergency or 
+other circumstances of extreme urgency, it being understood that public health 
+crises, including those relating to HIV/AIDS, tuberculosis, and other epidemics, 
+can represent a national emergency or other circumstances of extreme urgency. 
+Article 13.7 
+International Agreements 
+1. Each Party affirms that it has ratified or acceded to the following international 
+agreements and reaffirms its obligations under each agreement: 
+(a) Berne Convention;  
+ 
+13 - 6 
+(b) Budapest Treaty; 
+(c) Locarno Agreement; 
+(d) Madrid Protocol; 
+(e) Marrakesh Treaty; 
+(f) Nice Agreement; 
+(g) Paris Convention; 
+(h) PCT; 
+(i) Vienna Agreement; 
+(j) WCT; and 
+(k) WPPT. 
+2. Each Party shall give due consideration to ratifying or acceding to the Beijing 
+Treaty if it is not already a party to that agreement. 
+ 
+Article 13.8 
+National Treatment 
+1. In respect of all categories of intellectual property covered in this Chapter, each 
+Party shall accord to nationals2 of the other Party treatment no less favourable 
+than it accords to its own nationals with regard to the protection3 of intellectual 
+property rights subject to the exceptions  already provided in, respectively, the 
+Paris Convention, the Berne Convention, the Rome Convention, the WPPT and 
+the Washington Treaty. In respect of performers, producers of phonograms and 
+broadcasting organisations, this obligation only applies in respect of the rights 
+provided under this Chapter. 
+2. A Party may derogate from paragraph 1 in relation to its judicial and 
+administrative procedures, including requiring a national of the other Party to 
+designate an address for service of process in its territory, or to appoint an agent 
+in its territory, provided that the derogation is: 
+(a) necessary to secure compliance with laws or regulations that are not 
+inconsistent with this Chapter; and 
+(b) not applied in a manner that would constitute a disguised restriction on 
+trade. 
+ 
+2 For the purposes of this Article, “nationals” has the same meaning as in the TRIPS Agreement. 
+3 For the purposes of this paragraph, “protection” shall include matters affecting the availability, 
+acquisition, scope, maintenance and enforcement of intellectual property rights as well as matters 
+affecting the use of intellectual property rights specifically covered by this Chapter. 
+ 
+13 - 7 
+3. Paragraph 1 does not apply to procedures provided in multilateral agreements 
+concluded under the auspices of WIPO relating to the acquisition or 
+maintenance of intellectual property rights. 
+ 
+Article 13.9 
+Transparency 
+1. Each Party shall endeavour to publish online its laws, regulations, procedures, 
+and administrative rulings of general application concerning the protection and 
+enforcement of intellectual property rights. 
+2. Each Party shall, subject to its law, endeavour to publish online information that 
+it makes public concerning applications for trade marks, geographical 
+indications, registered designs, patents, and plant variety rights.4,5 
+3. Each Party shall, subject to its law, publish online information that it makes 
+public concerning registered or granted trade marks, geographical indications, 
+designs, patents, and plant variety rights, sufficient to enable the public to 
+become acquainted with those registered or granted rights.6 
+ 
+Article 13.10 
+Application of Chapter to Existing Subject Matter and Prior Acts  
+1. Unless otherwise provided in this Chapter, this Chapter gives rise to obligations 
+in respect of all subject matter existing at the date of entry into force of this 
+Agreement and that is protected on that date in the territory of a Party where 
+protection is claimed, or that meets or comes subsequently to meet the criteria 
+for protection under this Chapter. 
+2. A Party shall not be required to restore protection to subject matter that on the 
+date of entry into force of this Agreement  has fallen into the public domain in 
+its territory. 
+3. This Chapter does not give rise to obligations in respect of acts that occurred 
+before the date of entry into force of this Agreement. 
+ 
+ 
+4 For greater certainty, paragraphs 2 and 3 are without prejudice to a Party’s obligations under Article 
+13.31 (Electronic Trade Mark System) and Article 13.60 (Electronic Design System).  
+5 For greater certainty, paragraph 2 does not require a Party to publish online the entire dossier for the 
+relevant application. 
+6 For greater certainty, paragraph 3 does not require a Party to publish online the entire dossier for the 
+relevant registered or granted intellectual property right. 
+ 
+13 - 8 
+Article. 13.11 
+Exhaustion of Intellectual Property Rights 
+Nothing in this Agreement prevents a Party from determining whether or under what  
+conditions the exhaustion of intellectual property rights applies under its legal system. 
+ 
+Article 13.12 
+Certain Applicants and Right Holders 
+A Party may provide support to certain categories of applicants and right holders such 
+as SMEs, start -ups, or educational institutions. Support may include guidance to 
+applicants and right holders, other initiatives, or concessions in the fee to be paid in 
+respect of filing, processing, registration, grant and maintenance of intellectual property 
+in accordance with the law of the Party providing that support.7 
+ 
+Section B 
+Cooperation 
+Article 13.13 
+Contact Points 
+Each Party shall designate and notify the other Party of one or more contact points  for 
+communication on all matters covered by this Chapter no later than 60 days after the 
+date of entry into force of this Agreement. 
+ 
+Article 13.14 
+Cooperation  
+1. The Parties recognise the growing importance of the protection of intellectual 
+property and shall endeavour to cooperate on the subject matter covered by this 
+Chapter, including through appropriate coordination and exchange of 
+information between the rele vant agencies or institutions of the Parties. The 
+areas of cooperation may include: 
+(a) the establishment of arrangements between their respective collecting 
+societies; 
+(b) engagement with SMEs, start-ups and educational institutions including 
+at SME and start-up focused events and through public -private 
+engagement with SMEs and start-ups, particularly in relation to the use, 
+protection and enforcement of intellectual property rights;  
+(c) the exchange of information on issues of interest to SMEs and start-ups 
+seeking intellectual property protection; 
+ 
+7For the purpose of this Article, the definition of SMEs, start-ups and educational institutions would be 
+governed by the law of the Party providing that support. 
+ 
+13 - 9 
+(d) educational and awareness campaigns relating to intellectual property 
+rights aimed at the public and businesses; 
+(e) the exchange of information in relation to intellectual property policy 
+and law relevant to new and emerging technologies, such as artificial 
+intelligence and clean and green technology; 
+(f) sharing of best practices on aspects of intellectual property policy and 
+law with the aim of supporting the development and deployment of 
+environmentally friendly and low -emissions technologies, clean and 
+renewable energy and enabling infrastructure, and energy -efficient 
+goods and services;  
+(g) collaboration on  best practices, projects and programmes aimed at 
+reducing intellectual property right infringement, including: 
+(i) coordination to prevent counterfeiting and piracy of goods; 
+(ii) sharing of experience of intellectual property rights enforcement 
+between customs, law enforcement and judicial bodies; and 
+(iii) voluntary stakeholder initiatives to reduce intellectual property 
+right infringement, including over the internet and other 
+marketplaces; 
+(h) capacity-building and technical assistance, particularly in relation to 
+intellectual property administration and registration systems, reducing 
+intellectual property right infringement and improving enforcement of 
+intellectual property rights; and 
+(i) the exchange of information on developments in domestic and 
+international intellectual property policy, including policies involving 
+the use of intellectual property for research, innovation  and economic 
+growth. 
+2. In addition, the Parties shall endeavour to cooperate in relation to activities for 
+improving the international intellectual property regulatory framework, 
+including by: 
+(a) fostering international harmonisation, administration and enforcement 
+of intellectual property rights; and 
+(b) working together at the WTO and WIPO on relevant activities including 
+in relation to relevant multilateral intellectual property agreements. 
+3. The Parties shall cooperate and share best practices on legal protection and 
+effective legal remedies against the unauthorised circumvention of 
+technological protection measures, which includes the manufacturing and 
+trafficking of devices that may be used  for the circumvention of any effective 
+technological measures. 
+ 
+ 
+13 - 10 
+Article 13.15 
+Working Group on Intellectual Property Rights 
+1. The Parties hereby establish a Working Group on Intellectual Property Rights 
+composed of government representatives of each Party. The Working Group 
+may also invite experts to attend meetings and advise the Working Group on 
+any matter falling within its functions. 
+2. The Working Group may meet physically or virtually, as agreed by the Parties. 
+3. Without prejudice and as a complement to Article 13.14 (Cooperation), the 
+Working Group shall: 
+(a) review and monitor the implementation and operation of this Chapter; 
+(b) discuss issues pertaining to the protection and enforcement of 
+intellectual property rights and the promotion of efficient and 
+transparent administration of intellectual property systems , and 
+exchange information relating to intellectual property rights matters 
+under this Chapter, including how intellectual property protection 
+contributes to innovation, creativity, economic growth and employment; 
+(c) report its findings and the outcomes of its discussions to the Joint 
+Committee; 
+(d) carry out other functions as may be delegated by the Joint Committee; 
+and 
+(e) carry out the functions specified in Article 13.39 (Modifications to the 
+List of Protected Geographical Indications). 
+4. Without prejudice to other provisions under this Chapter, the Working Group 
+shall meet within one year of the date of entry into force of this Agreement and 
+thereafter annually if requested by either Party. 
+ 
+Article 13.16 
+Patent Cooperation and Work Sharing 
+1. The Parties recognise the importance of improving the quality and efficiency of 
+their respective patent registration systems, simplifying and streamlining the 
+procedures and processes of their respective patent offices, and promoting  
+transparent systems, to the benefit of all users of the patent system and the public 
+as a whole. 
+2. Further to paragraph 1, the Parties shall endeavour to cooperate among their 
+respective patent offices to facilitate the sharing and use of search and 
+examination work of the Parties , which may include cooperating under the 
+WIPO CASE system administered by the World Intellectual Property 
+Organisation, and also  exchanging information on quality assurance systems 
+and quality standards relating to patent examination. 
+ 
+13 - 11 
+3. In order to reduce the complexity and cost of obtaining the grant of a patent, the 
+Parties shall endeavour to share best practices to reduce differences in the 
+procedures and processes of their respective patent offices. 
+ 
+Article 13.17 
+Cooperation on Collective and Certification Marks 
+1. Under the Working Group on Intellectual Property Rights, the Parties shall 
+exchange general information on the registration and protection of India’s 
+Geographical Indications listed in Annex 13C (Geographical Indications for 
+Goods Other than Wines, Spirits, Agricultural Products, and Foodstuffs 
+Protected in India as Goods of Handicrafts, Natural Goods and Manufactured 
+Goods) as collective or certification marks under the United Kingdom’s trade 
+mark system. 
+2. The United Kingdom shall promote to producers in India the use of collective 
+or certification marks under the United Kingdom’s trade mark system, as a 
+means of protecting geographical indications for goods other than wines, spirits, 
+agricultural products, and foodstuffs. 
+ 
+Article 13.18 
+Cooperation on Trade Marks 
+The Parties recognise the importance of improving the quality and efficiency of their 
+respective trade mark systems and shall cooperate and engage in general discussions 
+relating to that subject. 
+ 
+Article 13.19 
+Cooperation on Geographical Indications 
+The Parties shall cooperate and exchange general information to gain a better 
+understanding of each other’s sui generis systems for the protection of geographical 
+indications, in their territories, for wines, spirits, agricultural products , and foodstuffs, 
+and, in particular, the relationship between those systems and the protection of prior 
+trade marks. 
+ 
+Article 13.20 
+WIPO Intergovernmental Committee on Intellectual Property and Genetic 
+Resources, Traditional Knowledge and Folklore  
+The Parties affirm their commitment to work together through discussion and by the 
+exchange of information at the WIPO Intergovernmental Committee on Intellectual 
+Property and Genetic Resources, Traditional Knowledge and Folklore. 
+ 
+ 
+13 - 12 
+Article 13.21 
+Cooperation in the Area of Traditional Knowledge Associated with Genetic 
+Resources 
+1. The Parties shall endeavour to cooperate through their respective agencies 
+responsible for intellectual property, or other relevant institutions, to enhance 
+the understanding of issues connected with  genetic resources and  traditional 
+knowledge associated with genetic resources. 
+2. The Parties shall endeavour to pursue quality patent examination, which shall 
+include:  
+(a) that in determining prior art, relevant publicly available documented 
+information related to traditional knowledge associated with genetic 
+resources may be taken into account; 
+(b) an opportunity for third parties to cite, in writing, to the competent 
+examining authority prior art disclosures that may have a bearing on 
+patentability, including prior art disclosures related to traditional 
+knowledge associated with genetic resources; and  
+(c) the use of databases or digital libraries containing genetic resources and 
+associated traditional knowledge, such as India’s Traditional Knowledge 
+Digital Library,8 if reasonably accessible, applicable and appropriate. 
+ 
+Article 13.22 
+Cooperation on Transfer of Technology  
+1. The Parties agree to exchange views and information on their practices and 
+policies affecting the voluntary transfer of technology. This may include 
+measures to facilitate information flows, business partnerships, licensing  and 
+subcontracting deals, on a voluntary basis. 
+2. With respect to the transfer of technology , the Parties shall ensure that the 
+legitimate interests of intellectual property right holders are protected. 
+ 
+Article 13.23 
+Cooperation on Request 
+Cooperation activities undertaken under this Chapter may be initiated on request of 
+either Party, are subject to the availability of resources of each Party, and on terms and 
+conditions mutually decided upon between the Parties. The Parties affirm that 
+cooperation under this Section is additional to and without prejudice to other past , 
+ongoing and future cooperation activities, both bilateral and multilateral, between the 
+Parties, including between their respective intellectual property offices. 
+ 
+8 As owned and maintained by the Government of the Republic of India. 
+ 
+13 - 13 
+ 
+Section C 
+Trade Marks 
+Article 13.24 
+Types of Signs Registrable as Trade Marks 
+1. A Party may require, as a condition of registration as a trade mark, that a sign 
+be visually perceptible. A Party may also require, as a condition of registration 
+as a trade mark, a concise and accurate description, or graphical representation, 
+or both, of the trade mark.  
+2. Where a sign is not inherently capable of distinguishing the goods or services 
+of one undertaking from those of other undertakings, a Party may make 
+registrability as a trade mark dependent on distinctiveness acquired through use. 
+ 
+Article 13.25 
+Rights Conferred 
+Each Party shall provide that the owner of a registered trade mark has the exclusive 
+right to prevent all third parties not having the owner’s consent from using in the course 
+of trade identical or similar signs for goods or services which are identical or similar to 
+those in respect of which the trade mark is registered  where that use would result in a 
+likelihood of confusion. In case of the use of an identical sign for identical goods or 
+services, a likelihood of confusion shall be presumed. The rights described above shall 
+not prejudice any existing prior rights, nor shall they affect the possibility of each Party 
+making rights available on the basis of use. 
+ 
+Article 13.26 
+Exceptions 
+A Party may provide limited exceptions to the rights conferred by a trade mark, such as 
+fair use of descriptive terms, provided that those exceptions take account of the 
+legitimate interests of the owner of the trade mark and of third parties. 
+ 
+Article 13.27 
+Well-Known Marks 
+1. Each Party shall provide for the protection of well -known trade marks as 
+referred to in Article 6bis of the Paris Convention and paragraphs 2 and 3 of 
+Article 16 of the TRIPS Agreement. 
+2. Each Party recognises the importance of the Joint Recommendation Concerning 
+Provisions on the Protection of Well-Known Marks. 
+ 
+13 - 14 
+3. No Party shall require, as a condition for determining that a trade mark is well-
+known, that the trade mark has been registered in the Party or in another 
+jurisdiction. 
+ 
+Article 13.28 
+Bad Faith Applications 
+Each Party shall provide, in accordance with its law, that its competent authority has 
+the authority to refuse an application or cancel a registration where the application to 
+register the trade mark was made in bad faith. 
+ 
+Article 13.29 
+Classification of Goods and Services 
+1. Each Party shall provide that: 
+(a) registrations and published applications for trade marks indicate the 
+goods and services by their names, grouped according to the classes 
+established by the Nice Classification; and 
+(b) goods or services may not be considered as being similar to each other 
+on the ground that, in any application for a trade mark, including any 
+published application, or registration of a trade mark, they are classified 
+in the same class of the Nice Classification. Conversely, each Party shall 
+provide that goods or services may not be considered as being dissimilar 
+from each other on the ground that, in any application for a trade mark, 
+including any published application, or registration of a trade mark, they 
+are classified in different classes of the Nice Classification. 
+ 
+Article 13.30 
+Procedural Aspects of Examination, Opposition and Cancellation 
+1. Each Party shall provide a system for the examination and registration of trade 
+marks that includes: 
+(a) communicating to the applicant in writing, which may be by electronic 
+means, the reasons for any refusal to register a trade mark; 
+(b) providing the applicant with an opportunity to respond to 
+communications from the competent authority, to contest any initial 
+refusal, and to make a judicial appeal of any final refusal to register a 
+trade mark; 
+(c) providing an opportunity to oppose an application for the registration of 
+a trade mark and an opportunity to seek a decision that the trade mark 
+should not have been registered through, at a minimum, administrative 
+procedures; and 
+ 
+13 - 15 
+(d) requiring decisions in administrative procedures referred to in  
+subparagraph (c) to be reasoned and in writing, which may be  by 
+electronic means. 
+ 
+Article 13.31 
+Electronic Trade Mark System 
+1. Each Party shall provide: 
+(a) a system for the electronic application for, and the renewal of, trade 
+marks; and 
+(b) a publicly available electronic  information system, including an online 
+database, of trade mark applications and of registered trade marks. 
+ 
+Article 13.32 
+Term of Protection 
+Each Party shall provide that initial registration and each renewal of registration of a 
+trade mark is for a term of no less than 10 years. 
+ 
+Article 13.33 
+Domain Names 
+1. In connection with each Party’s system for the management of its ccTLD  
+domain names, the Parties recognise the benefits of appropriate remedies being 
+available in cases in which a person registers or holds, with a bad faith intent to 
+profit, a domain name that is identical or confusingly similar to a trade mark. 
+2. The Parties understand that these remedies may include, among other things, 
+revocation, cancellation, transfer, damages or injunctive relief. 
+ 
+Section D 
+Geographical Indications 
+Article 13.34 
+Scope 
+1. This Section applies to the protection of geographical indications in the 
+territories of the Parties for wines, spirits, agricultural products, and foodstuffs, 
+through a sui generis system. 
+2. The Parties acknowledge that a Party may protect geographical indications for 
+categories of goods other than wines, spirits, agricultural products, and 
+ 
+13 - 16 
+foodstuffs, which may include handicrafts, natural goods and manufactured 
+goods, through a sui generis or trade mark system, or other legal means.9 
+ 
+Article 13.35 
+System for the Protection of Geographical Indications 
+1. Each Party shall maintain a system for the protection of geographical 
+indications in its territory. 
+2. The system referred to in paragraph 1 shall contain at least the following 
+elements: 
+(a) a public register listing geographical indications protected in the 
+territory of the Party; 
+(b) an administrative process of examination to verify that a geographical 
+indication to be registered as referred to in subparagraph (a) identifies a 
+good as originating in the territory, region or locality where a given 
+quality, reputation or other characteristic of the good is essentially 
+attributable to its geographical origin; 
+(c) a requirement that a geographical indication shall correspond to a 
+specific good or goods for which a specification is laid down which may 
+only be amended by due administrative processes;  
+(d) an opposition procedure that allows the legitimate interests of third 
+parties to be taken into account; 
+(e) legal provisions providing that a protected geographical indication may 
+be used by a person marketing, trading or dealing in a relevant good if 
+the good conforms to the corresponding specification; and 
+(f) a procedure for the cancellation of the protection of a protected 
+geographical indication, taking into account the legitimate interests of 
+third parties and the users of the geographical indication in question. 
+ 
+Article 13.36 
+Initial Geographical Indications Submitted for Protection 
+Where, prior to the date of entry into force of this Agreement, the Parties have drawn 
+up a list of geographical indications that may be submitted for protection under this 
+Section, the Parties may agree, under the auspices of the Working Group on Intellectual 
+Property Rights, that the geographical indications set out in that list shall be submitted 
+for protection under this Section in accordance with Article 13.38 (Procedures for 
+Geographical Indications Submitted for Protection). 
+ 
+9 The categories of goods protected by a Party under a sui generis or trade mark system, or other legal 
+means, shall be determined by each Party in accordance with its law. 
+ 
+13 - 17 
+ 
+Article 13.37 
+Additional Geographical Indications Submitted for Protection  
+1. Where a Party intends to seek protection for an additional geographical 
+indication or a list of additional geographical indications of that Party in the 
+territory of the other Party under this Section, the Parties shall enter into 
+consultations under the auspices of the Working Group on Intellectual Property 
+Rights with a view to agreeing whether the additional geographical indication 
+or geographical indications shall be submitted for protection under this Section. 
+2. Where the Parties have so agreed under paragraph 1, the geographical indication 
+or geographical indications shall be submitted for protection under this Section 
+in accordance with Article 13.38 (Procedures for Geographical Indications 
+Submitted for Protection). 
+ 
+Article 13.38 
+Procedures for Geographical Indications Submitted for Protection 
+1. Where the Parties have  submitted, under Article 13.36 (Initial Geographical 
+Indications Submitted for Protection) or paragraph 2 of Article 13.37 
+(Additional Geographical Indications Submitted for Protection), a geographical 
+indication for protection under this Section: 
+(a) the Party seeking protection of the geographical indication shall, under 
+the auspices of the Working Group on Intellectual Property Rights, 
+ensure that the other Party has been provided with the name of the 
+geographical indication and its corresponding spe cification. The 
+specification shall include the information listed in Annex 13A 
+(Geographical Indication Specification), and where applicable, a 
+translation into English; and 
+(b) the other Party shall, within a reasonable period of time after the receipt 
+of the information and documentation in subparagraph (a), complete the 
+examination of the geographical indication in accordance with its 
+domestic requirements. 
+2. Where a geographical indication has passed the examination procedure for the 
+other Party, the other Party shall  complete the opposition procedures required 
+pursuant to its domestic requirements without undue delay.10  
+3. Each Party shall, through the contact points referred to in Article 13.13 (Contact 
+Points), inform the other Party of the progress of any examination or opposition 
+procedure conducted pursuant to subparagraph 1(b) and paragraph 2 and shall 
+promptly notify the other Party of any objection made under that opposition 
+procedure to any geographical indication submitted for protection under this 
+Section pursuant to Article 13.36 (Initial Geographical Indications Submitted 
+ 
+10 For greater certainty, any delay to an opposition procedure caused by factors outside of the control of 
+a Party shall not constitute an undue delay. 
+ 
+13 - 18 
+for Protection)  or paragraph 2 of Article 13.37 (Additional Geographical 
+Indications Submitted for Protection). 
+4. A Party shall, through the contact points referred to in Article 13.13 (Contact 
+Points), consult the other Party if, in accordance with its domestic requirements, 
+further information is required from the other Party in order to conduct the 
+examination and opposition procedures conducted pursuant to subparagraph 
+1(b) and paragraph 2. 
+5. Following the examination and opposition procedures conducted pursuant to 
+subparagraph 1(b) and paragraph 2, if an application for protection of a 
+geographical indication under this Section is rejected, the examining Party shall, 
+under the auspices of the Working Group on Intellectual Property Rights, 
+provide the other Party with the reasons for the refusal an d exchange 
+information regarding refusal of the application. 
+6. For the purpose of protection of a geographical indication under this Section 
+pursuant to Article 13.36 (Initial Geographical Indications Submitted for 
+Protection) or paragraph 2 of Article 13.37 (Additional Geographical 
+Indications Submitted for Protection), a Party may require that a public 
+authority recognised11 by the other Party or an accredited product certification 
+body has verified that goods using the name of that geographical indication 
+conform to the corresponding specification. 
+7. Each Party shall ensure that each geographical indication that Party submits for 
+protection under this Section pursuant to Article 13.36 (Initial Geographical 
+Indications Submitted for Protection) or paragraph 2 of Article 13.37 
+(Additional Geographical Indications Submitted for Protection) is protected in 
+its territory under the system referred to in Article 13.35 (System for the 
+Protection of Geographical Indications). 
+ 
+Article 13.39 
+Modifications to the List of Protected Geographical Indications 
+1. Subject to paragraph 2, where a geographical indication has been examined and 
+passed the opposition procedure in the other Party under its domestic 
+requirements, the Working Group on Intellectual Property Rights s hall make a 
+recommendation to the Joint Committee to modify, pursuant to subparagraph 
+2(g) of Article 27.2 (Functions of the Joint Committee – Administrative and 
+Institutional Provisions), the list of protected geographical indications in Annex 
+13B (Protected Geographical Indications for Wines, Spirits, Agricultural 
+Products, and Foodstuffs) to add the name of that geographical indication.  
+2. The Parties shall aim for an equitable number of geographical indications of 
+each Party to be listed in Annex 13B (Protected Geographical Indications for 
+Wines, Spirits, Agricultural Products, and Foodstuffs). I n this respect, the 
+Working Group on Intellectual Property Rights shall consider whether it is 
+ 
+11 The Parties agree that where the law of a Party provides for a system of registered proprietors of 
+geographical indications, and such registered proprietor is considered a public authority by that Party, it 
+shall have the authority to conduct the verification for the purposes of this paragraph. 
+ 
+13 - 19 
+appropriate to delay making a recommendation to the Joint Committee to 
+modify, pursuant to subparagraph 2(g) of Article 27.2 (Functions of the Joint 
+Committee – Administrative and Institutional Provisions),  Annex 13B 
+(Protected Geographical Indications for Wines, Spirits, Agricultural Products, 
+and Foodstuffs), to allow a recommendation to be made in respect of a tranche 
+of geographical indications and to ensure a mutually satisfactory number of 
+geographical indications of both Parties can be added to Annex 13B (Protected 
+Geographical Indications for Wines, Spirits, Agricultural Products, and 
+Foodstuffs). 
+3. The list of protected geographical indications in Annex 13B (Protected 
+Geographical Indications for Wines, Spirits, Agricultural Products, and 
+Foodstuffs) may be modified to remove geographical indications, in particular 
+where a geographical indication ceases to be protected in the territory of the 
+Party of origin. The Working Group on Intellectual Property Rights may decide 
+to make a recommendation to the Joint Committee to modify, pursuant to 
+subparagraph 2(g) of Article 27.2 (Functions of the Joint Co mmittee – 
+Administrative and Institutional Provisions),  the list of protected geographical 
+indications in Annex 13B (Protected Geographical Indications for Wines, 
+Spirits, Agricultural Products, and Foodstuffs) to remove a geographical 
+indication. 
+ 
+Article 13.40 
+Lists of Protected Geographical Indications 
+1. The United Kingdom shall protect the geographical indications of India listed 
+in Part 1 of Annex 13B (Protected Geographical Indications for Wines, Spirits, 
+Agricultural Products, and Foodstuffs) in accordance with this Section and its 
+law, those geographical indications having been protected in India under the 
+system referred to in Article 13.35 (System for the Protection of Geographical 
+Indications) and subsequently having been examined and having completed and 
+passed an opposition procedure in the Uni ted Kingdom under its domestic 
+requirements. 
+2. India shall protect the geographical indications of the United Kingdom listed in 
+Part 2 of Annex 13B (Protected Geographical Indications for Wines, Spirits, 
+Agricultural Products, and Foodstuffs) in accordance with this Section and its 
+law, those geographical indications having been protected in the United 
+Kingdom under the system referred to in Article  13.35 (System for the 
+Protection of Geographical Indications) and subsequently having been 
+examined and having completed and passed an opposition procedure in India 
+under its domestic requirements. 
+3. Annex 13C (Geographical Indications for Goods Other than Wines, Spirits, 
+Agricultural Products, and Foodstuffs Protected in India as Goods of 
+Handicrafts, Natural Goods and Manufactured Goods) contains a list of 
+geographical indications for goods other than wines,  spirits, agricultural 
+products, and foodstuffs protected in India. Applications  for the protection of 
+the geographical indications relating to these goods may be submitted under the 
+United Kingdom's trade mark system. 
+ 
+13 - 20 
+4. For the purposes of this Section, the date of protection of a geographical 
+indication is the date that the modification of Annex 13B (Protected 
+Geographical Indications for Wines, Spirits, Agricultural Products, and 
+Foodstuffs), made pursuant to paragraph 1 of Article 13.39 (Modifications to 
+the List of Protected Geographical Indications) , listing the geographical 
+indication is adopted. 
+ 
+Article 13.41 
+Scope of Protection of Geographical Indications 
+1. Having regard to the Parties’ respective levels of domestic protection, each 
+Party shall, in respect of the geographical indications protected under this 
+Section, protect as a minimum against: 
+(a) use of such geographical indications by any means in the designation or 
+presentation of goods that indicates or suggests that those goods 
+originate in a geographical area other than the true place of origin of 
+those goods in a manner which misleads the public as to the 
+geographical origin of those goods, and the use of such a geographical 
+indications in respect of goods originating in the relevant geographical 
+area but not conforming with the corresponding specification of the 
+geographical indication under this Section; 
+(b) any other use which constitutes an act of unfair competition within the 
+meaning of Article 10bis of the Paris Convention; and 
+(c) any use of a geographical indication, which, although literally true as to 
+the territory, region or locality in which the goods originate, falsely 
+represents to the public that the goods originate in the territory, region 
+or locality in respect of which such registered geographical indication 
+relates.12 
+2. Neither Party shall be required to protect a name as a geographical indication 
+under this Section if that name: 
+(a) conflicts with the name of a plant variety or an animal breed and as a 
+result is likely to mislead consumers as to the true origin of the good; or 
+(b) is the term customary in common language as the common name for the 
+good concerned in the territory of that Party. 
+3. Neither Party shall be required to protect a name as a geographical indication 
+under this Section if, in light of a prior trade mark or pending application for 
+registration of a trade mark, a Party’s law would prevent protection of the 
+geographical indication.  
+4. The Parties shall: 
+ 
+12 For greater certainty, nothing in this Article prevents either Party from providing additional protection 
+in accordance with domestic requirements under the Party’s law. 
+ 
+13 - 21 
+(a) as soon as reasonably practicable, but no later than one year after the 
+date of entry into force of this Agreement, enter into consultations under 
+the auspices of the Working Group on Intellectual Property Rights 
+established pursuant to Article 13.15 (Working Group on Intellectual 
+Property Rights), to review paragraph 3; 
+(b) agree a timetable for further consultation at an initial meeting held as 
+soon as reasonably practicable, but no later than one year after the date 
+of entry into force of this Agreement, or alternatively agree as soon as 
+reasonably practicable, but no later than one year after the date of entry 
+into force of this Agreement not to enter into further consultations; 
+(c) where such further consultations are entered into, review paragraph 3 
+with a view to amending it in the light of any relevant changes that may 
+have occurred in the laws and regulations of the United Kingdom in 
+consequence of the United Kingdom’s accession to the Comprehensive 
+and Progressive Agreement for Trans -Pacific Partnership done at 
+Santiago on 8 March 2018; and 
+(d) where such further consultations are entered into, use reasonable 
+endeavours to complete the review of paragraph 3 in a timely manner. 
+5. Nothing in this Agreement shall prejudice the right of any person to use, in the 
+course of trade, that person’s name or the name of that person’s predecessor in 
+business, except where such name is used in such a manner as to mislead 
+consumers. 
+6. Each Party shall decide the practical conditions of use under which 
+homonymous geographical indications will be differentiated from each other in 
+its territory, taking into account the need to ensure equitable treatment of the 
+producers concerned and that consumers are not misled. 
+7. If a Party (“Party A”) intends to consider the protection of a geographical 
+indication of a non -Party, either pursuant to an international agreement or 
+through its domestic system of protection referred to in Article 13.35 (System 
+for the Protection of Geographical Indications), which is homonymous with a 
+geographical indication of the other Party (“Party B”) protected under this 
+Section, Party A shall inform, no later than on the date of the publication for 
+opposition of that geographical indication, Pa rty B of the opportunity to 
+comment, provided that the date of publication  for opposition is after the date 
+of entry into force of this Agreement. 
+8. Nothing in this Chapter shall oblige a Party to protect a geographical indication 
+of the other Party which is not or ceases to be protected in accordance with the 
+law of the other Party. Each Party shall promptly notify the other Party if a 
+geographical indication protected under this Section ceases to be protected in 
+the territory of the Party of origin. 
+9. The Parties shall provide that geographical indications protected under this 
+Section shall be protected through a sui generis system. 
+ 
+ 
+13 - 22 
+Article 13.42 
+Right of Use of Geographical Indications 
+1. Each Party shall provide that a person may use a geographical indication 
+protected under this Section provided that such use is in accordance with the 
+requirements under the law of the Party in which the geographical indication is 
+protected. 
+2. Where a Party has a renewal requirement with respect to geographical 
+indications under its law, both Parties shall ensure that the renewal process is 
+streamlined and timely.13 At least six months and no more than a year prior to 
+the date of renewal, the Party requiring renewal shall notify the other Party of 
+the need to fulfil its domestic requirements concerning renewal. 
+3. Upon receipt of this notification, the other Party shall, at least three months prior 
+to the date of renewal, apply for renewal in accordance with the domestic 
+requirements of the notifying Party. 
+4. For the purpose of the renewal of protection of a geographical indication under 
+this Article, the date of renewal shall be calculated from the date of application 
+for protection of a geographical indication, as referred to in paragraph 3 of 
+Article 13.43 (Relationship with Trade Marks). 
+ 
+Article 13.43 
+Relationship with Trade Marks 
+1. Each Party shall, in accordance with its law, refuse to register or shall invalidate 
+a trade mark in respect of a geographical indication protected under this Section, 
+provided that an application for registration of the trade mark is submitted after 
+the date of application for protection of the geographical indication in the 
+territory concerned. 
+2. Each Party shall ensure that the protection of a geographical indication under 
+this Section is without prejudice to the continued use of a trade mark which, in 
+good faith, has been applied for, registered or established by use, if that 
+possibility is provided for by the law, in the territory of a Party before the date 
+of the application for protection of the geographical indication. A prior trade 
+mark may continue to be used and renewed for that good notwithstanding the 
+protection of the geographical indication provided that no grounds for the trade 
+mark’s invalidity or revocation exist in the laws and regulations of the Party 
+concerned. 
+3. For the purposes of this Section, the date of application for protection of a 
+geographical indication listed in Annex 13B (Protected Geographical 
+Indications for Wines, Spirits, Agricultural Products, and Foodstuffs) shall be: 
+ 
+13 For greater certainty, the purpose of a streamlined and timely process is to ensure that renewal 
+procedures are conducted without undue delay, as clarified in footnote 10. 
+ 
+ 
+13 - 23 
+(a) for a geographical indication submitted for protection under this Section 
+pursuant to Article 13.36 (Initial Geographical Indications Submitted for 
+Protection), the date of entry into force of this Agreement; or 
+(b) for a geographical indication submitted for protection under this Section 
+pursuant to paragraph 2 of Article 13.37 (Additional Geographical 
+Indications Submitted for Protection), the date of the other Party’s 
+receipt of information and documentation provided in paragraph 1(a) of 
+Article 13.38 (Procedures for Geographical Indications Submitted for 
+Protection). 
+ 
+Article 13.44  
+Enforcement of Protection 
+1. Each Party shall require its competent authorities to take appropriate measures, 
+in accordance with its laws and regulations, ex officio  or on request of an 
+interested party, to protect the geographical indications listed in Annex 13B 
+(Protected Geographical Indications for Wines, Spirits, Agricultural Products, 
+and Foodstuffs) pursuant to this Section. 
+2. Each Party shall designate and notify the other Party of a contact point for 
+matters concerning enforcement of geographical indications under this Section 
+in their respective territories. A Party and any interested person of that Party 
+may seek guidance o n the operation of the other Party's enforcement system 
+through that contact point. The contact point shall provide relevant information 
+relating to the enforcement matter raised, and alternative contact details, where 
+appropriate, to that Party or its i nterested person. Each Party shall provide the 
+other Party with up to date contact information of the designated contact point 
+under this Section. 
+ 
+Article 13.45 
+Consultations on the Protection of Geographical Indications 
+1. The Parties shall, following entry into force of this Agreement, enter into 
+consultations to review this Section if: 
+(a) after the date of entry into force of this Agreement an international 
+agreement enters into force between a Party and a non-Party that grants 
+any substantive advantage, favour, privilege or immunity with regard to 
+the protection of geographical indications for wines, spirits, agricultural 
+products, or foodstuffs that is not granted by this Agreement; or 
+(b) after this Agreement has been signed by the Parties, a Party adopts any 
+substantive change to the protection of geographical indications for 
+wines, spirits, agricultural products, or foodstuffs provided under the sui 
+generis system for the protection of geographical indications in effect in 
+that Party’s territory on the date of signature of this Agreement by the 
+Parties. 
+ 
+13 - 24 
+2. The Parties shall, following entry into force of this Agreement, enter into 
+consultations to review this Section if: 
+(a) after the date of entry into force of this Agreement an international 
+agreement enters into force between the United Kingdom and a non -
+Party that includes obligations to introduce a sui generis system for the 
+protection of categories of goods other than wines, spirits, agricultural 
+products, or foodstuffs in the United Kingdom; or 
+(b) after this Agreement has been signed by the Parties, the United Kingdom 
+adopts a sui generis system for the protection of categories of goods 
+other than wines, spirits, agricultural products, or foodstuffs in the 
+United Kingdom. 
+3. The relevant Party shall  promptly notify the other Party, through the contact 
+points referred to in Article 13.13 (Contact Points) , if any of the events or 
+changes described in paragraph 1 or 2 occur  and provide any relevant 
+information in relation to that event or change to the other Party. 
+4. If an event or change described in paragraph 1 or 2 occurs, the Parties shall: 
+(a) enter into consultations under the auspices of the Working Group on 
+Intellectual Property Rights established pursuant to Article 13.15 
+(Working Group on Intellectual Property Rights) as soon as reasonably 
+practicable after the relevant event or change in paragraph 1 or 2 has 
+taken place, and in any event no later than one year after the date of that 
+event or change;14  
+(b) agree a timetable for further consultations  at an initial meeting held 
+within the timeframe specified in subparagraph (a), or alternatively 
+agree within the timeframe specified in subparagraph (a) not to enter 
+into further consultations; 
+(c) where further consultations are entered into, review this Section with a 
+view to amending this Agreement so that this Section grants no less 
+favourable treatment than the protection granted by:  
+(i) the international agreement referred to in subparagraph 1(a) or 
+2(a); 
+(ii) the substantive change to protection referred to in subparagraph 
+1(b); or 
+(iii) the sui generis system referred to in subparagraph 2(b); and 
+(d) where further consultations are entered into, use reasonable endeavours 
+to complete a review under this Article in a timely manner. 
+ 
+14 Where the relevant change in subparagraph 1(b) or 2(b) has taken place before entry into force of this 
+Agreement, the Parties shall enter into consultations as soon as reasonably practicable after the date of 
+entry into force of this Agreement and, in any event, no later than one year af ter the date of entry into 
+force of this Agreement. 
+ 
+13 - 25 
+5. Within three years of the date of entry into force of this agreement if the United 
+Kingdom has not entered into consultations under paragraph 2, the United 
+Kingdom shall initiate a review of its laws and regulations relating to the 
+protection, as intellect ual property, of geographical indications in relation to 
+categories of goods other than wines, spirits, agricultural products, or 
+foodstuffs. The United Kingdom shall complete the review in a timely manner 
+and communicate the outcome of this review to Indi a through the Working 
+Group on Intellectual Property Rights established pursuant to Article 13.15 
+(Working Group on Intellectual Property Rights). 
+ 
+Section E 
+Patents 
+Article 13.46 
+Rights Conferred 
+1. Each Party shall provide that a patent confers on its owner the following 
+exclusive rights: 
+(a) where the subject matter of a patent is a product, to prevent third parties 
+not having the owner’s consent from the acts of making, using, offering 
+for sale, selling, or importing15 for these purposes that product; and 
+(b) where the subject matter of a patent is a process, to prevent third parties 
+not having the owner’s consent from the act of using the process, and 
+from the acts of using, offering for sale, selling, or importing for these 
+purposes at least the product obtained directly by that process. 
+2. Each Party shall also provide that a patent owner has the right to assign, or 
+transfer by succession, the patent and to conclude licensing contracts. 
+ 
+Article 13.47 
+Patentable Subject Matter 
+1. Subject to paragraphs 2 and 3, each Party shall make patents available for any 
+invention, whether a product or process, in all fields of technology, provided 
+that the invention is new, involves an inventive step, and is capable of industrial 
+application.16 Subject to paragraph 3, each Party shall make patents available 
+and patent rights enjoyable without discrimination as to the place of invention, 
+the field of technology, and whether products are imported or locally produced. 
+2. A Party may exclude from patentability inventions, the prevention within its 
+territory of the commercial exploitation of which is necessary to protect ordre 
+public or morality, including to protect human, animal or plant life or health or 
+ 
+15 This right, like all other rights conferred in this Chapter in respect of the use, sale, importation or other 
+distribution of goods, is subject to the provisions of Article 13.11 (Exhaustion of Intellectual Property 
+Rights). 
+16 For the purposes of this Article, a Party may deem the terms “inventive step” and “capable of industrial 
+application” to be synonymous with the terms “non-obvious” and “useful” respectively. 
+ 
+13 - 26 
+to avoid serious prejudice to the environment, provided that the exclusion is not 
+made merely because the exploitation is prohibited by its law. 
+3. A Party may also exclude from patentability: 
+(a) diagnostic, therapeutic and surgical methods for the treatment of humans 
+or animals; and 
+(b) plants and animals other than micro -organisms, and essentially 
+biological processes for the production of plants or animals other than 
+non-biological and microbiological processes. 
+ 
+Article 13.48 
+Exceptions 
+A Party may provide limited exceptions to the exclusive rights conferred by a patent, 
+provided that those exceptions do not unreasonably conflict with a normal exploitation 
+of the patent and do not unreasonably prejudice the legitimate interests of the patent 
+owner, taking account of the legitimate interests of third parties. 
+ 
+Article 13.49 
+Regulatory Review Exception 
+1.  Without prejudice to the scope of, and consistent with, Article 13.48 
+(Exceptions), each Party: 
+(a) shall provide that a third party may do an act that would otherwise 
+infringe a patent with respect to a pharmaceutical product invention if 
+the act is done for purposes connected with obtaining regulatory 
+approval17 in that Party or another country or both; and 
+(b) may provide that a third person may do an act that would otherwise 
+infringe a patent with respect to all other types of invention if the act is 
+done for purposes connected with obtaining regulatory approval in that 
+Party or another country or both. 
+ 
+Article 13.50 
+Other Use Without Authorisation of the Right Holder 
+The Parties understand that nothing in this Chapter  shall limit a Party’s rights and 
+obligations under the TRIPS Agreement to authorise the use of a patent without the 
+authorisation of the right holder. 
+ 
+ 
+17 For the purpose s of Article 13.49, a Party may treat “regulatory approval” to mean “marketing 
+approval”. 
+ 
+13 - 27 
+Article 13.51 
+Amendments, Corrections and Observations 
+1. Each Party shall provide a patent applicant with at least one opportunity to make 
+amendments, corrections, and observations in connection with its application, 
+in accordance with their laws and regulations. 
+2. Neither Party shall revoke or invalidate a patent, either totally or in part, without 
+the patent owner being given the opportunity to make observations on the 
+intended revocation or invalidation, and to make amendments and corrections 
+where permitted under a Party’s law. 
+3. A Party may provide that amendments made pursuant to paragraph 1 or 2 do not 
+go beyond the scope of the disclosure of the invention, as of the filing date. 
+ 
+Article 13.52 
+Publication of Patent Applications 
+1. Recognising the benefits of transparency in the patent system, each Party shall 
+endeavour to publish unpublished pending patent applications promptly after 
+the expiration of 18 months from the filing date or, if priority is claimed, from 
+the earliest priority date. 
+2. If a pending application is not published promptly in accordance with paragraph 
+1, a Party shall publish that application, or the corresponding patent, as soon as 
+practicable. 
+3. Each Party shall provide that an applicant may request the early publication of 
+an application prior to the expiration of the period referred to in paragraph 1. 
+ 
+Article 13.53 
+Information Relating to Published Patent Applications and Granted Patents 
+1. For published patent applications and granted patents, and in accordance with 
+the Party’s requirements for the prosecution of such applications and patents, 
+each Party shall make available to the public at least the following information, 
+to the extent that  the information is in the possession of the competent 
+authorities and is generated on, or after, the date of the entry into force of this 
+Agreement: 
+(a) examination reports generated for an application, including details of, or 
+information related to, relevant prior art searches; 
+(b) as appropriate, non-confidential communications from applicants; and 
+(c) patent and non-patent related literature citations submitted by applicants 
+and relevant third parties. 
+ 
+ 
+13 - 28 
+Article 13.54 
+Conditions on Patent Applicants 
+1. Each Party shall require an applicant for a patent to disclose the invention in a 
+manner sufficiently clear and complete for the invention to be carried out by a 
+person skilled in the art and may require the applicant to indicate the best mode 
+for carrying out the invention known to the inventor at the filing date or, where 
+priority is claimed, at the priority date of application. 
+2. A Party may require a patent applicant to provide information concerning the 
+applicant’s corresponding foreign application and grants. A mere failure to 
+comply with this requirement shall not result in revocation of or refusal to grant 
+a patent, except where the competent authority determines there is deliberate or 
+wilful suppression of information. 
+3. The patent granting authority may give due consideration to information 
+concerning the applicant’s corresponding foreign application and grants which 
+is publicly available or otherwise available to the granting authority, during the 
+patent application process. 
+ 
+Article 13.55 
+Opposition Proceedings 
+1. Where a Party provides for a process that allows a third party to oppose a patent 
+application prior to its grant, it shall ensure that this opposed patent application 
+is processed and disposed of within a reasonable period of time and without 
+undue delay. 
+2. A Party which allows a third party to oppose a patent  application prior to its 
+grant shall, subject to its law, adopt18 measures in support of paragraph 1.19 
+ 
+Article 13.56 
+Patent Working Disclosure Requirement 
+1. Neither Party shall require a patent owner  to provide annual disclosure of 
+information concerning the working of a patent. Where a Party provides  for 
+periodic disclosure of information concerning the working of a patent, the 
+periodicity shall not be less than three years and confidential information 
+contained in the disclosure shall not be made available in the public domain, 
+other than in exceptional circumstances.20 
+ 
+18 A Party is able to meet this obligation by adopting measures between 23 September 2023 and the date 
+of entry into force of this Agreement. 
+19 For the avoidance of doubt, the measures adopted by a Party shall be determined at its discretion. These 
+measures may include an expedited route for the disposal of opposed patent applications.  
+20 A Party may determine what constitutes an exceptional circumstance. 
+ 
+13 - 29 
+2. Notwithstanding paragraph 1, a Party may require a patent owner to provide a 
+disclosure concerning the working of a patent, in a given case, in accordance 
+with its law. 
+3. Pursuant to paragraphs 1 and 2, failure to disclose information concerning the 
+working of a patent shall not result in imprisonment. 
+ 
+Section F 
+Designs 
+Article 13.57 
+Protection of Registered Industrial Designs 
+1. Each Party shall provide for the protection of independently created industrial 
+designs that are new or original. This protection shall be provided by registration 
+and shall confer an exclusive right upon the owner of the registered industrial 
+design in accordance with this Article. 
+2.  A Party may provide limited exceptions to the protection of registered industrial 
+designs, provided that those exceptions do not unreasonably conflict with the 
+normal exploitation of registered industrial designs and do not unreasonably 
+prejudice the legitimate interests of the owner of the registered industrial design, 
+taking account of the legitimate interests of third parties. 
+3. Each Party shall ensure that an owner of a registered industrial design has at 
+least the right to prevent third parties not having the owner’s consent from 
+making, offering, selling, or  importing an article or product bearing or 
+embodying the registered industrial design which is a copy, or substantially a 
+copy, of the registered industrial design, where those acts are undertaken for 
+commercial purposes. 
+ 
+Article 13.58 
+Duration of Protection 
+Each Party shall ensure that the total term of protection available for registered  
+industrial designs is no less than 15 years. 
+ 
+Article 13.59 
+Multiple Design Applications 
+A Party may allow for two or more industrial designs to be registered through the filing 
+of one application, in accordance with its law. 
+ 
+ 
+13 - 30 
+Article 13.60 
+Electronic Design System 
+1. Each Party shall provide a:  
+(a) system for the electronic application for, and renewal of, registered 
+industrial designs; and 
+(b) publicly available electronic information system, which must include an 
+online database of registered industrial designs. 
+ 
+Article 13.61 
+Unregistered Designs 
+A Party may provide, in accordance with its law, that unregistered designs may be 
+protected. The extent to which, and the conditions under which, that protection is 
+conferred, including the level of originality required, shall be determined by each Party. 
+ 
+Section G 
+Copyright and Related Rights 
+Article 13.62 
+Authors 
+1. Each Party shall provide authors with the exclusive right to authorise or prohibit 
+the: 
+(a) direct or indirect reproduction in any manner or form, in whole or in 
+part, of their works; 
+(b) distribution to the public, by sale or otherwise, of the original and 
+copies21 of their works; 
+(c) communication to the public22 of their works, by wire or wireless means, 
+including broadcasting and the making available to the public of their 
+works in such a way that members of the public may access them from 
+a place and at a time individually chosen by them; and 
+(d) commercial rental to the public of their works in respect of at least 
+computer programs and cinematographic works. 
+ 
+ 
+21 The expressions “copies” and “original and copies”, that are subject to the right of distribution in this 
+Article, refer exclusively to fixed copies that can be put into circulation as tangible objects. 
+22 For the purposes of this Article, “communication to the public” shall be construed in accordance with 
+Article 8 of the WCT. 
+ 
+13 - 31 
+Article 13.63 
+Performers 
+1. Each Party shall provide performers with the exclusive right to  authorise or 
+prohibit the: 
+(a) fixation of their unfixed performances; 
+(b) direct or indirect reproduction in any manner or form, in whole or in part 
+of fixations of their performances; 
+(c) distribution to the public, by sale or otherwise, of the original and copies 
+of fixations of their performances; 
+(d) making available to the public of fixations of their performances, by 
+wire or wireless means, in such a way that members of the public may 
+access them from a place and at a time individually chosen by them; 
+(e) broadcasting and the communication to the public of their unfixed 
+performances except where the performance is already a broadcast 
+performance; and 
+(f) commercial rental to the public of fixations of their performances. 
+ 
+Article 13.64 
+Producers of Phonograms 
+1. Each Party shall provide producers of phonograms with the exclusive right to 
+authorise or prohibit the: 
+(a) direct or indirect reproduction in any manner or form, in whole or in 
+part, of their phonograms; 
+(b) distribution to the public, by sale or otherwise, of the original or copies 
+of their phonograms; 
+(c) making available to the public of their phonograms by wire or wireless 
+means, in such a way that members of the public may access them from 
+a place and at a time individually chosen by them; and 
+(d) commercial rental to the public of their phonograms.  
+ 
+Article 13.65 
+Broadcasting Organisations 
+1. Each Party shall provide broadcasting organisations with the exclusive right to 
+authorise or prohibit the: 
+(a) fixation of their broadcasts; 
+ 
+13 - 32 
+(b) direct or indirect reproduction in any manner or form, in whole or in 
+part, of fixations of their broadcasts; 
+(c) distribution to the public, by sale or otherwise, of fixations of their 
+broadcasts; 
+(d) rebroadcasting of their broadcasts; and 
+(e) communication to the public of their broadcasts if that communication 
+is made against payment of an entrance fee. A Party may determine the 
+conditions under which this exclusive right may be exercised. 
+ 
+Article 13.66 
+Broadcasting and Communication to the Public of Phonograms Published for 
+Commercial Purposes 
+1. The Parties acknowledge the importance of performers and producers of 
+phonograms receiving equitable remuneration when their phonograms 
+published for commercial purposes are used for broadcasting or for any 
+communication to the public.23 
+2. The Parties shall cooperate and discuss measures with a view to facilitating 
+equitable remuneration for performers and producers of phonograms. 
+ 
+Article 13.67 
+Artist’s Resale Right 
+1. Each Party shall provide, for the benefit of the author of an original work of art, 
+a resale right, to be defined as an inalienable right, which cannot be waived, 
+even in advance, to receive a royalty based on the sale price obtained for any 
+resale of the work, subsequent to the first transfer of the work by the author. 
+2. The Parties shall engage in discussions as soon as reasonably practicable, after 
+the date of entry into force of this Agreement, for the establishment of a well -
+functioning and effective mechanism to enable the author of an original work 
+of art and their beneficiaries to receive royalties. 
+3. Nothing in this Article shall require a Party to provide an artist’s resale right for 
+authors and their beneficiaries of the other Party on a reciprocal basis, until the 
+mechanism as referred in paragraph 2 has been established to the satisfaction of 
+each Party. 
+ 
+ 
+23 For the purposes of this Article, “communication to the public” does not include the making available 
+to the public of a phonogram, by wire or wireless means, in such a way that members of the public may 
+access them from a place and at a time individually chosen by them. 
+ 
+13 - 33 
+Article 13.68 
+Limitations and Exceptions 
+1. A Party may provide limitations or exceptions in its law to the rights provided 
+for in this Section, but shall confine those limitations or exceptions to certain 
+special cases that do not conflict with a normal exploitation of covered subject 
+matter, and do not unreasonably prejudice the legitimate interests of the right 
+holder. 
+2. This Article is without prejudice to the scope of applicability of the limitations 
+and exceptions to any rights permitted by the TRIPS Agreement and WIPO 
+administered treaties to which a Party is party. 
+ 
+Article 13.69 
+Term of Protection 
+1. Each Party shall provide that the rights of an author of a work within the 
+meaning of Article 2 of the Berne Convention shall run for the life of the author 
+and for no less than 60 years after the author’s death.24 
+2. In the case of a work of joint authorship, each Party shall provide that the term 
+referred to in paragraph 1 shall be calculated from the death of the last surviving 
+author. 
+3. Where the term of protection of a work is not determined by reference to the 
+life of a natural person, each Party shall provide that the term of protection shall 
+run for no less than 60 years from when the work was first lawfully made 
+available to the public.25 
+4. Each Party shall provide that the rights of broadcasting organisations shall run 
+for no less than 25 years from the first transmission of a broadcast, whether this 
+broadcast is transmitted by wire or over the air, including by cable or satellite. 
+5. Each Party shall provide that the rights of performers for their performances 
+shall run for no less than 50 years from making of the performance. 
+6. Each Party shall provide that the rights of producers of phonograms shall run 
+for no less than 60 years from when the phonogram was first lawfully published 
+or made available to the public.26 
+7. Each Party shall provide that the terms laid down in this Article shall be 
+calculated from the beginning of the calendar year following the event. 
+ 
+24 For India, notwithstanding paragraph 1, the rights of a producer of cinematographic work shall run for 
+60 years from when the cinematographic work was first lawfully published in accordance with the Party’s 
+law.  
+25 For the United Kingdom, this only applies to works made available to the public within 70 years from 
+creation. 
+26 For the United Kingdom, this only applies to phonograms lawfully published or made available to the 
+public within 50 years from fixation. 
+ 
+13 - 34 
+8. A Party may provide for longer terms of protection than those provided for in 
+this Article. 
+9. Within three years of the entry into force of this Agreement, if the Parties have 
+not entered into consultations for review pursuant to paragraph 10, India shall 
+commence an internal domestic review in a timely manner for increasing the 
+term of protection of works, performances, phonograms  and broadcasts. India 
+shall complete the review within a reasonable period of time and communicate 
+the findings of this domestic review to the United Kingdom  through the 
+Working Group on Intellectual Property Rights established pursuant to Article 
+13.15 (Working Group on Intellectual Property Rights). 
+10. The Parties shall, following entry into force of this Agreement, enter into 
+consultations to review this Article if: 
+(a) after this Agreement has been signed by the Parties India introduces a 
+legislative change increasing the term of protection provided under this 
+Article; or 
+(b) after the date of entry into force of this Agreement, an international 
+agreement enters into force between India and a non-Party that includes 
+obligations to increase  any term of protection provided under this 
+Article. 
+11. If an event or change described in paragraph 10 occurs, the Parties shall:  
+(a) enter into consultations under the auspices of the Working Group on 
+Intellectual Property Rights established pursuant to Article 13.15 
+(Working Group on Intellectual Property Rights) as soon as reasonably 
+practicable after the relevant event or change in paragraph 10 has taken 
+place, and in any event no later than one year after the date of that event 
+or change;27 
+(b) where these consultations are entered into, review this Article with a 
+view to increasing the term of protection following: 
+(i) the legislative change referred to in subparagraph 10(a); or 
+(ii) the international agreement(s) referred to in subparagraph 10(b); 
+and 
+(c) following these consultations, complete the review under this Article in 
+a timely manner. 
+ 
+ 
+27 Where the relevant change in paragraph 10(a) has taken place before the date of entry into force of this 
+Agreement, the Parties shall enter into consultations as soon as reasonably practicable after the date of 
+entry into force of this Agreement and, in any event, no later than one year after the date of entry into 
+force of this Agreement. 
+ 
+13 - 35 
+Article 13.70 
+Collective Rights Management 
+1. The Parties shall endeavour to promote cooperation between the collective 
+management organisations established in their respective territories for the 
+purpose of facilitating licensing of content between the Parties, as well as 
+encouraging the transfer of rights revenue between the resp ective collective 
+management organisations for the use of that content. 
+2. Each Party shall endeavour to promote the transparency of collective 
+management organisations established in their respective territories, particularly 
+in relation to the collection of rights revenues, the deductions they make from 
+the rights revenue coll ected, their distribution policies  and the repertoire they 
+represent. 
+3. Each Party shall endeavour to promote the non -discriminatory treatment by 
+collective management organisations of right  holders these organisations 
+represent either directly or via another collective management organisation. 
+4. Each Party shall encourage collective management organisations established in 
+its territory to regularly, diligently  and accurately distribute amounts due to 
+represented collective management organisations in a timely manner. 
+ 
+Article 13.71 
+Technological Protection Measures  
+1. Each Party shall provide adequate legal protection and effective legal remedies 
+against the unauthorised circumvention of effective technological measures that 
+are used in connection with the exercise of rights provided under this Section 
+and that restrict acts which are not authorised by the right holders concerned or 
+permitted by the Party’s law. 
+2. A Party may take appropriate measures, as necessary, to ensure that the 
+protection afforded in accordance with this Article shall not prevent 
+beneficiaries of exceptions or limitations provided for in accordance with 
+Article 13.68 (Limitations and Exceptions) from enjoying those exceptions or 
+limitations. 
+Article 13.72 
+Rights Management Information 
+1. Each Party shall provide adequate legal protection and effective legal remedies 
+against any person knowingly performing, without authority, any of the 
+following acts knowing, or having reasonable grounds to know, that it will 
+induce, enable, facilitate, or conceal an infringement of covered subject matter: 
+(a) to remove or alter any electronic rights management information; or 
+(b) to distribute, import for distribution, broadcast, communicate, or make 
+available to the public covered subject matter, knowing that electronic 
+ 
+13 - 36 
+rights management information has been removed or altered without 
+authority. 
+2. For greater certainty, this Article does not prevent beneficiaries of exceptions or 
+limitations provided for in accordance with Article 13.68 (Limitations and 
+Exceptions) from enjoying those limitations or exceptions. 
+3. For the purposes of this Article, “rights management information” means: 
+(a) information that identifies covered subject matter, the author, performer, 
+producer of a phonogram or any other right holder with respect to 
+covered subject matter; 
+(b) information about the terms and conditions of use of covered subject 
+matter; or 
+(c) any numbers or codes that represent the information described in 
+subparagraphs (a) and (b), when any of these items of information is 
+attached to covered subject matter, or appears in connection with the 
+communication or making available of covered subject matter to the 
+public. 
+ 
+Section H 
+Trade Secrets 
+Article 13.73 
+Scope of Trade Secret Protection 
+1. In the course of ensuring effective protection against unfair competition as 
+provided in Article 10bis of the Paris Convention, each Party shall ensure that 
+trade secret holders have the legal means  to prevent trade secrets lawfully in 
+their control from being disclosed to, acquired by, or used by others without 
+their consent in a manner contrary to honest commercial practices. 
+2. Subject to paragraphs 3 and 4, each Party shall provide that at least the following 
+practices shall be considered contrary to honest commercial practices: 
+(a) breach of contract; 
+(b) breach of confidence; 
+(c) inducement to breach a contract or confidence; and 
+(d) acquisition of undisclosed information by third parties who knew, or 
+were grossly negligent in failing to know, that the trade secret was 
+acquired by practices in subparagraphs (a) through (c). 
+3. A Party may provide that the disclosure, acquisition  or use of a trade secret is 
+not considered contrary to honest commercial practices if: 
+(a) the trade secret is obtained through: 
+ 
+13 - 37 
+(i) independent discovery or creation; or 
+(ii) reverse engineering of a product by a person who is lawfully in 
+possession of it and who is free from any legally valid duty to 
+limit the acquisition of the relevant information; 
+(b) the trade secret is disclosed or acquired in the exercise of the right of 
+workers or workers’ representatives to information and consultation in 
+accordance with the Party’s law; or 
+(c) the disclosure, acquisition or use is required or permitted by the Party’s 
+law. 
+4. A Party may provide for limited exceptions and limitations to the rights of trade 
+secret holders in circumstances where the legitimate interests of third parties, 
+the general public or the Party outweigh the legitimate interests of trade secret 
+holders, including: 
+(a) for exercising the right to freedom of expression and information, 
+including respect for the freedom and pluralism of the media; 
+(b) for revealing misconduct, wrongdoing or illegal activity, provided that 
+the person disclosing, acquiring or using the trade secret did so for the 
+purpose of protecting the general public interest; or 
+(c) disclosure by workers to their representatives as part of the legitimate 
+exercise by those representatives of their functions in accordance with 
+the Party’s law, provided that the disclosure was required to exercise 
+those functions. 
+ 
+Section I 
+Enforcement 
+Subsection 1 
+General Obligations 
+Article 13.74 
+General Obligations 
+1. Each Party shall provide in its law for the enforcement of intellectual property 
+rights consistent with the TRIPS Agreement. 
+2. Each Party shall ensure that the enforcement procedures and remedies set out in 
+this Chapter are available under its law  so as to permit effective action against 
+any act of infringement of intellectual property rights covered by this Chapter, 
+including expeditious remedies to prevent infringements and remedies which 
+constitute a deterrent to further infringements. 
+3. The procedures and remedies must be: 
+(a) fair and equitable; 
+ 
+13 - 38 
+(b) applied in such a manner as to avoid the creation of barriers to legitimate 
+trade, including electronic commerce, and to provide for safeguards 
+against their abuse; 
+(c) implemented in a manner consistent with the Party’s law including laws 
+and regulations concerning freedom of expression, fair process and the 
+right to privacy; and 
+(d) dissuasive and proportionate taking into account the seriousness of the 
+infringement and the interests of third parties. 
+4. Procedures and remedies must not be unnecessarily complicated, costly, entail 
+unreasonable time-limits or give rise to unwarranted delays. 
+5. This Section does not create any obligation: 
+(a) to put in place a judicial system for the enforcement of intellectual 
+property rights distinct from that of the enforcement of laws and 
+regulations in general, nor does it affect the capacity of a Party to enforce 
+its laws and regulations in general; or 
+(b) with respect to the distribution of resources as between the enforcement 
+of intellectual property rights and the enforcement of laws and 
+regulations in general. 
+ 
+Subsection 2 
+Civil Remedies 
+Article 13.75 
+Fair and Equitable Procedures 
+1. Each Party shall make available to a right holder28 civil judicial procedures and 
+remedies concerning the enforcement of any intellectual property right covered 
+under this Chapter. 
+2. Each Party shall provide that defendants have the right to written notice which 
+is timely and contains sufficient detail, including the basis of the claims. Parties 
+to the procedures shall be allowed to be represented by independent legal 
+counsel, and procedures shall not impose overly burdensome requ irements 
+concerning mandatory personal appearances. All parties to these procedures 
+shall be duly entitled to substantiate their claims and to present all relevant 
+evidence. 
+ 
+ 
+28 For the purposes of this Article, the term “right holder” includes federations and associations that have 
+legal standing to assert such rights. 
+ 
+13 - 39 
+Article 13.76 
+Provisional and Precautionary Measures 
+1. Each Party  shall provide that its judicial authorities may, on request by the 
+applicant: 
+(a) issue against the alleged infringer, and subject to the Party’s law, a third 
+party over whom the relevant judicial authority exercises jurisdiction 
+and whose services are used to infringe an intellectual property right, an 
+interlocutory injunction intended to prevent any imminent infringement 
+of an intellectual property right, or to forb id the continuation of the 
+alleged infringement of that right, on a provisional basis or to make that 
+continuation subject to the lodging of guarantees intended to ensure the 
+compensation of the right holder; and 
+(b) order the seizure or delivery up of goods suspected of infringing at least 
+trade marks, copyright, geographical indications  and designs so as to 
+prevent their entry into or movement within the channels of commerce. 
+2. In the case of an alleged infringement committed on a commercial scale, each 
+Party shall provide that if the applicant demonstrates circumstances likely to 
+endanger the recovery of damages, its judicial authorities may order the 
+precautionary seizure of i mmovable property of the alleged infringer. A Party 
+may also provide that its judicial authorities may order the precautionary seizure 
+of movable property of the alleged infringer, including the blocking of the 
+alleged infringer's bank accounts and other assets. 
+ 
+Article 13.77 
+Provisional Measures for Preserving Evidence 
+1. Further to paragraph 1 of Article  13.76 (Provisional and Precautionary 
+Measures), each Party shall provide that its  judicial authorities may also order 
+prompt and effective provisional measures to preserve relevant evidence in 
+relation to the alleged infringement, subject to the protection of confidential 
+information. 
+2. Each Party shall provide that its judicial authorities may adopt provisional 
+measures where appropriate without the other party having been heard, in 
+particular if any delay is likely to cause irreparable harm to the right holder or 
+if there is a demonstrable risk of evidence being destroyed. 
+ 
+Article 13.78 
+Evidence 
+1. Each Party shall provide that their judicial authorities, where a party has 
+presented reasonably available evidence sufficient to support its claims and has 
+specified evidence relevant to substantiation of its claims which lies in the 
+control of the opposing party, may order that this evidence be produced by the 
+ 
+13 - 40 
+opposing party, subject in appropriate cases to conditions which ensure the 
+protection of confidential information. 
+2. In cases in which a party to a proceeding voluntarily and without good reason 
+refuses access to, or otherwise does not provide necessary information within a 
+reasonable period, or significantly impedes a procedure relating to an 
+enforcement action, a Party may accord judicial authorities the authority to 
+make preliminary and final determinations, affirmative or negative, on the basis 
+of the information presented to them, including the complaint or the allegation 
+presented by the party adversely affected by the denial of access to information, 
+subject to providing the parties an opportunity to be heard on the allegations or 
+evidence. 
+ 
+Article 13.79 
+Injunctions 
+1. Each Party shall provide that where its judicial authorities have found an 
+infringement of an intellectual property right, those authorities may  issue an 
+injunction aimed at prohibiting or stopping the infringement.29  
+2. The injunction referred to in paragraph 1 shall be available against: 
+(a) the infringer; and 
+(b) where appropriate and subject to the Party’s law, a third party over whom 
+the relevant judicial authority exercises jurisdiction and whose services 
+are used to infringe an intellectual property right. 
+ 
+Article 13.80 
+Corrective Measures 
+1. Each Party shall provide that their judicial authorities may order that goods that 
+they have found to be infringing be disposed of outside the channels of 
+commerce, without compensation of any sort to the infringer, and  in such  a 
+manner as to avoid causing any harm to the right holder, or unless this would be 
+contrary to existing constitutional requirements, destroyed. 
+2. Each Party shall also provide that their judicial authorities have the authority to 
+order that materials and implements, the predominant use of which has been in 
+the creation of the infringing goods, be disposed of outside the channels of 
+commerce in such a manner as to minimise the risks of further infringements, 
+without compensation of any sort to the infringer. 
+ 
+29 The obligations in this Section are without prejudice to the flexibilities available under Article 44.2 of 
+the TRIPS Agreement. 
+ 
+13 - 41 
+3. In regard to counterfeit trade mark goods, the simple removal of the trademark 
+unlawfully affixed shall not be sufficient, other than in exceptional cases, to 
+permit the release of the goods into the channels of commerce. 
+4. Each Party shall provide that their judicial authorities  may order that the 
+measures referred to in this Article are to be carried out at the expense of the 
+infringer. 
+ 
+Article 13.81 
+Damages 
+1. Each Party shall provide that its judicial authorities may order an infringer who, 
+knowingly or with reasonable grounds to know, engaged in activities infringing 
+intellectual property rights to pay the right holder damages adequate to 
+compensate for the injury the right holder has suffered as a result of the 
+infringement. 
+2. In determining the amount of damages for infringements of intellectual property 
+rights, the judicial authorities of a Party may consider any legitimate measure 
+of value that may be submitted by the right holder, which may include lost 
+profits suffered by the injured party or unfair profits made by the infringer, as 
+appropriate. 
+ 
+Article 13.82 
+Legal Costs 
+Each Party shall provide that its judicial authorities may order that reasonable and 
+proportionate legal costs and other expenses incurred by the successful party in legal 
+proceedings concerning the infringement of intellectual property rights shall be bor ne 
+by the unsuccessful party. 
+ 
+Article 13.83 
+Safeguards 
+1. Each Party shall provide that its judicial authorities may require the applicant 
+for a measure provided for in Article 13.76 (Provisional and Precautionary 
+Measures) in respect of an intellectual property right to provide any reasonably 
+available evidence in order to satisfy the judicial authority, with a sufficient 
+degree of certainty, that the applicant’s right is being infri nged or that an 
+infringement is imminent, and to order the applicant to provide security or 
+equivalent assurance set at a level sufficient to protect the person against whom 
+a measure is sought and to prevent abuse. This security or equivalent assurance 
+shall not unreasonably deter recourse to those procedures. 
+2. Each Party shall provide that its judicial authorities may order a party at whose 
+request measures were taken and who has abused enforcement procedures with 
+regard to intellectual property rights, to provide to a person subject to those 
+ 
+13 - 42 
+measures adequate compensation for the injury suffered because of that abuse. 
+The judicial authorities may also order the applicant to pay the defendant 
+expenses, which may include appropriate attorney’s fees. 
+ 
+Article 13.84 
+Confidential Information in Judicial Proceedings 
+1. The procedures under this Article shall provide the means to identify and protect 
+confidential information or trade secrets, unless this would be contrary to 
+existing constitutional requirements. 
+2. Each Party shall provide that in relation to a civil judicial proceeding concerning 
+the enforcement of an intellectual property right, its judicial or other authorities 
+may impose penalties on a party to a proceeding, counsel, expert, or other 
+person subject to the court’s jurisdiction for violation  of judicial orders 30 
+concerning the protection of confidential information produced or exchanged in 
+that proceeding. 
+3. Each Party shall also provide that in relation to a civil judicial proceeding, its 
+judicial authorities may: 
+(a) order that a person participating in those proceedings  shall not disclose 
+or use any trade secret or alleged trade secret which the judicial authority 
+has identified as confidential, in response to a duly reasoned application 
+by an interested party, and on which the person participating has become 
+aware as a result of their participation; and 
+(b) take measures to preserve the confidentiality of any trade secret or 
+alleged trade secret in the proceedings relating to the alleged disclosure, 
+acquisition, or use of a trade secret in a manner contrary to honest 
+commercial practices. Those specific measures may include restricting 
+access to certain documents in whole or in part, restricting access to 
+hearings and corresponding records or transcript, and making available 
+non-confidential versions of a judicial decision with trade secrets 
+removed or redacted. 
+ 
+Article 13.85 
+Administrative Procedures 
+To the extent that any civil remedy can be ordered as a result of administrative 
+procedures on the merits of a case, those procedures shall conform to principles 
+equivalent in substance to those set forth in this Subsection. 
+ 
+ 
+30 For greater certainty, for the purposes of this Article, it is understood that a Party’s law may use an 
+alternative term to “judicial orders” such as “court orders”. 
+ 
+13 - 43 
+Article 13.86 
+Trade Secrets Enforcement 
+1. In civil judicial proceedings, each Party shall provide that its judicial authorities 
+may order: 
+(a) provisional measures to prevent the disclosure, acquisition or use of a 
+trade secret in a manner contrary to honest commercial practices; 
+(b) the cessation or prohibition of the disclosure, acquisition or use of a trade 
+secret in a manner contrary to honest commercial practices; and 
+(c) damages, appropriate to compensate for the injury, to be paid to the trade 
+secret holder by the person that knew, or was grossly negligent in failing 
+to know, that they were disclosing, acquiring, or using a trade secret in 
+a manner contrary to honest commercial practices. 
+ 
+Subsection 3 
+Border Measures 
+Article 13.87 
+Scope of Border Measures 
+1. Each Party shall provide for procedures pertaining to imports under which a 
+right holder may submit applications requesting the competent authorities to 
+suspend the release of, or to detain, suspected goods under customs control. 
+2. For the purposes of this Subsection, “suspected goods” means goods suspected 
+of infringing trade marks, copyrights and related rights, geographical 
+indications, or industrial designs  under the law of the Party providing the 
+procedures. 
+3.  A Party may exclude from the application of this Subsection small quantities of 
+goods of a non -commercial nature contained in travellers’ personal luggage or 
+sent in small consignments. 
+4. There shall be no obligation to apply the procedures, as described in this 
+Subsection, to imports of goods put on the market in another country by or with 
+the consent of the right holder, or to goods in transit. 
+ 
+Article 13.88 
+Applications 
+1. Each Party shall provide that its competent authorities require a right holder 
+who requests the procedures to suspend the release of, or to detain, suspected 
+goods under customs control: 
+ 
+13 - 44 
+(a) to provide adequate evidence to satisfy its competent authorities that, 
+pursuant to its law, there is prima facie  an infringement of the right 
+holder’s intellectual property right; and 
+(b) to supply sufficient information that may reasonably be expected to be 
+within the right holder’s knowledge to make the suspected goods 
+reasonably recognisable by its competent authorities. 
+2. Each Party shall ensure that its competent authorities decide whether they shall 
+grant applications to suspend the release of suspected goods within a reasonable 
+period of time of the initiation of the procedures described in Article 13.87 
+(Scope of Border Measures), as provided under each Party’s law. 
+3. Each Party shall ensure that any fees imposed to cover the administrative costs, 
+arising from the processing or recording of an application, are commensurate 
+with the costs incurred by the competent authorities. 
+4. Each Party shall provide that, where requested by the customs authorities, the 
+holder of the granted application shall be obliged to reimburse the costs incurred 
+by the customs authorities or other parties acting on behalf of customs 
+authorities, from the  moment of detention or suspension of the release of the 
+goods, including storage, handling and any costs relating to the destruction or 
+disposal of the goods. 
+ 
+Article 13.89 
+Security or Equivalent Assurance 
+Each Party shall provide that its competent authorities may require a right holder 
+initiating procedures referred to in Article 13.87 (Scope of Border Measures) to provide 
+a security or equivalent assurance sufficient to protect the defendant and the competent 
+authorities and to prevent abuse. Each Party shall provide that the security or equivalent 
+assurance shall not unreasonably deter recourse to these procedures. 
+ 
+Article 13.90 
+Notice of Suspension 
+Each Party shall provide that the importer and the applicant are promptly notified of the 
+suspension of the release of goods.  
+ 
+Article 13.91 
+Indemnification of the Importer and of the Owner of the Goods 
+The Parties shall provide that their respective relevant authorities may order the 
+applicant to pay the importer, the consignee and the owner of the goods appropriate 
+compensation for any injury caused to them through the wrongful detention of goods. 
+ 
+ 
+13 - 45 
+Article 13.92 
+Suspension of IPR Infringing Goods by Ex-Officio Action 
+1. Each Party shall provide that its competent authorities may suspend the release 
+into free circulation  of, or detain, imported suspected goods 31 under customs 
+control ex officio, without the need for a formal complaint from a third party or 
+right holder. Each Party shall provide that its customs authorities use risk 
+management to identify suspected goods, which may include random selection. 
+2. Each Party shall only exempt both public authorities and officials from liability 
+to appropriate remedial measures where actions are taken or intended in good 
+faith. 
+3. Each Party shall provide that its competent authorities may, where they act on 
+their own initiative , request a right holder to supply relevant information to 
+assist the competent authorities in the exercise of those powers. 
+ 
+Article 13.93 
+Provision of Information to Right Holder 
+A Party may provide that its competent authorities may inform the right holder of  the 
+names and addresses of the consignor, exporter, consignee or importer; a description of 
+the suspected goods; the quantity of the suspected goods; and, if known, the country of 
+origin of the suspected goods. This paragraph is without prejudice to a Party’s law 
+pertaining to privacy or confidential information and applies if a Party’s competent 
+authorities have detained or suspended the release of suspected goods. 
+ 
+Article 13.94 
+Authority to Determine Infringements 
+Each Party shall adopt or maintain procedures under which its competent authorities 
+may determine, within a reasonable period after initiation of procedures to suspend the 
+release of, or to detain, the  suspected goods under customs control and upon due 
+examination, whether suspected goods infringe an intellectual property right. 
+ 
+Article 13.95 
+Remedies 
+Each Party shall provide that its competent authorities may order the destruction or 
+disposal of suspected goods following a determination that the goods are infringing. In 
+cases where goods are not destroyed, each Party shall  provide that, other than in 
+exceptional circumstances, the goods are disposed of outside the channels of commerce 
+in such a manner as to avoid any harm to the right holder. In regard to counterfeit trade 
+mark goods, the simple removal of a trade mark  unlawfully affixed shall not be 
+ 
+31 For greater certainty, a Party may comply with this requirement by requiring that its competent 
+authorities have reasonable grounds for believing that the goods are suspected goods. 
+ 
+13 - 46 
+sufficient, other than in exceptional cases, to permit the release of the goods into the 
+channels of commerce. 
+ 
+Subsection 4 
+Criminal Procedures and Penalties 
+Article 13.96 
+Offences 
+1. Each Party shall provide for criminal procedures and penalties to be applied at 
+least in cases of wilful trade mark counterfeiting or copyright piracy on a 
+commercial scale, whether or not carried out for commercial advantage or 
+financial gain. 
+2. Each Party shall provide for criminal procedures and penalties to be applied in 
+cases of selling, offers  for sale, or distribution in the course of trade and on a 
+commercial scale, of a label or packaging: 
+(a) to which a trade mark has been applied without authorisation that is 
+identical to, or cannot be distinguished from, a trade mark registered in 
+its territory; and 
+(b) that is intended to be used in the course of trade on goods that are 
+identical to goods for which that trade mark is registered. 
+3. With respect to the offences specified in paragraphs 1 and 2, each Party shall 
+provide that criminal liability for aiding and abetting is available under its law.32 
+ 
+Article 13.97 
+Ex-Officio Enforcement 
+Each Party shall provide that its competent authorities may act upon their own initiative 
+to initiate legal action with respect to the offences specified in Article 13.96 (Offences), 
+without the need for a formal complaint by a third party or right holder. 
+ 
+Article 13.98 
+Seizure 
+With respect to the offences specified in Article 13.96 (Offences), each Party shall 
+provide that its competent authorities may order the seizure of suspected counterfeit 
+trade mark goods or pirated copyright  goods, any related materials and implements 
+which have been predominantly used in the commission of the alleged offence, or 
+documentary evidence relevant to the alleged offence , and assets derived from  or 
+obtained through the alleged infringing activity. 
+ 
+32 For greater certainty, this Article also applies to offences in any free trade zones in a Party. 
+ 
+13 - 47 
+ 
+Article 13.99 
+Forfeiture and Destruction of Goods 
+1. With respect to the offences specified in Article 13.96 (Offences), each Party 
+shall provide that its competent authorities may order the forfeiture or 
+destruction33 of: 
+(a) all counterfeit trade mark goods or pirated copyright goods; 
+(b) materials and implements that have been predominantly used in the 
+creation of pirated copyright goods or counterfeit trade mark goods; and 
+(c) any other labels or packaging to which a counterfeit trade mark has been 
+applied and that have been used in the commission of the offence. 
+2. With respect to the offences specified in Article 13.96 (Offences), the competent 
+authorities of a Party may order that the forfeiture, destruction or disposal of 
+goods outside the channels of commerce shall occur without compensation of 
+any kind to the offender. 
+3. With respect to the offences specified in Article 13.96 (Offences), each Party 
+shall further provide that its competent authorities may order the forfeiture of 
+any assets derived from or obtained through infringing activity. 
+ 
+Article 13.100 
+Evidence Held by Competent Authorities 
+Each Party shall provide that its competent authorities may provide access to goods, 
+material, implements, and other evidence held by the relevant authority to a right 
+holder.34 
+ 
+Article 13.101 
+Penalties 
+1. With respect to the offences specified in Article 13.96 (Offences), each Party 
+shall provide for penalties that include imprisonment or monetary fines 
+sufficiently high to provide a deterrent to future acts of infringement, consistent 
+with the level of penalties applied for crimes of a corresponding gravity. 
+ 
+33 A Party may also provide for its competent authorities to order the disposal of items under this Article 
+outside the channels of commerce in such a manner as to avoid causing any harm to the right holder. 
+34 For greater certainty, access to any relevant evidence under this Article may be provided to assist the 
+right holder in civil infringement proceedings. The Parties shall also provide for the release of evidence 
+where this is available under a Party’s law. 
+ 
+13 - 48 
+2. Each Party shall provide that its competent authorities may, in determining 
+penalties, account for the seriousness of the circumstances, in accordance with 
+its law.35 
+ 
+Subsection 5 
+Enforcement in The Digital Environment 
+Article 13.102 
+Infringement in the digital environment 
+1. Each Party shall provide that the enforcement procedures and remedies, referred 
+to in Subsections 2 (Civil Remedies) and 4 (Criminal Procedures and Penalties), 
+as applicable, are available under its law to proceed against an act of 
+infringement of intellectual property rights which takes place in the digital 
+environment. 
+2. For the purpose of this Subsection, infringement of intellectual property rights 
+shall mean the infringement of copyright or related rights over digital networks, 
+which may include the use of means of widespread distribution for infringing 
+purposes, or trade marks over digital networks, including electronic commerce 
+platforms and social media. 
+ 
+Article 13.103 
+Limited Liability of Online Service Providers 
+1. Each Party shall establish or maintain a system which in appropriate cases limits 
+the liability of, or remedies available against an Online Service Provider 
+(“OSP”), for infringements of copyright or related rights or trade marks 
+committed by a user of its services. Each Party shall provide that an OSP shall 
+qualify for this limitation of liability, in accordance with its law under certain 
+specified conditions. Those conditions shall include, where appropriate, that the 
+OSP be required to make reasonable  efforts to prevent access to the materials 
+infringing these rights. 
+2. This Article shall not affect the possibility of a court or administrative authority, 
+in accordance with the law of a Party, requiring the OSP to terminate, remove 
+or disable access to infringing content, including by granting an injunction 
+pursuant to Art icle 13.76 (Provisional and Precautionary Measures), Article 
+13.79 (Injunctions) or Article 13.104 (Blocking Orders). 
+ 
+ 
+35 Factors that may be considered in assessing the level of penalties may include threats to, or effects on, 
+health, safety or both. 
+ 
+13 - 49 
+Article 13.104 
+Blocking Orders 
+Each Party shall provide that its civil judicial authorities may grant an injunction against 
+an OSP, ordering the OSP to take action to block access to infringing content, in cases 
+where the services of the OSP are used by a third party to infringe copyright or related 
+rights and trade marks. 
+ 
+Article 13.105 
+Domain Registries 
+1. Each Party shall encourage their domain registry to provide the use of measures 
+that appropriately, timely, and effectively suspend domains used in the 
+infringement of copyright or related rights and trade marks on their respective 
+ccTLDs.36 
+2. This requirement may be satisfied by  measures facilitating cooperative 
+arrangements between  the relevant domain registry, law enforcement  and 
+industry groups. 
+ 
+Subsection 6 
+Enforcement Practices 
+Article 13.106 
+Publication of Judicial Decisions 
+Each Party shall provide that final judicial decisions and administrative rulings of 
+general application pertaining to the enforcement of intellectual property rights are 
+made available37 preferably in writing and state any relevant findings of fact and the 
+reasoning or the legal basis on which the decisions and rulings are based. 
+ 
+Article 13.107 
+Access to Justice 
+1. The Parties recognise the importance of ensuring that all right holders have 
+access to justice and recognise that SMEs 38 and individual right  holders can 
+disproportionately face barriers to their international trade due to unwarranted 
+costs and delays in enforcing their intellectual property rights. 
+2. Each Party shall endeavour to encourage the use of alternate dispute resolution 
+(“ADR”) mechanisms for disputes relating to intellectual property. 
+ 
+36 For greater certainty, this Article shall not be construed as prejudicing the independence of each Party’s 
+domain registry. 
+37 For greater certainty, a Party may satisfy the requirement for publication by making the decision or 
+ruling available to the public on the Internet. 
+38 For the purposes of this provision, SMEs shall be defined as including start-ups and micro-entities. 
+ 
+13 - 50 
+3. Each Party shall endeavour to further facilitate access to justice for all right  
+holders. Those measures may include the provision of specialist intellectual 
+property judicial authorities. 
+ 
+Article 13.108 
+Voluntary Stakeholder Initiatives 
+Each Party shall endeavour to promote cooperative efforts within the business 
+community to effectively address intellectual property infringement, including in the 
+digital environment, while preserving legitimate competition. This may include 
+encouraging the establishment of public or private advisory groups to address issues of 
+at least trade mark counterfeiting and copyright piracy. 
+ 
+Article 13.109 
+Public Awareness 
+Each Party shall, as appropriate, use reasonable efforts to enhance public awareness of 
+the importance of respecting intellectual property rights and the detrimental effect of 
+the infringement of intellectual property rights. This may include cooperation with the 
+business community, civil society organisations, and right holder representatives. 
+ 
+Article 13.110 
+Specialised Expertise and Domestic Coordination 
+1. Each Party shall encourage the development of specialised expertise within its 
+competent authorities responsible for the enforcement of intellectual property 
+rights. 
+2. For the purpose of enforcing intellectual property rights, each Party recognises 
+that effective coordination is required between their competent authorities.39 
+ 
+Article 13.111 
+Environmental Considerations 
+Without prejudice to the obligations arising from Article 13.80 (Corrective Measures), 
+Article 13.98 (Seizure) and Article 13.99 (Forfeiture and Destruction of Goods) , the 
+Parties recognise the importance of having due regard to environmental matters in their 
+enforcement practices relating to the destruction and disposal of goods that have been 
+found to infringe intellectual property rights. 
+ 
+39 For the avoidance of doubt, this paragraph does not create any new international coordination 
+obligations between the Parties’ competent authorities. 

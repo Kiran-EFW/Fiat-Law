@@ -1,0 +1,749 @@
+# SOURCE: library/01-ceta-legal-text/uk-india-ceta-chapter-9-financial-services.pdf
+# pages: 18
+
+ 
+9 - 1 
+CHAPTER 9 
+FINANCIAL SERVICES 
+ 
+Article 9.1 
+Definitions 
+For the purposes of this Chapter: 
+“commercial presence” means  any type of business or professional establishment, 
+including through: 
+(a) the constitution, acquisition or maintenance of a juridical person; or 
+(b) the creation or maintenance of a branch or representative office,  
+within the territory of a Party for the purpose of supplying a financial service;1 
+“electronic payments” means an acceptable transfer of monetary value from a payer 
+to a payee through electronic means; 
+“financial service ” means any service of a financial nature  offered by a financial 
+service supplier of a Party . Financial services include  all insurance and insurance 
+related services, all banking and other financial services (excluding insurance) . 
+Financial services include the following activities: 
+(a) insurance and insurance-related services:  
+(i) direct insurance (including co-insurance):  
+(A) life; and 
+(B) non-life; 
+(ii) reinsurance and retrocession; 
+(iii) insurance intermediation, such as brokerage and agency; and  
+(iv)  services auxiliary to insurance, such as consultancy, actuarial, 
+risk assessment and claim settlement services; 
+(b) banking and other financial services (excluding insurance): 
+(i) acceptance of deposits and other repayable funds from the 
+public; 
+(ii) lending of all types, including consumer credit, mortgage credit, 
+factoring, and financing of commercial transactions; 
+ 
+1 For greater certainty, commercial presence may be established for the purpose of supplying services 
+other than financial services, provided that at least one financial service is supplied through such 
+commercial presence. 
+ 
+9 - 2 
+(iii) financial leasing; 
+(iv) all payment and money transmission services, including credit, 
+charge and debit cards, travellers’ cheques, and bankers’ drafts; 
+(v) guarantees and commitments; 
+(vi) trading for own account or for account of customers, whether on 
+an exchange, in an over-the-counter market or otherwise, the 
+following: 
+(A)  money market instruments (including cheques, bills or 
+certificates of deposits); 
+(B)  foreign exchange; 
+(C)  derivative products including futures and options; 
+(D)  exchange rate and interest rate instruments, including 
+products such as swaps and forward rate agreements; 
+(E)  transferable securities; or 
+(F)  other negotiable instruments and financial assets, 
+including bullion; 
+(vii) participation in issues of all kinds of securities, including 
+underwriting and placement as agent (whether publicly or 
+privately), and provision of services related to such issues; 
+(viii) money broking; 
+(ix) asset management, such as cash or portfolio management, all 
+forms of collective investment management, pension fund 
+management, custodial, depository, and trust services; 
+(x) settlement and clearing services for financial assets, including 
+securities, derivative products, and other negotiable 
+instruments; 
+(xi) provision and transfer of financial information, and financial 
+data processing and related software by suppliers of other 
+financial services; and 
+(xii) advisory, intermediation and other auxiliary financial services 
+on all the activities listed at subparagraphs (i) through (xi) , 
+including credit reference and analysis, investment and portfolio 
+research and advice, and advice on acquisitions and on corporate 
+restructuring and strategy; 
+ 
+9 - 3 
+“financial service supplier ” means any person of a Party seeking to supply or 
+supplying financial services, but does not include a public entity;2  
+“juridical person of a Party” means a juridical person which is either: 
+(a) constituted or otherwise organised under the law of that Party, and is 
+engaged in substantive business operations in the territory of that Party; 
+or  
+(b) in the case of the supply of a service through commercial presence, 
+owned or controlled by: 
+(i) natural persons of that Party; or 
+(ii) juridical persons of that Party identified under subparagraph (a); 
+a juridical person is:  
+(a) “owned” by persons of a Party if more than 50 per cent of the equity 
+interest in it is beneficially owned by persons of that Party; 
+(b)  “controlled” by persons of a Party if such persons have the power to 
+name a majority of its directors or otherwise to legally direct its actions; 
+“natural person of a Party” means a national as defined in Article 1.4 (General 
+Definitions – Initial Provisions and General Definitions); 
+“new financial service” means a financial service that is not supplied in the territory 
+of a Party but which is supplied and regulated in the territory of the other Party. This 
+may include services related to existing and new financial products, or the manner in 
+which the financial product is delivered; 
+“public entity” means: 
+(a) a government, a central bank or a monetary authority of a Party or any 
+entity owned or controlled by a Party, that is principally engaged in 
+carrying out governmental functions or activities for governmental 
+purposes, not including an entity principally en gaged in supplying 
+financial services on commercial terms; or  
+(b)  a private entity performing functions normally performed by a central 
+bank or monetary authority when exercising those functions;  
+“self-regulatory organisation ” means a non -governmental body, including any 
+securities or futures exchange or market, clearing or payment settlement agency, other 
+organisation or association, that  exercises its own or delegated regulatory or 
+ 
+2 Where the financial service is not supplied directly by a juridical person but through other forms of 
+commercial presence such as a branch or a representative office, the financial service supplier (i.e. the 
+juridical person) shall, nonetheless, through s uch presence be accorded the treatment provided for 
+financial service suppliers under this Chapter. Such treatment shall be extended to the presence through 
+which the financial service is supplied and need not be extended to any other parts of the financial service 
+supplier located outside the territory where the financial service is supplied. 
+ 
+9 - 4 
+supervisory authority over financial service suppliers  which it receives  through 
+legislation or delegation from central, regional or governments or authorities;3 
+“subsector” of financial services means with reference to a specific commitment, one 
+or more, or all, subsectors of financial services, as specified in the respective Schedules 
+of the Parties  in Annex 9A (Schedules of Specific Commitments on Financial 
+Services); and 
+“trade in financial services” means the supply of a financial service: 
+(a) from the territory of a Party into the territory of the other Party; 
+(b) in the territory of a Party to a person of the other Party; 
+(c) by a financial service supplier of a Party, through commercial presence 
+in the territory of the other Party; or 
+(d) by a financial service supplier of a Party, through presence of natural 
+persons of that Party in the territory of the other Party. 
+ 
+Article 9.2 
+Scope 
+1. This Chapter shall apply to measures adopted or maintained by a Party affecting 
+trade in financial services. 
+2. This Chapter shall not apply to measures relating to: 
+(a) activities or services  forming part of a public retirement plan  or 
+statutory system of social security; or  
+(b) activities or services conducted by a public entity for the account or with 
+the guarantee or using the financial resources of the Party. 
+except that this Chapter shall apply to the extent that  a Party allows any of the 
+activities or services referred to in subparagraph (a) or (b)  to be conducted by 
+its financial service suppliers in competition with a public entity or a financial 
+service supplier. 
+3. This Chapter shall not apply to measures relating to: 
+(a) government procurement of financial services; or 
+(b) subsidies or grants provided by a Party  with respect to the supply of 
+financial services , including government -supported loans, guarantees 
+and insurance. 
+4.  This Chapter does not impose any obligation on a Party with respect to a natural 
+person of the other Party who seeks access to its employment market or who is 
+ 
+3 For greater certainty, a Party may require a self -regulatory organisation to be recognised under that 
+Party’s law. 
+ 
+9 - 5 
+employed on a permanent basis in its territory, and does not confer any right on 
+that natural person of the other Party with respect to that access or employment.  
+For greater certainty, this Chapter does not apply to measures regarding 
+citizenship, nationality or residence on a permanent basis. 
+ 
+Article 9.3 
+Specific Exceptions 
+1. Nothing in this Chapter , Chapter 8 (Trade in Services), Chapter 11 
+(Telecommunications) or Chapter 12 (Digital Trade) shall apply to measures 
+taken or activities conducted by a central bank or monetary authority or by any 
+other public entity in pursuit of monetary policies and related credit policies, or 
+exchange rate policies. 
+2. Nothing in this Agreement shall be construed to  require a Party to disclose 
+information relating to the affairs and accounts of individual  consumers, 
+financial service suppliers or any confidential or proprietary information in the 
+possession of public entities. 
+ 
+Article 9.4 
+Prudential Exception 
+1. Notwithstanding any other provisions of this Agreement , a Party shall not be 
+prevented from adopting or maintaining measures for prudential reasons ,4 
+including for: 
+(a) the protection of investors, depositors, policyholders, or persons to 
+whom a financial service supplier owes a fiduciary duty; 
+(b) the maintenance of the safety, soundness, integrity, or financial 
+responsibility of a financial service supplier; or 
+(c) ensuring the integrity and stability of a Party’s financial system. 
+2. Where such measures do not conform with the provisions of this Agreement, 
+they shall not be used as a means of avoiding the Party's commitments or 
+obligations under this Agreement. 
+ 
+Article 9.5 
+National Treatment 
+1.  Each Party shall, in the subsectors of financial services inscribed in its Schedule 
+in Annex 9A (Schedules of Specific Commitments on Financial Services)  and 
+subject to any conditions and qualifications set out therein, accord to financial 
+ 
+4 The Parties understand that this includes the maintenance of the safety and financial and operational 
+integrity, of payment, settlement and clearing systems. 
+ 
+9 - 6 
+services and financial service suppliers of the other Party ,5 in respect of all 
+measures affecting the supply of financial services, treatment no less favourable 
+than that it accords to its own like financial services and financial service 
+suppliers.67 
+2.  A Party may meet the requirement under paragraph 1 by according to financial 
+services and financial service suppliers of the other Party, either formally 
+identical treatment or formally different treatment to that it accords to its own 
+like financial services and financial service suppliers. 
+3.  Formally identical or formally different treatment shall be considered to be less 
+favourable if it modifies the conditions of competition in favour of financial 
+services or financial service suppliers of the Party compared to like financial 
+services or financial service suppliers of the other Party. 
+ 
+Article 9.6 
+Market Access 
+1.  With respect to market access through the modes of supply identified in  the 
+definition of “trade in financial services” in Article 9.1 (Definitions), each Party 
+shall accord financial services and financial service suppliers of the other Party8 
+treatment no less favourable than that provided for under the terms, limitations, 
+and conditions agreed and specified in its Schedule in Annex 9A (Schedules of 
+Specific Commitments on Financial Services).9 
+2.  In the subsectors of financial services  where market-access commitments are 
+undertaken,10 the measures which a Party shall not maintain or adopt either on 
+the basis of a regional subdivision or on the basis of its entire territory, unless 
+ 
+5 Financial service suppliers of the other Party that supply or seek to supply a financial service through 
+one of the modes of supply identified in subparagraphs (a), (b) or (d) of the definition of “trade in 
+financial services ” in Article 9.1 (Definitions) must also be engaged in the business of supplying a 
+financial service in the territory of that other Party in order to be accorded the treatment provided for 
+under this Article. 
+6 Specific commitments assumed under this Article shall not be construed to require any Party to 
+compensate for any inherent competitive disadvantages which result from the foreign character of the 
+relevant financial services or financial service suppliers. 
+7 And for greater certainty, commitments may relate to the whole or part of a subsector, as specified by 
+a Party in its Schedule in Annex 9A (Schedules of Specific Commitments on Financial Services). 
+8 Financial service suppliers of the other Party that supply or seek to supply a financial service through 
+one of the modes of supply identified in subparagraphs (a), (b) or (d) of the definition of “trade in 
+financial services ” in Article 9.1 (Definitions) must also be engaged in the business of supplying a 
+financial service in the territory of that other Party in order to be accorded the treatment provided for 
+under this Article. 
+9 If a Party undertakes a market -access commitment in relation to the supply of a financial service 
+through the mode of supply referred to in subparagraph (a) of the definition of “trade in financial 
+services” in Article 9.1 (Definitions) and if the cross-border movement of capital is an essential part of 
+the financial service itself, that Party is thereby committed to allow such movement of capital. If a Party 
+undertakes a market-access commitment in relation to the supply of a financial service through the mode 
+of supply referred to in subparagraph (c) of the definition of “trade in financial services” in  Article 9.1 
+(Definitions), it is thereby committed to allow related transfers of capital into its territory. 
+10 For greater certainty, commitments may relate to the whole or part of a subsector, as specified by a 
+Party in its Schedule in Annex 9A (Schedules of Specific Commitments on Financial Services). 
+ 
+9 - 7 
+otherwise specified in its Schedule in Annex 9A (Schedules of Specific 
+Commitments on Financial Services), are defined as: 
+(a) limitations on the number of financial service suppliers whether in the 
+form of numerical quotas, monopolies, exclusive service suppliers or 
+the requirements of an economic needs test; 
+b) limitations on the total value of financial service transactions or assets 
+in the form of numerical quotas or the requirement of an economic 
+needs test; 
+c) limitations on the total number of financial service operations or on the 
+total quantity of financial service output expressed in terms of 
+designated numerical units in the form of quotas or the requirement of 
+an economic needs test;11 
+d) limitations on the total number of natural persons that may be employed 
+in a particular financial service sub-sector or that a financial service 
+supplier may employ and who are necessary for, and directly related to, 
+the supply of a specific financial service in the form of numerical quotas 
+or the requirement of an economic needs test; 
+e) measures which restrict or require specific types of legal entity or joint 
+venture through which a financial service supplier may supply a 
+financial service; and 
+f) limitations on the participation of foreign capital in terms of maximum 
+percentage limit on foreign shareholding or the total value of individual 
+or aggregate foreign investment.  
+3. If a Party undertakes a market-access commitment in relation to the supply of a 
+financial service through a mode of supply referred to in subparagraphs (a), (b) or 
+(d) of the definition of “trade in financial services” in Article 9.1 (Definitions), it 
+shall not require a financial service supplier of the other Party to establish or 
+maintain a representative office, a branch, or any form of juridical person, or to be 
+resident in its territory as a condition for the supply of that financial service through 
+the relevant mode of supply, unless otherwise specified in its Schedule in Annex 
+9A (Schedules of Specific Commitments on Financial Services). 
+4. For greater certainty, this Article does not prevent a Party from requiring a 
+financial services supplier of the other Party to be authorised, regulated or 
+supervised by the first Party, provided that this does not circumvent the Party’s 
+obligation under paragraph 1 and is consistent with other provisions of this 
+Chapter. 
+ 
+ 
+11 This subparagraph does not cover measures of a Party which limit inputs for the supply of financial 
+services. 
+ 
+9 - 8 
+Article 9.7 
+Additional Commitments 
+1.  The Parties may negotiate commitments with respect to measures affecting 
+trade in financial services, including those regarding qualifications, standards, 
+or licensing matters, not subject to scheduling, under Article 9.5 (National 
+Treatment) or Article 9.6 (Market Access). 
+2.  A Party making additional commitments under paragraph 1 shall inscribe such 
+commitments in its Schedule  in Annex 9A (Schedules of Specific 
+Commitments on Financial Services). 
+ 
+Article 9.8 
+Schedules of Specific Commitments 
+1.  Each Party shall set out in its Schedule in Annex 9A (Schedules of Specific 
+Commitments on Financial Services), the specific commitments it undertakes 
+under Article 9.5 (National Treatment), Article 9.6 (Market Access), and 
+Article 9.7 (Additional Commitments). With respect to subsectors of financial 
+services where such commitments are undertaken, each Schedule in Annex 9A 
+(Schedules of Specific Commitments on Financial Services) shall specify: 
+(a) terms, limitations, and conditions on market access; 
+(b) conditions and qualifications on national treatment; 
+(c) undertakings relating to additional commitments; and 
+(d) where appropriate, the time frame for implementation of such 
+commitments. 
+2.  Measures inconsistent with both Article 9.5 (National Treatment) and Article 
+9.6 (Market Access) shall be inscribed in the column relating to Article 9.6 
+(Market Access). In this case, the inscription shall be considered to provide a 
+condition or qualification to Article 9.5 (National Treatment) as well. 
+3.  For greater certainty, Schedules of Specific Commitments shall be annexed to 
+this Chapter as Annex 9A and shall form an integral part thereof. 
+ 
+Article 9.9 
+Denial of Benefits 
+1.  A Party may deny the benefits of this Chapter: 
+(a)  to the supply of any financial service, if it establishes that the financial 
+service is supplied from or in the territory of a non-Party; or 
+(b)  to a financial service supplier that is a juridical person, if it establishes 
+that it is not a financial service supplier of the other Party. 
+ 
+9 - 9 
+2.  A Party may deny the benefits of this Chapter to a financial service supplier of 
+the other Party, if the financial service supplier is a juridical person owned or 
+controlled by person of a non-Party, and the denying Party adopts or maintains 
+measures with respect to the non-Party or a person of the non-Party that prohibit 
+transactions with the juridical person or that would be violated or circumvented 
+if the benefits of this Chapter were accorded to the juridical person. 
+ 
+Article 9.10 
+Transparency 
+1. Chapter 24 (Good Regulatory Practice) and Chapter 25 (Transparency) do not 
+apply to a measure covered by this Chapter. 
+2. The Parties recognise that transparent measures of general application 
+governing the activities of financial service suppliers are important in 
+facilitating their ability to gain access to and operate in each other’s markets. 
+Each Party commits to promote regulatory transparency in financial services. 
+3. Each Party shall: 
+(a) ensure that all measures of general application to which this Chapter  
+applies are administered in a reasonable, objective, and impartial 
+manner; 
+(b) ensure that all measures of general application to which this Chapter 
+applies are promptly published or  made available in such a manner as 
+to enable an interested person and the other Party to become acquainted 
+with them; 
+(c) to the extent possible, ensure advance publication of any measures of 
+general application, to which this Chapter applies , that it proposes to 
+adopt and provide an interested person and the other Party a reasonable 
+opportunity to comment on these proposed measures; 
+(d) maintain or establish enquiry points and appropriate mechanisms to 
+respond, within a reasonable period of time, to an inquiry or a request 
+for information from an interested person regarding measures of general 
+application to which this Chapter applies; 
+(e) allow, to the extent possible, a reasonable period of time between the 
+final publication of a measure of general application , to which this 
+Chapter applies, and the date when it enters into effect; and 
+(f) ensure that measures of general application adopted or maintained by a 
+self-regulatory organisation of the Party, to which this Chapter applies, 
+are promptly published or otherwise made available in a manner that 
+enables interested persons to become acquainted with them. 
+4. If a Party adopts or maintains measures relating to authorisation for the supply 
+of a financial service, the Party shall ensure that: 
+ 
+9 - 10 
+(a) such measures are based on objective and transparent criteria;12 and  
+(b) the procedures are impartial, not more burdensome than necessary to 
+ensure the quality of the financial service and  do not in themselves 
+constitute a restriction on the supply of the financial service. 
+5. If a Party requires authorisation for the supply of a financial service, the 
+financial regulatory authorities of the Party shall: 
+(a) promptly publish 13 the information necessary for financial service 
+suppliers to comply with the requirements and procedures for obtaining, 
+maintaining, amending and renewing such authorisation; 
+(b) to the extent practicable, not require an applicant to approach more than 
+one financial regulatory authority for each application for authorisation. 
+If a  financial service is within the jurisdiction of multiple financial 
+regulatory authorities, multiple applications for authorisation may be 
+required; 
+(c) allow a reasonable period for the submission of an application; 
+(d) to the extent possible, accept applications in electronic format; 
+(e) accept copies of documents, that are authenticated in accordance with 
+that Party’s law, in place of original documents, unless the financial 
+regulatory authorities require original documents to protect the integrity 
+of the authorisation process; 
+(f) ensure that any authorisation fees 14 charged by financial regulatory 
+authorities are reasonable, transparent and do not in themselves restrict 
+the supply of the relevant financial service. Each Party shall endeavour 
+to accept the payment of those authorisation fees by electronic means; 
+(g) confirm in writing 15 that an application has been received and, at the 
+request of the applicant, provide without undue delay  information 
+concerning the status of the application;  
+(h) in the case of an application considered complete for processing under 
+the Party’s law, make a decision on the application within 180 days and 
+notify the applicant of the decision without undue delay. An application 
+shall not be considered complete until all relevant proceedings are 
+conducted and all necessary information is received. Where i t is not 
+practicable for a decision to be made within 180 days, the financial 
+regulatory authorities shall notify the applicant of this without undue 
+ 
+12 Such criteria may include competence and the ability to supply a financial service, including to do so 
+in a manner consistent with a Party’s regulatory requirements. Financial regulatory authorities may 
+assess the weight to be given to each criterion. 
+13 For the purposes of these disciplines, “publish” means to include in an official publication or on an 
+official website. 
+14 For the purposes of this paragraph, authori sation fees do not include payment for auction, fees for 
+tendering, or other non -discriminatory means of awarding concessions, or mandated contributions to 
+universal services provision. 
+15 References to “in writing" include in an electronic format. 
+ 
+9 - 11 
+delay and shall endeavour to make the decision within a reasonable 
+period of time thereafter; 
+(i) in the case of an application considered incomplete under the Party’s 
+law, within a reasonable period of time, to the extent practicable: 
+(i) inform the applicant that the application is incomplete;  
+(ii) at the request of the applicant, provide guidance on why the 
+application is considered incomplete; and 
+(iii) provide the applicant with the opportunity 16 to provide the 
+additional information that is required to complete the 
+application, and ensure that any deadlines for the additional 
+information required are made clear to the applicant; 
+however, if none of the actions in subparagraphs (i) through (iii) is 
+practicable, and the application is rejected due to incompleteness, 
+ensure that the applicant is informed within a reasonable period of time; 
+(j) if an application is rejected then, either up on the request of an 
+unsuccessful applicant in writing , or upon their own initiative, to the 
+extent practicable, inform the applicant of the reasons for denial of the 
+application; 
+(k) an applicant should not be prevented from submitting another revised 
+application solely on the basis that an application had been previously 
+rejected; and 
+(l) ensure that authorisation, once granted, may enter into effect without 
+undue delay, subject to the applicable terms and conditions.17 
+ 
+Article 9.11 
+Payments and Clearing 
+Under terms and conditions that accord national treatment, each Party shall grant  to 
+financial service suppliers of the other Party that supply or seek to supply a financial 
+service through commercial presence in the Party’s  territory access to payment and 
+clearing systems operated by public entities, and to official funding and refinancing 
+facilities available in the normal course of ordinary business. 18 This Article is not 
+intended to confer access to the Party’s lender of last resort facilities19. 
+ 
+ 
+16 Such opportunity does not require a financial regulatory authority to provide extensions of deadlines. 
+17 Financial regulatory authorities are not responsible for delays due to reasons outside their competence. 
+18 For greater certainty, this Article does not prevent a Party from requiring a financial services supplier 
+to be authorised, regulated or supervised, provided that this does not circumvent the Party’s obligation 
+under this Article. 
+19 For greater certainty, a Party need not grant access under this Article to financial service suppliers of 
+the other Party that supply or seek to supply a financial service through commercial presence in the 
+Party’s territory if such access or treatment is not granted to its own or like financial service suppliers. 
+ 
+9 - 12 
+Article 9.12 
+Performance of Back-Office Functions 
+1. Each Party recognises that the back -office functions of a financial service 
+supplier that supplies or seeks to supply a financial service through commercial 
+presence in its territory, which are performed by the head office or an affiliate 
+of that financial service supplier  in the territory of either Party, may be 
+important to the effective management and efficient operation of that financial 
+service supplier. 
+2. A Party may require a financial service supplier that supplies or seeks to supply 
+a financial service through commercial presence  in its territory to ensure 
+compliance with any domestic requirements, including in relation to its core 
+and critical functions, but recognises the importance of avoiding the imposition 
+of arbitrary requirements on the performance of back-office functions. 
+3. To the extent practicable, and subject to paragraph 2, each Party shall permit 
+the performance of such back-office functions as are referred to in paragraph 1 
+by such a head office or affiliate as is referred to in paragraph 1. For greater 
+certainty, nothing in this Article prevents a Party from requiring a financial 
+service supplier  that supplies or seeks to supply a financial service through 
+commercial presence in its territory to retain certain functions, including core 
+and critical functions. 
+ 
+Article 9.13 
+Self-Regulatory Organisations 
+If a Party requires a financial service supplier 20of the other Party to be a member of, 
+participate in, or have access to, a self -regulatory organisation to supply  a financial 
+service in or into the territory of that  Party, or grants a privilege or advantage when 
+supplying a financial service through a self-regulatory organisation, then the requiring 
+Party shall ensure that the self -regulatory organisation observes the obligations in 
+Article 9.5 (National Treatment).  
+ 
+Article 9.14 
+Financial Services New to the Territory of a Party21 
+1. Each Party shall permit a financial service supplier of the other Party 
+established and supplying a new financial service  in the territory of the other 
+Party to supply such new financial service through commercial presence in the 
+territory of the first Party  that the first  Party would permit its own financial 
+ 
+20 For greater certainty, this article does not prevent a Party from requiring a financial services supplier 
+to be authorised, regulated or supervised, provided that this does not circumvent the Party’s obligation 
+under this Article. 
+21 The Parties understand that nothing in this Article prevents a financial service supplier of a Party from 
+applying to the other Party to request that it authorises the supply of a financial service that is not 
+supplied in the territory of either Party. That application shall be subject to the law of the Party to which 
+the application is made and, for greater certainty, shall not be subject to this Article. 
+ 
+9 - 13 
+service suppliers to supply, in like situations , without adopting a law or 
+modifying an existing law.22 Each Party may:  
+(a)  notwithstanding subparagraph 2(e) of Article 9.6 (Market Access), 
+determine the institutional and juridical form through which the new 
+financial service may be supplied; 
+(b)  require authorisation, regulation or supervision  for the supply of the 
+service from the relevant regulator; and 
+(c) require the financial service supplier of the other Party to become 
+authorised to do business and to be regulated or supervised by the 
+relevant regulator under the law of the Party.  
+2. Where a Party requires authorisation to supply the new financial service, a 
+decision by the relevant regulator as to whether to grant authorisation shall be 
+made within a reasonable time.  
+3. To support innovation in financial services, the Parties shall endeavour to 
+collaborate, and share knowledge, experiences and developments in financial 
+services, to advance financial integrity, consumer protection, financial 
+inclusion, competition and financial stability. 
+ 
+Article 9.15 
+Recognition 
+1. A Party may recognise prudential measures of the other Party or a non -Party, 
+which may be based on relevant standards of any international standard setting 
+body, in determining how the Party’s  measures affecting trade in  financial 
+services shall be applied. Such recognition may be: 
+(a) accorded autonomously; 
+(b) achieved through harmonisation or other means; or 
+(c) based upon an agreement or arrangement with the other  Party or the 
+non-Party. 
+2. A Party that is a party to such an agreement or arrangement referred to in 
+paragraph 1, whether future or existing, shall afford adequate opportunity to the 
+other Party to negotiate its accession to such agreement or arrangements, or to 
+negotiate comparable ones with it, under  circumstances in which there would 
+be equivalent regulation, oversight, implementation of such regulation and, if 
+appropriate, procedures concerning the sharing of information between the 
+Parties to the agreement or arrangement. 
+ 
+22 For greater certainty, a Party may issue a new regulation or other subordinate measure in permitting 
+the supply of the new financial service. 
+ 
+9 - 14 
+3. Where a Party  accords recognition autonomously  it shall afford adequate 
+opportunity to the other Party  to demonstrate that such circumstances as 
+referred to in paragraph 2 exist. 
+ 
+Article 9.16 
+Payments and Transfers 
+1. Except under the circumstances envisaged in Article 28.3 (Measures to 
+Safeguard the Balance of Payments – General Provisions and Exceptions ), a 
+Party shall not apply restrictions on international transfers or payments for 
+current transactions relating to its specific commitments referred to in 
+paragraph 3. 
+2. Each Party shall permit international transfers or payments for current 
+transactions relating to its specific commitments referred to in paragraph 3 to 
+be made in a freely convertible currency at the market rate of exchange 
+prevailing at the time of transfer. 
+3. This Article shall apply to the extent that trade in financial services as defined 
+in sub -paragraphs (a), (b) and (d) of the definition of “trade in financial 
+services” in  Article 9.1 (Definitions) is subject to commitments pursuant to 
+Article 9.5 (National Treatment) and Article 9.6 (Market Access). 
+4. Nothing in this Chapter shall affect the rights and obligations of a Party as a  
+member of the International Monetary Fund (“IMF”) under the IMF Articles of 
+Agreement, as may be amended, including the use of exchange actions which 
+are in conformity with the IMF Articles of Agreement, as may be amended, 
+provided that the Party shall not  impose restrictions on any capital transaction 
+inconsistently with its specific commitments under this Chapter regarding such 
+transactions, except under Article 28.3 (Measures to Safeguard the Balance of 
+Payments – General Provisions and Exceptions) or on request of the IMF. 
+ 
+Article 9.17 
+Institutional Arrangements 
+1. The Subcommittee on Trade in Services shall be responsible for the effective 
+implementation and operation of this Chapter. 
+2. The authorities responsible for financial services for each Party are: 
+(a) for India, the Department of Commerce; and 
+(b) for the United Kingdom, His Majesty’s Treasury or its successor. 
+3. A Party shall promptly notify the other Party of any change of its contact point. 
+ 
+ 
+9 - 15 
+Article 9.18 
+Consultation 
+1. A Party may request consultations with the other  Party regarding any matter 
+arising under this Agreement that affects financial services. The other Party 
+shall consider the request.  
+2. Consultations under this Article shall include the relevant representatives of the 
+responsible authorities specified in Article 9.17 (Institutional Arrangements). 
+3. The consulting Parties shall report the results of their consultations to the 
+Subcommittee on Trade in Services. 
+4. For greater certainty, nothing in this Article shall be construed to require a Party 
+to derogate from its law regarding sharing of information between financial 
+regulatory authorities, or the requirements of an agreement or arrangement 
+between financial regulatory authorities of the Parties, or to require a financial 
+regulatory authority to take any action that would interfere with specific 
+regulatory, supervisory, administrative or enforcement matters. 
+ 
+Article 9.19 
+Financial Services Dispute Settlement 
+1. Chapter 29 (Dispute Settlement) applies, as modified by this Article, to the 
+settlement of disputes arising under this Chapter. 
+2. The Parties shall ensure for disputes arising under this Chapter that in addition 
+to the requirements set out in Article 29.10 (Qualifications of Panellists - 
+Dispute Settlement): 
+(a) a majority of panellists shall have the necessary expertise relevant to the 
+financial services under dispute, and such expertise  may include the 
+regulation of financial service suppliers; and 
+(b) the appointed panellist acting as chair shall, where possible, have prior 
+experience as counsel or arbitrator in dispute settlement proceedings. 
+3. Further to paragraph 5 of Article 29.15 (Compensation and Suspension of 
+Concessions or other Obligations  – Dispute Settlement), in considering what 
+concessions or other obligations to suspend for the purposes of that Article, the 
+complaining Party shall apply the following principles. In cases where the panel 
+has found an inconsistency with the Agreement which affects:23 
+(a) the financial services sector and any other sector, the complaining Party 
+may suspend obligations in the financial services sector that have an 
+effect that does not exceed a level equivalent to the level of nullification 
+or impairment in the complaining Party’s financial services sector; or 
+ 
+23 For the avoidance of doubt, in cases where the Panel has found an inconsistency with the Agreement 
+which affects only the financial services sector, the principles in paragraphs  5 and 6 of Article 29.15 
+(Compensation and Suspension of Concessions or other Obligations – Dispute Settlement) shall apply.   
+ 
+9 - 16 
+(b) notwithstanding paragraph 5(b) of Article 29.15 (Compensation and 
+Suspension of Concessions or other Obligations – Dispute Settlement), 
+only a sector other than the financial services sector, the complaining 
+Party shall not suspend obligations in the financial services sector. 
+ 
+Article 9.20 
+Cooperation and Exchange of Views on Financial Services 
+1. The Parties shall strengthen cooperation efforts in the financial services sector. 
+As part of these efforts, the Parties shall exchange views through appropriate 
+forums on issues relating to financial services at interval s as agreed by the 
+Parties. The forums may include existing forums , or such forums as may be 
+agreed by the Parties, and shall be composed of relevant entities to be decided 
+by the Parties , which shall include, where appropriate, the regulatory and 
+supervisory authorities of the Parties. 
+2. The Parties recognise that these efforts support objectives which include the 
+following: 
+(a) enhancing trade in financial services between the Parties; 
+(b) strengthening financial systems and promoting financial stability; 
+(c) improving market integrity, mitigating unnecessary market 
+fragmentation and promoting fair and competitive markets; 
+(d) promoting robust and efficient financial service suppliers, markets, and 
+infrastructure; 
+(e) protecting consumers, investors, depositors, policy holders and persons 
+to whom a fiduciary or statutory duty is owed by a financial service 
+supplier; and 
+(f) providing a transparent and conducive environment for financial service 
+suppliers. 
+3. In addition to paragraph 3 of Article 9.14 (Financial Services New to the 
+Territory of a Party ), the Parties shall endeavour to collaborate, share 
+knowledge and experiences and to support development in financial services 
+and technology, in areas such as, but not limited to, FinTech and RegTech 24 
+and other areas of new and emerging technology. In doing so the Parties shall 
+advance financial integrity, consumer protection, financial inclusion, financial 
+stability, operational resilience, sustainability and  facilitate cross -border 
+development of new financial services. 
+4. The Parties shall endeavour to share best practices to promote divers ity25 in 
+financial services and recognise the importance of building a diverse, financial 
+ 
+24 For the purpose of this paragraph, the Parties shall treat FinTech and RegTech as referring to activities 
+which involve the improved use of technology across financial services. 
+25 Diversity includes, but is not limited to, gender, ethnicity, and professional, educational and socio -
+economic background. 
+ 
+9 - 17 
+services industry, and the positive impact that diversity has on balanced 
+decision-making, consumers, workplace culture, investment, and competitive 
+markets.  
+5. The Parties recognise the importance of  international cooperation to facilitate 
+the inclusion of environmental, social, and governance considerations in 
+decision-making by financial services suppliers. 
+ 
+Article 9.21 
+Credit Rating of Financial Services Suppliers 
+1. In relation to the provision of a financial service in the territory of a Party: 
+(a) by a financial  service supplier of the other Party, which is already  
+authorised by the Party to supply financial services through commercial 
+presence in its territory, and 
+(b)  where the provision of financial services is wholly or partially 
+contingent on an assessment by the Party of the credit rating of th at 
+financial service supplier  or the sovereign credit rating of the other 
+Party, 
+the host Party shall, to the extent practicable, undertake its assessment in a 
+reasonable manner.26 
+ 
+Article 9.22 
+Electronic Payments 
+1. Recognising the rapid growth of electronic payments, including those provided 
+by non -banks and FinTech entities, the Parties shall, while maintaining 
+resilience, endeavour to work together to support the development of an  
+efficient, safe and secure environment for cross -border electronic payments, 
+including through:  
+(a) encouraging mutual cooperation and sharing information about each 
+other’s experience, technical expertise and innovations in the area of 
+digital payment infrastructure and products; 
+(b) encouraging the adoption and use of internationally accepted 
+standards;    
+(c) promoting interoperability and  interlinkages of electronic payment 
+infrastructures including payment systems; and  
+(d) encouraging innovation and competition in electronic 
+payments services.   
+ 
+26 For greater certainty, this paragraph does not apply in relation to credit rating assessments undertaken 
+by financial service suppliers. 
+ 
+9 - 18 
+2. To this end, each Party shall, while maintaining resilience, endeavour to:  
+(a) for the electronic payment systems solely operated by a Party, publicly 
+disclose objective and risk‐based system rules and criteria for operation 
+and participation which permit fair and open access; 
+(b) encourage payment service providers to safely and securely make 
+available new technologies and standards for their financial products 
+and services, and where possible, to facilitate greater interoperability, 
+innovation and competition in electronic payments; and   
+(c) facilitate innovation and competition and the introduction of new 
+electronic payment products and services, such as through adopting 
+regulatory and industry sandboxes and cooperation at international fora.   
+3. In view of paragraph 1, the Parties  recognise the importance of upholding 
+safety, efficiency, trust and security in electronic payment systems through 
+laws and regulatory measures, and that the adoption and enforcement of laws, 
+regulatory measures and policies should take into account the risks undertaken 
+by the payment service providers. 
+ 
+Article 9.23 
+Subsidies 
+1. Notwithstanding subparagraph 3(b) of Article 9.2 (Scope), the Parties shall 
+review the issue of disciplines on subsidies related to trade in financial services 
+in light of any disciplines relevant to financial services agreed under Article 
+XV of GATS with a view to their incorporation into this Chapter. 
+2. A Party which considers that it is adversely affected by a subsidy of the other 
+Party related to trade in financial services may request consultations with the 
+other Party on such matters. On receipt of such a request, the requested Party 
+shall enter into consultations with the requesting Party, with a view to resolving 
+the matter, provided that the request includes an explanation of how the subsidy 
+has adversely affected trade in financial  services between the Parties.  During 
+the consultations, the Party granting the subsidy may consider a request of the 
+other Party for information relating to the subsidy. 
+3. Neither Party shall have recourse to dispute settlement under  Chapter 29 
+(Dispute Settlement) for any request made or consultations held under this 
+Article, or any other dispute arising under this Article. 

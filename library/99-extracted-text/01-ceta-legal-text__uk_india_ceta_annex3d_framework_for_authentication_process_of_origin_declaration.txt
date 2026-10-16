@@ -1,0 +1,63 @@
+# SOURCE: library/01-ceta-legal-text/uk_india_ceta_annex3d_framework_for_authentication_process_of_origin_declaration.pdf
+# pages: 2
+
+ 
+Annex 3D - 1 
+ANNEX 3D 
+Framework for the Authentication Process of Origin Declarations  
+ 
+For the purpose of enabling India to establish the authenticity of an origin declaration, 
+in accordance with Article 3.16 (Basis of a Claim for Preferential Tariff Treatment): 
+1. an exporter or producer intending to export goods to India and complete an 
+origin declaration under this Agreement shall provide the customs authority of 
+the United Kingdom with the information necessary to authenticate their 
+identity; 
+2. the customs authority of the United Kingdom  shall review the information 
+provided by the exporter or producer and shall share relevant information, as 
+agreed by the Parties, electronically with the customs authority of India. The 
+information shared shall include unique reference numbers, registered  email 
+addresses of exporters and producers and other information as agreed by the 
+Parties necessary to identify the exporter or producer  so as to enable 
+confirmation that the same exporter or producer has completed the origin 
+declaration. The customs auth ority of the United Kingdom shall update the 
+information from time to time and inform the customs authority of India of such 
+amendments. The customs authority of India shall use this information to create 
+and maintain a database of United Kingdom exporters and producers; 
+3. the exporter or producer shall send the origin declaration, completed in 
+accordance with Article 3.15 (Proof of Origin) and Annex 3B (Origin 
+Declaration Template), to the nodal email address of the customs authority of 
+India and to the email address of the Indian importer within the same email. The 
+origin declaration shall be sent as an attachment in a file type to be agreed 
+between the Parties. The subject line of the email shall follow a structure to be 
+agreed between the Parties. 
+4. the customs authority of India shall review the information sent by the exporter 
+or producer in accordance with paragraph 3 against the database referred to in 
+paragraph 2; 
+5. if the information is successfully matched, the authenticity of the origin 
+declaration shall be established. The customs authority of India shall notify the 
+email address of the exporter or producer that sent the email referred to in 
+paragraph 3 that authe nticity has been established and that a claim for 
+preferential tariff treatment using the origin declaration may be made by the 
+Indian importer. The importer shall be copied into this notification email. The 
+contents of the notification email shall be agreed by the Parties; 
+6. if the information is not successfully matched, the customs authority of India 
+shall notify the email address of the exporter or producer that sent the email 
+referred to in paragraph 3 that authenticity has not been established. The Indian 
+importer shall b e copied into this notification email. The contents of the 
+notification email shall be agreed by the Parties. The customs authority of India 
+shall also automatically send an alert to the registered email address 
+ 
+Annex 3D - 2 
+corresponding to the unique reference number held on the database referred to 
+in paragraph 2; and 
+7. if the authenticity of the origin declaration is not established through this 
+process, the importer shall not be entitled to make a claim for preferential tariff 
+treatment. The exporter or producer may start the authentication process again 
+by sending the email referred to in paragraph 3 from a registered email address 
+corresponding to the unique reference number in the database referred to in 
+paragraph 2, or by updating their information with the customs authority of the 
+United Kingdom in order for the customs authority of the United Kingdom to 
+restart the process from paragraph 2. 
+For greater certainty, the authentication process set out in this Annex does not constitute 
+a claim for preferential tariff treatment and no penalty shall be imposed solely on the 
+basis that authenticity has not been established in accordance with this Annex. 

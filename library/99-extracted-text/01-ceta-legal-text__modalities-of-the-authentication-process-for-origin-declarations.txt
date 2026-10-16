@@ -1,0 +1,208 @@
+# SOURCE: library/01-ceta-legal-text/modalities-of-the-authentication-process-for-origin-declarations.pdf
+# pages: 6
+
+. --, 
+MODALITIES OF THE AUTHENTICATION PROCESS FOR ORIGIN 
+DECLARATIONS PURSUANT TO ARTICLE 3.16.7 
+(BASIS OF A CLAIM FOR PREFERENTIAL TARIFF TREATMENT) OF THE 
+COMPREHENSIVE ECONOMIC AND TRADE AGREEMENT BETWEEN 
+THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN 
+AND 
+NORTHERN IRELAND AND THE GOVERNMENT OF 
+THE REPUBLIC OF INDIA. 
+Introduction 
+Pursuant to Article 3. 16.7 (Basis of a Claim for Preferential Tariff Treatment) and 
+Annex 3D (Framework for the Authentication Process of Origin Declarations) of the 
+Comprehensive Economic and Trade Agreement Between the Government of the 
+United Kingdom of Great Britain and Northern Ireland and the Government of the 
+Republic of India (the CETA), the Parties agree and provide for the modalities 
+governing the authentication process of origin declarations, as set out below. 
+Designated Contact Points 
+I. The Parties shall, for the purpose of Annex 3D (Framework for the 
+Authentication Process of Origin Declarations) , use the following email 
+addresses: 
+a. United Kingdom (His Majesty's Revenue and Customs): 
+customsauthorisations@hmrc.gov.uk (the UK HMRC nodal email address) 
+Page 1 of 6 
+II 
+' 
+I 
+
+2. 
+b. India (Central Board of Indirect Taxes and Customs): 
+cbic.custom s.indiaukceta@CBIClndia .onmicrosoft.corn (the India CBIC nodal 
+email address) 
+Transfer of Authentication Data from 
+the United Kingdom to India 
+The United Kingdom shall ensure that the authentication data to be transferred 
+from the United Kingdom to India for the purpose of authentication are the: 
+a. Exporter's or producer's Economic Operator Registration and 
+Identification (EORI) nu1nber, containing either a GB or XI prefix; and 
+b. Exporter or producer email address (es). 
+3. The Parties shall ensure that the maximum number of email addresses that may 
+be assigned to an EORI number is eleven (11). 
+4. Upon receipt of the authentication data from the United Kingdom, if the 
+customs authority of India is unable to validate the data as per the schema 
+agreed between the Parties, it shall immediately notify the customs authority of 
+the United Kingdom at the UK HMRC nodal email address. 
+5. 
+6. 
+The United Kingdom shall ensure that authentication data is transferred to India 
+in JavaScript Object Notation (JSON) format, which should conform to the 
+technical schema agreed between the Parties, including the agreed file structure, 
+field definitions and data types. 
+The United Kingdom shall ensure that all authentication data transmitted to 
+India is encrypted in transit with Transport Layer Security (TLS) version 1.2 or 
+higher. The authentication data file or payload shall be encrypted using the 
+cryptographic standards agreed between tl1e Parties for this purpose. India shall 
+Page 2 of6 
+I 
+
+I<' 
+r 
+. 
+ensure that its designated system is capable of receiving and decrypting the data 
+using the agreed encryption method. 
+7. Authentication data shall be transferred from the United Kingdom to India using 
+a push mechanism via an API endpoint. The United Kingdom shall ensure that 
+its designated endpoint is able to send the file, and India shall ensure that its 
+designated endpoint is able to receive the file through this mechanism. India 
+shall confirm receipt of the authentication data using the UK HMRC nodal 
+email address . 
+Transmission of Origin Declaration by 
+United Kingdom Exporter or Producer 
+8. A United Kingdom exporter or producer shall send only an origin declaration to 
+the India CBIC nodal email address and the importer, completed in accordance 
+with Article 3.15 (Proof of Origin) and Annex 3B (Origin Declaration 
+Template) . 
+9. The subject line of an email from a United Kingdom exporter or producer when 
+sending an origin declaration to the India CBIC nodal email address and the 
+importer, shall follow the structure EORl-DDMMYYYY . The date to be 
+inserted shall be the date of the signature of the signatory in the origin 
+declaration that accords with the template in Annex 3B (Origin Declaration 
+Template). 
+10. The origin declaration sent from the United Kingdom exporter or producer to 
+the India CBIC nodal email address and the importer, shall be sent as an 
+attachment in PDF format. The United Kingdom exporter or producer shall send 
+the PDF in accordance with the agreed specifications and instructions 
+applicable to the authentication process . 
+Page 3 of 6 
+l ________ _____ _ _ 
+
+, =. ~, - .:S. .·1 1 .. J. ,.,,;.1. ·,,, 
+' .. " . 
+--
+7 
+1., 
+c 1, 
+' 11. The origin declaration sent by the UK exporter or producer shall be used for a 
+, ,, 
+single shipment and cannot be used again. 
+r· 
+'I ; 
+Authentication of Origin Declaration by India 
+' 
+1, 
+;) I• 
+12. Where the customs authority of India establishes the authenticity of an origin ,, 
+declaration, it shall send an email to the United Kingdom exporter or producer 
+who sent the origin declaration with a Unique Reference Number (URN), 
+1, 
+1, 
+I• 
+copying in the Indian importer. This notification shall state that authenticity has 1; 
+been established and that the importer may make a claim for preferential tariff 
+: 
+treatment. 
+13. Where the customs authority of India is unable to establish the authenticity of I 
+t; an origin declaration, it shall send an email to the United Kingdom exporter or ! 
+I>-' producer who sent the origin declaration, copying in the Indian importer. This ,~ 
+r, notification shall state that authenticity has not been established and provide 
+. 
+1-. ' 
+reasons why. 
+I• t, 
+1,-
+14. The customs authority of India may request clarification from the United ,· 
+I Kingdom exporter or producer where necessary, but shall not determine that ' 
+authenticity is not established solely on the basis of minor discrepancies. 
+I 
+Execution of the agreed modalities 
+' 15. The Parties shall operate the agreed modalities in accordance with Chapter 3 
+(Rules of Origin), Annex 3D (Framework for the Authentication Process of 
+Origin Declarations), and Annex 3E (Data Protection and Processing of 
+Personal Information) of the CETA. 
+16. If, at any point in time, the authentication process referred to in Article 3.16.7 
+I (Basis of a Claim for Preferential Tariff Treatment) and Annex 3D (Framework 
+Page 4of6 
+-------- - ---------..J 
+le M9GM 1$ -P #&£ )AS@ '? 'd wwz Iff(5f4* qt cw: P4 X:P 450 6 
+
+I• 
+h 
+d 
+0 
+for the Authentication Process of Origin Declarations) of the CETA is 
+temporarily unavailable due to a system error, technical failure, or for any other 
+reason, the Party that becomes aware of such unavailability shall notify the 
+other Party without delay, including providing relevant information on the 
+nature and expected duration of the unavailability. 
+17. Where, due to the temporary unavailability of the authentication process for 
+origin declarations an importer was unable to make a claim for preferential 
+tariff treatment at the time of importation, the importer may make such claim 
+after importation in accordance with Article 3.20 (Refunds and Claims for 
+Preferential Tariff Treatment After Importation) of the CETA. Such claim shall 
+only be permitted upon restoration of the authentication process and subject to 
+the origin declaration being authenticated in accordance with modalities agreed 
+pursuant to Article 3.16.7 (Basis of a Claim for Preferential Tariff Treatment) 
+and Annex 3D (Framework for the Authentication Process of Origin 
+Declarations). 
+18. Where the unavailability of the authentication process persists for more than 21 
+days, the Parties shall, without undue delay, refer the matter to the 
+Subcommittee on Trade in Goods established by Article 2.17 (Subcommittee on 
+Trade in Goods) to identify and agree an alternate mechanism to establish the 
+authenticity of origin declarations, as promptly as possible. 
+19. 
+20. 
+Upon restoration of the authentication process, the Parties shall notify each 
+other and, where applicable, the Subcommittee on Trade in Goods, whereupon 
+Article 3.16. 7 (Basis of a Claim for Preferential Tariff Treatment) and Annex 
+3D (Framework for the Authentication Process of Origin Declarations) of the 
+CETA shall apply in full. 
+The alternate mechanism with respect to the temporary unavailability of the 
+authentication process shall apply solely in circumstances of such temporary 
+unavailability and shall not replace the authentication 
+Page5of6 
+----, 
+I 
+,• 
+
+0 
+0 
+L-
+process established pursuant to Article 3. 16. 7 (Basis of a Claim for Preferential 
+Tariff Treatment) and Annex 3D (Framework for the Authentication Process of 
+Origin Declarations) of the CETA. 
+Integral Part of the CETA 
+21. These modalities shall constitute an integral part of the CETA. 
+22. These modalities may be amended by mutual agreement of the Subcommittee 
+on Trade in Goods further to consideration by the Working Group on Rules of 
+Origin established by Article 3.28 (Working Group on Rules of Origin). 
+23. These modalities shall apply when the CETA enters into force for the United 
+Kingdom and India in accordance with Article 30.6 (Entry into Force) of the 
+CETA. 
+IN WITNESS WHEREOF the undersigned, being duly authorised by their respective 
+Governments , have signed these modalities. 
+DONE in two originals at New Delhi, this 9th day of July 2026. 
+For the Government of the United 
+Kingdom of Great Britain and 
+Northern Ireland 
+(Lindy Cameron) 
+High Commissioner, British High 
+Commission in India 
+For the Government of the 
+Republic of India 
+(Vivek Chaturvedi) 
+Chairman, Central Board of Indirect 
+Taxes and Customs 
+Page 6 of 6 

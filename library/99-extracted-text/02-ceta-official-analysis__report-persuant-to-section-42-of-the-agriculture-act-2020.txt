@@ -1,0 +1,2063 @@
+# SOURCE: library/02-ceta-official-analysis/report-persuant-to-section-42-of-the-agriculture-act-2020.pdf
+# pages: 58
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Section 42 Report: Comprehensive 
+Economic and Trade Agreement 
+between the United Kingdom of Great 
+Britain and Northern Ireland and India 
+Presented to Parliament pursuant to Section 42 of the Agriculture Act 2020 
+21 November 2025 
+Section 42 Report: UK-India CETA 
+ 
+ 
+ 
+ 
+Department for Business and Trade 
+Department for Environment, Food and Rural 
+Affairs 
+ 
+Section 42 Report: 
+Comprehensive Economic 
+and Trade Agreement 
+between the United 
+Kingdom of Great Britain 
+and Northern Ireland and 
+India 
+ 
+ 
+Presented to the Parliament pursuant to Section 42 of the Agriculture Act 
+2020 
+  
+Section 42 Report: UK-India CETA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Crown copyright 2025 
+This publication is licensed under the terms of the Open Government Licence v3.0 except 
+where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-
+government-licence/version/3. 
+Where we have identified any third party copyright information you will need to obtain 
+permission from the copyright holders concerned. 
+This publication is available at www.gov.uk/official-documents. 
+Any enquiries regarding this publication should be sent to us 
+at newsdesk@businessandtrade.gov.uk.  
+ISBN 978-1-5286-6086-0 
+E03490474 11/2025 
+Printed on paper containing 40% recycled fibre content minimum 
+Printed in the UK by HH Associates Ltd. on behalf of the Controller of His Majesty’s 
+Stationery Office
+Section 42 Report: UK-India CETA 
+1 
+Ministerial Foreword 
+India is one of the fastest-growing economies in the world, and a country with whom the UK shares 
+strong cultural, historic and economic ties. Trade between our two countries stood at £43bn in 
+2024.  Investment supports over 600,000 jobs in the UK and India. 
+In July the UK and India signed a landmark free trade agreement, which will make trade quicker, 
+cheaper, and easier for UK businesses and allow us to build on our strong links with India, a major 
+global economy. It is the best deal that any country has ever agreed with India. 
+The deal will boost UK GDP by £4.8bn and bilateral trade with India by £25.5bn every year by 
+2040.  The UK has secured tariff liberalisation from India on 90% of all tariff lines, with India’s trade 
+weighted average tariff dropping from 15% to 3%. As a result, tariff duties are estimated to fall by 
+around £400 million initially, and £900 million after the tariff agreement is fully implemented.1 
+In addition, the deal binds in existing market access and reduces barriers for UK service suppliers 
+providing certainty for UK businesses to expand in India’s growing market. 
+This deal demonstrates not only that we are delivering on the Growth Mission right across the UK, 
+but also that we have championed our values. We are showing the world that we stand for free, 
+fair, and open trade.  
+We are grateful to the Trade and Agriculture Commission, Food Standards Agency and Food 
+Standards Scotland for the advice they have provided on the deal. It is encouraging to see that 
+they agree that the UK-India Comprehensive Economic and Trade Agreement is consistent with 
+maintaining our levels of statutory protection in relation to human, animal or plant life or health, as 
+well as animal welfare and the environment.  
+We look forward to seeing the UK-India economic relationship continue to grow closer in the 
+coming years, as our businesses and citizens benefit from this landmark deal. 
+1 Impact assessment of the Free Trade Agreement between the UK and India executive summary (web version) - 
+GOV.UK 
+The Rt Hon Emma Reynolds MP 
+Secretary of State for Environment, Food 
+and Rural Affairs 
+The Rt Hon Peter Kyle MP 
+Secretary of State for Business and Trade 
+President of the Board of Trade 
+
+Section 42 Report: UK-India CETA 
+2 
+ 
+Contents 
+Ministerial Foreword 1 
+Background 3 
+Section 42 Report Scope and Conclusions 4 
+Section 42 Report Criteria 4 
+Section 42 Report Conclusions 4 
+TAC Advice: Criteria and Conclusions 4 
+FSA and FSS Advice: Criteria and Conclusions 5 
+Relevant Measures 5 
+Chapter 2: Trade in Goods 7 
+Chapter 6: Sanitary and Phytosanitary Measures 8 
+Chapter 7: Technical Barriers to Trade 13 
+Chapter 21: Environment 18 
+Other Chapters 23 
+Chapter 1: Initial Provisions and General Definitions 23 
+Chapter 3: Rules of Origin 23 
+Chapter 5: Customs and Trade Facilitation 23 
+Chapter 24: Good Regulatory Practice 24 
+Chapter 28: General Provisions and Exceptions 24 
+Chapter 29: Dispute Settlement 25 
+Concerns addressed by the Trade and Agriculture Commission 26 
+Annex A: Food Standards Agency and Food Standards Scotland Joint Advice to the 
+Minister of State for Business and Trade 28 
+ 
+ 
+  
+Section 42 Report: UK-India CETA 
+  3 
+ 
+Background 
+The UK-India Comprehensive Economic and Trade Agreement (CETA) was signed on 24 July 
+2025. The Government is now progressing the agreement through the statutory processes for its 
+ratification. 
+Section 42(1) of the Agriculture Act 2020 requires that, where a Free Trade Agreement (FTA) 
+includes measures applicable to trade in agricultural products2, the Secretary of State must lay a 
+report (the “S42 report”) before Parliament before the FTA can be laid in Parliament under the 
+Constitutional Reform and Governance Act 2010 (CRaG).  
+The S42 report must explain whether, or to what extent, measures in that specific FTA applicable 
+to trade in agricultural products are consistent with the maintenance of UK levels of statutory 
+protection in relation to the following areas:  
+(a) human, animal or plant life or health,  
+(b) animal welfare, and  
+(c) the environment.  
+Under Section 42 (4), the Secretary of State can seek advice from independent, expert persons in 
+preparing the S42 report. To produce the India CETA S42 report, the Secretary of State has 
+sought advice from the Trade and Agriculture Commission (TAC). The TAC’s remit is to produce 
+advice on whether, or to what extent, the measures in the FTA which are applicable to trade in 
+agricultural products are consistent with the maintenance of UK levels of statutory protection in 
+relation to:  
+(a) animal or plant life or health, 
+(b) animal welfare, and  
+(c) the environment. 
+Advice has also been sought from the Food Standards Agency (FSA) and Food Standards 
+Scotland (FSS). The FSA and FSS are statutory bodies which collectively have responsibility for 
+human health in relation to food safety across the UK. The FSA and FSS have produced joint 
+advice, annexed to this report, on whether, or to what extent, the measures in the CETA are 
+consistent with the maintenance of UK levels of statutory protection in relation to human health. 
+The Department of Health and Social Care, as the department responsible for human health, has 
+also been consulted on the main body of this report. 
+In line with the UK’s Trade Strategy, the period between the publication of the S42 report and the 
+commencement of the statutory CRaG process will double from 10 sitting days to 20 sitting days 
+allowing for more robust and deeper parliamentary scrutiny of the deal. 
+ 
+ 
+2 As defined in Section 42 (7) of the Agriculture Act 2020. 
+Section 42 Report: UK-India CETA 
+4 
+ 
+Section 42 Report Scope and Conclusions 
+The S42 report considers the impact of the UK-India CETA on relevant UK statutory protections. 
+Legislation that relates to UK levels of statutory protection in human, animal or plant life or health, 
+animal welfare, and the environment is wide ranging and has varying territorial extent and 
+application, based on the legislation in question. The UK is obliged to continue to apply in Northern 
+Ireland the body of EU law set out in the Windsor Framework. 
+The scope of this report extends to all measures within the CETA that are applicable to trade in 
+agricultural products. Accordingly, the following chapters in part or in whole are in scope of this 
+report: 
+• Chapter 1: Initial Provisions and General Definitions 
+• Chapter 2: Trade in Goods 
+• Chapter 3: Rules of Origin 
+• Chapter 5: Customs and Trade Facilitation 
+• Chapter 6: Sanitary and Phytosanitary Measures 
+• Chapter 7: Technical Barriers to Trade 
+• Chapter 21: Environment 
+• Chapter 24: Good Regulatory Practice 
+• Chapter 28: General Provisions and Exceptions 
+• Chapter 29: Dispute Settlement 
+Additionally, this report considers the impact of tariff liberalisation on sensitive sectors and the 
+consistency of these measures with the maintenance of UK levels of statutory protection. 
+For each of these chapters, this report assesses whether the measures within it are consistent with 
+the maintenance of relevant UK statutory protections, with reference to the advice of the 
+independent TAC, and the independent advice of the FSS and FSA where appropriate. This report 
+also summarises what each CETA provision does to aid clarity and understanding of the effect of 
+the CETA. 
+Section 42 Report Criteria 
+The following criteria have been used to determine whether, or to what extent, measures are 
+consistent with the maintenance of UK levels of statutory protections:   
+• With reference to the implementation of the CETA, whether any changes to primary or 
+secondary legislation are required for (a) human, animal or plant life or health, (b) 
+animal welfare, and (c) the environment.  
+• Whether there are any measures in the CETA that affect the right to regulate of the UK 
+Government and Devolved Governments. 
+Section 42 Report Conclusions 
+The chapters above identified as within scope of Section 42 (1) are consistent with the 
+maintenance of UK levels of statutory protection in relation to human, animal or plant life or health, 
+animal welfare, and the environment; no new import conditions are required through 
+Section 42 Report: UK-India CETA 
+  5 
+ 
+implementation and there are no changes to statutory protections in these areas. Further, no 
+measures change or restrict the right to regulate of the UK Government and Devolved 
+Governments.  
+TAC Advice: Criteria and Conclusions 
+The TAC’s full advice was laid in Parliament and published in full on 30 October 2025.  
+The TAC addressed three questions, in accordance with their terms of reference:  
+1. Does the FTA require the UK to change its levels of statutory protection in relation to (a) 
+animal or plant life or health, (b) animal welfare, and (c) environmental protection? 
+The T AC concluded: no - “the FT A does not require the UK to change its existing 
+levels of statutory protection in relation to animal or plant life or health, animal 
+welfare, or environmental protection.” 
+ 
+2. Does the FTA reinforce the UK’s levels of statutory protection in these areas? 
+The T AC concluded: yes - “these various obligations reinforce the UK’s ability to 
+maintain its levels of statutory environmental protection”.   
+ 
+3. Does the FTA otherwise affect the ability of the UK to adopt statutory protections in these 
+areas? 
+The T AC concluded: no - “the India FT A does not otherwise affect the ability of the 
+UK to adopt statutory protections in these areas.” 
+This report considers detailed conclusions from the TAC advice in the relevant Chapter sections 
+below. 
+FSA and FSS Advice: Criteria and Conclusions 
+The FSA and FSS’ advice is annexed to this report. In summary, their advice states that:  
+• No changes to UK food and animal feed laws or standards are needed for the UK -India 
+CETA to take effect. 
+• The UK-India CETA maintains all current UK rules and statutory protections on food 
+safety and nutrition that fall under the responsibilities of the FSA and FSS. 
+• Some stakeholders and members of the public have expressed concerns about the 
+agreement with India. Their concerns mostly centre on production standards, 
+specifically India’s use of pesticides and antibiotics prohibited in the UK, and exceeding 
+UK MRL ’s (maximum residue levels) for pesticide residues.  
+• The agreement respects the respective powers of the UK Government and the devolved 
+administrations to set rules on sanitary and phytosanitary (SPS) measures within their 
+areas of competence. This means that any future decisions about domestic regulations 
+will remain under UK and devolved government control. 
+• The agreement with India does not require any changes to UK laws that protect public 
+health in relation to nutrition. This is based on analysis by the FSA and FSS, covering 
+Section 42 Report: UK-India CETA 
+6 
+ 
+areas such as nutrition and health claims, adding vitamins and minerals, food 
+supplements, foods for specific groups, and nutrition labelling. 
+• This trade agreement does not restrict the UK's ability to negotiate an SPS Agreement 
+with the EU. 
+ 
+The UK’s Food Safety Authorities have concluded that measures in the UK-India CETA are 
+consistent with the maintenance of UK levels of statutory protection in relation to human health. 
+Section 42 Report: UK-India CETA 
+  7 
+ 
+Relevant Measures 
+The following sections provide rationale as to how the UK Government believes, having sought 
+independent advice from the TAC, Food Standards Agency, and Food Standards Scotland, that 
+the relevant Chapters within the India CETA are consistent with, and in some Chapters improve, 
+the UK’s ability to maintain its statutory protections in relation to human, animal, and plant life or 
+health, animal welfare, and the environment.  
+ 
+Chapter 2: Trade in Goods 
+Chapter Summary 
+This chapter contains core provisions governing preferential trade between the Parties. These 
+include articles on national treatment and treatment of customs duties. The chapter reiterates WTO 
+rights and obligations on administrative fees, customs valuation, import and export restrictions, 
+import licensing and non-tariff measures on importation and exportation. It includes transparency 
+obligations. 
+Through this chapter and relevant annexes, the UK and India will each remove or reduce import 
+duties on most agricultural and non-agricultural imports that originate in the other party. As part of 
+the negotiated outcome, the UK confirmed that it would not apply WTO special agricultural 
+safeguards3 in relation to India. This obligation is technically mutual, but India has no reserved 
+WTO special agricultural safeguards. 
+Goods imports from India will receive duty-free access on 99% of UK tariff lines from entry into 
+force of the agreement. In 2025, 47% of UK tariff lines are already MFN zero, and India benefits 
+from duty-free access on a further 12% tariff lines under the UK’s unilateral preferences for 
+developing countries. 
+The UK has not offered preferential FTA access to India on the following agricultural goods: pork, 
+chicken, eggs, milled rice, and sugar.   
+India will remove or reduce tariffs, or retain pre-existing zero tariffs, on 90% of tariff lines covering 
+92% of existing goods imports from the UK (based on 2022 trade). 
+In addition to affirming both countries’ rights and obligations under the relevant WTO agreements, 
+allowing members to apply trade remedies (anti-dumping, countervailing and global safeguard 
+measures) proportionately and transparently, the Trade Remedies chapter of the CETA also 
+includes a bilateral safeguard mechanism. This will allow the UK or India to temporarily increase 
+tariffs or suspend tariff concessions if the tariff liberalisation agreed in the CETA leads to a surge of 
+imports that causes or threatens to cause serious injury to domestic industry. 
+The TAC’s advice (p. 16) noted that the Trade in Goods chapter “prohibits all other border 
+restrictions on imports and exports, in the same terms as WTO law”.4 This does not apply to 
+ 
+3 WTO special agricultural safeguards  aim at raising tariffs. They can be triggered by import surges or price 
+falls, virtually automatically (i.e., without any need to test injury or to negotiate compensation). They can only 
+be used on products that were “tariffied” (e.g. quantitative restric tions converted to equivalent tariffs) and 
+cannot apply to imports under tariff quota commitments. 
+ 
+4 Article 2.11 (‘Import and Export Restrictions’) 
+Section 42 Report: UK-India CETA 
+8 
+ 
+restrictions applied at the border to replicate internal measures in a non-discriminatory manner, 
+such as a ban on sales of unsafe products; internal measures are subject to a national treatment 
+obligation.5 
+Conclusion 
+The Government believes, after seeking independent advice, that the Articles within this Chapter 
+are consistent with and do not affect the UK's ability to maintain its statutory protections in relation 
+to human, animal, or plant life or health, animal welfare, or the environment.   
+Nothing in the Chapter changes or restricts the right to regulate of HMG or Devolved Governments. 
+As mentioned, a range of pre-existing WTO rights and obligations are reiterated in this Chapter, 
+along with transparency obligations and other elements, and discipline a Party’s measures 
+affecting trade in goods. 
+Scope 
+The Trade in Goods chapter sets out provisions governing preferential access for goods under the 
+CETA.  
+The chapter provides for annual data sharing on imports under the CETA. A goods sub-committee 
+will meet at least every two years, to monitor implementation of the chapter, and seek to address 
+promptly any barriers to trade in goods between the Parties, as well as any other matters referred 
+to it by the Joint Committee. 
+The impact of tariff liberalisation on UK statutory protections 
+The UK currently imports a wide range of agricultural goods from India, such as tea and coffee, 
+spices, fruits, vegetables, and nuts. These goods already need to meet UK food safety import 
+rules. The liberalisation of tariffs does not entail changes to statutory protections on human, animal 
+or plant life or health; animal welfare; or the environment. Tariff liberalisation does not restrict the 
+ability of the UK Government and Devolved Governments to set or revise statutory protections on 
+any of the above in the future. 
+All products imported into the UK will continue to have to comply with the UK’s food safety and 
+biosecurity standards, as they already must. The agreement protects the UK’s regulatory 
+autonomy to set its own independent standards, ensuring the UK can continue to uphold its high 
+level of protection for human, animal, and plant life and health. 
+The Government has conducted an Impact Assessment, which considers potential impacts of the 
+CETA on UK sectors and provides the government’s best estimates of how UK imports from India 
+might change.6 
+ 
+Chapter 6: Sanitary and Phytosanitary Measures 
+Chapter Summary 
+This chapter sets out the application of sanitary and phytosanitary (SPS) measures to trade 
+between the UK and India. It focuses on the development and application of human, animal and 
+ 
+5 Article 2.4 (‘National Treatment’). 
+6 Impact assessment of the Free Trade Agreement between the UK and India executive summary (web version) - 
+GOV.UK 
+Section 42 Report: UK-India CETA 
+  9 
+ 
+plant life and health regulations.  The chapter also sets out commitments to cooperate on animal 
+welfare and antimicrobial resistance (AMR). 
+The chapter builds on the WTO SPS Agreement and aims to protect human, animal and plant life 
+and health, while promoting co-operation, transparency and trade facilitation. 
+The CETA does not create any new permissions or authorisations for imports from India. All agri-
+food products must comply with UK SPS standards and wider import requirements in order to be 
+placed on the UK market. The UK is not making any changes to UK’s SPS legislation or import 
+requirements, nor does the chapter require the UK to change its existing levels of statutory 
+protection. 
+In relation to human health, the FSA and FSS state (section 8.1) that: 
+“The SPS chapter text agreed within the UK-India CETA is of fundamental importance as regards 
+to reserving the UK’s right to maintain existing laws and regulations to protect human life and 
+health, including food safety and nutrition. It is also important in preventing any limitations in the 
+way food regulation and enforcement is implemented in the UK.” 
+They conclude (section 14.1) that “no changes to the UK’s food safety legislation are required for 
+the UK-India CETA to take effect, and the UK will continue to uphold its existing food safety laws 
+and protections under UK legislation.” 
+The TAC advice (p.25) notes that “the chapter manages to preserve the UK’s rights to regulate”, 
+and they conclude (p.30) “that the FTA does not require the UK to change its existing levels of 
+statutory protection in relation to animal or plant life or health, animal welfare”. 
+Conclusion 
+The Government believes, after seeking independent advice, that the Articles within this Chapter 
+are consistent with and do not affect the UK's ability to maintain its statutory protections in relation 
+to human, animal, or plant life or health, animal welfare, or the environment. Furthermore, nothing 
+in the chapter changes or restricts the right to regulate of the UK and Devolved Governments. 
+Scope 
+The majority of chapter 6, except for the articles listed below, is within the scope of this report, in 
+that it applies to the maintenance of UK levels of statutory protection on human, animal or plant life 
+or health. 
+Articles 6.15-6.18 are outside the scope of this report. These primarily relate to cooperation or 
+governance measures of the CETA, with no impact on UK statutory protections. 
+Article 6.19 (Non-Application of Dispute Settlement) is covered under Chapter 29: Dispute 
+Settlement in this report. 
+Articles 
+Article 6.1: Definitions 
+This article sets out that the definitions of the WTO SPS Agreement (as set out in Annex A to that 
+agreement) shall apply to the SPS chapter.  In addition, the definitions of organisations recognised 
+by the WTO SPS Committee, and specifically the Codex, the World Organisation for Animal Health 
+(WOAH), and the International Plant Protection Convention (IPPC) shall apply to this chapter.  This 
+supports an interpretation of the language used in this chapter that is consistent with the definitions 
+that are used in WTO SPS Agreement and these international organisations. 
+Section 42 Report: UK-India CETA 
+10 
+ 
+Article 6.2: Objectives  
+This article establishes the objectives of the chapter, and whilst they have no direct effect on the 
+UK levels of statutory protection, they signal the intention of the chapter and may affect its 
+interpretation. This article includes an objective to protect human, animal and plant life and health 
+in the territory of the Parties while facilitating trade. 
+Article 6.3: Scope  
+This article sets out the scope of the chapter. It specifies that all SPS measures that may directly or 
+indirectly affect trade between the Parties are in scope of the chapter. This applies equally to both 
+existing and future SPS measures.  
+In addition, the article provides that separate provisions on animal welfare and antimicrobial 
+resistance are also in scope of the chapter.  
+Article 6.4: Rights and Obligations  
+The Parties have existing rights and obligations under the WTO SPS Agreement. 
+This article affirms that the Parties will continue to have these rights and obligations. The SPS 
+chapter will not affect those WTO rights and obligations, which, where applicable, must be 
+observed when any Party establishes or modifies its levels of statutory protection. 
+The TAC noted that Article 6.4.2 “indicates that the UK’s rights under the [WTO] SPS Agreement, 
+including its obligation to base its SPS measures on science and, where science is insufficient, its 
+right to adopt provisional measures, are not affected by the UK-India FTA.” 
+Article 6.5: Adaptation to Regional Conditions, including Pest- or Disease-Free Areas and 
+Areas of Low Pest or Disease Prevalence 
+This article sets out the framework for assessing the safety of imports where the exporting country 
+has a localised pest or disease outbreak. This will help to avoid unnecessary trade restrictions by 
+facilitating the safe movement of products between areas which are unaffected whilst an outbreak 
+elsewhere is managed. 
+This article underlines the importance of domestic legislation aimed at protecting human, animal 
+and plant health, as the UK Government can make an evidence-based decision to block or allow 
+specific product imports or imports from a specific region or location. 
+Article 6.6: Equivalence  
+This article highlights the importance of recognition of the equivalence of SPS measures to 
+facilitating trade. It does not in itself recognise the equivalence of any SPS measures in either 
+Party but outlines a procedure for recognition of the equivalence of SPS measures and seeks to 
+ensure that determinations of equivalence are made within a reasonable period of time.  
+The article requires each Party to consider relevant guidance of the WTO SPS Committee, and 
+relevant international standards, guidelines and recommendations when determining equivalence.  
+The article is clear that the final determination of equivalence rests with the importing Party.  No 
+new recognitions of equivalence have been made as part of the CETA negotiations. 
+The TAC notes that (p. 18) “the FTA mechanism does not limit the UK’s right to deny an 
+equivalence request when compared to its position under WTO law.”  
+Section 42 Report: UK-India CETA 
+  11 
+ 
+The Article also states that an accepted equivalent SPS measure of India under this Chapter is still 
+required to comply with other relevant UK mandatory requirements. 
+The FSA and FSS note (section 8.3) that: “final decisions on equivalence rest with the importing 
+Party, in line with its legal framework and international guidance. 
+No new equivalence decisions for agri-food products were proposed under the UK’s agreement 
+with India.” 
+Article 6.7: Import Conditions  
+This article sets out the various requirements that each country’s import regime needs to comply 
+with, with the intention of facilitating trade. These include obligations for import conditions to be 
+made public; import conditions relating to the import of specific goods to be identified on request; 
+SPS control, inspection, assessment, approval procedures, and audits to be completed without 
+undue delay; risk assessment outcomes to be communicated upon request; and establishments or 
+facilities to be approved without prior inspection if the importing Party has determined they meet its 
+SPS requirements.  
+The TAC notes (p.26) in relation to the WTO SPS Agreement reference in Article 6.7.2 of the 
+CETA that “by referring to Article 3 [of the WTO SPS Agreement] in this way, we believe the UK 
+has incorporated the UK’s right under Article 3.3 of the [WTO] SPS Agreement to adopt measures 
+that achieve a higher level of protection, provided that these are based on a scientific risk 
+assessment, or on a provisional basis where there is insufficient science to conduct a risk 
+assessment. Such a reading would replicate the UK’s legal position under Article 3 of the [WTO] 
+SPS Agreement.” 
+The UK-India SPS chapter does not stop the UK establishing SPS measures or import conditions 
+that go beyond international standards, guidelines or recommendations, or that are established on 
+a precautionary basis, as provided for under the WTO SPS Agreement. 
+Article 6.8: Audit  
+This article sets out that each Party has the right to audit the regulatory control programme of the 
+exporting Party’s competent authorities to attain and maintain confidence in their regulatory control 
+programme, and to comply with the importing party’s import conditions and control measure.  
+The article sets out how such audits shall be conducted, and how measures can be taken in 
+consequence of an audit. 
+The TAC notes (p.27) that Article 6.8 “enhances the UK’s WTO rights,” and that as the WTO SPS 
+Agreement does not specifically regulate audits “the provisions in the FTA permitting and 
+regulating audits represent additional rights for the UK, or at least elaborations of what can be 
+implied from the [WTO] SPS Agreement.” 
+In relation to the conditions that apply to the UK’s additional rights under the CETA, the TAC 
+concludes (p.27) that “we do not consider that these provisions limit the UK’s WTO rights to protect 
+its levels of SPS protection.” 
+The FSA and FSS note (section 7.4) that “this Article does not prevent the UK from conducting 
+audits where justified to verify India’s food safety controls, nor from taking emergency measures to 
+protect food safety when necessary.” 
+ 
+ 
+Section 42 Report: UK-India CETA 
+12 
+ 
+Article 6.9: Certification  
+This article sets out the framework for certification on goods.  Official certificates shall be in line 
+with the principles in the relevant international standards, guidelines, and recommendations, and 
+applied only to the extent required to meet the importing Party’s appropriate level of protection. 
+This is to ensure that certification does not present an unnecessary barrier to trade.  
+Article 6.10: Import Checks 
+This article sets out that each Party has the right to carry out import checks based on the SPS risk 
+associated with imports, to ensure products comply with domestic import requirements and 
+statutory protections.  It states that checks shall be carried out without undue delay.  The importing 
+Party can take action on the grounds of non-compliance if products do not meet import 
+requirements, but this must be based on an assessment of the risk involved and not be more 
+trade-restrictive than required to achieve the Party’s appropriate level of protection.  
+The TAC considered the UK’s ability under the CETA to take action in the event of non-
+compliance, and the interactions between the CETA article and WTO SPS Agreement and 
+concluded (p.28) that “article 6.10.2 does not change the parties’ rights under the [WTO] SPS 
+agreement.” 
+The FSA and FSS state (section 7.5) that “this Article does not limit the UK’s ability to carry out 
+risk-based import checks or to take enforcement action when non-compliance is found, in 
+accordance with existing UK laws and regulations. 
+The emphasis on risk-based checks in this Article is in alignment with the UK’s risk-based 
+approach to official controls.” 
+Article 6.11: Emergency Measures  
+The article does not place any restrictions on a parties’ ability to enact emergency SPS measures 
+where there is a particular risk to animal, plant or human life or health. It includes a notification 
+requirement and, given that emergency measures affect existing trade flows, sets out how 
+technical consultations can be requested.  This article states that if a Party adopts an emergency 
+measure, it shall undertake a science-based review of that measure within a reasonable period of 
+time.  
+The TAC stated that they do not believe Article 6.11 limits the rights of the UK to adopt emergency 
+measures on a provisional basis when science is lacking.  The TAC concludes (p.26) that “in short, 
+Article 6.11 does not limit the UK’s rights under the [WTO] SPS Agreement.” 
+This is consistent with preserving the UK’s freedom to set and maintain its levels of statutory 
+protection in response to new and emerging risks. 
+Article 6.12: Animal Welfare  
+The article recognises the connection between the improved health of farmed animals and the 
+welfare of farmed animals. 
+The article affirms the right of each Party to set its policies and priorities for the protection of animal 
+welfare.  It includes commitments to cooperate on animal welfare, and on the World Organisation 
+for Animal Health animal welfare standards. 
+The TAC notes (p.29) that Article 6.12.3 “reinforces the international law position for the UK and 
+has no limiting effect on the UK’s rights.”   
+Section 42 Report: UK-India CETA 
+  13 
+ 
+The TAC also notes (p.35) that including the provisions on animal welfare “represents an 
+achievement in pursuing the UK’s policy on animal welfare protections”. 
+Article 6.13: Antimicrobial Resistance  
+Both the UK and India recognise that antimicrobial resistance (AMR) is a global threat to human 
+and animal health. 
+The article focuses on bilateral cooperation, including commitments on the exchange of 
+experiences, relevant information, expertise and data with each other.  The Parties acknowledge 
+that the threat of antimicrobial resistance requires the development and implementation of their 
+respective National Action Plans. 
+The TAC notes (p.35) that the inclusion of provisions on AMR “represents an achievement for the 
+UK’s pursuance of its policy in this regard.” 
+All agri-food products imported into the UK under existing or future FTAs will, as now, have to 
+comply with our import requirements which includes clear controls on limits of veterinary medicine 
+residues in meat and other animal products. 
+Article 6.14: Technical Consultations 
+This article sets out that if a Party has concerns with any proposed or implemented SPS measures, 
+or any other measure within scope of the chapter, it may request technical consultation.   
+The purpose of technical consultations is to share information and increase understanding, with a 
+view to resolving any concerns about the specific measure within a reasonable period of time. 
+ 
+Chapter 7: Technical Barriers to Trade 
+Chapter Summary  
+This chapter facilitates trade by addressing non-tariff barriers caused by technical regulations, 
+standards, and conformity assessment procedures for goods. The objective of the chapter is to 
+eliminate unnecessary technical barriers to trade (TBT), enhance transparency, and promote 
+greater regulatory cooperation and good regulatory practice. 
+TBT covers how trade in all products is regulated, except for Government Procurement measures 
+and Sanitary and Phytosanitary (SPS) measures. Examples of TBT regulations include toy safety 
+and minimum cocoa requirements for chocolate. 
+This chapter builds on the WTO TBT Agreement7 while protecting each country’s right to regulate 
+to fulfil legitimate policy objectives, such as the protection of human, animal and plant life or health 
+and the environment8. This right to regulate extends to Devolved Government regulation. 
+This chapter, including Annex 7A, does not change or reduce UK levels of statutory protections 
+(including Devolved Government statutory protections) including with relation to human, animal 
+and plant life or health and the environment.  
+ 
+7 The WTO TBT Agreement can be found at: https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm 
+8 As incorporated by Article 8.4 of this Chapter. 
+Section 42 Report: UK-India CETA 
+14 
+ 
+Paragraph 9 of Article 7 (Conformity Assessment) of this chapter extends equal treatment for 
+conformity assessment bodies located in the territory of either Party, for the specific product 
+sectors laid out in Annex 7A (reproduced below). This equal treatment allows UK or India-based 
+conformity assessment bodies to apply to the other Party’s national accreditation body to 
+potentially enable them to provide conformity assessment services for specific regulations. In 
+practice, this means that UK accredited and approved Indian conformity assessment bodies will be 
+able to test products to UK regulations prior to exporting, whereas previously products had to be 
+tested by an accredited and approved conformity assessment body based in the UK (or a CPTPP 
+country). National treatment of conformity assessment bodies is not extended to agricultural or 
+food products. 
+Secondary legislation under the Product Regulation and Metrology Act 2025 will be required to 
+implement these changes, amending 12 regulations which are listed in Annex 7A below. This will 
+provide National Treatment of Conformity Assessment Bodies for specific product sectors owned 
+by DBT. These amendments will not adversely impact existing statutory protections and are 
+consistent with maintaining UK-wide statutory protections.  
+Conclusion 
+The Government believes, after seeking independent advice, that the Articles within this Chapter 
+are consistent with and do not affect the UK's ability to maintain its statutory protections in relation 
+to human, animal, or plant life or health, animal welfare, or the environment. 
+Scope 
+Chapter 7 is in scope of this report, as TBT-related measures include product types specified in 
+Section 42.2(a) of the Agriculture Act 2020. 
+Articles 
+Article 7.1 Definitions 
+This Article applies the definitions in Annex 1 to the WTO TBT Agreement.  
+Article 7.2 Objective 
+The Article’s objective is to facilitate trade by eliminating unnecessary technical barriers to trade, 
+enhancing transparency, and promoting cooperation. 
+Article 7.3 Scope 
+This Article sets the scope of the chapter, which applies to the preparation, adoption and 
+application of all technical regulations, standards and conformity assessment procedures of central 
+level of government bodies that may affect trade in goods between the Parties, except for 
+Government Procurement and SPS measures. It confirms that Parties may still adopt or maintain 
+technical regulations, standards, or conformity assessment procedures in accordance with their 
+rights and obligations protected under the TBT Agreement. 
+Article 7.4 Affirmation of the TBT Agreement 
+The Parties affirm their rights and obligations under the WTO TBT Agreement. 
+The FSA and FSS note (section 8.2) that “the agreed text therefore reinforces the UK’s right to 
+adopt technical measures aimed at achieving legitimate public policy goals—such as the protection 
+of human health and food safety—as set out in Article 2.2 of the WTO TBT Agreement and 
+reiterates key provisions of that Agreement." 
+Section 42 Report: UK-India CETA 
+  15 
+ 
+Article 7.5 Standards, Guides, and Recommendations 
+The Article confirms that the Parties recognise the important role that international standards, 
+guides, and recommendations can play in supporting greater regulatory alignment which can 
+reduce unnecessary barriers to trade. 
+It sets out how to determine whether an international standard exists.  This is important because of 
+WTO-level commitments which require members to base technical regulations and conformity 
+assessment procedures on relevant international standards, except where these would be 
+ineffective or inappropriate for fulfilling legitimate regulatory objectives. 
+If a Party does not use relevant international standards, guides or recommendations, they must 
+explain their reasons and provide information. 
+The Article requires the Parties to encourage their national standards bodies to develop gender 
+responsive standards. 
+The FSA and FSS note (section 8.3) that “this reaffirmation does not constrain the UK’s regulatory 
+autonomy, nor does it necessitate changes to existing statutory protections related to food safety 
+or nutrition. 
+Article 7.6 Technical Regulations 
+This Article requires Parties to positively consider accepting technical regulations of the other Party 
+as equivalent, provided they fulfil the objectives of its own regulations. It also facilitates information 
+exchange on technical regulation development to foster greater alignment between the Parties’ 
+regulatory systems.   
+Article 7.7 Conformity Assessment 
+This Article sets out commitments to ensure government authority conformity assessment body 
+fees are fair.  
+It requires that mandatory conformity assessment processes are proportionate and based on 
+relevant international standards. It encourages Parties to consider allowing manufacturers to self-
+declare compliance as an alternative to mandating third party testing. 
+It encourages the use, where appropriate, of online testing. 
+This Article requires Parties to accord to conformity assessment bodies located in the territory of 
+the other Party treatment no less favourable than that it accords to conformity assessment bodies 
+located in its own territory for sectors listed in Annex 7A below.  
+In practice, this means that conformity assessment bodies established in India must be able to 
+apply for accreditation in the UK to carry out conformity assessment for goods covered by the 
+specific product sectors (all owned by the Department for Business and Trade) listed in Annex 7A 
+entering Great Britain. This is currently not possible under some of the UK’s sectoral regulations, 
+which require conformity assessment bodies to be based in the UK, Great Britain, a CPTPP 
+country, or in a country with which the UK has a mutual recognition agreement. 
+Secondary legislation will be required to implement this change and amend 12 relevant 
+regulations. India-based conformity assessment bodies applying to the UK competent authority – 
+the United Kingdom Accreditation Service (UKAS) – will only be granted accreditation if UKAS 
+deems that the conformity assessment body meets the same competence requirements as any 
+UK-based conformity assessment body would need to. As such, this change will have no impact on 
+UK statutory protections or UKAS’ role as the UK’s national accreditation body.  
+Section 42 Report: UK-India CETA 
+16 
+ 
+Article 7.8 Marking and Labelling 
+This Article ensures that the Parties’ technical regulations concerning product marking and 
+labelling do not accord favourable treatment to domestic goods and do not create unnecessary 
+obstacles to trade. 
+The Article includes particular requirements that allow for corrections to labelling to take place in 
+designated areas in the destination country, that allow for adhesive labels, that permit other 
+languages on the label, and that pictograms and similar devices can be used. These facilitations 
+help businesses label products flexibly and avoid unnecessary product returns. 
+Article 7.9 Transparency 
+This Article emphasises WTO TBT Agreement commitments to provide 60 days for comments on 
+proposals for technical regulations and conformity assessment procedures and to provide 6 
+months between their publication and entry into force. 
+It ensures that Parties provide a rationale for regulations to be introduced. It commits Parties to 
+take comments from the other Party into account when developing technical regulations. It also 
+commits both Parties to ensure public access to final versions of the technical regulations and 
+conformity assessment procedures. 
+It stipulates that each Party shall allow persons from the other Party to participate in developing 
+technical regulations, standards, and conformity assessment procedures on terms no less 
+favourable than those that are afforded domestic persons. 
+It allows the UK to request summaries in English of draft technical regulations and conformity 
+assessment procedures. It confirms that information exchanges and explanations be provided in 
+English. 
+Parties commit to consider methods to provide additional transparency when developing technical 
+regulations, standard and conformity assessment procedures. 
+Article 7.10 Cooperation and Trade Facilitation 
+This Article sets out a range of measures that Parties may take to further cooperation and facilitate 
+trade. This includes considering sector-specific cooperation proposals and exploring further 
+opportunities to cooperate on technical regulations, standards and conformity assessment 
+procedures.   
+Article 7.11 Technical Discussions 
+This Article sets out that a Party may request technical discussions to resolve matters under this 
+chapter with the other Party, and discussions shall be held within 60 days of the request.  
+Article 7.12 Contact Points 
+This Article sets out that each Party will designate a contact point to facilitate cooperation on topics 
+relevant to this chapter. 
+Article 7.13 Subcommittee on Standards, Technical Regulations, and Conformity 
+Assessment Procedures 
+This Article establishes a Subcommittee on standards, technical regulations and conformity 
+assessment procedures to monitor the implementation of this chapter and to facilitate technical 
+discussions and cooperation. 
+Section 42 Report: UK-India CETA 
+  17 
+ 
+ANNEX 7A Product Sectors 
+The product sectors referred to in paragraph 9 of Article 7.7 (Conformity Assessment), to be 
+identified by reference to the scope of the UK legislation listed and as amended from time to time 
+and as replaced by any successor legislation, are: 
+(a) Measuring instruments: The Measuring Instruments (EEC Requirements) Regulations 1988 
+(b) Non-automatic weighing instruments: The Non-automatic Weighing Instruments 
+Regulations 2016 
+(c) Equipment for potentially explosive atmospheres: The Equipment and Protective Systems 
+Intended for Use in Potentially Explosive Atmospheres Regulations 2016 
+(d) Pressure equipment: The Pressure Equipment (Safety) Regulations 2016 
+(e) Lifts: The Lifts Regulations 2016 
+(f) Simple pressure vessels: The Simple Pressure Vessels (Safety) Regulations 2016 
+(g) Appliances burning gaseous fuels: Regulation (EU) 2016/426 of the European Parliament 
+and of the Council of 9 March 2016 on appliances burning gaseous fuels 
+(h) Pyrotechnics: The Pyrotechnic Articles (Safety) Regulations 2015 
+(i) Recreational craft: The Recreational Craft Regulations 2017 
+(j) Noise emissions: The Noise Emission in the Environment by Equipment for use Outdoors 
+Regulations 2001 
+(k) Personal protective equipment: Regulation (EU) 2016/425 of the European Parliament and 
+of the Council of 9 March 2016 on personal protective equipment 
+(l) Machinery: The Supply of Machinery (Safety) Regulations 2008 
+(m) Electromagnetic compatibility: The Electromagnetic Compatibility Regulations 2016 
+(n) Toys: The Toys (Safety) Regulations 2011 
+(o) Radio equipment: The Radio Equipment Regulations 2017 
+(p) Sporting products (including cricket equipment): Insofar as they are regulated in the 
+legislation listed this Annex. 
+(q) Textiles: Insofar as they are regulated in the legislation listed in this Annex. 
+ 
+Of these, the regulations pertaining to (a), (b), (c), (d), (e), (f), (g), (i), (k), (m), (n) and (o) require a 
+change in legislation. 9 
+ 
+ 
+9 1. The Party’s request should identify with precision the respective technical regulation it considers to be 
+equivalent and any data or evidence that supports its position. 
+2. Nothing in this Article requires a party to accept the results of a conformity assessment body which has 
+not been accredited by an accreditation body of that Party. 
+3. For greater certainty, it is recognised that prior consultations may be necessary in order to arrive at a 
+mutually satisfactory understanding. 
+4.  For greater certainty, a Party may comply with this obligation by ensuring that the proposed and final 
+measures in this paragraph are published on, or otherwise accessible through, the WTO’s official website. 
+ 
+Section 42 Report: UK-India CETA 
+18 
+ 
+Chapter 21: Environment 
+Chapter Summary 
+The objective of this Chapter is to promote sustainable development, mutually supportive trade and 
+environmental policies, high levels of environmental protection, and to enhance the capacities of 
+the Parties to address environmental issues, including through cooperation. Article 21.3.1 of the 
+Chapter (General Commitments, Right to Regulate and Levels of Environmental Protection) 
+recognises the sovereign right of the UK to establish its own levels of environmental protection and 
+priorities and to establish, maintain, or modify our environmental laws and policies accordingly.  
+The Chapter also includes commitments on cooperation across a range of environmental issues of 
+mutual interest, including in relation to climate change, environmental goods and services, 
+transition to resource-efficient and circular economy, air quality, and sustainable forest 
+management. The Parties' cooperation commitments are subject to national circumstances. All 
+references below to cooperation within specific Articles of the Chapter must be read accordingly. 
+Under Article 21.3.4, a Party shall not waive or otherwise derogate from, or offer to waive or 
+otherwise derogate from, its environmental laws in a manner that weakens or reduces the 
+protection afforded in those laws in order to encourage trade or investment between the Parties. 
+Conclusion 
+The Government believes, after seeking independent advice, that the Articles within this Chapter 
+are consistent with and do not affect the UK's ability to maintain its statutory protections in relation 
+to human, animal, or plant life or health, animal welfare, or the environment.  
+Scope 
+The majority of Chapter 21 lies within scope of this report.  
+Articles 
+Article 21.1 Definitions 
+This Article sets out the definition of what is meant by the term “environmental law”. 
+Article 21.2 Objectives 
+This Article sets out the objectives of this Chapter, which include to promote mutually supportive 
+trade and environmental policies; to promote high levels of environmental protection; and to 
+enhance the capacities of the Parties to address environmental issues, including through 
+cooperation. 
+Article 21.3 General Commitments, Right to Regulate, and Levels of Environmental 
+Protection 
+This Article sets out multiple statements and commitments on environmental protection, including 
+recognising the sovereign right of each Party to establish its own levels of environmental protection 
+and priorities, and to establish, maintain, or modify its own environmental laws and policies 
+accordingly.   
+This Article commits Parties to strive to ensure their environmental laws and policies provide for, 
+and encourage, high levels of environmental protection, and to strive to continue to improve their 
+respective levels of environmental protection.  
+Section 42 Report: UK-India CETA 
+  19 
+ 
+This Article recognises that the Environment Chapter does not oblige the Parties to harmonise their 
+environmental standards to achieve the objectives of this chapter. 
+This Article contains a commitment that neither Parties shall fail to effectively enforce its 
+environmental laws through a sustained or recurring course of action or inaction to encourage 
+trade or investment between the Parties.  
+This Article recognises that it is inappropriate to encourage trade or investment by weakening or 
+reducing the protection afforded in their respective environmental laws. Accordingly, this Article 
+obligates the Parties not to waive or otherwise derogate from, or offer to waive or otherwise 
+derogate from, their respective environmental laws in a manner that weakens or reduces the 
+protection afforded in those laws, in order to encourage trade or investment between the Parties. 
+This Article also recognises that it is inappropriate for a Party to apply its environmental laws, 
+policies, or measures in a manner that would constitute an arbitrary or unjustifiable discrimination 
+or a disguised restriction on trade or investment between the Parties. 
+Article 21.4 Multilateral Environmental Agreements 
+This Article recognises the important role that multilateral environmental agreements (‘MEAs’) play 
+in protecting the environment and affirms each Party’s commitment to implement the MEAs to 
+which it is a party.  
+This Article provides for cooperation with respect to environmental issues of mutual interest related 
+to MEAs. 
+Article 21.5 Climate Change 
+This Article recognises the importance of achieving the ultimate objective of the United Nations 
+Framework Convention on Climate Change (UNFCCC) and the Paris Agreement. Amongst other 
+things, it further recognises that the impacts of climate change will be much lower at the 
+temperature increase of 1.5°C compared with 2°C, and the call for parties to the UNFCCC and the 
+Paris Agreement to accelerate efforts towards the phase-down of unabated coal power, in 
+accordance with the Glasgow Climate Pact 2021.  
+This Article accordingly commits the UK and India to endeavour to encourage the transition to 
+clean energy; and affirms their respective commitments to implement the Paris Agreement with the 
+aim of strengthening the global response to climate change by holding the increase in global 
+average temperature to well below 2°C above pre- industrial levels and pursuing efforts to limit the 
+temperature increase to 1.5°C above pre-industrial levels.  
+This Article provides for cooperation with respect to climate change. 
+Article 21.6 Environmental Goods and Services 
+This Article commits the UK and India to endeavour to facilitate and promote trade and investment 
+in environmental goods and services, including through the CETA’s Sustainability Subcommittee 
+and in conjunction with other relevant committees established under the CETA, as appropriate.  
+This Article provides for cooperation with respect to ways to enhance trade in environmental goods 
+and services. 
+Article 21.7 Ozone Depleting Substances and Hydrofluorocarbons 
+This Article recognises that emissions of ozone depleting substances can significantly deplete and 
+otherwise modify the ozone layer in a manner that is likely to result in adverse effects on human 
+Section 42 Report: UK-India CETA 
+20 
+ 
+health and the environment. The Parties further recognise the importance of reducing the use of 
+ozone depleting substances and hydrofluorocarbons. 
+This Article, accordingly, affirms the UK and India’s commitment to implement the Montreal 
+Protocol on Substances that Deplete the Ozone Layer including the Kigali Amendment on the 
+phase-down of hydrofluorocarbons. 
+ This Article provides for cooperation with respect to ozone-depleting substances and 
+hydrofluorocarbons. 
+Article 21.8 Air Quality 
+This Article recognises that air pollution is a serious threat to public health and ecosystem integrity, 
+the importance of reducing domestic air pollution, and that cooperation can be beneficial in 
+achieving these objectives, taking into account national circumstances. To that end, this Article 
+commits the UK and India to endeavour to  reduce air pollution. 
+This Article provides for cooperation with respect to air quality. 
+Article 21.9 Protection of the Marine Environment from Ship Pollution 
+This Article recognises the importance of protecting and preserving the marine environment and 
+the impact of pollution from ships, and to that end, the UK and India affirm their commitments to 
+implement the International Convention for the Prevention of Pollution from Ships to prevent the 
+pollution of the marine environment from ships.  
+This Article provides for cooperation with respect to pollution of the marine environment from ships. 
+Article 21.10 Marine Litter 
+This Article recognises the importance of taking action to prevent and reduce marine litter, which 
+includes plastics and microplastics.  
+This Article provides for cooperation with respect to combatting marine litter. 
+Article 21.11 Marine Wild Capture Fisheries 
+This Article recognises the importance of taking measures aimed at the conservation and 
+sustainable management of fisheries and ecosystems, acknowledging that the fate of marine wild 
+capture fisheries is an urgent resource problem in many parts of the world and the importance of 
+the marine fisheries sector to the UK and India’s development and their fishing communities’ 
+livelihoods.  
+It further acknowledges that inadequate fisheries management and illegal, unreported, and 
+unregulated (“IUU”) fishing can have significant negative impacts on the environment; and 
+recognises the importance of promoting good fisheries governance and of promoting the long-term 
+conservation of sharks, marine turtles, seabirds, and marine mammals through the implementation 
+of conservation and management measures.  
+Additionally, it affirms the UK and India’s respective commitments to implement the relevant 
+international agreements to which they are party. 
+This Article provides for cooperation with respect to marine wild capture fisheries. 
+ 
+Section 42 Report: UK-India CETA 
+  21 
+ 
+Article 21.12 Sustainable Forest Management 
+This Article provides for the UK and India to endeavour to support the conservation and 
+sustainable management of forests, to combat illegal logging and associated trade, and to reduce 
+deforestation and forest degradation.  
+This Article provides for cooperation with respect to the conservation and sustainable management 
+of forests. 
+Article 21.13 Conservation of Biological Diversity 
+This Article recognises the role that territorial and marine biological diversity plays in achieving 
+sustainable development, including through the provision of ecosystem services and genetic 
+resources, and the importance of conservation and sustainable use of biological diversity. 
+It recognises that threats to terrestrial and marine biological diversity include, poaching and illegal 
+trade, in wild flora and fauna, habitat degradation and destruction, and pollution.   
+This Article further recognises the particular losses caused to conservation from the illegal trade in 
+ivory, and the importance of appropriate regulation of domestic markets worldwide for ivory as a 
+means of supporting international conservation efforts. Accordingly, this Article commits the UK 
+and India to endeavour to combat the illegal trade in ivory. 
+This Article provides for cooperation with respect to the conservation of biological diversity. 
+Article 21.14 Resource Efficient and Circular Economy 
+This Article obligates the UK and India to endeavour to avoid the generation of waste, including 
+electronic waste, and to reduce the amount of waste sent to landfill.  
+This Article provides for cooperation with respect to a transition towards a resource-efficient and 
+circular economy. 
+Article 21.15 Cooperation 
+This Article sets out the framework by which Parties shall cooperate as provided in this chapter. 
+This cooperation may be on a bilateral or, as appropriate, an international basis. The UK and India 
+further acknowledge that cooperation can be undertaken through various means, such as 
+dialogues, workshops, conferences, collaborative programmes, and joint analysis.  The Article 
+provides that all cooperative activities are subject to applicable laws and regulations, and 
+availability of resources, including funds. 
+Article 21.16 Contact Points 
+This Article obligates the UK and India to designate respective contact points within 90 days of 
+entry into force of this Agreement to facilitate bilateral communication and to notify each other 
+promptly of any changes to that point of contact. 
+Article 21.17 Opportunities for Public Participation 
+This Article commits the UK and India to endeavour, as appropriate, to make environmental 
+information publicly available, to promote public participation with respect to the cooperative 
+activities set out in the Environment Chapter, and to consider and respond to submissions made by 
+their nationals on matters related to this Chapter in accordance with its domestic laws and 
+procedures. 
+Section 42 Report: UK-India CETA 
+22 
+ 
+Article 21.18 Environment Consultations 
+ This Article commits the Parties at all times to endeavour to agree on the interpretation and 
+application of the Chapter, and to make every effort through cooperation, dialogue, consultations, 
+and exchange of information to address any matter arising under the Chapter. 
+The Article also provides that a Party may request a consultation with the other Party regarding 
+any matter arising under the Chapter. Where, however, the matter arising under this Chapter 
+regards compliance with obligations under a MEA to which the Parties are party, the Article 
+provides that the requesting Party shall, where appropriate, address the matter through the 
+consultative or other procedures under that MEA. This Article also sets out a framework for such 
+consultation, including for the UK and India to make every effort to arrive at a mutually agreed 
+solution to any matter raised. 
+Article 21.19 Joint Committee Consultations 
+If the Parties fail to resolve a matter under Article 21.18 (Environment Consultations), this Article 
+stipulates that either Party may request the Joint Committee convene to seek to resolve the matter. 
+Where The Joint Committee is convened, the Committee shall seek to resolve the matter including, 
+if appropriate, by gathering relevant technical and scientific information from governmental 
+agencies or sources, or other mutually agreed agencies or sources. 
+Article 21.20 Ministerial Consultations 
+If the Parties have failed to resolve the matter under Article 21.19 (Joint Committee Consultations), 
+this Article allows either Party to refer the matter to the relevant Ministers of the Parties who shall 
+seek to resolve the matter. 
+ 
+Section 42 Report: UK-India CETA 
+  23 
+ 
+Other Chapters 
+Chapter 1: Initial Provisions and General Definitions 
+Chapter Summary and Conclusion 
+The Chapter includes a ‘Relation to Other International Agreements’ article (Article 1.2), which 
+affirms the principle of co-existence between the UK-India CETA and other existing international 
+agreements to which the UK and India are both party. This is relevant to existing agreements to 
+which both the UK and India are party that may impact matters relevant for this report and has the 
+effect of reaffirming the UK’s commitment to upholding obligations it has taken elsewhere.  
+The Government believes, after seeking independent advice, that the Articles within this Chapter 
+are consistent with and do not affect the UK's ability to maintain its statutory protections in relation 
+to human, animal, or plant life or health, animal welfare, or the environment.  
+ 
+Chapter 3: Rules of Origin 
+Chapter Summary and Conclusion 
+The Chapter provides a single set of rules to determine whether a good is “originating” and is 
+therefore eligible for tariff-free market access and reduced tariffs under the agreement. It also 
+outlines the procedures traders must follow to prove the origin of goods, ensuring that only 
+genuinely UK or Indian goods benefit from the preferential tariff treatment. 
+The Government believes, after seeking independent advice, that the Articles within this Chapter 
+are consistent with and do not affect the UK's ability to maintain its statutory protections in relation 
+to human, animal, or plant life or health, animal welfare, or the environment.   
+ 
+Chapter 5: Customs and Trade Facilitation 
+Chapter Summary and Conclusion 
+The Customs and Trade Facilitation chapter provides that the UK and India’s customs procedures 
+should be non-discriminatory, transparent and consistent whilst also reinforcing the UK and India’s 
+ability to maintain effective customs control.  
+It builds on the Parties’ commitments under the WTO Trade Facilitation Agreement including more 
+ambitious commitments in areas such as Release of Goods, Perishable Goods and Advance 
+Rulings.  
+The FSA and FSS note that the commitments to release goods promptly is contingent upon all 
+documentation and regulatory requirements being met.  They state (section 7.1) that “crucially, this 
+includes completion of sanitary and phytosanitary (SPS) checks.” 
+The Government believes, after seeking independent advice, that the Articles within this Chapter 
+are consistent with and do not affect the UK's ability to maintain its statutory protections in relation 
+to human, animal, or plant life or health, animal welfare, or the environment.  
+ 
+Section 42 Report: UK-India CETA 
+24 
+ 
+Chapter 24: Good Regulatory Practice 
+Chapter Summary and Conclusion 
+The Good Regulatory Practice (GRP) chapter promotes economic growth by encouraging good 
+governance and accountability within regulatory processes which helps to provide a stable and 
+predictable regulatory regime.  
+The UK and India will ensure that their regulations are made accessible. Both countries make 
+commitments to provide a reasonable opportunity for interested persons to comment on proposed 
+major regulatory measures, and to encourage regulatory authorities to cooperate on current and 
+future regulation.  
+The Government believes, after seeking independent advice, that the Articles within this Chapter 
+are consistent with and do not affect the UK's ability to maintain its statutory protections in relation 
+to human, animal, or plant life or health, animal welfare, or the environment. 
+ 
+Chapter 28: General Provisions and Exceptions 
+Chapter Summary and Conclusion 
+The UK-India CETA preserves flexibility for the UK Government to protect legitimate domestic 
+priorities by including a number of general exceptions to the commitments in the agreement. Some 
+of the main exceptions relevant to the scope of this report are included by way of the WTO General 
+Exceptions incorporated through Article 28.1. Article XX of the GATT 199410 is incorporated for the 
+purposes of a list of chapters affecting trade in goods, and Article XIV of the GATS11 is 
+incorporated for the purposes of a list of chapters affecting trade in services. Subject to the specific 
+conditions stipulated within the chapeaux of the corresponding articles of the WTO Agreement, 
+such as avoiding arbitrary or unjustifiable discrimination, these general exceptions allow the UK to 
+take measures in pursuit of the legitimate policy objectives listed in the corresponding WTO 
+exceptions.  
+Measures that are within scope of the General Exceptions include measures necessary to protect 
+public morals and those necessary to protect human, animal or plant life or health. GATT XX also 
+covers measures relating to the conservation of exhaustible natural resources, if such measures 
+are made effective in conjunction with restrictions on domestic production or consumption. The 
+inclusion of these exceptions thus contributes to reaffirming the UK’s ‘right to regulate’ domestically 
+on a number of issues, including the environment. This is important considering the UK’s 
+international commitments on the environment, nature and biodiversity. 
+The Government believes, after seeking independent advice, that the Articles within this Chapter 
+are consistent with and support the UK's ability to maintain its statutory protections in relation to 
+human, animal, or plant life or health, animal welfare, or the environment. 
+ 
+ 
+10 Further information can be found at: https://www.wto.org/english/docs_e/legal_e/gatt47_02_e.htm#ArticleXX 
+11 Further information can be found at: https://www.wto.org/english/tratop_e/dispu_e/repertory_e/g4_e.htm 
+Section 42 Report: UK-India CETA 
+  25 
+ 
+Chapter 29: Dispute Settlement 
+Chapter Summary and Conclusion 
+The Chapter establishes a robust state-to-state dispute settlement mechanism for resolving certain 
+disputes, should they arise under the agreement.  
+The Chapter encourages the Parties to exhaust options to reach a mutually agreed solution to any 
+dispute, including through formal consultations. Where a solution cannot be found, the complaining 
+Party may request the formation of an independent arbitration panel, which will consider the 
+dispute in line with the Parties’ rights and obligations under the CETA and issue a report with its 
+findings. The Chapter includes robust and proportionate mechanisms regarding how the dispute 
+process is run and to ensure compliance with the agreement.  
+The dispute settlement mechanism applies to in full to the following chapters: Trade in Goods, 
+Rules of Origin, Technical Barriers to Trade, Customs and Trade Facilitation, Telecommunications, 
+Digital Trade, and Intellectual Property.   
+The dispute settlement mechanism is modified or applies in part to the following chapters: Trade 
+Remedies, Trade in Services, Financial Services, Temporary Movement of Natural Persons, and 
+Government Procurement.  
+The dispute settlement mechanism does not apply to matters arising out of the other chapters of 
+the Agreement, including Sanitary and Phytosanitary Measures and Environment. The 
+Environment chapter includes a bespoke dispute settlement mechanism.  
+The Government believes, after seeking independent advice, that the Articles within this Chapter 
+are consistent with and do not affect the UK's ability to maintain its statutory protections in relation 
+to human, animal, or plant life or health, animal welfare, or the environment. 
+ 
+Section 42 Report: UK-India CETA 
+26 
+ 
+Concerns addressed by the Trade and Agriculture 
+Commission 
+The TAC’s advice engaged with perceived public concerns in relation to Sanitary and 
+Phytosanitary measures, Animal Welfare concerns and Environmental concerns. We address 
+some of the issues raised below. 
+Animal Welfare Concerns 
+The TAC addressed a number of stakeholder issues relating to animal welfare, including animal 
+welfare associated with prawn farming, dairy products, and leather (p. 39-45). 
+The UK-India CETA does not create any new permissions or authorisations for imports from India. 
+As the TAC notes, imports into the UK must comply with our existing import requirements. 
+Products produced to different environmental and animal welfare standards can be placed on the 
+UK market if they comply with these requirements. This has always been the case and includes 
+products from the EU and other longstanding trading partners. 
+As set out in the UK’s Trade Strategy, the Government will not lower food standards and will 
+uphold high animal welfare standards. We recognise concerns about methods of production which 
+are not permitted in the UK. While methods vary in line with different climates, diseases and other 
+contextual reasons, we will always consider whether overseas produce has an unfair advantage 
+and any impact that may have. Where necessary, we will be prepared to use the full range of 
+powers at our disposal to protect our most sensitive sectors including permanent quotas, 
+exclusions and safeguards. 
+The TAC concludes (p.8) that ultimately, “the India FTA does not otherwise affect the ability of the 
+UK to adopt statutory protections in these areas.” 
+Antimicrobial Resistance 
+The TAC concludes (p.56) that “the FTA does not limit the UK’s rights to protect its people, 
+animals, plants or the wider environment from the entry of antimicrobial resistant bacteria into the 
+UK. It is theoretically possible that antimicrobial resistance in India might increase as a result of 
+increased production to serve the UK market. That is an issue that is for India to address, in line 
+with its recognition, in the FTA, that there is a need to develop and implement a National Action 
+Plan in line with the Global Action Plan on Antimicrobial Resistance, and by cooperating on this 
+issue, as also foreseen in the FTA.” 
+All agri-food products imported into the UK under existing or future FTAs will, as now, have to 
+comply with our import requirements which includes clear controls on limits of veterinary medicine 
+residues in meat and other animal products. 
+Pesticide Use 
+The TAC concludes (p.56) that “the FTA does not change the UK’s WTO rights to impose 
+restrictions on imports to protect UK plants, animals and environment (e.g., from pesticide residue 
+in feed). The situation is different insofar as the effects of pesticide use in India are concerned. In 
+principle, the UK is not permitted to prohibit imports of products that are produced using pesticides 
+that cause harm solely to plants, animals or the environment (e.g., soil or water) in India. Such 
+risks are fundamentally for India to address, unless there is a substantial connection with the UK or 
+effect on the UK. In this respect, we do not rule out that the use of certain pesticides may become 
+an issue of international concern. It is important to note that the FTA does not change the UK’s 
+legal position on this matter under WTO law.” 
+Section 42 Report: UK-India CETA 
+  27 
+ 
+A maximum residue level (MRL) is the highest level of a pesticide residue that is legally tolerated in 
+or on food when a pesticide is applied correctly.  All food placed on the market in Great Britain 
+(GB) must meet our pesticide MRLs.  MRLs are set following scientific risk assessment by the 
+Health and Safety Executive (HSE).  MRLs must be safe for consumers but are not in themselves 
+safety limits. They are set below, and usually well below, the level considered safe for people to 
+eat. 
+Whether produce has been treated with a pesticide in GB or in another country, the same 
+consumer safety criteria are applied when setting MRLs. GB MRLs can be set to take account of 
+residues arising from pesticide uses and authorisations in other countries – applications for these 
+import tolerance MRLs are considered by the HSE.  This approach recognises the diversity of 
+farming practices in other countries reflecting contrasting climatic and environmental conditions 
+and supports international trade and demand from consumers for commodities not grown in the UK 
+for example. 
+  
+Section 42 Report: UK-India CETA 
+28 
+ 
+ 
+ 
+ 
+ 
+  
+ANNEX to Government Report 
+Annex A: Food Standards Agency and Food 
+Standards Scotland Joint Advice to the Minister 
+of State for Business and Trade 
+Food Standards Agency and Food 
+Standards Scotland Joint Section 42 advice 
+– United Kingdom – India - Free-Trade 
+Agreement 
+ 
+November 2025 
+Section 42 Report: UK-India CETA 
+  29 
+ 
+ 
+ 
+Contents 
+ 
+1. Introduction ................................ ................................ ................................ ............... 30 
+2. Scope of FSA and FSS advice ................................ ................................ .................. 32 
+3. Trade with India ................................ ................................ ................................ ......... 34 
+4. Overview of the provisions in the India FTA ................................ ........................... 35 
+5. Relevant chapter analysis ................................ ................................ ........................ 36 
+6. Chapter 2 – Trade in Goods ................................ ................................ ...................... 37 
+7. Chapter 5 – Customs and Trade Facilitation ................................ ........................... 38 
+8. Chapter 6 – Sanitary and Phytosanitary (SPS) measures ................................ ...... 39 
+9. Chapter 7 - Technical Barriers to Trade (TBT) ................................ ........................ 41 
+10.   Chapter 16 – Competition and Consumers Protection ................................ ........... 42 
+11.  Current Border Controls for Indian High Risk Food Products ................................  43 
+12.   Evidence from Stakeholders: Key Concerns ................................ ........................... 46 
+13.   FSA and FSS assessment of the issues raised by stakeholders ........................... 48 
+14.   Conclusions ................................ ................................ ................................ ............... 51 
+15.   Annex I – Summary of Call for Evidence Responses ................................ .............. 52 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 42 Report: UK-India CETA 
+30 
+ 
+Introduction 
+1.1  As the UK’s statutory authorities responsible for safeguarding food and feed safety and 
+protecting consumer interests—within England, Wales, and Northern Ireland (FSA), and within 
+Scotland (FSS)—the Food Standards Agency and Food Standards Scotland have been 
+commissioned by the Minister of State for Trade Policy and Economic Security to deliver 
+joint advice regarding the UK’s accession to the UK-India Comprehensive Economic and 
+Trade Agreement (CETA)12. 
+1.2 The UK-India CETA originated from the Enhanced Trade Partnership (ETP) agreed in May 
+2021, which laid the foundation for deeper trade co-operation. Formal negotiations commenced in 
+January 2022, and an agreement was reached in May 2025, with the deal signed on 24th July 
+2025.  
+1.3 Before the CETA can take legal effect, it must undergo formal scrutiny in Parliament, as 
+required by the Constitutional Reform and Governance Act 201013. To support this process, the 
+Government will publish a report under Section 42 of the 2020 Agriculture Act — an independent 
+assessment focused specifically on agricultural trade. This report will evaluate whether the CETA’s 
+provisions uphold the UK’s existing legal standards for protecting human, animal, and plant health, 
+as well as animal welfare and the environment. 
+1.4 The request from the Minister came under Section 42(4) of the Agriculture Act 202014 and 
+focused on whether the provisions in the UK-India CETA affecting human health maintain the UK’s 
+statutory protections, specifically within the areas overseen by FSA and FSS. This document 
+presents the FSA and FSS’s joint assessment, which will be included as an annex to the 
+Government’s Section 42 Report. 
+1.5   In summary, the FSA/FSS assessment is that: 
+• No changes to UK food and animal feed laws or standards are needed for the UK-India 
+CETA to take effect. 
+• The UK-India CETA maintains all current UK rules and statutory protections on food 
+safety and nutrition that fall under the responsibilities of the FSA and FSS. 
+• Some stakeholders and members of the public have expressed concerns about the 
+agreement with India. Their concerns mostly centre on production standards, 
+specifically the use in India of pesticides and antibiotics prohibited in the UK, and 
+exceeding UK MRL’s (maximum residue levels) for pesticide residues. This feedback 
+was shared in response to our Call for Evidence, and we reflect the key points related to 
+FSA and FSS responsibilities later in this report under Section 12. 
+• The agreement respects the respective powers of the UK Government and the devolved 
+administrations to set rules on sanitary and phytosanitary (SPS) measures within their 
+areas of competence. This means that any future decisions about domestic regulations 
+will remain under UK and devolved government control. 
+• The agreement with India does not require any changes to UK laws that protect public 
+health in relation to nutrition. This is based on analysis by the FSA and FSS, covering 
+ 
+12 India Free Trade Agreement (FTA) - request for Food Standards Agency and Food Standards Scotland advice 
+13 Constitutional Reform and Government Act 2010 (Legislation.gov.uk) 
+14 Agriculture Act 2020 (Legislation.gov.uk) 
+Section 42 Report: UK-India CETA 
+  31 
+ 
+areas such as nutrition and health claims, adding vitamins and minerals, food 
+supplements, foods for specific groups, and nutrition labelling. 
+• This trade agreement does not restrict the UK's ability to negotiate an SPS Agreement 
+with the EU. 
+ 
+ 
+Section 42 Report: UK-India CETA 
+32 
+ 
+Scope of FSA and FSS advice 
+2.1 In line with their statutory responsibilities and policy roles, the FSA and FSS are providing 
+advice focused on human health, including food safety and nutrition-related protections15 16. For 
+the purposes of this advice, any reference to food safety includes feed safety where it relates to 
+human health, noting that feed safety in relation to animal health falls under the remit of the Trade 
+and Agriculture Commission (TAC), which also contributes to the Section 42 report.  Nutrition 
+policy across the UK is led by different bodies: the Department of Health and Social Care in 
+England, the Welsh Government in Wales, Food Standards Scotland in Scotland, and the Food 
+Standards Agency in Northern Ireland—where it operates as part of the UK-wide FSA. For this 
+report, we have sought advice from FSA nutrition specialists in FSA Northern Ireland, and from 
+FSS. 
+2.2 For the purposes of this assessment, “UK levels of statutory protection” are defined—as set out 
+in the Agriculture Act 2020—as the legal protections in force across any part of the UK at the time 
+this Section 42 report is issued. Because food safety and nutrition are devolved matters, legislation 
+from all four nations is relevant to this analysis. This includes national laws that apply specifically in 
+England, Scotland, Wales, or Northern Ireland. However, existing international obligations—such 
+as those outlined in Article 1.2, which governs the relationship between the UK-India CETA and the 
+Windsor Framework—fall outside the scope of this advice17. As such, the CETA does not alter the 
+application of laws already governed by those obligations. All references to UK statutory 
+protections in this advice are therefore limited to the domestic legislation described above.  
+2.3 This advice does not extend to food standards unrelated to human health—such as rules of 
+origin, geographical indications, organic certification, or advertising regulations—which fall outside 
+the scope of this commission and of FSA and FSS remits as food safety authorities. Similarly, 
+issues not directly linked to public health, including tariffs, technical specifications, trade facilitation, 
+and market access rules outside of the scope of SPS measures, are excluded. Matters concerning 
+statutory protections for animal and plant health, animal welfare, and environmental standards are 
+addressed separately by the TAC. 
+2.4 Official controls apply to all food products imported to the UK and are carried out by competent 
+authorities under the oversight of the FSA, FSS, and the UK and Devolved Governments. For 
+India, these controls will remain in place under the new UK-India CETA, in a dynamic risk-based 
+regime. This means there will still be a requirement for pre-notification of imports from India as well 
+as necessary certification, supported by physical checks. Beyond routine checks, the FSA and 
+FSS can also introduce emergency import restrictions or safeguards when necessary for any 
+imports for any country. Examples of enhanced controls taking place in practice on foods imported 
+from India are provided below in Section 11. The FSA and FSS also continue to work with the 
+Department for Environment, Food and Rural Affairs (Defra) to assess applications for new market 
+access, which is a separate process from Free Trade Agreement (FTA) negotiations. Market 
+access for Products of Animal Origin (POAO) and enhanced checks based on risk for High-Risk 
+Foods not of Animal Origin (HRFNAO) processes are not affected by this trade agreement and will 
+continue to apply for trade with India. 
+ 
+15 “Nutrition” means legislation within scope of appendix II of the Nutrition Related Labelling, Composition and 
+Standards Provisional Common Framework. 
+16 The way UK Government and devolved administration work together across the four nations is set out in the 
+Food and Feed Safety and Hygiene (FFSH) common framework. 
+17 UK-India CETA – Chapter 1: Initial Provisions and General Definitions 
+Section 42 Report: UK-India CETA 
+  33 
+ 
+2.5 As the UK’s independent food safety competent authorities, the FSA and FSS recognise the 
+importance of upholding the UK’s high food safety standards and ensuring that trade agreements 
+are subject to rigorous health impact assessments to safeguard consumers’ health. Stakeholder 
+submissions to the Call for Evidence launched by both agencies on 1st August 2025 have received 
+contributions from nine interested parties. In addressing these, our analysis has focused on the 
+relevant provisions of the UK-India CETA and their interactions with the UK’s international 
+obligations under the WTO and UK’s existing statutory protections for human health, including food 
+and feed safety and nutrition. We also acknowledge that some of the issues raised fall outside our 
+statutory remit and the scope of our contribution to the Section 42 report but are important to the 
+public and will be considered as part this report where relevant. 
+2.6 In June 2025 and for the past few years, the FSA and FSS have provided retrospective insights 
+into broader food trade issues through their joint publication, Our Food: An annual review of food 
+standards across the UK18. This report offers an evidence-based overview of trends, challenges, 
+and developments in food standards, complementing the advice provided here. The FSA and FSS 
+published research through their UK Food and You 2 Survey1920 that cited that consumers are 
+concerned about food produced outside the UK having the same hygiene, safety and integrity 
+compared to food produced in the UK.  
+ 
+ 
+ 
+18 Our Food 2024 
+19 Food and You 2: FSS 
+20 Food and You 2: FSA 
+Section 42 Report: UK-India CETA 
+34 
+ 
+Trade with India 
+3.1 India is an important trading partner for the UK when it comes to food and agricultural products. 
+While India doesn’t send any beef, eggs, or pork to the UK, it is a leading exporter for other food 
+products. For example, rice is a major import; nearly one-third of all rice brought into the UK comes 
+from India, making it our biggest rice supplier. 
+3.2 From HMRC21 UK trade data:  
+• India is ranked #1 for herbs and spices imports into the UK 
+• India is also ranked #1 for infant food into the UK, however this is from exporting a 
+large amount of Rusk to the UK. Rusk is a twice baked bread product, or hard bread 
+which is commonly used for teething babies.  
+• India accounts for 29.6% of all UK rice imports—including husked brown rice, broken 
+rice, and semi-milled rice—highlighting its pivotal role in meeting the UK’s rice 
+demand. 
+ 
+3.3 As part of this close trade relationship, the UK maintains ongoing co-operation and 
+engagement with the Indian authorities, which plays an important role in ensuring the safety of 
+imported foods. The FSA and FSS are hoping to finalise a Memorandum of Understanding (MoU) 
+with the Food Safety and Standards Authority of India (FSSAI), to further enhance the UK-India 
+CETA by an increase of both Parties’ co-operation during food incidents, communication, 
+information sharing and understanding of one another’s SPS regimes. The FSA and FSS are 
+continuing to engage with the Indian authorities when issues such as non-compliances and 
+incidents emerge and look forward to improved cooperation as a result of the FTA and MoU.  
+ 
+ 
+21 HMRC UK Imported Food Data 
+Section 42 Report: UK-India CETA 
+  35 
+ 
+Overview of the provisions in the India FTA 
+4.1 The UK and Indian Governments recognise in the Preamble of the CETA their sovereign right 
+to regulate and maintain the flexibility to set their own legislative and regulatory priorities22. This 
+includes the ability to safeguard public welfare and uphold legitimate public policy objectives such 
+as the protection of public health, food safety, environmental sustainability, and public morals. 
+These decisions will be supported by transparent, evidence-based advice from the FSA, FSS, and 
+other relevant expert bodies, ensuring that regulatory choices reflect both scientific rigour and the 
+public interest. 
+4.2 Chapter 1 of the Agreement reaffirms the Parties’ existing rights and obligations under 
+international instruments to which they are all signatories, including the WTO Agreements2324. 
+Within the domain of food safety and nutrition, these international commitments do not constrain 
+the UK Government or devolved administrations from taking proportionate, unilateral action 
+necessary to safeguard consumer health across the UK.  
+Article 1.4 “General Definitions” clarifies that “SPS Agreement” in the context of the CETA means 
+the Agreement on the Application of Sanitary and Phytosanitary Measures, set out in Annex 1A to 
+the WTO Agreement25. This, along with references within the SPS Chapter, evidences the primacy 
+of the WTO SPS Agreement as the main basis for international trade in foodstuffs. 
+ 
+ 
+ 
+22 UK-India CETA Preamble 
+23 UK-India CETA Chapter 1: Initial Provisions and General Definitions 
+24 WTO Legal Texts 
+25 WTO Agreement on the Application of Sanitary and Phytosanitary Measures 
+Section 42 Report: UK-India CETA 
+36 
+ 
+Relevant Chapter analysis 
+5.1 In assessing the maintenance of existing statutory protections for food safety and nutrition, the 
+following chapters are particularly relevant due to their close links to UK food safety and nutrition 
+legislation safeguarding human health as well as to FSA and FSS operational work:  
+• Chapter 2 – Trade in Goods  
+• Chapter 5 – Customs and Trade Facilitation 
+• Chapter 6 – Sanitary and Phytosanitary Measures 
+• Chapter 7 – Technical Barriers to Trade 
+• Chapter 16 – Competition and Consumers Protection 
+ 
+ 
+Section 42 Report: UK-India CETA 
+  37 
+ 
+Chapter 2 – Trade in Goods 
+6.1 Chapter 2 of the UK–India CETA sets out how both countries will treat each other’s goods fairly 
+in trade. It ensures that goods imported from India will be treated the same as UK-made goods, 
+and vice versa. 
+The chapter also includes agreements on tariffs—how much tax is applied to different goods when 
+they cross borders. These tariff commitments are listed in annexes and help make trade more 
+predictable. 
+Importantly, the chapter includes a safeguard for agricultural goods. This means that once a 
+product qualifies under the agreement, it won’t face sudden tariff increases that countries 
+sometimes use to protect domestic producers. This helps ensure stability for UK and Indian 
+exporters and importers and may also support food security and price stability by helping maintain 
+a steady flow of imports during periods of domestic supply pressure. 
+ 
+ 
+Section 42 Report: UK-India CETA 
+38 
+ 
+Chapter 5 – Customs and Trade Facilitation 
+7.1 This chapter sets out how the UK and India will simplify customs procedures to support 
+smoother trade, while maintaining robust regulatory checks (Article 5.1). It includes commitments 
+to release goods promptly—ideally within 48 hours for non-perishable items (Article 5.5) and as 
+quickly as possible for perishables (Article 5.6)—provided all documentation and regulatory 
+requirements are met. Crucially, this includes completion of sanitary and phytosanitary (SPS) 
+checks. 
+7.2 The agreement also supports the use of risk management systems to focus border checks on 
+high-risk consignments (Article 5.7). This aligns with the UK’s risk-based SPS regime, ensuring 
+that food safety controls remain in place and are proportionate to the level of risk. These provisions 
+help facilitate trade without compromising public health protections. 
+ 
+ 
+Section 42 Report: UK-India CETA 
+  39 
+ 
+Chapter 6 – Sanitary and Phytosanitary (SPS) measures 
+8.1 The SPS chapter text agreed within the UK-India CETA is of fundamental importance as 
+regards to reserving the UK’s right to maintain existing laws and regulations to protect human life 
+and health, including food safety and nutrition. It is also important in preventing any limitations in 
+the way food regulation and enforcement is implemented in the UK. The following key Articles 
+outline how the text achieves this. 
+8.2 Article 6.1 - Definitions:  
+The Definitions Article in the SPS Chapter aligns with those within Annex A of the WTO SPS 
+Agreement.  This is important to ensure consistency in language during dialogue between the 
+parties and for traders. 
+8.3 Article 6.6: Equivalence: 
+The article states that Parties agree that recognising the equivalence of sanitary and phytosanitary 
+(SPS) measures is key to facilitating trade. Equivalence can be recognised even if measures differ, 
+provided the exporting Party proves they meet the importing Party’s appropriate level of protection, 
+in line with Article 4 of the WTO SPS Agreement26. Final decisions on equivalence rest with the 
+importing Party, in line with its legal framework and international guidance.  
+No new equivalence decisions for agri-food products were proposed under the UK’s agreement 
+with India. 
+If the UK receives future requests for equivalence, the FSA and FSS would work closely with other 
+government departments to assess them. We would also advise on any specific trade conditions—
+such as processing or packaging requirements—needed to meet UK food safety standards. This 
+trade deal does not grant any preferential treatment in relation to the outcome of a request. 
+Any equivalence decision would not prevent the UK from updating its SPS regime in future to 
+protect consumers. If changes are made, existing determinations would be reviewed accordingly. 
+8.4 Article 6.8 Audit: 
+The article sets out how one Party may audit the other’s regulatory systems to ensure compliance 
+with agreed SPS import requirements. These audits aim to build and maintain trust in the exporting 
+Party’s controls and must be based on international standards and WTO guidance.  This Article 
+does not prevent the UK from conducting audits were justified to verify India’s food safety controls, 
+nor from taking emergency measures to protect food safety when necessary. 
+8.5 Article 6:10 Import Checks   
+This article establishes the right of the importing Party to carry out import checks based on the 
+SPS risks associated with goods. This Article does not limit the UK’s ability to carry out risk-based 
+import checks or to take enforcement action when non-compliance is found, in accordance with 
+existing UK laws and regulations.  
+ 
+26 Guidelines on the Judgement of Equivalence of Sanitary Measures Associated with Food 
+Inspection and Certification Systems  
+Section 42 Report: UK-India CETA 
+40 
+ 
+The emphasis on risk-based checks in this Article is in alignment with the UK’s risk-based 
+approach to official controls. 
+8.6 Article 6:11 Emergency Measures  
+This article allows a Party to adopt emergency measures to protect human, animal, or plant life or 
+health, and to consult where appropriate with the other party within specific timeframes, adding 
+certainty if a sudden risk to human health linked to food safety emerges. 
+8.7 Article 6.12 Animal Welfare 
+The Animal Welfare article states that both Parties acknowledge the important link between good 
+animal welfare and the health of farmed animals. Considerations around the maintenance of 
+statutory protections for Animal Welfare in the UK-India CETA fall under the remit of the TAC 
+advice. Animal Welfare policy is set domestically by Defra for England and by  the Devolved 
+Administrations, with FSA and FSS playing a role in the enforcement of domestic controls. 
+8.8 Article 6.13 Antimicrobial Resistance 
+The article recognises antimicrobial resistance (AMR) as a serious global threat to both human and 
+animal health, with the parties supporting a One Health approach and the Global Action Plan on 
+AMR and commit to developing national action plans accordingly.  
+8.9 Article 6.14 Technical Consultations 
+The article allows either Party to request technical consultations if concerns arise over SPS 
+measures. These consultations should be held promptly, ideally within 30 days of the request and 
+aim to share information and resolve issues efficiently. If other mechanisms have been used 
+without success, consultations under this Article may still be requested to avoid unnecessary 
+duplication. 
+8.10 Article 6.15 Notification and Information Exchange 
+This Article requires Parties to respond to information requests within a reasonable timeframe, 
+reflecting current working practices of the FSA and FSS. It also avoids duplication with notification 
+requirements at the WTO. 
+8.11 Article 6.19 Non-application of Dispute Settlement  
+This article briefly explains that neither Party shall have to recourse to dispute settlement under 
+Chapter 29 of this agreement for any matter arising from the SPS Chapter.  
+ 
+ 
+Section 42 Report: UK-India CETA 
+  41 
+ 
+Chapter 7 - Technical Barriers to Trade (TBT) 
+9.1 This chapter supports the removal or reduction of technical barriers to trade in goods, while 
+ensuring that products entering the UK market remain safe and of high quality27. 
+It reflects a shared commitment to advancing the use of international standards, including those 
+shaped by UK contributions. Technical Barriers to Trade are relevant to statutory protection for 
+human health, including food safety and nutrition, as they include areas such as standards, 
+conformity assessments, product labelling and food contact materials, often overlapping SPS 
+measures. The Product Sectors listed in Annex 7A in this Chapter are not relevant to the scope of 
+this advice. 
+9.2 Article 7.4 - Affirmation of the TBT Agreement 
+The affirmation of the Parties’ rights and obligations under the WTO TBT Agreement reflects a 
+shared understanding that WTO provisions take precedence in the application of technical 
+regulations, standards, and conformity assessment procedures28. The agreed text therefore 
+reinforces the UK’s right to adopt technical measures aimed at achieving legitimate public policy 
+goals—such as the protection of human health and food safety—as set out in Article 2.2 of the 
+WTO TBT Agreement and reiterates key provisions of that Agreement. 
+9.3 Article 7.5 - Standards, Guides and Recommendations 
+This Article reiterates the WTO principle that TBT measures should, where applicable, be 
+grounded in relevant international standards. This includes, where relevant, standards and 
+guidance set internationally at the Codex Alimentarius Committee in relation to food safety 
+whenever they contain a TBT element. This reaffirmation does not constrain the UK’s regulatory 
+autonomy, nor does it necessitate changes to existing statutory protections related to food safety 
+or nutrition. Additionally, the text encourages cooperation between national conformity assessment 
+bodies, supporting mutual understanding and facilitating smoother trade while maintaining high 
+standards of consumer protection. 
+9.4 Article 7.8 - Marking and Labelling 
+The Article promotes fair and transparent labelling rules, ensuring imported goods are treated no 
+less favourably than domestic ones. It supports flexible labelling approaches—like post-import 
+corrections and multilingual labels—provided they don’t compromise public health or safety, and 
+aligns with WTO TBT principles. All these features are in line with UK legislation on marking and 
+labelling and common practice. 
+ 
+ 
+27 UK-India CETA Chapter 7: Technical Barriers to Trade 
+28 WTO Agreement on Technical Barriers to Trade 
+Section 42 Report: UK-India CETA 
+42 
+ 
+Chapter 16 – Competition and Consumers Protection 
+10.1 This chapter sets out commitments by both the UK and India to uphold their respective 
+competition and consumer protection frameworks. Both countries have agreed to apply and 
+enforce competition laws in a non-discriminatory manner, through independent authorities. 
+Of particular interest to FSA and FSS is Article 16.4 on Consumer Protection, which outlines 
+mutual commitments by the UK and India to uphold and strengthen consumer protection. It 
+emphasizes the importance of safeguarding consumer welfare through effective policy and 
+enforcement. Key provisions include maintaining laws against misleading or unfair commercial 
+practices, ensuring statutory rights for consumers regarding goods and services, and promoting 
+awareness and access to redress mechanisms—especially in cross-border transactions. The 
+article also highlights the value of dispute resolution mechanisms in resolving consumer-related 
+conflicts. 
+This chapter is consistent with existing consumer protection provisions under the Food Safety Act 
+1990, specifically Sections 14 and 1529, which require that food offered for sale must meet the 
+expected nature, substance, and quality, and must not be misrepresented or inaccurately 
+described. 
+ 
+ 
+ 
+ 
+29 Food Safety Act 1990 
+Section 42 Report: UK-India CETA 
+  43 
+ 
+Current Border Controls for Indian High Risk Food 
+Products 
+11.1 As with many other agreements the UK has in place, risk-based border controls still continue 
+to be applied to commodities that we identify might be a risk. 
+The FSA and FSS are responsible for delivering the legal requirements of Regulation 2019/179330. 
+In its Annexes, it lists higher risk food and feed of non-animal origin (HRFNAO) that are subject to 
+enhanced border controls.   
+Imports of HRFNAO from specified countries can only enter GB through appropriately designated 
+border control posts (BCP) where official controls are undertaken including documentary, identity 
+and physical examinations including sampling. A list of these imports can be seen in Annex 1 and 
+2 of Regulation 2019/1793.   
+A higher risk product is food or feed that is identified as either a known or emerging risk or where 
+there is evidence of widespread serious non-compliance with the GB agri-food chain legislation. 
+This may be due to the presence of pathogens, contaminants and toxins including aflatoxins.   
+The FSA and FSS carry out a joint review of the lists contained in the Annexes to Regulation 
+2019/1793 to ensure public health and maintain high food safety standards.  This review is 
+delivered through the joint FSA and FSS risk analysis process so that Ministers can make risk 
+management decisions based on the FSA and FSS recommendations.   
+All recommendations are science and evidence based and are developed and considered through 
+a four-nation expert working group, in accordance with the Food and Feed Safety and Hygiene 
+Common Framework, and proposed by officials in Scotland, Wales, England, and Northern 
+Ireland.    
+Table 1 below shows a list of Indian products currently under import control from Regulation 
+2019/179331 as of 18th of December 2024 with the hazard being sampled.  Like commodities from 
+many other countries, these goods face stricter import controls in comparison to other Food Not of 
+Animal Origin (FNAO) from India, including mandatory health certificates, pre-notification, and 
+physical inspections.   
+Commodities listed under Annex 1 of Regulation (EU) 2019/1793 are subject to a temporary 
+increase in official controls due to identified risks. These goods must be pre-notified to a 
+designated BCP and are sampled at the border according to the set frequency. As this shows, the 
+agreement does not prevent the UK from taking appropriate action on imports from India.  
+In contrast, commodities listed under Annex 2 are subject to special conditions, requiring both pre-
+notification and submission of laboratory test results prior to entry into Great Britain, to be also 
+accompanied by an export health certificate. These goods are also subject to additional sampling 
+at the border, with checks carried out at a frequency specified in the legislation. The key distinction 
+lies in the requirement for pre-export testing an additional certification required under Annex 2, 
+which is not mandated for Annex 1 commodities. 
+ 
+ 
+30 Regulation 2019/1793 
+31 Commission Implementing Regulation (EU) 2019/1793 
+Section 42 Report: UK-India CETA 
+44 
+ 
+Food or Feed Product Hazard 
+ 
+Frequency of 
+physical and 
+identity checks 
+Fenugreek leaves   Pesticide residues  Annex 1 10% 
+Cumin seeds   Pesticide residues  Annex 1 10%  
+Curry leaves (Bergera/ Murraya koenigii)   
+  
+Pesticide residues  Annex 1 50% 
+Okra   Pesticide residues  Annex 1 20% 
+Drumsticks (Moringa oleifera)  Pesticide residues  Annex 1 20% 
+Cinnamon and cinnamon-tree flowers   Pesticide residues  Annex1 10% 
+Cloves (whole fruit, cloves and stems)   Pesticide residues  Annex 110% 
+Nutmeg, mace and cardamoms  Pesticide residues  Annex 1 10% 
+Nutmeg (Myristica fragrans)   Aflatoxins  Annex 1 50% 
+Seeds of anise, badian, fennel, coriander, 
+cumin or caraway, juniper berries   
+Pesticide residues  Annex 1 10% 
+Guar gum   Pentachlorophenol 
+and dioxins  
+Annex 1 20% 
+Ginger, saffron, turmeric (Curcuma), thyme, bay 
+leaves, curry and other spices   
+Pesticide residues  Annex 1 10% 
+Rice  Aflatoxins and 
+Ochratoxin A  
+Annex 1 5% 
+Rice  Pesticide residues  Annex 1 5% 
+Yardlong beans (Vigna unguiculata subsp. 
+sesquipedalis)   
+Pesticide residues  Annex 1 20% 
+Peppers of the genus Capsicum (sweet or other 
+than sweet)   
+Aflatoxins  Annex 1 20% 
+Food containing or consisting of betel leaves 
+(Piper betle)  
+Salmonella  Annex 2 10% 
+Groundnuts   Aflatoxins  Annex 2 50% 
+Peppers of the genus Capsicum (other than 
+sweet)   
+Pesticide residues  Annex 2 20% 
+Sesamum seeds   Salmonella  Annex 2 30% 
+Sesamum seeds   Pesticide residues  Annex 2 30% 
+Section 42 Report: UK-India CETA 
+  45 
+ 
+ 
+In the 2024 update of Regulation 2019/1793 import controls on Guar Gum and Nutmeg have been 
+reduced due to increased compliance at the border.  
+The FSA and FSS will continue to monitor, review, and provide recommendations to ministers 
+regarding the Annexes to Regulation 2019/1793. This work supports decisions on whether to 
+include additional products or adjust the frequency of checks on specific food and feed items, in 
+line with our statutory duty to safeguard public health. 
+ 
+Section 42 Report: UK-India CETA 
+46 
+ 
+Evidence from Stakeholders: Key Concerns 
+12.1 When considering this advice on the UK-India CETA it is helpful to outline the broader context 
+around consumer perspectives and stakeholder concerns. The FSA and FSS, in parallel with the 
+TAC, issued an open Call for Evidence on 1 August 2025, inviting submissions from interested 
+parties regarding statutory protections for food safety and nutrition. This consultation remained 
+open for eight weeks32. We received nine submissions and held multiple discussions before the 
+submission of the advice with stakeholders as part of the FSA’s and FSS’s ongoing engagement 
+activities. We are grateful to all respondents who took the time to submit their contribution, you can 
+find a summary of these in Annex I of this report. Relevant contributions which involve statutory 
+protections for human health or are of particular interest to the public have been incorporated into 
+our advice and views are summarised below. 
+12.2 Food Production standards 
+Stakeholders highlighted significant disparities in production methods, including the use by 
+producers in India of antibiotics, pesticides and intensive farming practices that are banned in the 
+UK. These differences, they argue, give Indian imports an unfair competitive advantage and 
+threaten the viability of UK sectors such as dairy and beef. Other key concerns are that allergen 
+and nutrition labelling are not considered to be as comprehensive as UK labelling.  
+Fera Science Ltd stressed the need for enhanced UK testing infrastructure to manage the 
+anticipated rise in high-risk imports, particularly spices, processed foods, and aquaculture 
+products, calling for assurances that UK standards will be upheld through robust surveillance and 
+testing capacity. 
+12.3 Dairy and eggs 
+Stakeholders expressed concern that India, being the largest producer of milk from cows and 
+buffaloes globally, has the capacity to export significant volumes of dried milk powder and dried 
+egg products to the UK, which could pose a long-term risk to domestic dairy producers. They claim 
+that imports of dairy and egg products may be produced using methods that are not permitted in 
+the UK and are not aligned with UK’s animal welfare standards. These include the use of 
+antibiotics for growth promotion. 
+12.4 Pesticides 
+Stakeholders including Pesticide Action Network (PAN) UK, warned that the UK–India CETA could 
+pose significant risks to UK food safety due to weaker pesticide standards in India. They highlight 
+that Indian Maximum Residue Levels (MRLs) for pesticides are often far higher than those 
+permitted in Great Britain.  
+PAN UK also points out that Indian food exports have a history of being rejected due to pesticide 
+contamination, with basmati rice being particularly problematic. They argue that UK border controls 
+and domestic testing capacity are insufficient to detect and prevent contaminated imports, 
+especially given the limited scope of automatic testing and the small number of samples tested 
+annually. 
+ 
+32 Call for Evidence: UK and India FTA. 
+Section 42 Report: UK-India CETA 
+  47 
+ 
+Furthermore, PAN UK expresses concern over the SPS Chapter of the CETA, which promotes 
+recognition of Indian standards as “equivalent” and encourages reliance on international 
+benchmarks like Codex, which are generally less stringent than UK regulations. They warn that the 
+agreement lacks reference to the precautionary principle and could allow industry pressure to 
+weaken UK protections via the proposed SPS Subcommittee. 
+12.5 Consumers’ attitudes toward food standards and trade 
+In addition to consulting stakeholders through our Call for Evidence, FSA and FSS monitor 
+consumers’ preferences and attitudes in relation to food. Consumers are concerned about 
+standards of food coming from outside the UK, and levels of concern have increased since EU 
+Exit,33 34. Research conducted by the FSA has consistently found that consumers are much more 
+concerned about food produced outside the UK being safe and hygienic, and what it says it is, 
+compared to food produced in the UK 35 36.37 In line with this, consumers who opposed FTAs with 
+non-EU counties are most likely to cite lower standards of safety and food as their top reason.38  
+The majority of UK consumers believe maintaining UK food standards is non-negotiable, even if 
+this comes at the expense of international trade deals and higher food prices 39. In 2021 Which? 
+research, only 4% of consumers said food produced to lower standards should be allowed into the 
+UK but with a higher tariff/import tax.  This view was also supported by consumers who took part in 
+detailed discussions (via a series of public dialogues) though rejecting the idea of having two 
+different tariffs for food produced to different standards. For these consumer groups,40 these 
+factors have much higher priority than providing greater choice and competition to UK 
+consumers.41  
+As research has found that consumers believe maintaining UK food standards is non-negotiable, it 
+is likely that consumers would have concerns around an FTA with India given the country’s 
+differing food standards. A survey carried out by Red Tractor in 2022 found only 18% of UK 
+consumers trusted food produced in India, versus 73% who trusted food produced in the UK.  Of 
+the 20 countries people were asked about, only China has lower consumer trust than India. When 
+asked about preferred sources for importing meat and dairy products, only 2% of UK consumers 
+chose India—making it the least preferred country, even below China, which was selected by 3%.42    
+It is clear from this evidence that maintaining food safety and health standards in trade deals is 
+important to consumers and stakeholders and that there are widely held concerns about standards 
+of some foods from India as shown in the research above.  
+ 
+ 
+ 
+33 Citizens’ views on the EU and food issues (March 2021 wave) 
+34 UK Public’s Interests, Needs and Concerns Around Food | Food Standards Agency 
+35 Food and You 2: Wave 9 | Food Standards Agency 
+36 Consumer Insights Tracker | Food Standards Agency 
+37 Food in Scotland Consumer Tracker Survey Wave 19 | Food Standards Scotland 
+38 Public attitudes to trade tracker (PATT): wave 7 - GOV.UK 
+39 Food in a Pandemic | Food Standards Agency 
+40 Are the UK's Trade Deals Reflecting Consumer Priorities? - Which? Policy and insight 
+41 2022 Annual Survey of UK Public Opinion on Foreign Policy and Global Britain (bfpg.co.uk) 
+42 The UK’s Trust In Food Index 2022 - Red Tractor Assurance 
+Section 42 Report: UK-India CETA 
+48 
+ 
+FSA and FSS assessment of the issues raised by 
+stakeholders  
+Food Production Standards 
+12.1 Significant differences exist between UK and Indian standards, particularly in areas such as 
+domestic food production and pesticide use. Some of these relate to broader production practices 
+not specifically linked to food safety and under the remit of the TAC advice. Others directly impact 
+food safety and were raised in responses to our Call for Evidence. Some of these are actively 
+addressed through robust UK border controls, which reject consignments that fail to meet our high 
+safety standards. We continue to monitor these issues closely. Maintaining strong co-ordination 
+and adequate resourcing across departments responsible for border and inland controls is 
+essential to uphold consumer confidence and ensure that only food meeting UK import safety 
+standards enters the country. 
+The UK is committed to maintaining high food safety standards and protecting public health. Both 
+the UK and India are members of the World Trade Organisation (WTO), which establishes rules to 
+promote fair and international trade. The SPS Agreement has measures which explicitly allow 
+member states to adopt stricter food safety and public health provisions than their trading partners, 
+provided they are scientifically justified, non-discriminatory, and proportionate to the risk. This 
+means that the UK has autonomy to set international food safety standards as they fall into those 
+rules.  
+Alongside the WTO, the UK has a comprehensive legal framework that ensures trade deals do not 
+compromise food safety or public health on imported food. This includes a number of UK laws such 
+as, the Food Safety Act 199043, Food Hygiene Regulations England 201344, the Contaminants in 
+Food 45, additionally retained EU- laws for example Regulation (EC) 178/2002 46 and Regulation 
+(EC) 2073/2005 47 ensure that imported food meets the same food safety standards as food 
+produced in the UK.  
+The FSA and FSS play a key role in ensuring decisions on food safety, including which new 
+products can enter the country are based on science and evidence. Imported food controls are set 
+following an assessment of risk, and new food products of animal origin from any country, 
+(including those we have a bilateral or multilateral agreement with), must submit a market access 
+request. This request must be accompanied by evidence that the food is produced in line with UK 
+requirements, and the FSA and FSS will conduct robust risk assessments and audit of that country 
+to verify the evidence in conjunction with the UK Office.  
+Regardless of FTAs, all imports to the UK must continue to meet our food safety requirements, and 
+UK official controls at the border. This includes not only the safety of the food or feed product itself, 
+but also the allergen and nutrition labelling. To meet UK standards, all labelling must be in English 
+and all 14 regulated allergens48 must be emphasised. If it does not meet UK food standards, Local 
+Authority may decide to re-label a product to comply with UK requirements or raise as a food 
+incident which may result in rejection of the consignment. 
+ 
+43 Food Safety Act 1990 
+44 Food Hygiene (England) Regulations 2013 
+45 The Contaminants in Food Regulations 2020 
+46 Regulation (EC) 178/2002 
+47 Regulation (EC) 2073/2005 
+48 Regulation (EU) No 1169/2011  
+Section 42 Report: UK-India CETA 
+  49 
+ 
+Existing statutory protections, such as the right to regulate for levels of protection appropriate to 
+UK consumers based on science and evidence, and the right to take proportionate action on a 
+provisional basis to protect consumers, will play a crucial role in addressing issues around 
+compliance related to production standards in foods imported from India. FSA and FSS will 
+continue to provide science and evidence-based advice to ministers, taking into account 
+consumers’ wider interests in relation to food so that they can have confidence that food is safe 
+and what it says it is.   
+In addition to official controls carried out by UK authorities, many UK retailers, distributors and food 
+businesses apply their own third-party assurance schemes. These include independent audits of 
+suppliers and production sites, which provide an additional layer of safeguard and help ensure that 
+imported food meets UK standards. While these schemes are not statutory, they play a valuable 
+role in maintaining consumer confidence and complement the UK’s regulatory framework. 
+12.2 Dairy and Eggs 
+Dairy products are not imported into the UK from India as India does not have an approved 
+veterinary residue plan (AVRP) for dairy, which is a requirement under UK legislation to ensure 
+food safety and animal health standards49. As a result, any dairy products or foods containing dairy 
+ingredients originating from India would be considered non-compliant and subject to detention at 
+the border by local authorities5051. This restriction applies broadly to all items falling under the dairy 
+category, including composite products that contain dairy and dried milk.  
+In contrast, India does have an AVRP for eggs, so egg-related imports are not subject to the same 
+restrictions.  Egg imports must comply with UK hygiene standards, and import conditions are 
+closely monitored through a system of pre-arrival notifications, health certification, and checks at 
+Border Control Posts. Medium-risk consignments must be declared via IPAFFS (the UK’s IT 
+platform for Import of Products, Animals, Food and Feed Systems) before arrival, accompanied by 
+a valid health certificate from the exporting country's authority, and are subject to documentary, 
+identity, and physical inspections upon entry. Considerations related to animal welfare fall outside 
+of the scope of the FSA and FSS advice and are under the remit of the Trade and Agriculture 
+Commission.  
+12.3 Pesticides 
+The FSA and FSS works to also make sure that food not of animal origin imported from India and 
+other countries is safe to eat and does not contain harmful levels of pesticides, by monitoring food 
+at the border and introducing additional controls where required. The UK has strict legal limits on 
+how much pesticide residue can be left on foods, known as Maximum Residues Levels (MRLs). 
+These are set at international level in the Codex Alimentarius, but the UK often has more stringent 
+standards than other countries which India exports must adhere to.  
+All imports to GB must meet our MRLs, even where an exporting country’s own limits are higher. 
+The MRLs are enforced through Official controls and routine surveillance monitoring at the border, 
+including sampling and testing in accredited laboratories, which are designed to pick up on non-
+compliances. The FSA and FSS are also part of a national monitoring programme where samples 
+of both UK and imported foods are tested for pesticides, veterinary medicines residues and other 
+hazards.  
+ 
+49 Manual for Official Controls, Chapter 5.1 Residues: Veterinary Medicines Directorate (VMD) National 
+Surveillance Scheme 
+50 VMD Guidance: Residues Surveillance 
+51 Defra Guidance: Submit a residue control plan for exports to Great Britain 
+Section 42 Report: UK-India CETA 
+50 
+ 
+If unsafe levels are detected through these monitoring activities, the products can be stopped at 
+the border, recalled from shops, or subject to tighter controls in the future in case of repeated non-
+compliances. This system of monitoring and evidence-based action allows FSA and FSS to apply 
+additional controls where they are needed and generate further intelligence to inform future review. 
+For example, since December 2024 more stringent controls have been put in place on some 
+products from India using Assimilated Regulation 2019/1793, following the process set out in 
+section 4 of this report, and a new review is expected to enter into force in the new year. 
+Based on its level of risk assessed by the FSA and FSS all rice from India is considered High Risk 
+Food Not of Animal Origin and has a rate of physical and identity checks of 5% under this 
+regulation. Samples are monitored regularly, and the FSA and FSS review these rates of checks 
+regularly in line with the risk level. In case of repeated non-compliances and high risk to the public, 
+the UK Government can impose emergency measures.  
+These safeguards are designed to protect the public and ensure that the food consumed by people 
+in the UK is safe and what it says it is.  
+In relation to specific concerns raised by PAN on the SPS Chapter of the CETA, the ability to 
+recognise equivalence between two SPS measures or set of measures is entirely dependent on 
+the maintenance of appropriate levels of protection as set out by the importing country. This would 
+include meeting UK standards on MRLs for countries wanting to export goods to GB and apply for 
+recognition of equivalence. A country can have a lower MRL for their domestic market however if 
+they want to export to GB they must meet our MRLs. 
+ 
+ 
+Section 42 Report: UK-India CETA 
+  51 
+ 
+Conclusions 
+14.1     We have reviewed the legal text governing the UK-India CETA, focusing specifically on its 
+implications for statutory protections in food safety and nutrition. Based on our analysis, the FSA 
+and FSS conclude the following: 
+• The agreement respects the UK Government’s and devolved administrations’ right to 
+make their own decisions on food safety and nutrition. 
+• Ministers across the UK will remain responsible for food safety regulations, advised by 
+robust, science-based evidence from the FSA and FSS. This approach is essential to 
+maintaining strong protections going forward. 
+• The agreement aligns with the UK’s commitment to protecting public health through 
+nutrition standards as set out in legislation. 
+• No changes to the UK’s food safety legislation are required for the UK-India CETA to 
+take effect, and the UK will continue to uphold its existing food safety laws and 
+protections under UK legislation. 
+• No new equivalence decisions for agri-food products were made under the UK’s 
+agreement with India. 
+• If the agreement leads to an increase in food imports from India, the Government needs 
+to ensure that all Competent Authorities involved in controlling food at the border and 
+inland are adequately resourced. 
+• Stakeholders have expressed concerns regarding food production standards in foods 
+imported from India, underscoring the importance of maintaining confidence in 
+regulatory oversight. The UK maintains a robust and responsive border control system 
+designed to manage emerging risks effectively and ensure imported foods meet UK 
+import standards. The provisions within the trade agreement support this approach, 
+enabling the implementation of emergency measures when necessary to safeguard 
+public health and food safety. 
+• This trade agreement does not restrict the UK's ability to negotiate an SPS Agreement 
+with the EU. The UK retains the right to set its own SPS rules and to negotiate bilateral 
+and multilateral agreements, including with the EU. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 42 Report: UK-India CETA 
+52 
+ 
+Annex I – Summary of Call for Evidence Responses 
+Alliance to Save Our Antibiotics (ASOA): 
+ASOA raises serious concerns about the impact of the UK-India FTA on antibiotic resistance, 
+highlighting stark differences in farm antibiotic regulation between the UK and India. The 
+submission notes that India permits widespread use of antibiotics for growth promotion in animals 
+and crops, including substances banned in the UK. ASOA warns that lifting tariffs on Indian dairy 
+imports could undermine UK standards, especially given the high use of critically important 
+antibiotics in Indian dairy herds. The FTA’s failure to require minimum standards for antibiotic use 
+in imported products is seen as a major weakness, risking reversal of UK progress in responsible 
+antibiotic use and contributing to the global spread of antimicrobial resistance. 
+ 
+Dairy UK: 
+Dairy UK expresses concern that the elimination of UK import tariffs on Indian dairy products under 
+the FTA could pose a threat to human health. The Indian dairy sector currently lacks an approved 
+residues monitoring plan, a requirement under retained EU law, and has poor production standards 
+due to its fragmented structure. Dairy UK warns of commercial pressure on India to gain export 
+eligibility and urges close scrutiny of any proposed supply chains. It stresses the importance of 
+defending UK SPS standards and criticises the Indian sector’s misuse of antibiotics. The 
+submission calls for robust enforcement of UK SPS rights and rejection of any Indian applications 
+that fail to meet traceability and safety standards. 
+ 
+British Retail Consortium (BRC): 
+The BRC supports maintaining UK standards under the FTA and emphasises the importance of 
+authenticity, quality, and safety in food imports. It highlights the role of UK retailers in upholding 
+production standards through audits and certifications, beyond government checks. The 
+submission underscores the need for continued surveillance of commonly imported commodities 
+like spices, with collaboration between UK and Indian authorities. While generally supportive of the 
+FTA, the BRC stresses that high standards must be preserved and that retailers are committed to 
+ensuring compliance through their supply chains. 
+ 
+Fera Science Ltd (Fera): 
+Fera welcomes the FTA for its potential economic benefits but raises serious concerns about food 
+safety and biosecurity risks associated with increased imports from India. It highlights a long-
+standing pattern of border rejections of Indian food products due to pesticide residues, mycotoxins, 
+and other contaminants. Fera stresses the need for enhanced UK testing infrastructure to manage 
+the anticipated rise in high-risk imports, particularly spices, processed foods, and aquaculture 
+products. It questions the reliability of Indian safety certification systems and calls for assurances 
+that UK standards will be upheld through robust surveillance and testing capacity. 
+ 
+ 
+Section 42 Report: UK-India CETA 
+  53 
+ 
+British Egg Industry Council (BEIC): 
+BEIC warns that the UK–India FTA could undermine the UK's high food safety standards, 
+particularly in relation to eggs and egg products. It emphasises the success of the British Lion 
+scheme in reducing salmonella risk and calls for imports to meet equivalent standards. BEIC 
+expresses concern over the rise in salmonella outbreaks linked to imported eggs from countries 
+like Poland and Ukraine, and fears similar risks from Indian imports. It advocates for clear labelling 
+of origin and production standards, and urges that only products from systems legal in the UK be 
+allowed. The submission calls for robust risk assessments and stakeholder consultation before any 
+regulatory changes. 
+ 
+Farmers’ Union of Wales (FUW): 
+FUW’s submission highlights the disparity in production standards between the UK and India, 
+including the use of antibiotics for growth promotion, banned pesticides, and intensive farming 
+practices. It argues that these differences give Indian imports an unfair advantage and pose risks 
+to food safety, animal welfare, and environmental sustainability. FUW criticises the lack of 
+enforceable “red lines” in the FTA and warns that the agreement could undermine UK efforts to 
+reduce agricultural emissions. It calls for statutory protections to be embedded in trade agreements 
+and urges the UK Government to ensure robust border checks and alignment with EU standards to 
+protect domestic producers. 
+ 
+National Farmers’ Union (NFU): 
+The NFU expresses concern that while the UK–India FTA does not directly alter UK food safety 
+legislation, its tariff liberalisation could lead to increased imports produced to lower standards. It 
+criticises the lack of conditionality on market access and warns that this could undermine UK 
+farmers and pressure domestic standards. The NFU highlights disparities in animal welfare, 
+antimicrobial resistance controls, and environmental protections between the UK and India. It notes 
+the absence of an ambitious animal welfare chapter and raises concerns about the potential for 
+Indian dairy and poultry products to enter the UK market despite being produced under less 
+stringent standards. The NFU calls for robust scrutiny of equivalence claims and stronger 
+alignment between trade policy and domestic production standards. 
+ 
+National Sheep Association (NSA): 
+The NSA raises concerns about inconsistent enforcement of food safety standards in India, despite 
+the existence of the Food Safety and Standards Authority of India (FSSAI). It flags specific risks 
+including the use of banned substances like bromates, formalin, and carbides, and calls for UK 
+testing and certification of Indian food producers. The NSA also highlights issues with cold chain 
+management, antibiotic overuse, and inadequate labelling for nutrition and allergens. The 
+submission urges the UK to ensure Indian imports meet the same high standards as domestic 
+products to protect public health and industry integrity. 
+ 
+ 
+Pesticide Action Network UK (PAN UK): 
+Section 42 Report: UK-India CETA 
+54 
+ 
+PAN UK warns that food imported from India may contain pesticide residues at levels far 
+exceeding UK limits, including substances banned in the UK. It provides examples of significant 
+discrepancies in Maximum Residue Levels (MRLs) for hazardous pesticides and criticises the UK’s 
+limited border and domestic testing capacity. PAN UK argues that Chapter 6 of the FTA 
+undermines UK protections by promoting equivalence with weaker Indian standards and failing to 
+uphold the precautionary principle. It also warns that the SPS Subcommittee could allow pressure 
+from India’s agrochemical industry to weaken UK regulations. PAN UK calls for stronger 
+safeguards to prevent contaminated food from entering the UK and protect consumer health. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+978-1-5286-6086-0 
+E03490474 
