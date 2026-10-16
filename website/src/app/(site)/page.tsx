@@ -29,17 +29,18 @@ export default function HomePage() {
               </div>
 
               <h1 className="mt-7 text-display-lg sm:text-[3.75rem] lg:text-display-xl">
-                Entering the UK is
+                Your UK company and
                 <br />
-                <span className="italic text-crimson-600">one</span> instruction,
+                your people, taken
                 <br />
-                not three suppliers.
+                on by <span className="italic text-crimson-600">one firm</span>.
               </h1>
 
               <p className="measure-wide mt-8 text-lg leading-relaxed text-stone-700">
-                The visa route, the entity and the compliance are the same transaction. Sponsor guidance GBM3.4 says a
-                Companies House number is enough to show the UK footprint an Expansion Worker application requires, so
-                the company and the visa are one file. Buying them from two firms costs you weeks you do not have.
+                Setting up in the UK takes a company, a route for the people who will run it, and the compliance that
+                keeps both alive. Split between separate suppliers, the handoffs are where the weeks and the mistakes
+                go. We take all three as one instruction, in the right order, with one person accountable from the first
+                filing to the first hire.
               </p>
 
               <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
