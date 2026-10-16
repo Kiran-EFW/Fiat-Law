@@ -39,8 +39,8 @@ export default function HomePage() {
               <p className="measure-wide mt-8 text-lg leading-relaxed text-stone-700">
                 Setting up in the UK takes a company, a route for the people who will run it, and the compliance that
                 keeps both alive. Split between separate suppliers, the handoffs are where the weeks and the mistakes
-                go. We take all three as one instruction, in the right order, with one person accountable from the first
-                filing to the first hire.
+                go. As a boutique practice we take all three as one instruction, in the right order, with one person
+                accountable from the first filing to the first hire.
               </p>
 
               <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">

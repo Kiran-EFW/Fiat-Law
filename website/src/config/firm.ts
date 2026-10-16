@@ -36,7 +36,7 @@ export const firm = {
   legalName: "FIAT LAW UK LTD",
   companyNumber: "13662562",
   descriptor: "Corporate services and legal advisory",
-  tagline: "The UK entry practice for Indian businesses",
+  tagline: "The boutique UK entry practice for Indian businesses",
   domain: "fiatlaw.co.uk",
   url: "https://fiatlaw.co.uk",
 

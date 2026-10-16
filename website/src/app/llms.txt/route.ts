@@ -25,7 +25,7 @@ export function GET() {
 
   const body = `# ${firm.name}
 
-> ${firm.tagline}. ${firm.descriptor} for Indian businesses establishing and operating in the United Kingdom — entity, immigration, corporate and commercial, acquisitions, accounting and trade under the India–UK Comprehensive Economic and Trade Agreement.
+> ${firm.tagline}. ${firm.descriptor} across entity, immigration, corporate and commercial, acquisitions, accounting and trade under the India–UK Comprehensive Economic and Trade Agreement.
 
 ## Who is regulated by whom
 
