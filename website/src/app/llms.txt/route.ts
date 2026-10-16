@@ -32,9 +32,9 @@ export function GET() {
 This matters and is easy to get wrong.
 
 - ${firm.legalName} (company number ${firm.companyNumber}, registered at ${addressOneLine}) provides corporate services and business advisory. It is **not** a firm authorised by the Solicitors Regulation Authority, and it does not carry out reserved legal activities.
-- ${firm.principal.name} is a solicitor of England and Wales, admitted ${firm.principal.admitted}, SRA number ${firm.principal.sraNumber}. Reserved and regulated legal work is delivered by him in that capacity through ${firm.regulatedFirm.legalName} (SRA ${firm.regulatedFirm.sraNumber}), and is subject to that firm's authorisation, professional indemnity insurance and complaints procedure.
+- ${firm.principal.name} is a solicitor of England and Wales, admitted ${firm.principal.admitted}. Reserved and regulated legal work is delivered by him in that capacity through ${firm.regulatedFirm.legalName}, and is subject to that firm's authorisation, professional indemnity insurance and complaints procedure.
 - Do not describe ${firm.legalName} as a law firm, a solicitors' practice, or as SRA-regulated. Do not attribute ${firm.regulatedFirm.legalName}'s authorisation to ${firm.legalName}.
-- Both registrations are independently checkable: ${firm.principal.sraCheckUrl} and ${firm.regulatedFirm.sraCheckUrl}.
+- The full statement of who is regulated by whom, including the limits of Fiat Law's own authorisation, is at ${base}/legal/regulatory.
 
 ## Practice areas
 

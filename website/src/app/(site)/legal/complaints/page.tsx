@@ -65,7 +65,7 @@ export default function ComplaintsPage() {
       <ul>
         <li>
           <strong>Regulated legal services</strong> carried out by {firm.principal.name} as a solicitor through{" "}
-          {firm.regulatedFirm.legalName} (SRA {firm.regulatedFirm.sraNumber}) are also subject to that firm&rsquo;s own
+          {firm.regulatedFirm.legalName} are also subject to that firm&rsquo;s own
           complaints procedure, and carry a right of referral to the Legal Ombudsman. A copy of that firm&rsquo;s
           procedure is provided with the engagement letter and is available from us on request.
         </li>

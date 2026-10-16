@@ -67,8 +67,8 @@ export default function TermsPage() {
       <p>
         {firm.legalName} is not authorised or regulated by the Solicitors Regulation Authority and does not carry on
         reserved legal activities. Reserved and regulated legal work described on this site is carried out by{" "}
-        {firm.principal.name} (SRA {firm.principal.sraNumber}) as a solicitor practising through{" "}
-        {firm.regulatedFirm.legalName} (SRA {firm.regulatedFirm.sraNumber}). Full details are on the{" "}
+        {firm.principal.name} as a solicitor practising through{" "}
+        {firm.regulatedFirm.legalName}. Full details are on the{" "}
         <Link href="/legal/regulatory">regulatory information page</Link>, which forms part of these terms.
       </p>
 

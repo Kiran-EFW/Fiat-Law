@@ -140,8 +140,8 @@ export default async function CetaArticlePage({ params }: { params: Promise<{ sl
         <Container width="narrow" className="text-center">
           <h2 className="text-display-sm sm:text-display-md">Take the next step with someone accountable for it.</h2>
           <p className="measure mx-auto mt-6 text-[1.0625rem] leading-relaxed text-bone/65">
-            {firm.principal.name} — solicitor, admitted {firm.principal.admitted}, SRA {firm.principal.sraNumber} —
-            reads every brief personally before the call.
+            {firm.principal.name} — solicitor, admitted {firm.principal.admitted} — reads every brief personally
+            before the call.
           </p>
           <div className="mt-9 flex flex-wrap justify-center gap-4">
             <Button href="/uk-entry-brief" size="lg">

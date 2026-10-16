@@ -132,8 +132,8 @@ export const capacityNote: Record<Capacity, string> = {
     `Delivered by ${firm.legalName} as corporate services and business advisory. ` +
     `This is not reserved legal activity and ${firm.legalName} is not a firm authorised by the Solicitors Regulation Authority.`,
   solicitor:
-    `Delivered by ${firm.principal.name} (SRA ${firm.principal.sraNumber}) in his capacity as a solicitor ` +
-    `practising through ${firm.regulatedFirm.legalName} (SRA ${firm.regulatedFirm.sraNumber}), and subject to that firm's ` +
+    `Delivered by ${firm.principal.name} in his capacity as a solicitor ` +
+    `practising through ${firm.regulatedFirm.legalName}, and subject to that firm's ` +
     `authorisation, professional indemnity insurance and complaints procedure.`,
   coordinated:
     `Scoped and project-managed by ${firm.legalName} and delivered by named, independently regulated partner firms. ` +

@@ -165,8 +165,7 @@ export function BriefResult({
             {firm.companyNumber}), providing corporate services and business advisory. It is not a firm authorised by the
             Solicitors Regulation Authority.{" "}
             <strong className="font-medium text-ink">{firm.principal.name}, solicitor</strong> means work carried out by
-            him (SRA {firm.principal.sraNumber}) through {firm.regulatedFirm.legalName} (SRA{" "}
-            {firm.regulatedFirm.sraNumber}), an SRA-authorised firm.{" "}
+            him through {firm.regulatedFirm.legalName}, an SRA-authorised firm.{" "}
             <strong className="font-medium text-ink">Coordinated</strong> means scoped and project-managed by us and
             delivered by named, independently regulated partner firms — you are told who before it starts.
           </p>

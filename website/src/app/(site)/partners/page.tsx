@@ -118,8 +118,8 @@ export default function PartnersPage() {
                     Reserved legal work
                   </p>
                   <p className="mt-3 text-[0.9375rem] leading-relaxed text-bone/60">
-                    Carried out by {firm.principal.name}, solicitor, SRA {firm.principal.sraNumber}, practising through{" "}
-                    {firm.regulatedFirm.legalName}, SRA {firm.regulatedFirm.sraNumber}.
+                    Carried out by {firm.principal.name}, solicitor, practising through{" "}
+                    {firm.regulatedFirm.legalName}.
                   </p>
                 </div>
                 <div className="bg-ink pt-7 sm:pl-9 sm:pt-0">

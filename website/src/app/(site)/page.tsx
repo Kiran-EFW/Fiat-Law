@@ -77,16 +77,98 @@ export default function HomePage() {
               <div className="mt-5 border-l-2 border-crimson-600 pl-4">
                 <p className="font-display text-lg leading-tight text-ink">{firm.principal.name}</p>
                 <p className="mt-1 text-[0.8125rem] leading-snug text-stone-600">
-                  Solicitor · Founder · Admitted {firm.principal.admitted}
+                  Founder · Solicitor · Admitted {firm.principal.admitted}
                 </p>
                 <p className="mt-1 text-[0.75rem] leading-snug text-stone-500">
-                  SRA {firm.principal.sraNumber} · practising through {firm.regulatedFirm.legalName}
+                  Leads a practice spanning immigration, corporate, accounting and trade
                 </p>
               </div>
             </div>
           </div>
         </Container>
       </section>
+
+      {/* --------------------------------------------------------- Services */}
+      <Section>
+        <Container width="wide">
+          <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
+            <SectionHead
+              eyebrow="What we do"
+              title="Six practice areas, one instruction."
+              lede="Each is delivered in a stated capacity — by Fiat Law, or by our principal as a solicitor through Taylor Rose. You are told which before the work starts."
+            />
+            <Link href="/services" className="inline-flex shrink-0 items-center gap-2 text-sm font-medium text-crimson-600 hover:text-crimson-500">
+              All services
+              <ArrowRight />
+            </Link>
+          </div>
+
+          <div className="mt-14 grid gap-px border border-stone-200 bg-stone-200 sm:grid-cols-2 lg:grid-cols-3">
+            {services.map((service) => (
+              <Link
+                key={service.slug}
+                href={`/services/${service.slug}`}
+                className="group flex flex-col bg-parchment p-8 transition-colors duration-300 hover:bg-bone"
+              >
+                <span className="font-display text-sm italic text-crimson-600">{service.index}</span>
+                <h3 className="mt-3 font-display text-2xl leading-tight text-ink">{service.name}</h3>
+                <p className="mt-4 flex-1 text-[0.9375rem] leading-relaxed text-stone-600">{service.strapline}</p>
+                <span className="mt-6 inline-flex items-center gap-2 text-[0.8125rem] font-medium text-crimson-600">
+                  Read
+                  <ArrowRight className="transition-transform duration-300 group-hover:translate-x-1" />
+                </span>
+              </Link>
+            ))}
+          </div>
+        </Container>
+      </Section>
+
+      {/* ------------------------------------------------- The Entry Brief */}
+      <Section tone="parchment">
+        <Container width="wide">
+          <div className="grid gap-14 lg:grid-cols-2 lg:gap-20">
+            <div>
+              <Eyebrow className="mb-5">The UK Entry Brief</Eyebrow>
+              <h2 className="text-display-sm sm:text-display-md">
+                We give away the hour everyone else charges for.
+              </h2>
+              <div className="measure-wide mt-7 space-y-4 text-[1.0625rem] leading-relaxed text-stone-700">
+                <p>
+                  The Department for Business and Trade has trained every inbound Indian corporate to expect a free first
+                  consultation. Rather than pretend otherwise, we deliver it before you have spent it — in writing, at
+                  no cost, at three in the morning in Bengaluru if that is when you are working.
+                </p>
+                <p>
+                  Answer six to nine questions and you receive a brief built for your position: the route that fits,
+                  the sequence in order with realistic elapsed time, the specific obstacles your profile will hit, and
+                  what we would do at each step and in which capacity.
+                </p>
+                <p className="text-stone-600">
+                  What we sell is the execution, the signature and the liability. Those are the things every free
+                  government service disclaims in writing.
+                </p>
+              </div>
+              <Link
+                href="/uk-entry-brief"
+                className="mt-9 inline-flex items-center gap-2.5 bg-crimson-600 px-8 py-4 text-[0.9375rem] font-medium text-bone transition-colors hover:bg-crimson-700"
+              >
+                Begin — four minutes
+                <ArrowRight className="h-4 w-4" />
+              </Link>
+            </div>
+
+            <ol className="relative border-l border-stone-200 pl-8">
+              {briefSteps.map((step, i) => (
+                <li key={step.title} className={i === 0 ? "" : "mt-9"}>
+                  <span className="absolute -left-[5px] mt-2 block h-2.5 w-2.5 rounded-full bg-crimson-600" />
+                  <h3 className="font-display text-xl leading-snug text-ink">{step.title}</h3>
+                  <p className="mt-2 text-[0.9375rem] leading-relaxed text-stone-600">{step.body}</p>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </Container>
+      </Section>
 
       {/* ------------------------------------------------------- Credibility */}
       <section className="border-y border-stone-200 bg-parchment">
@@ -184,130 +266,56 @@ export default function HomePage() {
         </Container>
       </Section>
 
-      {/* --------------------------------------------------------- Services */}
+      {/* ---------------------------------------------------------- The team */}
       <Section tone="parchment">
         <Container width="wide">
-          <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
-            <SectionHead
-              eyebrow="Practice"
-              title="Six areas, one instruction."
-              lede="Each is delivered in a stated capacity — by Fiat Law, or by Janeevan as a solicitor through Taylor Rose. You are told which before the work starts."
-            />
-            <Link href="/services" className="inline-flex shrink-0 items-center gap-2 text-sm font-medium text-crimson-600 hover:text-crimson-500">
-              All services
-              <ArrowRight />
-            </Link>
-          </div>
+          <SectionHead
+            eyebrow="The practice"
+            title="A practice, not a principal."
+            lede="Fiat Law is led by Janeevan John, who reads every brief personally before anyone speaks to you. Around him the practice brings specialist depth in each discipline — some in-house, some at named partner firms — so an entry is not one person guessing at four fields."
+          />
 
-          <div className="mt-14 grid gap-px border border-stone-200 bg-stone-200 sm:grid-cols-2 lg:grid-cols-3">
-            {services.map((service) => (
-              <Link
-                key={service.slug}
-                href={`/services/${service.slug}`}
-                className="group flex flex-col bg-bone p-8 transition-colors duration-300 hover:bg-parchment"
-              >
-                <span className="font-display text-sm italic text-crimson-600">{service.index}</span>
-                <h3 className="mt-3 font-display text-2xl leading-tight text-ink">{service.name}</h3>
-                <p className="mt-4 flex-1 text-[0.9375rem] leading-relaxed text-stone-600">{service.strapline}</p>
-                <span className="mt-6 inline-flex items-center gap-2 text-[0.8125rem] font-medium text-crimson-600">
-                  Read
-                  <ArrowRight className="transition-transform duration-300 group-hover:translate-x-1" />
-                </span>
-              </Link>
-            ))}
-          </div>
-        </Container>
-      </Section>
-
-      {/* ------------------------------------------------- The Entry Brief */}
-      <Section>
-        <Container width="wide">
-          <div className="grid gap-14 lg:grid-cols-2 lg:gap-20">
-            <div>
-              <Eyebrow className="mb-5">The UK Entry Brief</Eyebrow>
-              <h2 className="text-display-sm sm:text-display-md">
-                We give away the hour everyone else charges for.
-              </h2>
-              <div className="measure-wide mt-7 space-y-4 text-[1.0625rem] leading-relaxed text-stone-700">
-                <p>
-                  The Department for Business and Trade has trained every inbound Indian corporate to expect a free first
-                  consultation. Rather than pretend otherwise, we deliver it before you have spent it — in writing, at
-                  no cost, at three in the morning in Bengaluru if that is when you are working.
-                </p>
-                <p>
-                  Answer six to nine questions and you receive a brief built for your position: the route that fits,
-                  the sequence in order with realistic elapsed time, the specific obstacles your profile will hit, and
-                  what we would do at each step and in which capacity.
-                </p>
-                <p className="text-stone-600">
-                  What we sell is the execution, the signature and the liability. Those are the things every free
-                  government service disclaims in writing.
-                </p>
-              </div>
-              <Link
-                href="/uk-entry-brief"
-                className="mt-9 inline-flex items-center gap-2.5 bg-crimson-600 px-8 py-4 text-[0.9375rem] font-medium text-bone transition-colors hover:bg-crimson-700"
-              >
-                Begin — four minutes
-                <ArrowRight className="h-4 w-4" />
-              </Link>
-            </div>
-
-            <ol className="relative border-l border-stone-200 pl-8">
-              {briefSteps.map((step, i) => (
-                <li key={step.title} className={i === 0 ? "" : "mt-9"}>
-                  <span className="absolute -left-[5px] mt-2 block h-2.5 w-2.5 rounded-full bg-crimson-600" />
-                  <h3 className="font-display text-xl leading-snug text-ink">{step.title}</h3>
-                  <p className="mt-2 text-[0.9375rem] leading-relaxed text-stone-600">{step.body}</p>
-                </li>
-              ))}
-            </ol>
-          </div>
-        </Container>
-      </Section>
-
-      {/* ---------------------------------------------------------- Janeevan */}
-      <Section tone="parchment">
-        <Container width="wide">
-          <div className="grid items-center gap-14 lg:grid-cols-[0.8fr_1.2fr] lg:gap-20">
+          <div className="mt-14 grid gap-8 lg:grid-cols-[0.8fr_1.2fr] lg:gap-16">
             <div className="relative aspect-[3/4] w-full max-w-sm overflow-hidden bg-stone-200">
               <Image
                 src={firm.principal.portrait}
-                alt={firm.principal.name}
+                alt={`${firm.principal.name}, founder of ${firm.name}`}
                 fill
                 sizes="(max-width: 1024px) 80vw, 30vw"
                 className="object-cover object-top"
               />
-            </div>
-            <div>
-              <Eyebrow className="mb-5">The practitioner</Eyebrow>
-              <h2 className="text-display-sm sm:text-display-md">You will be dealing with Janeevan.</h2>
-              <div className="measure-wide mt-7 space-y-4 text-[1.0625rem] leading-relaxed text-stone-700">
-                <p>
-                  Not a client relationship manager, not a business development lead, not an associate you meet after the
-                  engagement letter is signed. A boutique&rsquo;s only real advantage over a full-service firm is that the
-                  person who scoped the work is the person who does it, and that advantage disappears the moment it is
-                  delegated.
-                </p>
-                <p>
-                  Janeevan was admitted as a solicitor of England and Wales on {firm.principal.admitted} and practises
-                  through {firm.regulatedFirm.legalName}, an SRA-authorised firm. Immigration, corporate and commercial
-                  work for businesses moving between India and the United Kingdom.
+              <div className="absolute inset-x-0 bottom-0 bg-ink/85 px-5 py-4">
+                <p className="font-display text-base leading-tight text-bone">{firm.principal.name}</p>
+                <p className="mt-1 text-[0.75rem] leading-snug text-bone/65">
+                  Founder · Solicitor, admitted {firm.principal.admitted}
                 </p>
               </div>
-              <div className="mt-9 flex flex-wrap items-center gap-x-8 gap-y-3">
+            </div>
+
+            <div>
+              <div className="grid gap-px border border-stone-200 bg-stone-200 sm:grid-cols-2">
+                {disciplines.map((discipline) => (
+                  <div key={discipline.field} className="bg-bone p-7">
+                    <p className="font-sans text-[0.6875rem] font-medium uppercase tracking-[0.14em] text-crimson-600">
+                      {discipline.field}
+                    </p>
+                    <h3 className="mt-3 font-display text-xl leading-snug text-ink">{discipline.role}</h3>
+                    <p className="mt-3 text-[0.9375rem] leading-relaxed text-stone-600">{discipline.body}</p>
+                    <p className="mt-4 border-t border-stone-200 pt-3 text-[0.75rem] leading-snug text-stone-500">
+                      {discipline.credential}
+                    </p>
+                  </div>
+                ))}
+              </div>
+
+              <div className="mt-8 flex flex-wrap items-center gap-x-8 gap-y-3">
                 <Link href="/about" className="inline-flex items-center gap-2 text-sm font-medium text-crimson-600 hover:text-crimson-500">
-                  About Janeevan
+                  How the practice is structured
                   <ArrowRight />
                 </Link>
-                <a
-                  href={firm.principal.sraCheckUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-sm text-stone-600 underline underline-offset-4 hover:text-ink"
-                >
-                  Verify SRA {firm.principal.sraNumber}
-                </a>
+                <Link href="/legal/regulatory" className="text-sm text-stone-600 underline underline-offset-4 hover:text-ink">
+                  Regulatory information
+                </Link>
               </div>
             </div>
           </div>
@@ -407,7 +415,45 @@ const briefSteps = [
   },
   {
     title: "What we would do, and in which capacity",
-    body: "Step by step, labelled Fiat Law or Janeevan as a solicitor through Taylor Rose. Then a written proposal, priced to that scope.",
+    body: "Step by step, labelled Fiat Law or as a solicitor's work through Taylor Rose. Then a written proposal, priced to that scope.",
+  },
+];
+
+/**
+ * The disciplines the practice covers, and the capacity each is delivered in.
+ * Discipline names rather than personal names, because Janeevan leads and
+ * coordinates across them and the site does not publish a team roster.
+ */
+const disciplines = [
+  {
+    field: "Immigration",
+    role: "Business immigration",
+    body: "Sponsor licences, UK Expansion Worker and the conversion off it, Senior or Specialist Worker, Global Talent and Innovator Founder. Route selection, application, and the reporting and record-keeping a compliance visit examines.",
+    credential: "Reserved legal work · solicitor's capacity through Taylor Rose",
+  },
+  {
+    field: "Corporate",
+    role: "Corporate & commercial",
+    body: "Branch versus subsidiary, articles and share structure, shareholders' agreements, share purchase, distribution and agency, and the employment documentation that goes with a UK entity.",
+    credential: "Reserved legal work · solicitor's capacity through Taylor Rose",
+  },
+  {
+    field: "Entity & secretarial",
+    role: "Company secretarial",
+    body: "Incorporation, statutory registers, confirmation statements, board and shareholder resolutions, and remediation where filings have slipped or the register has gone wrong.",
+    credential: "Fiat Law · corporate services, gated on HMRC and Companies House registrations",
+  },
+  {
+    field: "Accounting",
+    role: "Accounting & compliance",
+    body: "PAYE and payroll, VAT including the nil threshold for a non-established taxable person, statutory accounts and corporation tax, and reporting the Indian parent can actually consolidate.",
+    credential: "Coordinated · delivered by named regulated partner practices",
+  },
+  {
+    field: "Trade",
+    role: "Trade under CETA",
+    body: "Product-specific rules of origin applied to your own bill of materials, self-certification and the record set behind it, customs classification, and verification readiness before the file is asked for.",
+    credential: "Fiat Law · corporate services",
   },
 ];
 

@@ -161,9 +161,8 @@ export default function ContactPage() {
               Regulation Authority and it does not carry on reserved legal activities.
             </p>
             <p>
-              {firm.principal.name} is a solicitor of the Senior Courts of England and Wales (SRA{" "}
-              {firm.principal.sraNumber}) and carries out reserved and regulated legal work through{" "}
-              {firm.regulatedFirm.legalName} (SRA {firm.regulatedFirm.sraNumber}).{" "}
+              {firm.principal.name} is a solicitor of the Senior Courts of England and Wales and carries out reserved
+              and regulated legal work through {firm.regulatedFirm.legalName}.{" "}
               <Link href="/legal/regulatory" className="text-crimson-600 underline underline-offset-4">
                 Full regulatory information
               </Link>

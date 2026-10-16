@@ -7,7 +7,7 @@ import { firm, addressLines } from "@/config/firm";
 export const metadata = pageMeta({
   title: "About",
   description:
-    "Fiat Law is a boutique UK entry practice for Indian businesses, led by Janeevan John, a solicitor admitted in 2007 (SRA 443287) practising through Taylor Rose Limited.",
+    "Fiat Law is a boutique UK entry practice for Indian businesses, led by founder Janeevan John, a solicitor admitted in 2007 practising through Taylor Rose Limited.",
   path: "/about",
   eyebrow: "The practice",
 });
@@ -72,17 +72,8 @@ export default function AboutPage() {
                   <p className="font-display text-xl leading-snug text-ink">{firm.principal.name}</p>
                   <p className="mt-1 text-[0.875rem] text-stone-600">{firm.principal.role}</p>
                   <p className="mt-2.5 text-[0.8125rem] leading-relaxed text-stone-500">
-                    Solicitor of the Senior Courts of England and Wales, admitted {firm.principal.admitted}. SRA number{" "}
-                    {firm.principal.sraNumber}.{" "}
-                    <a
-                      href={firm.principal.sraCheckUrl}
-                      target="_blank"
-                      rel="noreferrer noopener"
-                      className="underline underline-offset-4 hover:text-crimson-600"
-                    >
-                      Verify on the Law Society register
-                    </a>
-                    .
+                    Solicitor of the Senior Courts of England and Wales, admitted {firm.principal.admitted}. Practises
+                    through {firm.regulatedFirm.legalName}.
                   </p>
                 </figcaption>
               </figure>
@@ -123,8 +114,7 @@ export default function AboutPage() {
                     {firm.principal.name}, solicitor
                   </p>
                   <p className="mt-1 text-[0.8125rem] text-bone/55">
-                    SRA {firm.principal.sraNumber}, practising through {firm.regulatedFirm.legalName} (SRA{" "}
-                    {firm.regulatedFirm.sraNumber})
+                    Practising through {firm.regulatedFirm.legalName}
                   </p>
                   <p className="mt-5 text-[0.9375rem] leading-relaxed text-bone/60">
                     Corporate and commercial drafting, share and asset acquisitions, immigration advice and

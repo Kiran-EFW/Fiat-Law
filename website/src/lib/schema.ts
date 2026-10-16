@@ -33,26 +33,11 @@ export function personSchema() {
     url: abs("/about"),
     image: abs(firm.principal.portrait),
     worksFor: { "@id": ORG_ID },
-    // The SRA number is the only identifier that lets anyone check the claim,
-    // and sameAs points at the register entry that resolves it.
-    identifier: {
-      "@type": "PropertyValue",
-      name: "SRA number",
-      value: firm.principal.sraNumber,
-    },
-    sameAs: [firm.principal.sraCheckUrl],
+    ...(firm.social.linkedin || firm.social.x
+      ? { sameAs: [firm.social.linkedin, firm.social.x].filter(Boolean) }
+      : {}),
     ...(firm.capabilities.immigrationAdvice
-      ? {
-          memberOf: {
-            "@type": "Organization",
-            name: firm.regulatedFirm.legalName,
-            identifier: {
-              "@type": "PropertyValue",
-              name: "SRA number",
-              value: firm.regulatedFirm.sraNumber,
-            },
-          },
-        }
+      ? { memberOf: { "@type": "Organization", name: firm.regulatedFirm.legalName } }
       : {}),
   };
 }

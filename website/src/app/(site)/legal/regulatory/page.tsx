@@ -5,7 +5,7 @@ import { firm, addressOneLine } from "@/config/firm";
 
 export const metadata = pageMeta({
   title: "Regulatory information",
-  description: `Who is regulated by whom at ${firm.name}: ${firm.legalName} (company ${firm.companyNumber}) provides corporate services and is not SRA-authorised; ${firm.principal.name} (SRA ${firm.principal.sraNumber}) carries out reserved legal work through ${firm.regulatedFirm.legalName} (SRA ${firm.regulatedFirm.sraNumber}).`,
+  description: `Who is regulated by whom at ${firm.name}: ${firm.legalName} (company ${firm.companyNumber}) provides corporate services and is not SRA-authorised; ${firm.principal.name} carries out reserved legal work as a solicitor practising through ${firm.regulatedFirm.legalName}.`,
   path: "/legal/regulatory",
   eyebrow: "Legal and regulatory",
 });
@@ -32,20 +32,16 @@ export default function RegulatoryPage() {
       </p>
       <p>
         <strong>{firm.principal.name}</strong> is a solicitor of the Senior Courts of England and Wales, admitted on{" "}
-        {firm.principal.admitted}, SRA number {firm.principal.sraNumber}. Reserved and regulated legal work is carried
-        out by him in that capacity, practising through <strong>{firm.regulatedFirm.legalName}</strong>, a firm
-        authorised and regulated by the Solicitors Regulation Authority under SRA number{" "}
-        {firm.regulatedFirm.sraNumber}. That work is subject to that firm&rsquo;s authorisation, its professional
+        {firm.principal.admitted}. Reserved and regulated legal work is carried out by him in that capacity,
+        practising through <strong>{firm.regulatedFirm.legalName}</strong>, a firm authorised and regulated by the
+        Solicitors Regulation Authority. That work is subject to that firm&rsquo;s authorisation, its professional
         indemnity insurance, the SRA Standards and Regulations, and its client care and complaints procedures.
       </p>
       <p>
-        You can verify {firm.principal.name}&rsquo;s practising status on the Law Society&rsquo;s{" "}
-        <a href={firm.principal.sraCheckUrl} target="_blank" rel="noreferrer noopener">
-          Find a Solicitor register
-        </a>
-        , and both the individual and the firm on the{" "}
+        You can verify {firm.principal.name}&rsquo;s practising status, and the firm he practises through, on the
+        Solicitors Regulation Authority&rsquo;s{" "}
         <a href="https://www.sra.org.uk/consumers/register/" target="_blank" rel="noreferrer noopener">
-          SRA&rsquo;s public register
+          public register
         </a>
         . We would encourage you to do so, for us and for anyone else you are considering instructing.
       </p>

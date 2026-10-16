@@ -106,12 +106,11 @@ export function Footer() {
               </p>
               <p>
                 Reserved and regulated legal work is carried out by{" "}
-                <strong className="font-medium text-bone/80">{firm.principal.name}</strong>, solicitor (SRA{" "}
-                {firm.principal.sraNumber}), practising through{" "}
-                <strong className="font-medium text-bone/80">{firm.regulatedFirm.legalName}</strong> (SRA{" "}
-                {firm.regulatedFirm.sraNumber}), which is authorised and regulated by the Solicitors Regulation Authority.
-                That work is subject to Taylor Rose&rsquo;s authorisation, professional indemnity insurance and
-                complaints procedure.{" "}
+                <strong className="font-medium text-bone/80">{firm.principal.name}</strong>, solicitor, practising
+                through{" "}
+                <strong className="font-medium text-bone/80">{firm.regulatedFirm.legalName}</strong>, which is authorised
+                and regulated by the Solicitors Regulation Authority. That work is subject to Taylor Rose&rsquo;s
+                authorisation, professional indemnity insurance and complaints procedure.{" "}
                 <Link href="/legal/regulatory" className="text-bone/80 underline underline-offset-4 hover:text-bone">
                   Full regulatory information
                 </Link>
