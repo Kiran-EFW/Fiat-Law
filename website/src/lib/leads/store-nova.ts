@@ -27,37 +27,77 @@ const COLUMNS = `id, created_at, updated_at, kind, segment, answers, recommendat
                  status, name, role, company, email, phone, notes, source, duration_ms,
                  marketing_consent, privacy_version`;
 
+/**
+ * One position in an INSERT: either a bound placeholder, or the NULL literal.
+ *
+ * Scalix's SQL gateway cannot serialise a JSON null bound to a parameter that
+ * carries a type — it answers `error serializing parameter N`. That hits every
+ * nullable column this table has except `segment` (TEXT), so `answers`,
+ * `recommendation` and `duration_ms` are written as `NULL` when the client sent
+ * nothing for them and the column's own default stands. Binding them is not an
+ * option, and neither is an empty string: the gateway types the value and
+ * rejects a bigint it cannot parse.
+ */
+interface Slot {
+  sql: string;
+  param?: unknown;
+}
+
+const NULL_SQL: Slot = { sql: "NULL" };
+// `== null` on purpose: an absent value and an explicit null are the same
+// thing here, and both must become the literal rather than a bound parameter.
+const optional = <T,>(value: T | null | undefined): Slot =>
+  value == null ? NULL_SQL : { sql: "?", param: value };
+const optionalJsonb = (value: string | null | undefined): Slot =>
+  value == null ? NULL_SQL : { sql: "?::jsonb", param: value };
+const optionalBigint = (value: number | null | undefined): Slot =>
+  value == null ? NULL_SQL : { sql: "?::bigint", param: value };
+
 export const novaLeadStore: LeadStore = {
   async create(lead) {
     const now = new Date().toISOString();
     const id = newLeadId(now);
+
+    const slots: Slot[] = [
+      optional(id),
+      optional(now),
+      optional(now),
+      optional(lead.kind),
+      optional(lead.segment ?? null),
+      optionalJsonb(lead.answers ? JSON.stringify(lead.answers) : null),
+      optionalJsonb(lead.recommendation ? JSON.stringify(lead.recommendation) : null),
+      optional(lead.score ?? 0),
+      optional(lead.band ?? "nurture"),
+      // status is a literal, not a bound parameter.
+      { sql: "'new'" },
+      optional(lead.name),
+      optional(lead.role ?? ""),
+      optional(lead.company ?? ""),
+      optional(lead.email),
+      optional(lead.phone ?? ""),
+      optional(lead.notes ?? ""),
+      optionalJsonb(JSON.stringify(lead.source ?? {})),
+      optionalBigint(lead.durationMs ?? null),
+      optional(lead.marketingConsent ?? false),
+      optional(PRIVACY_VERSION),
+    ];
+
+    // Number the placeholders in the order the params are pushed, so the two
+    // can never drift apart.
+    const params: unknown[] = [];
+    const values = slots
+      .map(({ sql, param }) => {
+        if (sql === "NULL" || param === undefined) return sql;
+        params.push(param);
+        return sql.replace("?", `$${params.length}`);
+      })
+      .join(", ");
+
     const rows = await sql<LeadRow>(
       `INSERT INTO leads (${COLUMNS})
-       VALUES ($1, $2, $3, $4, $5, $6::jsonb, $7::jsonb, $8, $9,
-               'new', $10, $11, $12, $13, $14, $15, $16::jsonb, $17,
-               $18, $19)
+       VALUES (${values})
        RETURNING ${COLUMNS}`,
-      [
-        id,
-        now,
-        now,
-        lead.kind,
-        lead.segment ?? null,
-        lead.answers ? JSON.stringify(lead.answers) : null,
-        lead.recommendation ? JSON.stringify(lead.recommendation) : null,
-        lead.score ?? 0,
-        lead.band ?? "nurture",
-        lead.name,
-        lead.role ?? "",
-        lead.company ?? "",
-        lead.email,
-        lead.phone ?? "",
-        lead.notes ?? "",
-        JSON.stringify(lead.source ?? {}),
-        lead.durationMs ?? null,
-        lead.marketingConsent ?? false,
-        PRIVACY_VERSION,
-      ],
+      params,
     );
     if (!rows.length) throw new Error(`Nova accepted the insert for ${id} but returned no row`);
     return toLead(rows[0]);
