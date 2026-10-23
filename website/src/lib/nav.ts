@@ -35,7 +35,6 @@ export const primaryNav: { label: string; href: string; children?: NavLink[] }[]
 
 export const legalNav: NavLink[] = [
   { href: "/legal/regulatory", label: "Regulatory information" },
-  { href: "/legal/complaints", label: "Complaints" },
   { href: "/legal/privacy", label: "Privacy" },
   { href: "/legal/cookies", label: "Cookies" },
   { href: "/legal/terms", label: "Terms of use" },

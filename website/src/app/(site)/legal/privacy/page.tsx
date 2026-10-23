@@ -187,8 +187,8 @@ export default function PrivacyPage() {
 
       <h2>Complaints</h2>
       <p>
-        If you are unhappy with how we have handled your data, please tell us first. See the{" "}
-        <Link href="/legal/complaints">complaints procedure</Link>. You may also complain to the{" "}
+        If you are unhappy with how we have handled your data, please tell us first, using the contact details at the
+        foot of this page. You may also complain to the{" "}
         {firm.ico.name} at any time:{" "}
         <a href={firm.ico.url} target="_blank" rel="noreferrer noopener">
           ico.org.uk

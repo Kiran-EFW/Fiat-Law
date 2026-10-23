@@ -88,7 +88,7 @@ export default function ServicesPage() {
               <p className="mt-4 text-[1.0625rem] leading-relaxed text-bone/65">
                 Reserved and regulated legal work is carried out by {firm.principal.name} in his capacity as a
                 solicitor practising through {firm.regulatedFirm.legalName}, and is subject to that firm&rsquo;s
-                authorisation, insurance and complaints procedure.
+                authorisation and professional standards.
               </p>
               <Link
                 href="/legal/regulatory"

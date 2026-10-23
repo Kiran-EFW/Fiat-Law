@@ -53,7 +53,9 @@ export default function AboutPage() {
               <p className="measure-wide mt-7 text-lg leading-relaxed text-stone-700">
                 {firm.name} exists for one corridor and one problem: Indian businesses establishing in the United
                 Kingdom, and the fact that the legal, immigration and corporate elements of that move are almost always
-                bought separately and then fail to fit together.
+                bought separately and then fail to fit together. Janeevan John leads the practice and reads every brief
+                personally. His team covers each discipline the move touches, and one named owner project-manages the
+                whole sequence to completion.
               </p>
             </div>
             <div className="animate-fade">
@@ -119,7 +121,7 @@ export default function AboutPage() {
                   <p className="mt-5 text-[0.9375rem] leading-relaxed text-bone/60">
                     Corporate and commercial drafting, share and asset acquisitions, immigration advice and
                     representation, and any other reserved legal activity. Carried out under that firm&rsquo;s
-                    authorisation, professional indemnity insurance and complaints procedure.
+                    authorisation and professional standards.
                   </p>
                 </div>
               </div>

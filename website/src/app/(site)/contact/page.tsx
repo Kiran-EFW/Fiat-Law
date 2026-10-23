@@ -98,10 +98,8 @@ export default function ContactPage() {
                     engagement letter. Nothing on this site or in an email exchange is advice you can rely on.
                   </li>
                   <li className="border-l-2 border-stone-300 pl-4">
-                    If your matter is a complaint about work already done, please use the{" "}
-                    <Link href="/legal/complaints" className="text-crimson-600 underline underline-offset-4">
-                      complaints procedure
-                    </Link>{" "}
+                    If your matter is a complaint about work already done, please contact Janeevan directly on the
+                    number above.{" "}
                     rather than this form, so that it is logged correctly.
                   </li>
                   <li className="border-l-2 border-stone-300 pl-4">

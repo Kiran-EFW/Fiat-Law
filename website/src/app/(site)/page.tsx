@@ -273,7 +273,7 @@ export default function HomePage() {
           <SectionHead
             eyebrow="The practice"
             title="A practice, not a principal."
-            lede="Fiat Law is led by Janeevan John, who reads every brief personally before anyone speaks to you. Around him the practice brings specialist depth in each discipline, some in-house and some at named partner firms, so an entry is not one person guessing at four fields."
+            lede="Fiat Law is led by Janeevan John, who reads every brief personally before anyone speaks to you. His team covers each discipline below, some of it in-house and some of it at named partner firms, so an entry is not one person guessing at four fields."
           />
 
           <div className="mt-14 grid gap-8 lg:grid-cols-[0.8fr_1.2fr] lg:gap-16">
@@ -471,6 +471,10 @@ const pricingSteps = [
   {
     title: "Scope",
     body: "The brief, then a conversation. We establish what is actually needed, which is regularly less than you were expecting, and occasionally more.",
+  },
+  {
+    title: "Project management",
+    body: "One named owner runs the whole sequence to completion, holds the plan and the deadlines, and tells you where it stands without being asked. That owner is accountable for the parts they personally deliver and for coordinating the parts delivered elsewhere.",
   },
   {
     title: "Proposal",

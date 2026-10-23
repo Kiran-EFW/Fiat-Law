@@ -135,7 +135,7 @@ export const capacityNote: Record<Capacity, string> = {
   solicitor:
     `Delivered by ${firm.principal.name} in his capacity as a solicitor ` +
     `practising through ${firm.regulatedFirm.legalName}, and subject to that firm's ` +
-    `authorisation, professional indemnity insurance and complaints procedure.`,
+    `authorisation and professional standards.`,
   coordinated:
     `Scoped and project-managed by ${firm.legalName} and delivered by named, independently regulated partner firms. ` +
     `You are told who is doing the work before it begins.`,

@@ -34,8 +34,8 @@ export default function RegulatoryPage() {
         <strong>{firm.principal.name}</strong> is a solicitor of the Senior Courts of England and Wales, admitted on{" "}
         {firm.principal.admitted}. Reserved and regulated legal work is carried out by him in that capacity,
         practising through <strong>{firm.regulatedFirm.legalName}</strong>, a firm authorised and regulated by the
-        Solicitors Regulation Authority. That work is subject to that firm&rsquo;s authorisation, its professional
-        indemnity insurance, the SRA Standards and Regulations, and its client care and complaints procedures.
+        Solicitors Regulation Authority. That work is subject to that firm&rsquo;s authorisation and the SRA Standards
+        and Regulations.
       </p>
       <p>
         You can verify {firm.principal.name}&rsquo;s practising status, and the firm he practises through, on the
@@ -110,15 +110,6 @@ export default function RegulatoryPage() {
         alongside authorised advisers.
       </p>
 
-      <h2>Insurance</h2>
-      <p>
-        Reserved and regulated legal work carried out through {firm.regulatedFirm.legalName} is covered by that
-        firm&rsquo;s professional indemnity insurance, which complies with the SRA Indemnity Insurance Rules. Details of
-        the insurer and territorial coverage are available on request and are set out in the engagement letter for the
-        relevant matter. Insurance arrangements for {firm.legalName}&rsquo;s own corporate services are also disclosed
-        in the engagement letter before work begins.
-      </p>
-
       <h2>Price and service transparency</h2>
       <p>
         This site does not publish prices, for the reasons given on the{" "}
@@ -127,13 +118,6 @@ export default function RegulatoryPage() {
         {firm.regulatedFirm.legalName} as the authorised firm, and we will provide it to you before you instruct us. In
         every case you receive a written proposal with a figure in it, and you approve that figure in writing before any
         work starts.
-      </p>
-
-      <h2>Complaints</h2>
-      <p>
-        The complaints procedure, including the route to the Legal Ombudsman for regulated legal services and to the
-        Solicitors Regulation Authority for matters of professional conduct, is set out in full on our{" "}
-        <Link href="/legal/complaints">complaints page</Link>.
       </p>
 
       <h2>Jurisdiction and law</h2>
