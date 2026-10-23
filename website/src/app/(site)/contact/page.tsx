@@ -77,14 +77,6 @@ export default function ContactPage() {
                     </dd>
                   </div>
                   <div>
-                    <dt className="text-[0.75rem] uppercase tracking-[0.1em] text-stone-400">Mobile</dt>
-                    <dd className="mt-1">
-                      <a href={`tel:${firm.contact.mobile}`} className="text-stone-700 hover:text-crimson-600">
-                        {firm.contact.mobileDisplay}
-                      </a>
-                    </dd>
-                  </div>
-                  <div>
                     <dt className="text-[0.75rem] uppercase tracking-[0.1em] text-stone-400">Email</dt>
                     <dd className="mt-1">
                       <a

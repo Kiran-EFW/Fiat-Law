@@ -52,10 +52,11 @@ export const firm = {
 
   contact: {
     email: "janeevan.john@fiatlaw.co.uk",
-    telephone: "+44 20 8036 5612",
-    telephoneDisplay: "020 8036 5612",
-    mobile: "+44 7877 971233",
-    mobileDisplay: "07877 971233",
+    // Janeevan's direct number. The former landline was dropped at the
+    // client's instruction; international format because the primary audience
+    // dials from India, where 0044 is outbound-only and +44 is the standard.
+    telephone: "+44 7877 971233",
+    telephoneDisplay: "+44 7877 971233",
   },
 
   /**

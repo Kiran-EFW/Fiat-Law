@@ -105,16 +105,14 @@ export function Footer() {
                 Regulation Authority, and it does not carry on reserved legal activities.
               </p>
               <p>
-                Reserved and regulated legal work is carried out by{" "}
-                <strong className="font-medium text-bone/80">{firm.principal.name}</strong>, solicitor, practising
-                through{" "}
-                <strong className="font-medium text-bone/80">{firm.regulatedFirm.legalName}</strong>, which is authorised
-                and regulated by the Solicitors Regulation Authority. That work is subject to Taylor Rose&rsquo;s
-                authorisation, professional indemnity insurance and complaints procedure.{" "}
-                <Link href="/legal/regulatory" className="text-bone/80 underline underline-offset-4 hover:text-bone">
-                  Full regulatory information
+                Legal services <span className="text-gold">*</span> through regulated SRA firms.{" "}
+                <Link href="/legal/regulatory" className="underline hover:text-bone">
+                  Regulatory information
                 </Link>
-                .
+                .{" "}
+                {firm.legalName} is a company registered in England and Wales (company number{" "}
+                {firm.companyNumber}) and is not authorised or regulated by the Solicitors Regulation Authority. It does
+                not hold itself out as entitled to carry out reserved legal activities.
               </p>
             </div>
             <p className="mt-6 text-[0.75rem] leading-relaxed text-bone/55">
