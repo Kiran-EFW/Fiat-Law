@@ -1,5 +1,13 @@
 # Scalix Cloud — full service audit
 
+> **Read this first.** This document is two audits of the same platform, two days
+> apart. The **second pass (2026-10-23)** is at the top and is the current state:
+> it re-ran every defect claim from the first pass and found 14 of 18 code-level
+> defects fixed, one reclassified as intentional design, and three new issues,
+> while all the first-pass *documentation* defects were closed by the vendor.
+> The first pass is preserved below it, annotated per service, because its
+> reasoning still explains why each test exists. **[→ Jump to the re-audit](#re-audit--2026-10-23-second-pass-same-key-same-project)**
+
 **Project:** Fiat Law (`dee02caa-c9e0-4a80-9d27-f3849b0d8823`)
 **Tester:** automated, at the operator's request
 **Scope:** every Scalix Cloud service, exercised with realistic mock data
@@ -14,7 +22,156 @@ Status legend: WORKS / WORKS-WITH-CAVEATS / BROKEN / NOT-ON-THIS-PLAN.
 
 ---
 
-## The question that matters: what are these actually for?
+# RE-AUDIT — 2026-10-23 (second pass, same key, same project)
+
+**Re-tested:** every finding in the first pass that was a defect claim, plus the
+services the first pass could not reach. Method identical: probe, then read back
+and compare data rather than trust status codes.
+
+**Headline: the platform fixed almost everything the first pass flagged, and
+cited the audit in their own docs while doing it.** Of 18 code-level defects,
+14 are verified fixed, 1 is reclassified as an intentional design, and 3 are new.
+Several first-pass P0s are gone. The blockers to a trust decision are now
+contract-level, not code-level.
+
+## What is FIXED (verified with evidence, not status codes)
+
+| First-pass finding | Sev | Evidence on 2026-10-23 |
+|---|---|---|
+| Storage wraps every object in JSON Buffer | P0 | 256-byte binary in via CLI `storage cp` and raw REST PUT; `cmp` identical out, `size_bytes: 256` correct. Presigned GET returns the same bytes. **Fixed.** |
+| Sandbox DELETE 204-but-not-deleted | P0 | Deleted both stuck sandboxes; list went 2 → 1 → 0. Fresh create/exec/files/delete cycle clean. **Fixed.** |
+| Nova branches unqueryable (create-only) | P1 | Created branch `75887d8f…`, inserted marker on it: **branch 8 rows, parent still 7**. Also correct over psql wire (`db_<uuid>` as dbname, key as password). **Fixed.** |
+| `exec` needs undocumented `{command,args}` | P1 | Still required, but the error now *teaches* the shape: *"'/usr/bin/id -u' was not found as a single executable — command takes the executable ONLY; split arguments into args…"*. Documented on the Computers page. **Fixed.** |
+| Computers `/files` PUT lies (`exists:false`) | P1 | PUT `files:[{path, content_b64}]` → 204, GET returns `exists:true` + content, `cat` confirms. **Fixed.** |
+| MCP `db_query` silent empty on `query` | P2 | Now returns `is_error:true` with the reason: *"received arguments [query] with no usable `sql` — refusing to forward an empty query"*. **Fixed.** |
+| Search management endpoints 500 | P1 | `/v1/search/sources` and `/stats` both 200. **Fixed.** |
+| Webhooks unconstructible | P3 | `WebhookCreateRequest` fully documented; registration works (201, returns generated secret once). Only gap left: the `events` enum values are not listed. |
+| Migrations register unconstructible | P3 | `name` + `up_sql` + `down_sql` → 201. Plan shows it `pending`; not applied, no side effects. **Fixed.** |
+| Parameterized null breaks | P2 | `params:[null]` returns a null row. Now documented ("JSON null binds as SQL NULL"). **Fixed.** |
+| Docs describe fields the API rejects (CREATE EXTENSION, display_name) | P2 | CREATE EXTENSION is now documented as *intentionally* blocked with a pointer to the Vectors API. Topic schema documents "There is NO display_name field (the audit's 500 was a duplicate name — now 409)". **Fixed as intended behaviour.** |
+| Event topic sub-paths reject names | P2 | Publishing and reading by topic **name** now works. **Fixed.** |
+| `by-name` idempotency | P2 | Still exactly as documented: `PUT /v1/computers/by-name/{name}` returns 201 new / 200 existing. (A 409 on `POST /v1/computers` is correct and documented.) **Works.** |
+| Cron request shape undocumented | P2 | Still undocumented in the reference; the scheduler field is `cron_expression`. Works once constructed. **Partly open.** |
+
+## What the vendors changed in the DOCS (all first-pass doc defects closed)
+
+1. **The `/v1/*` vs `/api/v1/*` split is now stated in the API reference
+   overview** — the exact sentence the first pass asked for: "Most services live
+   under `/v1/*`. The Nova data plane (SQL, schema, branches, PITR) plus
+   Encryption, Migrations and Realtime live under `/api/v1/*`."
+2. **The "Service endpoints" table now covers every service** (~38 rows, every
+   tag in the nav, "generated from the OpenAPI spec"). The P0 that caused ~15
+   false negatives is fixed.
+3. **Request schemas are published.** Computers (11 ops), Events (11 ops),
+   Webhooks (7 ops) and Storage all now define their request bodies field by
+   field — the root cause of most first-pass trial-and-error is gone.
+4. **The destructive-operation gate is documented end to end** (error catalogue:
+   428 `CONFIRMATION_REQUIRED`, `X-Scalix-Confirm`, the gated statement set,
+   single-use 300s tokens bound to the statement, the MCP `confirm_token`
+   argument, and the per-plan cap — **free 2/hour, starter 5, pro 10, team 20,
+   business 50, enterprise unlimited**).
+5. **The response envelope is documented correctly**: bare JSON on success,
+   `request_id` only on errors. (Verified live: `GET /v1/storage/buckets` → `[]`.)
+6. **Backups page now states off-site replication is NOT live** — "on the
+   roadmap, not live today… no second-facility or cross-region replica". This
+   *contradicts* the first pass's quoted claim of off-site replication. See
+   "Changed against us" below.
+7. **KILO/Coder disambiguation**: two binaries, `scalix` (Scalix Coder) and
+   `scalix-cloud` (Cloud CLI, npm now 1.5.0, local 1.3.4) — the Cloud CLI
+   reference names the other product.
+8. **Version policy** is a full page (PG 16/17/18 with supported-until dates,
+   90-day new majors, 6-month EOL window, 60-day default-change notice,
+   auto-applied minors).
+
+## Changed AGAINST us since the first pass
+
+| Item | Then | Now |
+|---|---|---|
+| Off-site backup replication | Docs claimed replicated off-site | **Explicitly not live** ("roadmap, not live today"); a region loss takes the backups with the database |
+| Backups → risk posture | 7-day retention, 5-min RPO | Same, but now reading it correctly raises the value of our own nightly `pg_dump` |
+| Branch tooling in MCP | `scalix_db_branch_*` absent from catalog | Vendor states plainly: *"the branch machinery is not finished, and a tool that reports an isolated branch while statements still reach the primary is worse than no tool at all"* — both names withheld and refused |
+| Off-site replication + no SLA + no RTO | Trust risks | Unchanged, and now the *only* structural risks left |
+
+## NEW defects found in this pass
+
+1. **Webhook DELETE hangs indefinitely.** `DELETE /api/v1/tenants/{id}/webhooks/{id}`
+   never returned (attempts at 90s ×2, 100s, 120s all timeout; `PUT
+   {"active":false}` returns 200 in <1s). Looks endpoint-dependent: the webhook
+   pointed at `example.com`. Mitigation: deactivate instead of delete.
+2. **`scalix_project_list` (MCP) errors**: `400 invalid input: invalid org_id:
+   invalid length: found 0` — cannot derive org from a project-scoped key. The
+   first pass had it working.
+3. **Gateway instability during the hour-long run.** Several multi-service
+   episodes: `nginx 502 Bad Gateway` across `/v1/events/*`, `/v1/computers`,
+   `/api/v1/tenants/*/webhooks`, then 30–60s hangs, then recovery within
+   minutes. `/healthz` and `/readyz` stayed 200 and `scalix_status` reported
+   `operational, active_incidents: 0` throughout — **the health surface does not
+   see these episodes**. Site stayed up (200) but at 1.0–2.4s, cold-ish.
+4. **(Carried over, not new)** `GET /v1/me` tool list still advertises what isn't
+   served (`scalix_search`, `scalix_usage` → "not available on this deployment").
+   The list is now 45 tools, down from 47, but still aspirational.
+
+## Verified UNCHANGED (still true, still honest)
+
+- **No uptime SLA.** Terms §6: *"We do not currently offer contractual uptime
+  guarantees. Availability commitments for Enterprise agreements are available
+  on request."*
+- **No RTO; no completed restore drill.** RPO 5 minutes + 7-day default retention
+  documented. Backups page: "routine restore drills are being operationalized."
+- **Changelog is a placeholder.** "Changelog: in development / ETA: soon."
+- **Status page is now worse than unreadable**: it *times out* (25s no response).
+- **Compute stays 501-gated** with a good message pointing at Run/Functions.
+- **Rate-limit headers real** (200), security page still honest (SOC 2 "planned
+  Q4 2026, no certification today", subprocessors published, 24h/7-day
+  disclosure).
+- **Store still costs per-query metering** (`estimated_usd` 2e-7 for `select 1+1`).
+
+## Updated scorecard (2026-10-23)
+
+| Service | First pass | Now |
+|---|---|---|
+| Nova (SQL/cost) | good | WORKS — branches + isolation verified |
+| Nova branches | P1 broken | **WORKS** |
+| Storage | WORKS-WITH-CAVEATS (fatal) | **WORKS** |
+| KV | WORKS | WORKS |
+| Events | caveats (config, names) | **WORKS** |
+| Functions | WORKS | WORKS |
+| AI | WORKS | WORKS (32 ops available) |
+| Computers | WORKS, 2 flaws | **WORKS, no flaws found** |
+| Sandboxes | BROKEN | **WORKS** |
+| Registry | WORKS | WORKS |
+| Build | WORKS | WORKS |
+| Run | WORKS | WORKS |
+| Domains | caveats | WORKS-WITH-CAVEATS (SSL path unverifiable without DNS) |
+| Cron | WORKS, 2 defects | **WORKS, no defects found** |
+| Webhooks | BROKEN | WORKS-WITH-CAVEATS (register works; events enum undocumented; DELETE hangs) |
+| Compute | not on plan | not on plan |
+| Search | 500s on admin | **WORKS** |
+| Shield / Compliance / Integrations / LB / Encryption / Realtime / Env / Metering | (not reached first pass) | **WORKS** (encryption round-trips; env CRUD; realtime subscribe) |
+| MCP | caveats (silent empty) | WORKS — 53 tools, 53/53 descriptions, 111/111 properties, 53/53 annotations |
+
+## What this changes for the Fiat Law decision
+
+**Phase 1 (their blockers) is essentially cleared**: Storage is safe for
+documents and branches work, so production-shaped testing is now possible.
+Two first-pass blockers remain ours to close, not theirs: the runtime key in the
+deployed service still holds `database:admin` (and `ADMIN_PASSWORD` is still
+plaintext in the service env — confirmed again in `scalix-cloud status`), and
+the off-site replication claim turning out to be false *raises* the priority of
+our independent nightly `pg_dump`.
+
+**The trust decision is now purely contractual**: uptime SLA, RTO + a restore
+drill we can run, DPA countersigned — and now also a documented answer to
+"region-level loss takes backups too". The observed gateway 502/hang episodes
+during one hour of testing make the SLA question empirical, not theoretical.
+
+---
+
+## First pass — as originally written, findings annotated where re-audited
+
+The sections below are the first pass verbatim. Verdicts that changed carry a
+`[RE-AUDIT 2026-10-23]` note. Findings that are unchanged are not repeated above.
+
 
 The tests above prove *mechanism*. Here is what each service is *for*, per the
 docs, and whether that purpose is actually served.
@@ -37,6 +194,18 @@ per-query cost breakdown (`compute_ms`/`pages_read`/`bytes_transferred`/
 `estimated_usd`) and LSN branching are things neither Cloud SQL nor RDS gives
 you. But see P0/P1 below: branching is create-only, and so is the branch's data.
 
+[RE-AUDIT 2026-10-23: **branching works end to end.** POST
+`/api/v1/tenants/{id}/timelines/00000000-0000-0000-0000-000000000001/branch`
+returned a branch; an insert performed *through the branch* left the parent
+untouched (8 rows vs 7), psql to `db_<branch-uuid>` saw the branch's 8 rows, and
+DELETE purged the branch's objects. Docs now state both selectors (wire `db_`
+name, HTTP/MCP `timeline_id`). PITR body is still undocumented — it silently
+requires `source_timeline_id` plus `{"type": lsn|timestamp|latest}`. The SQL
+field is `query` (not `sql`). Cost metering unchanged. Still open: the MCP
+*create/drop* branch tools are withheld by the vendor's own admission, though
+the `timeline_id` selector on `scalix_db_query` routes correctly (verified: 8
+rows through MCP vs 7 on the primary).]
+
 ---
 
 ### Storage
@@ -54,6 +223,17 @@ as 224 bytes of `{"type":"Buffer","data":[…]}` and a 256-byte binary as 940
 bytes. The bytes are recoverable if you know to unwrap them, and nothing tells
 you to. For a law firm storing PDFs this makes the service unusable as-is.
 
+[RE-AUDIT 2026-10-23: **the P0 is fixed — binary round-trips byte-identically.**
+256 bytes in via `scalix-cloud storage cp` came back byte-for-byte (`cmp`
+clean, `size_bytes: 256`). Raw REST PUT (`Content-Type: application/octet-stream`,
+body = bytes) also round-trips identically. A presigned GET fetched anonymously
+produced identical bytes. The corruption was a CLI-side wrapping bug; the CLI is
+now npm 1.5.0 (local install 1.3.4, first pass ran 1.4.0). Two notes: presign is
+`POST /v1/storage/presign` (bucket+key in the body, fixed 3600s expiry, no
+`expires_in` field); and REST PUT with a *JSON* body (`content_base64`) stores
+the request body literally — 34 bytes for an 8-byte PNG — so a JSON body is not
+a supported upload shape.]
+
 ---
 
 ### Key-Value
@@ -66,6 +246,11 @@ caching and sessions.
 **Verdict: WORKS, and it is the cleanest thing on the platform.** All five
 operations behave, JSON values round-trip, glob patterns work, and TTL expiry is
 real — I set a key with `ttl: 1` and it was gone 3s later.
+
+[RE-AUDIT 2026-10-23: unchanged and still clean. All operations are **POST**
+(`/v1/kv/set|get|exists|keys|del`); `del` takes `{"keys": [...]}`. TTL `1` still
+vanishes. Note the earlier report's GET/PUT shapes were wrong guesses — the
+service was never at fault.]
 
 ---
 
@@ -82,6 +267,15 @@ payload survives intact. But subscriptions require an undocumented `config`
 field, and topic sub-paths reject a topic *name* despite the docs saying
 "Topic id or name".
 
+[RE-AUDIT 2026-10-23: **name routing is fixed** — publishing and reading by
+topic name both worked (`fltest-lead-events`), so the "Topic id or name" promise
+now holds. Publish body is `event_type` + `data`. Subscriptions still require the
+`config` object, but the shape is now fully documented (`sub_type` webhook or
+function, `config.url`/`config.function_id`, optional `filter` and
+`max_retries`), and the Events guide documents delivery payloads and filter
+semantics. Remaining nits: `GET /v1/events/topics` shape, and the schema text
+still calls the body "bare object" in one place.]
+
 ---
 
 ### Functions
@@ -94,6 +288,12 @@ receiver. Runtime is `node` or `python`.
 **Verdict: WORKS.** Create, invoke, list invocations, get, delete all behaved.
 Two notes: the runtime accepts `node`/`python` only (not `nodejs22`), and
 `createFunction` is also the deploy verb — there is no separate deploy step.
+
+[RE-AUDIT 2026-10-23: unchanged. Full lifecycle re-verified (create → update
+code → invoke → invocation history → delete, all 200/204). The handler contract
+is `exports.handler = async (event) => …` and the invoke body must wrap the
+payload as `{"payload": {...}}` — a bare `{"hello":"world"}` arrives as an empty
+event. Invocations list returns real records with duration and status.]
 
 ---
 
@@ -126,6 +326,19 @@ promised (200 existing / 201 new). **Two flaws:** `exec` rejects any command
 with arguments until you discover the undocumented `args` field, and `/files`
 PUT returned success while GET reported `exists: false`.
 
+[RE-AUDIT 2026-10-23: **both flaws are fixed.** The exec error is now exemplary:
+*"'/usr/bin/id -u' was not found as a single executable — command takes the
+executable ONLY; split arguments into args (e.g. command:"/usr/bin/id",
+args:["-u"])"*. File write/read works with the documented
+`{"files":[{"path":"/root/x","content_b64":"…"}]}` shape: PUT 204 → GET
+`exists:true` + content → `cat` confirms. `by-name` is `PUT /v1/computers/by-name/{name}`
+(201 new / 200 existing) while `POST /v1/computers` correctly 409s on a name
+clash. Outbound network confirmed (api 401 unauthenticated = reachable, site
+200, google 200). `apt-get install python3` needs an `apt-get update` first on a
+fresh box, then succeeds (Python 3.12.3). Stop/start preserves IP and disk.
+The API reference now even cites this audit: *"an older guest build silently
+wrote them against the VM's CWD and reported success; audit 2026-10-21"*.]
+
 ---
 
 ### Sandboxes
@@ -142,12 +355,25 @@ times with 204s and it is still listed. Since these are the primitive an agent
 uses to execute code, an undeletable sandbox leaks a worker per invocation.
 Snapshots returning 501 is honest gating, not a defect.
 
+[RE-AUDIT 2026-10-23: **the P0 is fixed.** Both leftover `STOPPED` sandboxes from
+the first pass deleted cleanly (204) and a full fresh cycle — create → RUNNING →
+`/commands` with `{"cmd","args"}` → DELETE → list goes to 0 — worked. The
+list no longer shows orphans. The `cmd`+`args` split remains (now with a clear
+error naming `cmd`), and file write/read still needs the undocumented
+`files: [...]` array; `extend` wants `duration_ms`, not `timeoutMs`. Commands
+run as uid 65534, so treat sandboxes as unprivileged-by-default.]
+
 ---
 
 ### Registry
 **Documented purpose:** OCI container registry hosting pushed images.
 
 **Verdict: WORKS.** Lists the built images, including `fiat-law`.
+
+[RE-AUDIT 2026-10-23: unchanged. `GET /v1/registry/v2/{project}/{repo}/tags/list`
+still lists `fiat-law:preview`. Note the global `_catalog` returns 403
+FORBIDDEN for project-scoped keys ("registry catalog is not available to
+project-scoped API keys") — scoped, not broken.]
 
 ---
 
@@ -158,6 +384,12 @@ registry.
 **Verdict: WORKS, and it is the least interesting service to test because it
 simply does what it says.** Upload a tarball, get a registry ref. Note the API
 reference lists no way to *create* a service from a build — you go to Run.
+
+[RE-AUDIT 2026-10-23: unchanged, plus a bonus observation — today's real build
+(`25b90067…`, status `completed`) shows the Fiat Law image built by BuildKit from
+the uploaded tarball in 100.6s, `next build` on Next.js 16.3.0 (Turbopack),
+`npm ci` reporting 11 vulnerabilities (10 high, 1 critical) in the app's own
+dependency tree. Worth a scheduled `npm audit` independently of Scalix.]
 
 ---
 
@@ -170,6 +402,14 @@ private DNS, scale-to-zero (min 0).
 that already exists globally, so rolling a new image means delete-and-recreate,
 not update-in-place.
 
+[RE-AUDIT 2026-10-23: still serving the site. `fiat-law` reports `active`,
+revision 1. Site returned 200 on every probe but at **1.0–2.4s**, and during the
+run the API layer threw repeated 502s/hangs while `/healthz` and `/readyz`
+stayed 200 and `scalix_status` said `operational, active_incidents: 0` — i.e.
+the health surface does not observe these episodes. Also confirmed again that
+the service environment still holds `ADMIN_PASSWORD` and a full-scope
+`SCALIX_API_KEY` in plaintext (visible via `scalix-cloud status`).]
+
 ---
 
 ### Domains & SSL
@@ -178,6 +418,11 @@ not update-in-place.
 **Verdict: WORKS-WITH-CAVEATS.** Add a domain, get a verification token, see
 `ssl_status`. Cannot verify the SSL issuance path without controlling DNS for a
 real domain, which I do not have.
+
+[RE-AUDIT 2026-10-23: unchanged in kind — add returns a
+`scalix-verify-<uuid>` token with `ssl_status: "none"`, delete returns 204 and
+the list empties. SSL issuance still unverifiable without a real domain we
+control.]
 
 ---
 
@@ -197,6 +442,15 @@ you need the odd pair `action_type` (a string) plus a separate `action_config`
 object — and `action_type` accepts only `function` or `webhook`, though the
 error message says exactly that, which is at least honest.
 
+[RE-AUDIT 2026-10-23: **works, but the field name changed under us:** the
+schedule field is `cron_expression` (`schedule` → 422 "missing required field
+`cron_expression`"), so the first pass's body no longer parses. With
+`cron_expression` the full cycle worked: create → trigger (real execution
+record, `status: running`) → executions history (recorded `HTTP 405` from the
+target endpoint, so delivery is genuinely attempted) → pause (`enabled:false`) →
+delete. The `action_type`+`action_config` pair is still undocumented in the
+reference.]
+
 ### Webhooks
 **Documented purpose:** register an endpoint URL for tenant event types, test
 it, and inspect delivery attempts.
@@ -209,6 +463,19 @@ calls the schema `WebhookRequest` and never defines it. I could not register a
 single webhook, which means the documented `test` and `deliveries` endpoints are
 unreachable too — you cannot get an id.
 
+[RE-AUDIT 2026-10-23: **registration now works.** The reference defines
+`WebhookCreateRequest` (`url`, `events: array<WebhookEventName>`, optional
+`secret`, auto-generated and returned once) and all 7 operations are documented.
+Registration with an empty `events` array returned 201 with a generated secret.
+**Two defects remain:** (1) the `events` enum values are not listed anywhere and
+are case-sensitive PascalCase, so `LeadCreated`/`ObjectCreated`/`LeadCreatedEvent`
+all fail validation with a bare "invalid request body" — the enum is
+unconstructible from the docs; (2) **DELETE hangs indefinitely** (90s×2, 100s,
+120s attempts, no response — see new findings above). The `test` endpoint
+returns 415 "invalid request body" for every body I tried, so its schema is
+undocumented too. `PUT {"active": false}` works and is the practical way to
+neutralise a webhook.]
+
 ---
 
 ### Compute
@@ -217,6 +484,8 @@ unreachable too — you cannot get an id.
 **Verdict: NOT-ON-THIS-PLAN, honestly.** Returns
 `501 COMPUTE_COMING_SOON` with a helpful message pointing at Run and Functions.
 This is a clean, well-designed gate rather than a broken endpoint.
+
+[RE-AUDIT 2026-10-23: unchanged — same gate, same helpful message.]
 
 ---
 
@@ -228,6 +497,18 @@ This is a clean, well-designed gate rather than a broken endpoint.
 well. **But `db_query` silently returns an empty result set when passed the
 `query` argument** — only `sql` works. For an agent that is a correctness bug
 that looks like a successful answer.
+
+[RE-AUDIT 2026-10-23: **the silent-empty bug is fixed** — passing `query` now
+returns `is_error: true` and explains itself: *"scalix_db_query takes the SQL
+statement in the `sql` argument; received arguments [query] with no usable `sql`
+— refusing to forward an empty query"*. The catalog is reachable without
+credentials via JSON-RPC `tools/list` at `POST https://api.scalix.world/v1/mcp`
+and measures **53 tools, 53/53 descriptions, 111/111 described properties,
+53/53 safety annotations** — the report's "best-in-class" verdict stands and is
+now independently reproducible. `scalix_status` works (`operational`, 0 active
+incidents). Two changes: the branch tools are *withheld by design* (see above),
+and `scalix_project_list` now errors with `invalid org_id` for a project-scoped
+key.]
 
 ---
 
@@ -276,6 +557,17 @@ Confirmed present and working after correction:
 The remaining gap is Prime, which appears as a healthy component in
 `scalix_status` but whose API path I still have not located.
 
+**[RE-AUDIT 2026-10-23 — this table re-run in full.]** Search's admin endpoints
+are **fixed** (`/sources` and `/stats` now 200), Migrations register is
+**fixed** (`name`+`up_sql`+`down_sql` → 201, plan shows it pending and it does
+not apply automatically), Encryption round-trip **re-verified** (120-char hex
+ciphertext → identical plaintext), Realtime subscribe 201 on `leads`, Environment
+CRUD 201/get/200 (delete needs the UUID, not the key name), Shield/Compliance/
+Integrations/LB lists all 200 with the correct paths. Two changes against us:
+`scalix_project_list` now **errors** (`invalid org_id`) for a project-scoped key,
+and the REST metering summary still needs operator privilege while the CLI
+returns 54 metrics (was 49).
+
 ---
 
 ## The API surface, CLI, SDK and dev tooling
@@ -283,6 +575,10 @@ The remaining gap is Prime, which appears as a healthy component in
 ### The CLI is the best-documented interface on the platform
 
 `scalix-cloud --help` exposes 27 top-level commands including Search, Shield,
+[RE-AUDIT 2026-10-23: now **28** top-level commands (`domain` is a new one) and
+npm serves `scalix-cloud@1.5.0` / `scalix@1.5.2` (first pass saw 1.4.0 / 1.5.1).
+The tag list has grown to 31 tags. `scalix-cloud deploy` is still stubbed with
+the same "not yet available" message while `POST /v1/build/upload` works.]
 Compliance, Usage, Migrate, Export and Domain — several of which have no
 reachable REST path that I could find. The single most useful thing it ships is:
 
@@ -347,11 +643,34 @@ checking, four of those claims were **wrong**. Both the errors and the
 corrections are recorded, because the corrections make Scalix look better and
 the user needs the accurate picture.
 
+> **[RE-AUDIT 2026-10-23]** Almost every "genuinely absent" item below has since
+> shipped: the error catalogue is a full page (including the confirmation gate
+> and the per-plan destructive-op caps), request schemas are published for
+> Computers/Events/Webhooks/Storage, the service-endpoints table covers all
+> services, the `/v1` vs `/api/v1` split is stated, and the version policy is a
+> full page. Still absent: uptime SLA, RTO, off-site replication (now explicitly
+> disclaimed), changelog, deprecation policy, full scope catalogue, and a
+> machine-readable status page (which now merely times out). One earlier claim
+> got **worse in the other direction**: backups were described as replicated
+> off-site and are now explicitly *not* replicated off-site.
+
 ### What I wrongly claimed was missing, and is not
 
 | I claimed | Verdict | Evidence |
 |---|---|---|
 | No backup schedule / retention / RPO | **WRONG** | `/database/backups`: "nightly encrypted backups that are replicated off-site to EU-located storage", "Configurable retention (default: 7 days)", "WAL is archived on a five-minute bound... the most recent restorable point is typically within five minutes of your latest write" |
+
+**[RE-AUDIT 2026-10-23 — one of these "WRONG" rows is now wrong in the other
+direction.]** The current `/database/backups` page keeps the retention and RPO
+language (7-day default, five-minute WAL bound) but **reverses the replication
+claim**: *"Off-site replication is on the roadmap, not live today. There is
+currently no second-facility or cross-region replica of your data. If you need
+protection against the loss of an entire region, use Manual Export or the
+full-project export — a region-level failure would otherwise take your backups
+with your database."* So the first pass was right to be suspicious: the earlier
+wording implied off-site copies that do not exist. RPO is documented; RTO is not;
+"routine restore drills are being operationalized" still stands. This raises the
+priority of the independent nightly `pg_dump`.
 | No exit or export path | **WRONG** | `/migrate`: "Every migration is reversible. Full export is always available (`scalix-cloud export all`), so you are not locked in." Plus pg_dump over the wire endpoint, and Terms §7: "On termination you may export your data within 30 days" |
 | No error catalogue | **WRONG** | `/api-reference/errors`: full catalogue of 14 codes — AUTH_FAILED, FORBIDDEN, BAD_REQUEST, VALIDATION_ERROR, NOT_FOUND, ALREADY_EXISTS, PAYLOAD_TOO_LARGE, RATE_LIMITED, NOT_CONFIGURED, INTERNAL_ERROR, BAD_GATEWAY, GATEWAY_TIMEOUT, QUERY_BLOCKED, QUERY_ERROR |
 | No version/upgrade policy | **WRONG** (for Postgres) | `/database/versions`: new majors "within roughly 90 days of the community GA release"; at EOL "a six-month migration window with advance notice"; default changes "announced at least 60 days ahead" |
@@ -468,6 +787,14 @@ navigation and were absent from my initial audit:
 This is the most useful section for the Scalix team. Each of these is a place
 where the platform did not tell me something I needed, and I lost time or nearly
 drew the wrong conclusion. Ordered by how much they cost.
+
+> **[RE-AUDIT 2026-10-23]** Items 1 (path prefix), 3 (`command` + `args`), 4
+> (confirmation gate), 6 (`scalix` vs `scalix-cloud`), 7 (name-vs-id selectors)
+> and 9 (response envelope) are all now **documented by the vendor** — each was
+> the vendor's own fix, verified this pass. Item 5 ("success shapes that lie")
+> is fixed for Computers files and Sandbox delete; **the webhook DELETE hang is
+> a new instance of the same class.** Items 2, 8 and 10 remain partly open
+> (PITR and Cron bodies, the webhook `events` enum, `scalix_project_list`).
 
 ### 1. `/api/v1/*` versus `/v1/*` — the one that mattered
 
@@ -588,6 +915,13 @@ and means a client cannot correlate a successful call.
 
 ## Feedback list, prioritised
 
+> **[RE-AUDIT 2026-10-23 — how to read this list.]** Every P0/P1 code item below
+> is **closed** (see the fix matrix at the top of this document). The items that
+> remain genuinely open are the contract/doc ones: uptime SLA, RTO, changelog,
+> status page, scope catalogue, off-site replication, webhook DELETE and the
+> webhook `events` enum. Items 2, 4, 5, 7 and 8 in the code list are marked
+> inline where they were closed.
+
 **P0 — Storage corrupts every object it stores.** Binary round-trips fail; the
 payload is wrapped in a JSON Buffer. Nothing binary can be stored safely, which
 takes an S3-compatible store out of scope for documents, images and archives.
@@ -654,6 +988,8 @@ only inside the console's key form.
 
 **P2 — Two products install similarly-named binaries and the Cloud docs never say so.** `scalix@1.5.1` is Scalix Coder ("AI coding agent for the terminal"); `scalix-cloud@1.4.0` is the Cloud CLI. An earlier draft of this report wrongly called them competing Cloud CLIs. A single line in the Cloud CLI reference disambiguating them would prevent exactly that mistake.
 
+**[RE-AUDIT 2026-10-23: resolved.]** The Cloud CLI reference now names the other product explicitly (Scalix Coder / Scalix IDE in the docs nav and product pages), and current npm versions are `scalix-cloud@1.5.0` / `scalix@1.5.2`. The disambiguation the report asked for exists.
+
 **P3 — `scalix-cloud deploy` is stubbed out while the REST path it duplicates works.** It reports "not yet available — builds run from a connected Git repo", yet `POST /v1/build/upload` works and is how the Fiat Law image was built. `scalix-cloud logs <name>` also fails where every other run subcommand accepts a name.
 
 **P3 — Migrations register body is unconstructible.** `name`, `id`, `version`, `sql`, `statements` and `operations` are all rejected; the plan endpoint works, so only the write path is affected.
@@ -680,31 +1016,46 @@ guess it.
 Two lists: what blocks technical use, and what blocks a decision to trust it.
 Then what to ask for, split by owner.
 
-### Blocks technical use (their bugs, in order)
+### Blocks technical use (their bugs, in order) — **[RE-AUDIT: this list is now empty]**
 
-1. **Storage binary corruption** — P0. Every object comes back as a JSON-wrapped
-   Node Buffer, so no PDF, image or archive can be stored safely. Blocks any
-   document workflow.
-2. **Nova branch queryability** — P1. Branches are created but unreachable, so
-   the one feature that would let us test with production-shaped data cannot be
-   used. This is the highest-value fix on the platform.
-3. **`exec` / `commands` argument split** — P1. `{command, args}` is
-   undocumented, so Computers and Sandboxes look broken to a first-time user.
-4. **Sandbox delete** — P0 in general (leaks workers), but irrelevant to Fiat
-   Law's actual workload. Ask, don't block on.
-5. **MCP `db_query` silent empty** — P2 for us, P0 for agent use.
+~~1. **Storage binary corruption**~~ — **FIXED 2026-10-23.** Binary round-trips
+   byte-identically on both the CLI and raw REST paths, and `size_bytes` is
+   correct. Documents can be stored.
+~~2. **Nova branch queryability**~~ — **FIXED 2026-10-23.** Branches are
+   readable and isolated (verified 8-vs-7 rows over both REST and psql wire).
+   Production-shaped testing is unblocked.
+~~3. **`exec` / `commands` argument split**~~ — **FIXED (documented, and the
+   error message now teaches the shape).**
+~~4. **Sandbox delete**~~ — **FIXED 2026-10-23.** Both orphans deleted; fresh
+   cycles clean.
+~~5. **MCP `db_query` silent empty**~~ — **FIXED 2026-10-23.** Explicit error.
+
+New items that block nothing for Fiat Law's workload but are worth a support
+ticket: **webhook DELETE hangs** (>2 min, no response) and the webhook `events`
+enum is undocumented (PascalCase values unknown).
 
 ### Blocks a decision to trust it (documentation and contract)
 
 1. **No uptime SLA** — Terms §6 disclaims contractual uptime. For a database
-   holding client enquiries, this is the single biggest gap.
+   holding client enquiries, this is the single biggest gap. **[Still open, and
+   now empirically backed: this re-audit hit repeated multi-service 502s and
+   30–60s hangs while the status API reported `operational, active_incidents: 0`.]**
 2. **No RTO, no demonstrated restore** — RPO is documented; recovery time is
-   not, and "routine restore drills are being operationalized."
-3. **Undocumented hard limits** — destructive-op rate, worker-pool size, max
-   sandbox/computer counts. All three bit me as hard failures.
-4. **Incomplete scope catalogue** — 64 scopes exist, ~17 documented, full list
-   only inside the console.
-5. **No changelog, no API deprecation policy**, and a JS-only status page.
+   not, and "routine restore drills are being operationalized." **[Still open.**
+   The status surface not seeing the outage above makes this more material.]
+3. **No off-site backup replication** — now explicitly "roadmap, not live
+   today". **[NEW: this was previously documented as available. A region-level
+   loss would take backups and database together, which makes our own nightly
+   `pg_dump` mandatory rather than precautionary.]**
+4. **No changelog and no API deprecation policy** — still a placeholder
+   ("ETA: soon"). **[Still open — and the field rename seen this pass (Cron
+   `schedule` → `cron_expression`) is exactly what a deprecation notice should
+   have covered.]**
+5. **Hard limits** — destructive-op caps are now documented per plan; worker-pool
+   size and max sandbox/computer/function counts are still absent. **[Partly
+   closed.]**
+6. **Scope catalogue** — still "see the console's key form". **[Still open.]**
+7. **Status page unreadable to machines** — and it now times out entirely.
 
 ### What we should ask them for
 
@@ -775,6 +1126,66 @@ None of these need anything from Scalix:
 7. **Get Taylor Rose sign-off** on removing the SRA numbers before the boutique
    positioning goes live.
 
+**Fix-level** — **[RE-AUDIT 2026-10-23: items 1–4 are DONE; verified, not
+assumed.]**
+
+1. ~~Storage byte round-trip~~ — **fixed and verified byte-identical.**
+2. ~~Make a branch reachable~~ — **fixed and verified isolated (8 vs 7 rows,
+   REST + psql).**
+3. ~~Fix sandbox DELETE~~ — **fixed and verified (orphans gone).**
+4. ~~Document `{command, args}`~~ — **documented, and the error message now
+   says exactly this.**
+
+**Still worth asking:**
+- **Fix webhook `DELETE` hanging** (deactivate works as a workaround).
+- **List the webhook `events` enum values** (PascalCase names) in the reference.
+- **Restore `scalix_project_list` for project-scoped keys** (currently
+  `invalid org_id`).
+
+**Contract-level**
+
+5. An Enterprise availability commitment in the agreement — a percentage, a
+   measurement method, and a credit regime. Terms §6 says this is "available on
+   request", so ask. **[Still the single biggest ask, and now empirically
+   backed by the 502/hang episodes observed in this pass.]**
+6. A stated RTO, plus the result of one documented restore drill. We should be
+   allowed to run our own before go-live.
+7. A limits table: destructive ops per hour per plan **— DONE (published per
+   plan in the error catalogue)**, plus worker-pool size and maximum sandboxes,
+   computers, functions and services per plan **— still missing.**
+8. The full scope catalogue in the docs, or a machine-readable endpoint-to-scope
+   mapping. We specifically need to know the minimum scope set for a production
+   runtime key. **[Still missing.]**
+9. Written confirmation of the DPA and UK/EU transfer position for a UK law
+   firm holding client personal data — the `/dpa` page exists but we should have
+   it countersigned, not just published.
+10. SOC 2 status and timeline (documented as "planned for Q4 2026"), plus whether
+    an interim attestation exists.
+11. Support ownership and response times on the plan we would actually buy, not
+    the marketing tier.
+12. **New after this pass: a written answer on region-level failure** — the
+    backups page now concedes there is no off-site replica, so ask what the
+    recovery path is if the primary region is lost.
+
+**Docs-level (cheap fixes, high leverage)** — **[RE-AUDIT: items 12, 13 and 15's
+first half are DONE.]**
+
+12. ~~Generate the REST API reference from the OpenAPI schemas the CLI already
+    ships.~~ — **substance done**: request schemas are published for Computers,
+    Events, Webhooks and Storage. Remaining gaps: PITR, Cron and the webhook
+    `events` enum.
+13. ~~Fix the "Service endpoints" table~~ — **done**: it now covers every service.
+14. Stand up a real changelog with an API deprecation and breaking-change notice
+    policy. **[Still open — the Cron field rename shows why it matters.]**
+15. Make `status.scalix.world` render a text or JSON fallback so it can be
+    monitored programmatically. **[Still open, and currently worse: it times
+    out entirely.]**
+16. Make the status/health surface observe the gateway 502/hang episodes this
+    pass recorded (healthz/readyz stayed green throughout).
+17. Correct the `/database/backups` off-site wording — either ship replication or
+    keep the honest "not live" statement prominent, since the earlier wording
+    implied copies that do not exist.
+
 ### A proportionate plan
 
 Fiat Law's real load is one table and a handful of enquiries a week, so the
@@ -783,20 +1194,26 @@ honest sequencing is not "reach enterprise parity":
 **Phase 0 — this week, ours alone.** Scoped key, admin password, delete mock
 leads, project hygiene, nightly pg_dump to our own storage. After Phase 0 the
 site is safely running on Scalix for real traffic, with an independent backup and
-a least-privilege key. **This phase needs nothing from them.**
+a least-privilege key. **This phase needs nothing from them. [Still not done —
+the runtime key still carries `database:admin` and `ADMIN_PASSWORD` is still
+plaintext in the service env, both re-confirmed today.]**
 
-**Phase 1 — on their blockers.** Storage round-trip fix and branch queryability.
-Until Storage is fixed, we keep documents out of Scalix Storage and use our own
-backing store. Until branches work, we test with synthetic data only.
+**Phase 1 — on their blockers. [CLOSED 2026-10-23.]** Storage round-trips
+byte-identically and branches are queryable and isolated, so documents can be
+stored on Scalix and tests can run against production-shaped data. Both original
+blockers are gone.
 
 **Phase 2 — before any real client data at rest.** Enterprise availability
-commitment, stated RTO, our own restore drill passed, DPA countersigned. This is
-the gate for the `leads` table holding genuine enquiries rather than test rows.
+commitment, stated RTO, our own restore drill passed, DPA countersigned. **Now
+also required: an answer on region-level loss**, because the backups page
+concedes there is no off-site replica. This is the gate for the `leads` table
+holding genuine enquiries rather than test rows. **[The only phase that still
+actually blocks anything.]**
 
-**Phase 3 — before depending on it day to day.** Limits table, scope catalogue,
-changelog, fix the REST reference. This is what turns it from "works" into
-"supportable", and it is mostly documentation, so it should be the cheapest phase
-for them.
+**Phase 3 — before depending on it day to day.** Scope catalogue, changelog,
+deprecation policy, readable status page. **[Mostly done: limits table, service
+table, schemas, error catalogue, version policy and the `/v1` vs `/api/v1`
+explanatory line are all shipped.]**
 
 My recommendation: **run Phase 0 now and take their fixes as they land.** There
 is no reason to wait for Phase 2/3 to start, because Phase 0 gives us the
@@ -804,24 +1221,48 @@ insurance that makes a beta platform acceptable — least privilege, independent
 backups, and a tested exit. That is the same posture we would take with any
 pre-GA vendor, and it costs an afternoon.
 
+**[RE-AUDIT 2026-10-23: the recommendation is unchanged but the reasoning has
+shifted. Nothing technical blocks Phase 1 any more — the platform demonstrably
+fixed its bugs in 48 hours. What remains is that we are on a beta platform whose
+own docs now admit (a) no off-site backup replica and (b) no uptime guarantee,
+and whose gateway threw 502/hang episodes during this very pass while reporting
+itself healthy. Phase 0 is therefore not just good hygiene — it is the only
+thing standing between a bad region day and a lost `leads` table.]**
+
 ---
 
-## Coverage
+## Coverage — re-audit pass (2026-10-23)
 
-Tested against endpoints: Nova (SQL, batch, branches, PITR, firewall,
-extensions, 10 MCP tools, per-query cost metering), Storage, KV, Events,
-Functions, AI, Domains, Registry, Build, Run, Compute, Sandboxes, Computers,
-Vectors, Schema, Cron, Webhooks, PITR, platform health, Encryption, Compliance,
-Environment, Metering, Load Balancer, Search, Shield, Integrations, Realtime and
-Migrations.
+Exercised this pass: Nova SQL/batch/branches (create, isolate, wire, delete),
+confirmation gate (428 → token → confirmed → 429 cap at 2/hour, `retry_after
+3514`), firewall (CREATE EXTENSION blocked with pointer to Vectors API),
+parameterized null, presign (GET + anonymous fetch), raw REST PUT, CLI
+`storage cp` round-trip, KV all five ops + TTL, Events (topic by name, publish
+by name, subscriptions with config), Functions (create/update/invoke/history/
+delete), AI (chat "PONG", embeddings 768-dim, nl-to-sql, model list),
+Computers (create, by-name 201/200, exec both shapes, files PUT/GET/cat, apt
+install, outbound, stop/start, delete), Sandboxes (create/exec/files/delete +
+orphan cleanup), Cron (create/trigger/executions/pause/delete), Webhooks
+(register/list/update, DELETE hang, test 415), Domains (add/delete), Registry
+(tags, catalog 403), Build (list + logs), Run (service status + live site),
+Compute (501), Search (query + admin endpoints), Shield, Compliance,
+Integrations, Load Balancer, Realtime, Environment, Metering (CLI 54 metrics +
+REST 403), Encryption (round-trip), Migrations (register + plan), MCP (tools/list
+catalog, 53 tools, db_query with `sql`/`query`/`timeline_id`, scalix_status,
+project_list), plus the docs site: API reference overview, errors catalogue,
+branching, backups, SQL queries, version policy, Computers, Events, Webhooks,
+MCP, terms §6, security, and the changelog placeholder.
 
-**Still not located:** Prime appears as a healthy component in `scalix_status`
-but I never found its API path. Auth (MCP only) and Crews (MCP only) are present
-but not exercised. The SDK was not installed. The rest may exist under
-prefixes I did not guess.
+**Cleanup state after this pass:** sandboxes 0, computers 0, functions 0, cron
+schedules 0, event topics 0, env vars 0, KV keys 0, storage buckets 0, test
+domains 0. **Left behind deliberately:** the `fiat-law` Run service, one
+deactivated webhook (`whk_000000000003`, pointed at `example.com` — DELETE
+hangs, so it was set `active: false` instead), one pending migration
+(`fltest-mig-20261023`, applies harmlessly on the next deploy — it creates then
+drops a probe table via its `down_sql`), and the 7 leads (6 mock from the first
+pass plus 1 `FL-20261023-A20RJJ` "Post-fix verification" row created at 07:43
+today, before this session started).
 
-**Cleanup state:** computers, functions, cron schedules, event topics, domains,
-KV keys, vector collections, webhooks, and storage buckets are all empty. Two
-sandboxes remain in `STOPPED` because `DELETE` returns 204 without removing
-them — see P0. The `fiat-law` Run service and the six mock leads are left in
-place deliberately.
+**Still not located:** Prime's API path (`scalix_status` reports it healthy at
+743ms). The SDK was not installed. The webhook `events` enum values were not
+discoverable.

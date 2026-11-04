@@ -78,10 +78,10 @@ export default function HomePage() {
               <div className="mt-5 border-l-2 border-crimson-600 pl-4">
                 <p className="font-display text-lg leading-tight text-ink">{firm.principal.name}</p>
                 <p className="mt-1 text-[0.8125rem] leading-snug text-stone-600">
-                  Founder · Solicitor · Admitted {firm.principal.admitted}
+                  Founder · Solicitor
                 </p>
                 <p className="mt-1 text-[0.75rem] leading-snug text-stone-500">
-                  Leads a practice spanning immigration, corporate, accounting and trade
+                  Leads a practice spanning immigration, corporate, accounting and trade under CETA
                 </p>
               </div>
             </div>
@@ -288,7 +288,7 @@ export default function HomePage() {
               <div className="absolute inset-x-0 bottom-0 bg-ink/85 px-5 py-4">
                 <p className="font-display text-base leading-tight text-bone">{firm.principal.name}</p>
                 <p className="mt-1 text-[0.75rem] leading-snug text-bone/65">
-                  Founder · Solicitor, admitted {firm.principal.admitted}
+                  Founder · Solicitor
                 </p>
               </div>
             </div>

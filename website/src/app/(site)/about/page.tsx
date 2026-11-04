@@ -74,7 +74,7 @@ export default function AboutPage() {
                   <p className="font-display text-xl leading-snug text-ink">{firm.principal.name}</p>
                   <p className="mt-1 text-[0.875rem] text-stone-600">{firm.principal.role}</p>
                   <p className="mt-2.5 text-[0.8125rem] leading-relaxed text-stone-500">
-                    Solicitor of the Senior Courts of England and Wales, admitted {firm.principal.admitted}. Practises
+                    Solicitor of the Senior Courts of England and Wales. Practises
                     through {firm.regulatedFirm.legalName}.
                   </p>
                 </figcaption>
@@ -121,7 +121,7 @@ export default function AboutPage() {
                   <p className="mt-5 text-[0.9375rem] leading-relaxed text-bone/60">
                     Corporate and commercial drafting, share and asset acquisitions, immigration advice and
                     representation, and any other reserved legal activity. Carried out under that firm&rsquo;s
-                    authorisation and professional standards.
+                    authorisation.
                   </p>
                 </div>
               </div>
