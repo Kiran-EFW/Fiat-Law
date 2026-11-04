@@ -4,7 +4,6 @@ import "./globals.css";
 import { firm } from "@/config/firm";
 import { ogImageUrl, OG_SIZE } from "@/lib/seo";
 import { isPreview } from "@/config/deployment";
-import { PreviewBanner } from "@/components/PreviewBanner";
 
 const SOCIAL_DESCRIPTION =
   "Entity, immigration and compliance handled as one instruction, for Indian businesses entering the United Kingdom.";
@@ -100,7 +99,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en-GB" className={`${newsreader.variable} ${inter.variable}`}>
       <body className="flex min-h-dvh flex-col antialiased">
-        <PreviewBanner />
         {children}
       </body>
     </html>
