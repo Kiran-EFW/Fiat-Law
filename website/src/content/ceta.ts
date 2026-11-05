@@ -258,6 +258,79 @@ export const cetaArticles: CetaArticle[] = [
       "National Security and Investment Act 2021",
     ],
   },
+
+  {
+    slug: "market-entry",
+    title: "CETA and the entry decision: what to use, what to ignore",
+    standfirst:
+      "The agreement is not a tariff table to read and a visa form to file. Used properly it changes the sequence and the cost of a UK entry: what to build into the plan on day one, and which parts of the published coverage are wrong.",
+    updated: "November 2026",
+    readingMinutes: 8,
+    metaDescription:
+      "How an Indian business should use the India–UK CETA when entering the UK market: tariff preference and rules of origin built into the go-to-market plan, mobility routes sequenced with incorporation under GBM3.4, the 60-month Double Contribution Convention, and what the agreement does not provide — procurement enforceable only from 2030, no investment chapter, no carbon provision.",
+    blocks: [
+      {
+        kind: "p",
+        text: "Most coverage of the India–UK CETA treats it as a set of rules a business must comply with. For a business actually entering the UK, it is a planning input: it changes which goods you lead with, who you move first, what a secondment costs over five years, and what order the entity, licence and payroll should happen in. This note sets out how we use the agreement in an entry plan, and where the published commentary gets it wrong.",
+      },
+      { kind: "h", text: "Start from mobility, not the tariff lines" },
+      {
+        kind: "p",
+        text: "For most entering businesses the binding constraint is people, not goods. Paragraph GBM3.4 of the sponsor guidance lets a Companies House reference number evidence the UK footprint a UK Expansion Worker licence requires, so the incorporation and the visa application should be one transaction. Two provisions decide whether that works in practice: India did not obtain the twelve-month prior-employment waiver that Japan and Australia negotiated away, so a candidate needs twelve months with the group before they can be moved; and the Expansion Worker licence lasts four years, cannot be renewed, and drops to zero Certificates of Sponsorship if no full UK trading presence exists within two years under GBM3.38. The conversion to a standard Skilled Worker or Senior or Specialist Worker licence is the plan, dated from day one.",
+      },
+      {
+        kind: "callout",
+        title: "Service Suppliers: check your UK counterparty, not your own status",
+        text: "Paragraphs 5.2 to 5.4 put the A-rated sponsor licence requirement on the UK party receiving the service. If your UK client is not an A-rated sponsor, the route is closed and no provision of the agreement opens it.",
+      },
+      { kind: "h", text: "The Double Contribution Convention is a five-year planning input" },
+      {
+        kind: "p",
+        text: "The convention, extended from 36 to 60 months by SI 2026/794, lets an Indian employer continue paying Indian social security and exempt the worker from UK National Insurance for the exemption period. Model it across the full five years for each seconded worker — but model it honestly: regulations 145(2) and 146 of the Social Security (Contributions) Regulations 2001 already gave a unilateral 52-week exemption, so the genuinely additional benefit is months 13 to 60. Two traps: an employee already on a UK assignment on 15 July 2026 is not a detached worker under Article 7(2), and the convention exempts contributions, not residence or PAYE, which is still due on UK duties through UK payroll.",
+      },
+      { kind: "h", text: "Tariffs: check the code, then build the origin file" },
+      {
+        kind: "p",
+        text: "On the UK side, tariff reductions applied in full on 15 July 2026 with no phase-in, so an exporter can claim preference on the next shipment. Preference is claimed, not granted, and the claim has to survive verification, which may come years later. Check your classification against the schedule and get the product-specific rule before building a go-to-market plan on it — the lookup below does exactly that, quoting Annex 3A verbatim.",
+      },
+      {
+        kind: "callout",
+        title: "Check your commodity code against the treaty",
+        text: "Appendix 2A-b and Annex 3A, extracted from the agreement text: enter a code and get the UK's commitment on that line and the rule of origin quoted verbatim. The UK opened exactly one tariff rate quota, on electric and hybrid cars, and it does not open until 2031.",
+        link: { href: "/india-uk/tariff-lookup", label: "Open the tariff and origin lookup" },
+      },
+      {
+        kind: "p",
+        text: "Where the Indian instruments sit awkwardly together — condition 3 of DGFT Public Notice 19/2026-27 and Rule 16(1)(b) of Notification 62/2026-Customs (N.T.) — build an evidential file that satisfies both. It costs little at the outset and a great deal to reconstruct after a verification letter, and a failed claim is recovered from the importer with interest across prior consignments.",
+      },
+      { kind: "h", text: "What the agreement does not give an entrant" },
+      {
+        kind: "list",
+        items: [
+          "No new visa route. Everything runs through the existing Immigration Rules, sponsor licence regime and salary thresholds, and the Immigration Health Surcharge is unaffected.",
+          "No enforceable procurement access yet. Article 15.23 makes the government procurement chapter unenforceable state to state until 15 July 2030; UK public contracts still require a UK entity, a track record and supplier registration.",
+          "No investment chapter and no ISDS. The 1994 bilateral investment treaty was terminated in 2017 with a sunset running to around 2032; protection rests on that sunset and on contract.",
+          "No carbon provision. UK CBAM starts 1 January 2027 across aluminium, cement, fertiliser, hydrogen and iron and steel, with no India exemption, so for those sectors the tariff advantage and the carbon charge move in opposite directions.",
+          "No change to UK company law, VAT or identity verification. The nil VAT threshold for a non-established taxable person, ECCTA identity verification and the registered office rules are exactly as they were.",
+        ],
+      },
+      { kind: "h", text: "How we use it: operationalised, not explained" },
+      {
+        kind: "p",
+        text: "Where generalist coverage explains what CETA says, we build it into the entry plan: classification and the product-specific rule checked before a go-to-market decision; the DCC modelled across the full 60 months for each seconded worker, including the transitional trap for anyone already in the UK; the mobility routes sequenced with the entity so the licence, the company and the payroll are one plan with one owner. That is the difference between citing the agreement and using it, and it is the difference a board should expect from an adviser on this corridor.",
+      },
+    ],
+    sources: [
+      "India–UK Comprehensive Economic and Trade Agreement, Ch. 4 (Rules of Origin), tariff schedules and Ch. 15 (Government Procurement), Art. 15.23",
+      "Immigration Rules, Appendix Global Business Mobility",
+      "Workers and Temporary Workers: guidance for sponsors, GBM3.4, GBM3.38 and Service Supplier paras 5.2–5.4",
+      "SI 2026/794 — India–UK Double Contribution Convention; Exchange of Notes, 6 July 2026",
+      "Social Security (Contributions) Regulations 2001, regs 145(2) and 146",
+      "DGFT Public Notice 19/2026-27; Notification 62/2026-Customs (N.T.)",
+      "Value Added Tax Act 1994, Sch. 1A",
+      "UK Carbon Border Adjustment Mechanism, effective 1 January 2027",
+    ],
+  },
 ];
 
 export const cetaArticleBySlug = Object.fromEntries(cetaArticles.map((a) => [a.slug, a])) as Record<string, CetaArticle>;

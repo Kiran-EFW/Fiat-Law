@@ -151,7 +151,7 @@ export default function IndiaUkPage() {
           <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
             <div className="max-w-2xl">
               <p className="eyebrow mb-4">The briefing</p>
-              <h2 className="text-display-sm sm:text-display-md">Three parts, each sourced.</h2>
+              <h2 className="text-display-sm sm:text-display-md">Four parts, each sourced.</h2>
             </div>
           </div>
           <div className="mt-12 grid gap-px border border-stone-200 bg-stone-200 md:grid-cols-3">
@@ -162,7 +162,7 @@ export default function IndiaUkPage() {
                 className="group flex flex-col bg-parchment p-8 transition-colors hover:bg-bone"
               >
                 <span className="font-display text-sm italic text-crimson-600">
-                  Part {["I", "II", "III"][i]}
+                  Part {["I", "II", "III", "IV"][i]}
                 </span>
                 <h3 className="mt-4 font-display text-2xl leading-snug text-ink">{article.title}</h3>
                 <p className="mt-4 flex-1 text-[0.9375rem] leading-relaxed text-stone-600">{article.standfirst}</p>

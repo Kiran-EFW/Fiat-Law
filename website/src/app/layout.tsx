@@ -31,6 +31,8 @@ export const metadata: Metadata = {
   description:
     "Fiat Law is a boutique UK entry practice for Indian businesses. Entity, immigration and compliance handled as one instruction: incorporation, sponsor licences, corporate and commercial law, accounting and acquisitions.",
   keywords: [
+    "UK market entry for Indian businesses",
+    "UK entry practice India",
     "UK company formation for Indian businesses",
     "UK Expansion Worker visa",
     "sponsor licence India",

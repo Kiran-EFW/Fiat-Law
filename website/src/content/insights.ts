@@ -7,7 +7,7 @@ export interface Insight {
   standfirst: string;
   updated: string;
   readingMinutes: number;
-  topic: "Company law" | "Immigration" | "Compliance" | "Transactions";
+  topic: "The practice" | "Company law" | "Immigration" | "Compliance" | "Transactions";
   segments: SegmentId[];
   blocks: Block[];
   sources: string[];
@@ -15,6 +15,95 @@ export interface Insight {
 }
 
 export const insights: Insight[] = [
+  {
+    slug: "entry-bridge-not-a-generalist",
+    title: "An entry bridge, not a generalist firm",
+    standfirst:
+      "Most firms sell departments and refer you to the next one. We sell the crossing itself: one corridor, one instruction, one accountable owner, with the entity, the visas and the compliance sequenced so they arrive together, and CETA worked into the plan rather than cited beside it.",
+    updated: "November 2026",
+    readingMinutes: 6,
+    topic: "The practice",
+    segments: ["bridgehead", "establisher", "exporter", "acquirer", "operator", "principal"],
+    metaDescription:
+      "How Fiat Law differentiates itself from a generalist law firm: a specialist entry bridge for the Indian market, not a generalist practice. One instruction covering UK incorporation, business immigration and compliance, a single point of contact, consultancy delivered by Fiat Law UK Ltd with reserved legal work through SRA-regulated Taylor Rose, and the India–UK CETA operationalised in the entry plan.",
+    blocks: [
+      {
+        kind: "p",
+        text: "If you have compared UK advisers for an Indian market entry, you have seen the same shape: a generalist firm with separate departments for immigration, corporate and tax, each with its own matter and its own invoice, each referring you to the next. The handoffs between those suppliers are where entries go wrong — the visa application waiting on the company number, the accountant discovering the nil VAT threshold a year in, nobody owning the sequence because everybody owns a slice of it.",
+      },
+      { kind: "h", text: "What the generalist model looks like from the client's side" },
+      {
+        kind: "list",
+        items: [
+          "Three or four separate engagements, three or four invoices, and you making the calls between suppliers from India.",
+          "Immigration referred to an outside adviser who does not know the entity structure, because the corporate team did not share it.",
+          "Accounting engaged separately, so VAT, PAYE and the compliance calendar are discovered reactively rather than planned.",
+          "A broad practice across many corridors, which means depth nowhere and the corridor-specific detail — the Expansion Worker two-year cliff, the DCC transitional trap — learned on your matter.",
+        ],
+      },
+      { kind: "h", text: "What we do instead" },
+      {
+        kind: "p",
+        text: "Fiat Law is a specialist entry bridge for the Indian market. Our sole speciality is UK market entry for Indian entities, and we take that entry as one bundled instruction rather than three separate projects: the legal entity, the immigration route for the people who will run it, and the compliance that keeps both alive, sequenced in the right order with one named owner accountable from the first filing to the first hire.",
+      },
+      {
+        kind: "p",
+        text: "The integration is not cosmetic. Paragraph GBM3.4 of the sponsor guidance lets a Companies House reference number evidence the UK footprint an Expansion Worker licence requires, so the incorporation and the visa application are one transaction, not two purchases from two suppliers. The licence, the entity and the payroll are planned as a single sequence — which is also why the conversion off the four-year, non-renewable Expansion Worker licence is dated from day one rather than discovered in year two.",
+      },
+      {
+        kind: "table",
+        head: ["", "A generalist firm", "Fiat Law"],
+        rows: [
+          ["Structure", "Separate departments, referred between", "One instruction, three workstreams, one owner"],
+          ["Point of contact", "A different lawyer or accountant per matter", "A single named owner for the whole sequence"],
+          ["Immigration", "Referred out to an external adviser", "Solicitor-led, in the same sequence as the entity"],
+          ["VAT, payroll, accounts", "Separate engagement, discovered late", "Coordinated with named regulated partner firms, marked as such, sequenced from day one"],
+          ["Scope", "Many corridors and practice areas", "One corridor: India to the UK, end to end"],
+        ],
+      },
+      { kind: "h", text: "The two capacities, stated plainly" },
+      {
+        kind: "p",
+        text: "Part of what makes the model work is that the capacity of each piece of work is declared before it starts. FIAT LAW UK LTD is a corporate services and advisory company: entity formation, secretarial, trade and origin work under CETA, market-entry planning and project coordination. It is not authorised by the Solicitors Regulation Authority and does not carry on reserved legal activities. Reserved and regulated legal work — immigration advice and representation, corporate and commercial drafting, acquisitions — is carried out by Janeevan John in his capacity as a solicitor practising through Taylor Rose Limited, under that firm's SRA authorisation and insurance. You are told which capacity applies on the service page, in your brief and in the engagement letter.",
+      },
+      { kind: "h", text: "End to end, including the red tape" },
+      {
+        kind: "numbers",
+        items: [
+          "Entity: branch versus subsidiary, incorporation, registered office, ECCTA identity verification, statutory registers.",
+          "People: sponsor licence, UK Expansion Worker with the conversion planned, Senior or Specialist Worker, Global Talent and Innovator Founder.",
+          "Trade under CETA: classification, product-specific rules of origin against your bill of materials, self-certification and verification readiness.",
+          "Compliance: the first-ninety-days calendar, including the nil VAT threshold for a non-established taxable person and PAYE from the first payslip.",
+          "Accounting: VAT registration, payroll and statutory accounts coordinated with named regulated partner firms under their own engagement letters, so the operational setup is handled in the sequence rather than referred away.",
+        ],
+      },
+      { kind: "h", text: "Where CETA fits in the crossing" },
+      {
+        kind: "p",
+        text: "We do not treat the India–UK Comprehensive Economic and Trade Agreement as a set of rules to follow; we treat it as a tool that lowers the cost and risk of entering the UK market. That means checking your commodity codes against Appendix 2A-b and Annex 3A before advising on a go-to-market plan, modelling the 60-month Double Contribution Convention across each secondment — remembering the genuinely new saving is months 13 to 60 — and aligning the mobility chapters with the visa sequence so the trade benefits and the people arrive together.",
+      },
+      {
+        kind: "callout",
+        title: "The CETA briefing, from the treaty text",
+        text: "Our four-part briefing on the agreement in force since 15 July 2026 is written from the agreement text, the Immigration Rules, the statutory instruments and the Indian customs notifications, with every claim sourced. It is the checkable version of what is being published about this agreement.",
+        link: { href: "/india-uk", label: "Read the CETA briefing" },
+      },
+      { kind: "h", text: "What we do not do" },
+      {
+        kind: "p",
+        text: "A specialist is only useful if it knows its edges. Indian law, audit, transfer pricing, specialist tax, property and recruitment are outside this practice and are delivered by named partner firms under their own engagement letters, their own regulators and their own insurance, with the work marked as coordinated. And where the honest answer is that a generalist firm, or no adviser at all, is the better fit for your situation, we say so. See how the referrals work in practice.",
+      },
+    ],
+    sources: [
+      "Workers and Temporary Workers: guidance for sponsors, GBM3.4 and GBM3.38",
+      "Immigration Rules, Appendix Global Business Mobility",
+      "Immigration and Asylum Act 1999, s.84 (immigration advice and services)",
+      "Legal Services Act 2007 (reserved legal activities)",
+      "Money Laundering Regulations 2017, reg. 12(2) (trust or company service providers)",
+      "India–UK Comprehensive Economic and Trade Agreement, in force 15 July 2026",
+    ],
+  },
+
   {
     slug: "registered-office-is-not-a-mailbox",
     title: "A registered office is not a mailbox",

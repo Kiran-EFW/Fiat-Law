@@ -24,6 +24,7 @@ export const primaryNav: { label: string; href: string; children?: NavLink[] }[]
       { href: "/india-uk/mobility", label: "Mobility & the DCC", description: "Routes, thresholds and the 60-month convention" },
       { href: "/india-uk/rules-of-origin", label: "Rules of origin", description: "Claiming preference, and making the claim survive verification" },
       { href: "/india-uk/sectors", label: "Sector by sector", description: "Where the corridor is actually moving" },
+      { href: "/india-uk/market-entry", label: "CETA and the entry decision", description: "What to use in an entry plan, what to ignore" },
       { href: "/india-uk/tariff-lookup", label: "Tariff & origin lookup", description: "Your commodity code, against the schedule and Annex 3A" },
     ],
   },

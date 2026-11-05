@@ -11,7 +11,7 @@ export const metadata = pageMeta({
   // Absolute: the layout template would otherwise append the firm name twice.
   absoluteTitle: `${firm.name} — ${firm.tagline}`,
   description:
-    "The UK entry practice for Indian businesses. The immigration route, the entity and the compliance handled as one instruction, not three suppliers.",
+    "A specialist entry bridge for the Indian market, not a generalist firm: UK market entry for Indian businesses with the entity, the immigration route and the compliance handled as one instruction, not three suppliers.",
   path: "/",
 });
 

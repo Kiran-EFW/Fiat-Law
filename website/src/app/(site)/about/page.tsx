@@ -180,8 +180,8 @@ export default function AboutPage() {
               </p>
               <p>
                 That is the whole reason this practice is shaped the way it is. It is not a full-service firm and does
-                not try to be. It does one corridor, and it does the parts of that corridor that are usually dropped
-                between suppliers.
+                not try to be. It is an entry bridge for one corridor, and it does the parts of that crossing that are
+                usually dropped between suppliers.
               </p>
             </div>
           </div>
